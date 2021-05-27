@@ -1,0 +1,194 @@
+# translation of powerdevilglobalconfig.po to Khmer
+# Khoem Sokhem <khoemsokhem@khmeros.info>, 2011, 2012.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+msgid ""
+msgstr ""
+"Project-Id-Version: powerdevilglobalconfig\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-25 02:27+0200\n"
+"PO-Revision-Date: 2012-06-14 13:57+0700\n"
+"Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
+"Language-Team: Khmer\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"X-Language: km-KH\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ខឹម សុខែម, ម៉ន ម៉េត, សេង សុត្ថា, ចាន់ សម្បត្តិរតនៈ, សុខ សុភា"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+"khoemsokhem@khmeros.info,​​mornmet@khmeros.info,sutha@khmeros.info,"
+"ratanak@khmeros.info,sophea@khmeros.info"
+
+#: GeneralPage.cpp:109
+#, kde-format
+msgid "Do nothing"
+msgstr "មិន​ធ្វើ​ទាំងអស់"
+
+#: GeneralPage.cpp:111
+#, fuzzy, kde-format
+#| msgid "Sleep"
+msgctxt "Suspend to RAM"
+msgid "Sleep"
+msgstr "ដេក"
+
+#: GeneralPage.cpp:114
+#, kde-format
+msgid "Hibernate"
+msgstr "សម្ងំ"
+
+#: GeneralPage.cpp:116
+#, fuzzy, kde-format
+#| msgid "Shutdown"
+msgid "Shut down"
+msgstr "បិទ"
+
+#: GeneralPage.cpp:264
+#, kde-format
+msgid "The Power Management Service appears not to be running."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, batteryLevelsLabel)
+#: generalPage.ui:22
+#, fuzzy, kde-format
+#| msgid "<b>Battery levels</b>"
+msgid "<b>Battery Levels                     </b>"
+msgstr "<b>កម្រិត​ថ្ម</b>"
+
+#. i18n: ectx: property (text), widget (QLabel, lowLabel)
+#: generalPage.ui:29
+#, fuzzy, kde-format
+#| msgid "Low battery level"
+msgid "&Low level:"
+msgstr "កម្រិត​ថ្ម​ទាប"
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, lowSpin)
+#: generalPage.ui:45
+#, kde-format
+msgid "Low battery level"
+msgstr "កម្រិត​ថ្ម​ទាប"
+
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, lowSpin)
+#: generalPage.ui:48
+#, kde-format
+msgid "Battery will be considered low when it reaches this level"
+msgstr "ថ្ម​នឹង​ត្រូវបាន​គិត​ថា​ទាប នៅពេល​វា​ដល់​កម្រិត​នេះ"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, lowSpin)
+#. i18n: ectx: property (suffix), widget (QSpinBox, criticalSpin)
+#. i18n: ectx: property (suffix), widget (QSpinBox, lowPeripheralSpin)
+#. i18n: ectx: property (suffix), widget (QSpinBox, chargeStartThresholdSpin)
+#. i18n: ectx: property (suffix), widget (QSpinBox, chargeStopThresholdSpin)
+#: generalPage.ui:51 generalPage.ui:83 generalPage.ui:126 generalPage.ui:179
+#: generalPage.ui:242
+#, no-c-format, kde-format
+msgid "%"
+msgstr "%"
+
+#. i18n: ectx: property (text), widget (QLabel, criticalLabel)
+#: generalPage.ui:61
+#, fuzzy, kde-format
+#| msgid "Critical battery level"
+msgid "&Critical level:"
+msgstr "កម្រិត​ថ្ម​គ្រោះថ្នាក់"
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, criticalSpin)
+#: generalPage.ui:77
+#, kde-format
+msgid "Critical battery level"
+msgstr "កម្រិត​ថ្ម​គ្រោះថ្នាក់"
+
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, criticalSpin)
+#: generalPage.ui:80
+#, kde-format
+msgid "Battery will be considered critical when it reaches this level"
+msgstr "ថ្ម​នឹង​ត្រូវ​បាន​គិត​ថា​សំខាន់​បំផុត នៅពេល​វា​ដល់​កម្រិត​នេះ"
+
+#. i18n: ectx: property (text), widget (QLabel, BatteryCriticalLabel)
+#: generalPage.ui:93
+#, fuzzy, kde-format
+#| msgid "Battery is at critical level at"
+msgid "A&t critical level:"
+msgstr "ថ្មី​ស្ថិត​ក្នុង​កម្រិត​គ្រោះថ្នាក់"
+
+#. i18n: ectx: property (text), widget (QLabel, lowPeripheralLabel)
+#: generalPage.ui:119
+#, kde-format
+msgid "Low level for peripheral devices:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, batteryThresholdLabel)
+#: generalPage.ui:142
+#, kde-format
+msgid "Charge Limit"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, batteryThresholdExplanation)
+#: generalPage.ui:149
+#, no-c-format, kde-format
+msgid ""
+"<html><head/><body><p>Keeping the battery charged 100% over a prolonged "
+"period of time may accelerate deterioration of battery health. By limiting "
+"the maximum battery charge you can help extend the battery lifespan.</p></"
+"body></html>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (KMessageWidget, chargeStopThresholdMessage)
+#: generalPage.ui:159
+#, kde-format
+msgid ""
+"You might have to disconnect and re-connect the power source to start "
+"charging the battery again."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, chargeStartThresholdLabel)
+#: generalPage.ui:169
+#, kde-format
+msgid "Start charging only once below:"
+msgstr ""
+
+#. i18n: ectx: property (specialValueText), widget (QSpinBox, chargeStartThresholdSpin)
+#: generalPage.ui:176
+#, kde-format
+msgid "Always charge when plugged in"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, pausePlayersLabel)
+#: generalPage.ui:189
+#, kde-format
+msgid "Pause media players when suspending:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, pausePlayersCheckBox)
+#: generalPage.ui:196
+#, kde-format
+msgid "Enabled"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, notificationsButton)
+#: generalPage.ui:215
+#, kde-format
+msgid "Configure Notifications..."
+msgstr "កំណត់​រចនាសម្ព័ន្ធ​ការ​ជូន​ដំណឹង..."
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: generalPage.ui:228
+#, kde-format
+msgid "Other Settings"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, chargeStopThresholdLabel)
+#: generalPage.ui:235
+#, kde-format
+msgid "Stop charging at:"
+msgstr ""

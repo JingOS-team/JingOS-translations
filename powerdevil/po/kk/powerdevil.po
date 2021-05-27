@@ -1,0 +1,529 @@
+# translation of powerdevil.po to Kazakh
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sairan Kikkarin <sairan@computer.org>, 2008.
+# Sairan Kikkarin <sairan@computer.org>, 2010, 2011.
+# Sairan Kikkarin <sairan(at)computer.org>, 2010, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: powerdevil\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-12-08 02:39+0100\n"
+"PO-Revision-Date: 2013-06-21 05:51+0600\n"
+"Last-Translator: Sairan Kikkarin <sairan@computer.org>\n"
+"Language-Team: Kazakh <kde-i18n-doc@kde.org>\n"
+"Language: kk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Сайран Киккарин"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sairan@computer.org"
+
+#: actions/bundled/brightnesscontrol.cpp:51
+#: actions/bundled/handlebuttonevents.cpp:58
+#: actions/bundled/keyboardbrightnesscontrol.cpp:56
+#: actions/dpms/powerdevildpmsaction.cpp:81
+#, fuzzy, kde-format
+#| msgid "Profile Management"
+msgctxt "Name for powerdevil shortcuts category"
+msgid "Power Management"
+msgstr "Профильді басқару"
+
+#: actions/bundled/brightnesscontrol.cpp:54
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Increase Screen Brightness"
+msgstr "Экранның жарықтығын үлкейту"
+
+#: actions/bundled/brightnesscontrol.cpp:59
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Decrease Screen Brightness"
+msgstr "Экранның жарықтығын азайту"
+
+#: actions/bundled/brightnesscontrolconfig.cpp:70
+#, kde-format
+msgctxt "Brightness level, label for the slider"
+msgid "Level"
+msgstr "Деңгейі"
+
+#: actions/bundled/dimdisplayconfig.cpp:64
+#: actions/bundled/runscriptconfig.cpp:82
+#: actions/bundled/suspendsessionconfig.cpp:86
+#: actions/dpms/powerdevildpmsactionconfig.cpp:60
+#, kde-format
+msgid " min"
+msgstr " мин"
+
+#: actions/bundled/dimdisplayconfig.cpp:74
+#: actions/bundled/runscriptconfig.cpp:85
+#: actions/bundled/runscriptconfig.cpp:106
+#, kde-format
+msgid "After"
+msgstr "Мынадан кейін:"
+
+#: actions/bundled/handlebuttonevents.cpp:63
+#, fuzzy, kde-format
+#| msgid "Suspend to RAM"
+msgctxt "@action:inmenu Global shortcut"
+msgid "Suspend"
+msgstr "RAM жадына сақталып қалғу"
+
+#: actions/bundled/handlebuttonevents.cpp:68
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Hibernate"
+msgstr "Ұйықтау"
+
+#: actions/bundled/handlebuttonevents.cpp:73
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Power Off"
+msgstr ""
+
+#: actions/bundled/handlebuttonevents.cpp:80
+#, fuzzy, kde-format
+#| msgid "PowerDevil"
+msgctxt ""
+"@action:inmenu Global shortcut, used for long presses of the power button"
+msgid "Power Down"
+msgstr "PowerDevil"
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:87
+#, kde-format
+msgctxt "Execute action on lid close even when external monitor is connected"
+msgid "Even when an external monitor is connected"
+msgstr ""
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:97
+#, kde-format
+msgid "Do nothing"
+msgstr "Ештеңе істемеу"
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:99
+#: actions/bundled/suspendsessionconfig.cpp:90
+#, fuzzy, kde-format
+#| msgid "Sleep"
+msgctxt "Suspend to RAM"
+msgid "Sleep"
+msgstr "Қалғу"
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:102
+#: actions/bundled/suspendsessionconfig.cpp:93
+#, kde-format
+msgid "Hibernate"
+msgstr "Ұйықтау"
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:105
+#: actions/bundled/suspendsessionconfig.cpp:96
+#, kde-format
+msgid "Hybrid sleep"
+msgstr ""
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:107
+#: actions/bundled/suspendsessionconfig.cpp:98
+#, fuzzy, kde-format
+#| msgid "Shutdown"
+msgid "Shut down"
+msgstr "Сөндіру"
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:108
+#: actions/bundled/suspendsessionconfig.cpp:99
+#, kde-format
+msgid "Lock screen"
+msgstr "Экранды бұғаттау"
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:110
+#, kde-format
+msgid "Prompt log out dialog"
+msgstr "Шығу диалогын ұсыну"
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:112
+#, kde-format
+msgid "Turn off screen"
+msgstr "Экранды өшіру"
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:138
+#, kde-format
+msgid "When laptop lid closed"
+msgstr "Ноутбук қақпағы жабылғанда"
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:149
+#, kde-format
+msgid "When power button pressed"
+msgstr "Қуаттандыру батырмасын басқанда"
+
+#: actions/bundled/keyboardbrightnesscontrol.cpp:60
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Increase Keyboard Brightness"
+msgstr "Пернетақта жарықтығын үлкейту"
+
+#: actions/bundled/keyboardbrightnesscontrol.cpp:65
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Decrease Keyboard Brightness"
+msgstr "Пернетақта жарықтығын азайту"
+
+#: actions/bundled/keyboardbrightnesscontrol.cpp:70
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Toggle Keyboard Backlight"
+msgstr "Перенетақта жарықтық күйін ауыстыру"
+
+#: actions/bundled/keyboardbrightnesscontrolconfig.cpp:71
+#, kde-format
+msgctxt "@label:slider Brightness level"
+msgid "Level"
+msgstr "Деңгейі"
+
+#: actions/bundled/runscriptconfig.cpp:71
+#, kde-format
+msgid "Script"
+msgstr "Скрипт"
+
+#: actions/bundled/runscriptconfig.cpp:83
+#, kde-format
+msgid "On Profile Load"
+msgstr "Профилін жүктенде"
+
+#: actions/bundled/runscriptconfig.cpp:84
+#, kde-format
+msgid "On Profile Unload"
+msgstr "Профилінен шыққанда"
+
+#: actions/bundled/runscriptconfig.cpp:95
+#, kde-format
+msgid "Run script"
+msgstr "Скриптті орындау"
+
+#: actions/bundled/suspendsessionconfig.cpp:87
+#, fuzzy, kde-format
+#| msgid "After"
+msgid "after "
+msgstr "Мынадан кейін:"
+
+#: actions/bundled/suspendsessionconfig.cpp:108
+#, kde-format
+msgid "Automatically"
+msgstr ""
+
+#: actions/bundled/suspendsessionconfig.cpp:115
+#, kde-format
+msgid "While asleep, hibernate after a period of inactivity"
+msgstr ""
+
+#: actions/bundled/wirelesspowersavingconfig.cpp:75
+#: actions/bundled/wirelesspowersavingconfig.cpp:80
+#: actions/bundled/wirelesspowersavingconfig.cpp:85
+#, kde-format
+msgid "Leave unchanged"
+msgstr ""
+
+#: actions/bundled/wirelesspowersavingconfig.cpp:76
+#: actions/bundled/wirelesspowersavingconfig.cpp:81
+#: actions/bundled/wirelesspowersavingconfig.cpp:86
+#, fuzzy, kde-format
+#| msgid "Turn off screen"
+msgid "Turn off"
+msgstr "Экранды өшіру"
+
+#: actions/bundled/wirelesspowersavingconfig.cpp:77
+#: actions/bundled/wirelesspowersavingconfig.cpp:82
+#: actions/bundled/wirelesspowersavingconfig.cpp:87
+#, fuzzy, kde-format
+#| msgid "Turn off screen"
+msgid "Turn on"
+msgstr "Экранды өшіру"
+
+#: actions/bundled/wirelesspowersavingconfig.cpp:110
+#, kde-format
+msgid "Wi-Fi"
+msgstr ""
+
+#: actions/bundled/wirelesspowersavingconfig.cpp:111
+#, kde-format
+msgid "Mobile broadband"
+msgstr ""
+
+#: actions/bundled/wirelesspowersavingconfig.cpp:112
+#, kde-format
+msgid "Bluetooth"
+msgstr ""
+
+#: actions/dpms/powerdevildpmsaction.cpp:84
+#, fuzzy, kde-format
+#| msgid "Turn off screen"
+msgctxt "@action:inmenu Global shortcut"
+msgid "Turn Off Screen"
+msgstr "Экранды өшіру"
+
+#: actions/dpms/powerdevildpmsactionconfig.cpp:61
+#, kde-format
+msgid "Switch off after"
+msgstr "Мынадан кейін өшіру:"
+
+#: backends/upower/login1suspendjob.cpp:79
+#: backends/upower/upowersuspendjob.cpp:69
+#, kde-format
+msgid "Unsupported suspend method"
+msgstr "Танымайтын аялдау режіміне өту әдісі"
+
+#: powerdevilapp.cpp:62
+#, kde-format
+msgid "KDE Power Management System"
+msgstr "KDE-нің қуаттандыруды басқару жүйесі"
+
+#: powerdevilapp.cpp:63
+#, fuzzy, kde-format
+#| msgid ""
+#| "KDE Power Management System is PowerDevil, an advanced, modular and "
+#| "lightweight Power Management daemon"
+msgctxt "@title"
+msgid ""
+"PowerDevil, an advanced, modular and lightweight power management daemon"
+msgstr ""
+"PowerDevil деген KDE-нің қуаттандыруды басқару жүйесі - үздік, модульді және "
+"үнемді қуаттандыруды басқару қызметі"
+
+#: powerdevilapp.cpp:65
+#, kde-format
+msgctxt "@info:credit"
+msgid "(c) 2015-2019 Kai Uwe Broulik"
+msgstr ""
+
+#: powerdevilapp.cpp:66
+#, kde-format
+msgctxt "@info:credit"
+msgid "Kai Uwe Broulik"
+msgstr ""
+
+#: powerdevilapp.cpp:67
+#, fuzzy, kde-format
+#| msgid "Maintainer"
+msgctxt "@info:credit"
+msgid "Maintainer"
+msgstr "Жетілдірушісі"
+
+#: powerdevilapp.cpp:69
+#, fuzzy, kde-format
+#| msgid "Dario Freddi"
+msgctxt "@info:credit"
+msgid "Dario Freddi"
+msgstr "Dario Freddi"
+
+#: powerdevilapp.cpp:70
+#, fuzzy, kde-format
+#| msgid "Maintainer"
+msgctxt "@info:credit"
+msgid "Previous maintainer"
+msgstr "Жетілдірушісі"
+
+#: powerdevilapp.cpp:160
+#, kde-format
+msgid "Replace an existing instance"
+msgstr ""
+
+#: powerdevilcore.cpp:429 powerdevilcore.cpp:441
+#, kde-format
+msgid "Activity Manager"
+msgstr "Белсенділік менеджері"
+
+#: powerdevilcore.cpp:430
+#, fuzzy, kde-format
+#| msgid "This activity's policies prevent the system from suspending"
+msgid "This activity's policies prevent the system from going to sleep"
+msgstr "Бұл белсенділік ережелері жүйенің аядауын болдырмайды"
+
+#: powerdevilcore.cpp:442
+#, kde-format
+msgid "This activity's policies prevent screen power management"
+msgstr ""
+"Бұл белсенділік ережелері экранның қуат үнемдеу әрекеттерін болдырмайды"
+
+#: powerdevilcore.cpp:503
+#, fuzzy, kde-format
+#| msgid "Critical battery level"
+msgid "Extra Battery Added"
+msgstr "Батареяның әбден сарқылған деңгейі"
+
+#: powerdevilcore.cpp:504 powerdevilcore.cpp:702
+#, fuzzy, kde-format
+#| msgid "The computer will be halted in 1 second."
+#| msgid_plural "The computer will be halted in %1 seconds."
+msgid "The computer will no longer go to sleep."
+msgstr "Компьютер %1 секундтан кейін сөндіріледі."
+
+#: powerdevilcore.cpp:563
+#, kde-format
+msgctxt "%1 is vendor name, %2 is product name"
+msgid "%1 %2"
+msgstr ""
+
+#: powerdevilcore.cpp:572
+#, fuzzy, kde-format
+#| msgid "Battery Low (%1% Remaining)"
+msgid "Mouse Battery Low (%1% Remaining)"
+msgstr "Батареясы сарқылды (%1% қалды)"
+
+#: powerdevilcore.cpp:574 powerdevilcore.cpp:581 powerdevilcore.cpp:595
+#, kde-format
+msgctxt "Placeholder is device name"
+msgid ""
+"The battery in (\"%1\") is running low, and the device may turn off at any "
+"time. Please recharge or replace the battery."
+msgstr ""
+
+#: powerdevilcore.cpp:579
+#, fuzzy, kde-format
+#| msgid "Battery Low (%1% Remaining)"
+msgid "Keyboard Battery Low (%1% Remaining)"
+msgstr "Батареясы сарқылды (%1% қалды)"
+
+#: powerdevilcore.cpp:586
+#, fuzzy, kde-format
+#| msgid "Battery Low (%1% Remaining)"
+msgid "Bluetooth Device Battery Low (%1% Remaining)"
+msgstr "Батареясы сарқылды (%1% қалды)"
+
+#: powerdevilcore.cpp:588
+#, kde-format
+msgctxt "Placeholder is device name"
+msgid ""
+"The battery in Bluetooth device \"%1\" is running low, and the device may "
+"turn off at any time. Please recharge or replace the battery."
+msgstr ""
+
+#: powerdevilcore.cpp:593
+#, fuzzy, kde-format
+#| msgid "Battery Low (%1% Remaining)"
+msgctxt "The battery in an external device"
+msgid "Device Battery Low (%1% Remaining)"
+msgstr "Батареясы сарқылды (%1% қалды)"
+
+#: powerdevilcore.cpp:633
+#, kde-format
+msgid "Battery Low (%1% Remaining)"
+msgstr "Батареясы сарқылды (%1% қалды)"
+
+#: powerdevilcore.cpp:634
+#, fuzzy, kde-format
+#| msgid ""
+#| "Your battery is low. If you need to continue using your computer, either "
+#| "plug in your computer, or shut it down and then change the battery."
+msgid ""
+"Battery running low - to continue using your computer, plug it in or shut it "
+"down and change the battery."
+msgstr ""
+"Батареяңыз сарқылды. Компьютерді қолдануын жалғастыру үшін оны немесе тоққа "
+"қосыңыз немесе шығып, батареяңызды толтырып алыңыз."
+
+#: powerdevilcore.cpp:648
+#, kde-format
+msgid "Battery Critical (%1% Remaining)"
+msgstr "Батареясы дағдарысты деңгейде (%1% қалды)"
+
+#: powerdevilcore.cpp:650
+#, fuzzy, kde-format
+#| msgctxt "Interrupts the suspension/shutdown process"
+#| msgid "Cancel"
+msgctxt ""
+"Cancel timeout that will automatically put system to sleep because of low "
+"battery"
+msgid "Cancel"
+msgstr "Қайту"
+
+#: powerdevilcore.cpp:659
+#, fuzzy, kde-format
+#| msgid ""
+#| "Your battery level is critical, the computer will be halted in 30 seconds."
+msgid "Battery level critical. Your computer will shut down in 60 seconds."
+msgstr "Батареяңыз сарқылды, компьютер 30 секундтан кейін тоқтатылады."
+
+#: powerdevilcore.cpp:664
+#, fuzzy, kde-format
+#| msgid ""
+#| "Your battery level is critical, the computer will be hibernated in 30 "
+#| "seconds."
+msgid ""
+"Battery level critical. Your computer will enter hibernation mode in 60 "
+"seconds."
+msgstr ""
+"Батареяңыз сарқылды, компьютер 30 секундтан кейін ұйықтау режіміне ауысады."
+
+#: powerdevilcore.cpp:669
+#, fuzzy, kde-format
+#| msgid ""
+#| "Your battery level is critical, the computer will be halted in 30 seconds."
+msgid "Battery level critical. Your computer will go to sleep in 60 seconds."
+msgstr "Батареяңыз сарқылды, компьютер 30 секундтан кейін тоқтатылады."
+
+#: powerdevilcore.cpp:674
+#, fuzzy, kde-format
+#| msgid "Your battery level is critical, save your work as soon as possible."
+msgid "Battery level critical. Please save your work."
+msgstr "Батареяңыз әбден сарқылды, жұмысыңызды мейілінше дереу сақтаңыз."
+
+#: powerdevilcore.cpp:701
+#, kde-format
+msgid "AC Adapter Plugged In"
+msgstr "Айнымалы тоқ адаптері қосылған"
+
+#: powerdevilcore.cpp:704
+#, kde-format
+msgid "Running on AC power"
+msgstr "Токтан істеп тұр"
+
+#: powerdevilcore.cpp:704
+#, fuzzy, kde-format
+#| msgid "The power adaptor has been plugged in."
+msgid "The power adapter has been plugged in."
+msgstr "Қуаттандыру адаптері қосылды."
+
+#: powerdevilcore.cpp:707
+#, kde-format
+msgid "Running on Battery Power"
+msgstr "Батареядан қуаттандыруда"
+
+#: powerdevilcore.cpp:707
+#, fuzzy, kde-format
+#| msgid "The power adaptor has been unplugged."
+msgid "The power adapter has been unplugged."
+msgstr "Қуаттандыру адаптері ажыратылды."
+
+#: powerdevilcore.cpp:767
+#, fuzzy, kde-format
+#| msgid "Charge Complete"
+msgid "Charging Complete"
+msgstr "Толтыруы бітті"
+
+#: powerdevilcore.cpp:767
+#, fuzzy, kde-format
+#| msgid "Your battery is now fully charged."
+msgid "Battery now fully charged."
+msgstr "Батареяңыз әбден толды."

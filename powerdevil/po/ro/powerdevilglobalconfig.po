@@ -1,0 +1,197 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Sergiu Bivol <sergiu@cip.md>, 2011, 2012, 2013, 2020.
+# Cristian Oneț <onet.cristian@gmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-09-25 02:27+0200\n"
+"PO-Revision-Date: 2020-09-13 15:30+0100\n"
+"Last-Translator: Sergiu Bivol <sergiu@cip.md>\n"
+"Language-Team: Romanian\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 19.12.3\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sergiu Bivol"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sergiu@cip.md"
+
+#: GeneralPage.cpp:109
+#, kde-format
+msgid "Do nothing"
+msgstr "Nu fă nimic"
+
+#: GeneralPage.cpp:111
+#, kde-format
+msgctxt "Suspend to RAM"
+msgid "Sleep"
+msgstr "Adormire"
+
+#: GeneralPage.cpp:114
+#, kde-format
+msgid "Hibernate"
+msgstr "Hibernare"
+
+#: GeneralPage.cpp:116
+#, kde-format
+msgid "Shut down"
+msgstr "Deconectare"
+
+#: GeneralPage.cpp:264
+#, kde-format
+msgid "The Power Management Service appears not to be running."
+msgstr "Se pare că serviciul de gestiune a alimentării nu se execută."
+
+#. i18n: ectx: property (text), widget (QLabel, batteryLevelsLabel)
+#: generalPage.ui:22
+#, kde-format
+msgid "<b>Battery Levels                     </b>"
+msgstr "<b>Niveluri acumulator             </b>"
+
+#. i18n: ectx: property (text), widget (QLabel, lowLabel)
+#: generalPage.ui:29
+#, kde-format
+msgid "&Low level:"
+msgstr "Nive&l scăzut:"
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, lowSpin)
+#: generalPage.ui:45
+#, kde-format
+msgid "Low battery level"
+msgstr "Nivel scăzut al acumulatorului"
+
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, lowSpin)
+#: generalPage.ui:48
+#, kde-format
+msgid "Battery will be considered low when it reaches this level"
+msgstr ""
+"Acumulatorul va fi considerat ca fiind la un nivel scăzut când atinge acest "
+"nivel"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, lowSpin)
+#. i18n: ectx: property (suffix), widget (QSpinBox, criticalSpin)
+#. i18n: ectx: property (suffix), widget (QSpinBox, lowPeripheralSpin)
+#. i18n: ectx: property (suffix), widget (QSpinBox, chargeStartThresholdSpin)
+#. i18n: ectx: property (suffix), widget (QSpinBox, chargeStopThresholdSpin)
+#: generalPage.ui:51 generalPage.ui:83 generalPage.ui:126 generalPage.ui:179
+#: generalPage.ui:242
+#, no-c-format, kde-format
+msgid "%"
+msgstr "%"
+
+#. i18n: ectx: property (text), widget (QLabel, criticalLabel)
+#: generalPage.ui:61
+#, kde-format
+msgid "&Critical level:"
+msgstr "Nivel &critic:"
+
+#. i18n: ectx: property (toolTip), widget (QSpinBox, criticalSpin)
+#: generalPage.ui:77
+#, kde-format
+msgid "Critical battery level"
+msgstr "Nivel critic al acumulatorului"
+
+#. i18n: ectx: property (whatsThis), widget (QSpinBox, criticalSpin)
+#: generalPage.ui:80
+#, kde-format
+msgid "Battery will be considered critical when it reaches this level"
+msgstr ""
+"Acumulatorul va fi considerat ca fiind la un nivel critic când atinge acest "
+"nivel"
+
+#. i18n: ectx: property (text), widget (QLabel, BatteryCriticalLabel)
+#: generalPage.ui:93
+#, kde-format
+msgid "A&t critical level:"
+msgstr "La nivelul cri&tic:"
+
+#. i18n: ectx: property (text), widget (QLabel, lowPeripheralLabel)
+#: generalPage.ui:119
+#, kde-format
+msgid "Low level for peripheral devices:"
+msgstr "Nivel scăzut pentru dispozitive periferice:"
+
+#. i18n: ectx: property (text), widget (QLabel, batteryThresholdLabel)
+#: generalPage.ui:142
+#, kde-format
+msgid "Charge Limit"
+msgstr "Limită de încărcare"
+
+#. i18n: ectx: property (text), widget (QLabel, batteryThresholdExplanation)
+#: generalPage.ui:149
+#, no-c-format, kde-format
+msgid ""
+"<html><head/><body><p>Keeping the battery charged 100% over a prolonged "
+"period of time may accelerate deterioration of battery health. By limiting "
+"the maximum battery charge you can help extend the battery lifespan.</p></"
+"body></html>"
+msgstr ""
+"<html><head/><body><p>Păstrarea acumulatorului încărcat la 100% pe o durată "
+"lungă de timp poate accelera deteriorarea sănătății acestuia. Prin limitarea "
+"încărcării maxime a acumulatorului, puteți contribui la prelungirea duratei "
+"sale de viață.</p></body></html>"
+
+#. i18n: ectx: property (text), widget (KMessageWidget, chargeStopThresholdMessage)
+#: generalPage.ui:159
+#, kde-format
+msgid ""
+"You might have to disconnect and re-connect the power source to start "
+"charging the battery again."
+msgstr ""
+"S-ar putea să fie necesară deconectarea și reconectarea sursei de alimentare "
+"pentru în reîncepe încărcarea acumulatorului."
+
+#. i18n: ectx: property (text), widget (QLabel, chargeStartThresholdLabel)
+#: generalPage.ui:169
+#, kde-format
+msgid "Start charging only once below:"
+msgstr "Începe încărcarea odată ce e sub:"
+
+#. i18n: ectx: property (specialValueText), widget (QSpinBox, chargeStartThresholdSpin)
+#: generalPage.ui:176
+#, kde-format
+msgid "Always charge when plugged in"
+msgstr "Încarcă întotdeauna când e conectat la priză"
+
+#. i18n: ectx: property (text), widget (QLabel, pausePlayersLabel)
+#: generalPage.ui:189
+#, kde-format
+msgid "Pause media players when suspending:"
+msgstr "Întrerupe redarea multimedia la suspendare:"
+
+#. i18n: ectx: property (text), widget (QCheckBox, pausePlayersCheckBox)
+#: generalPage.ui:196
+#, kde-format
+msgid "Enabled"
+msgstr "Activat"
+
+#. i18n: ectx: property (text), widget (QPushButton, notificationsButton)
+#: generalPage.ui:215
+#, kde-format
+msgid "Configure Notifications..."
+msgstr "Configurare notificări..."
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: generalPage.ui:228
+#, kde-format
+msgid "Other Settings"
+msgstr "Alte configurări"
+
+#. i18n: ectx: property (text), widget (QLabel, chargeStopThresholdLabel)
+#: generalPage.ui:235
+#, kde-format
+msgid "Stop charging at:"
+msgstr "Oprește încărcarea la:"

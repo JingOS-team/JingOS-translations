@@ -1,0 +1,124 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+
+#: main.qml:127 main.qml:150
+#, kde-format
+msgid "Cancel"
+msgstr "取消"
+
+#: main.qml:129
+#, kde-format
+msgid "Play Video?"
+msgstr "播放视频？"
+
+#: main.qml:130
+#, kde-format
+msgid "Are u sure?"
+msgstr "您确定吗？"
+
+#: main.qml:131
+#, kde-format
+msgid "ok"
+msgstr "确定"
+
+#: main.qml:161
+#, kde-format
+msgid "Save to files"
+msgstr "保存到文件"
+
+#: main.qml:169 main.qml:235 main.qml:1798 main.qml:2339
+#: view_models/BabeTable/BabeTable.qml:108
+#, kde-format
+msgid "Delete"
+msgstr "删除"
+
+#: main.qml:182 main.qml:199
+#, kde-format
+msgid "Are you sure you want to save the file to file manager?"
+msgstr ""
+
+#: main.qml:188 main.qml:211
+#, kde-format
+msgid "Are you sure you want to delete the file?"
+msgstr "您确定要删除这个文件吗？"
+
+#: main.qml:196
+#, kde-format
+msgid "Are you sure you want to save these files to file manager?"
+msgstr ""
+
+#: main.qml:208
+#, kde-format
+msgid "Are you sure you want to delete these files?"
+msgstr "您确定要删除这些文件吗？"
+
+#: main.qml:227
+#, kde-format
+msgid "Save"
+msgstr "保存"
+
+#: main.qml:507
+#, kde-format
+msgid "Media"
+msgstr "播放器"
+
+#: main.qml:542 view_models/BabeTable/BabeTable.qml:92
+#, kde-format
+msgid "Search"
+msgstr "搜索"
+
+#: main.qml:594
+#, kde-format
+msgid "Video"
+msgstr "视频"
+
+#: main.qml:670 main.qml:850 main.qml:1103
+#, kde-format
+msgid "All"
+msgstr "所有"
+
+#: main.qml:752 main.qml:1016 main.qml:1109
+#, kde-format
+msgid "Lately"
+msgstr "最近播放"
+
+#: main.qml:774
+#, kde-format
+msgid "Music"
+msgstr "音乐"
+
+#: main.qml:935 main.qml:1106
+#, kde-format
+msgid "Like"
+msgstr "喜爱的"
+
+#: main.qml:1100
+#, kde-format
+msgid "Search Results"
+msgstr "搜索结果"
+
+#: main.qml:1325
+#, kde-format
+msgid "No Results"
+msgstr "无结果"
+
+#: main.qml:1689 main.qml:2230
+#, kde-format
+msgid "Batch editing"
+msgstr "批量编辑"
+
+msgid "There is no video at present"
+msgstr "这里空空如也"
+
+
+msgid "There is no music at present"
+msgstr "这里空空如也"
+
+msgid "UNKNOWN"
+msgstr "未知"
+
+msgid "Sorry,there are no search results."
+msgstr "没有搜索到任何结果"

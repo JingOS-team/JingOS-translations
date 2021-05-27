@@ -1,0 +1,69 @@
+# translation of powerdevilprofilesconfig.po to Khmer
+# Khoem Sokhem <khoemsokhem@khmeros.info>, 2011, 2012.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+msgid ""
+msgstr ""
+"Project-Id-Version: powerdevilprofilesconfig\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-24 02:31+0200\n"
+"PO-Revision-Date: 2012-06-14 14:00+0700\n"
+"Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
+"Language-Team: Khmer\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"X-Language: km-KH\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ខឹម សុខែម, ម៉ន ម៉េត, សេង សុត្ថា, ចាន់ សម្បត្តិរតនៈ, សុខ សុភា"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+"khoemsokhem@khmeros.info,​​mornmet@khmeros.info,sutha@khmeros.info,"
+"ratanak@khmeros.info,sophea@khmeros.info"
+
+#: EditPage.cpp:191
+#, kde-format
+msgid ""
+"The KDE Power Management System will now generate a set of defaults based on "
+"your computer's capabilities. This will also erase all existing "
+"modifications you made. Are you sure you want to continue?"
+msgstr ""
+"ប្រព័ន្ធ​គ្រប់គ្រង​ថាមពល KDE នឹង​បង្កើត​សំណុំ​ទម្រង់​លំនាំដើម ដែល​មាន​មូលដ្ឋាន​លើ​សមត្ថភាព​នៃ​កុំព្យូទ័រ​របស់​អ្នក "
+"។ វា​នឹង​លុប​ទម្រង់​ដែល​មាន​ស្រាប់​ទាំងអស់ ។ តើ​អ្នក​ប្រាកដ​ជា​ចង់​បន្ត​ឬ ?"
+
+#: EditPage.cpp:194
+#, kde-format
+msgid "Restore Default Profiles"
+msgstr "ស្ដារ​​​ទម្រង់​លំនាំដើម"
+
+#: EditPage.cpp:273
+#, kde-format
+msgid "The Power Management Service appears not to be running."
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab)
+#: profileEditPage.ui:21
+#, kde-format
+msgid "On AC Power"
+msgstr "​​ពេល​​​ប្រើ​ថាមពល AC"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_2)
+#: profileEditPage.ui:31
+#, kde-format
+msgid "On Battery"
+msgstr "ពេល​ប្រើថ្ម"
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_3)
+#: profileEditPage.ui:41
+#, kde-format
+msgid "On Low Battery"
+msgstr "ពេល​ថ្មី​ខ្សោយ​"

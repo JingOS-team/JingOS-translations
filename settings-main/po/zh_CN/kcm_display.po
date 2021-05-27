@@ -1,0 +1,131 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-19 16:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: %E8%8B%B1%E6%96%87
+msgid "英文"
+
+msgstr "中文"
+
+#: source
+msgid "target"
+msgstr ""
+
+msgid "Applying this setting will restart your PAD"
+msgstr "执行该操作将会重启您的设备"
+
+msgid "Restart"
+msgstr "重启"
+
+
+#: Fonts:
+msgid "Fonts"
+msgstr "字体"
+
+msgid "Operation prompt content copy Secondary style preview"
+msgstr "操作提示内容复制二次样式预览"
+
+msgid "Font Size"
+msgstr "字体大小"
+
+msgid "Brightness"
+msgstr "亮度"
+
+msgid "Preview"
+msgstr "预览"
+
+msgid "Icons"
+msgstr "图标"
+
+msgid "List"
+msgstr "列表"
+
+msgid "Extra Small"
+msgstr "极小"
+
+msgid "Small"
+msgstr "小"
+
+msgid "Normal"
+msgstr "正常"
+
+msgid "Large"
+msgstr "大"
+
+msgid "Extra Large"
+msgstr "极大"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Display & Brightness"
+msgstr "显示和亮度"
+
+msgid "Sleep"
+msgstr "睡眠"
+
+msgid "Applications scale"
+msgstr "应用比例"
+
+msgid "Font"
+msgstr "字体"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "Set"
+msgstr "设定"
+
+msgid "Cancel"
+msgstr "取消"
+
+#: Set+scale+
+msgid "Set scale "
+
+msgstr "设定比例"
+
+#: Attention,+the+running+apps+will+be+closed+to+fit+new+configuration.
+msgid "Attention, the running apps will be closed to fit new configuration."
+msgstr "请注意，正在运行的应用将被关闭以适应新的配置"
+
+#: 2+Minutes
+msgid "2 Minutes"
+
+msgstr "2分钟"
+
+#: 5+Minutes
+msgid "5 Minutes"
+
+msgstr "5分钟"
+
+#: 10+Minutes
+msgid "10 Minutes"
+
+msgstr "10分钟"
+
+#: 15+Minutes
+msgid "15 Minutes"
+
+msgstr "15分钟"
+
+#: Never
+msgid "Never"
+
+msgstr "永不"
+

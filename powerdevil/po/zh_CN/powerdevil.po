@@ -1,0 +1,479 @@
+# Chinese Translation.
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the KDE package.
+#
+# Grissiom <chaos.proton@gmail.com>, 2008, 2009.
+# Feng Chao <chaofeng111@gmail.com>, 2010, 2011, 2013, 2014, 2015.
+# Ni Hui <shuizhuyuanluo@126.com>, 2010.
+# Weng Xuetian <wengxt@gmail.com>, 2011, 2012, 2013, 2015, 2016.
+# Xuetian Weng <xweng@cs.stonybrook.edu>, 2014, 2015.
+# Guo Yunhe <guoyunhebrave@gmail.com>, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeorg\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-12-08 02:39+0100\n"
+"PO-Revision-Date: 2020-12-12 17:38\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: kdeorg\n"
+"X-Crowdin-Project-ID: 269464\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /kf5-trunk/messages/powerdevil/powerdevil.pot\n"
+"X-Crowdin-File-ID: 4296\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "KDE 中国"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kde-china@kde.org"
+
+#: actions/bundled/brightnesscontrol.cpp:51
+#: actions/bundled/handlebuttonevents.cpp:58
+#: actions/bundled/keyboardbrightnesscontrol.cpp:56
+#: actions/dpms/powerdevildpmsaction.cpp:81
+#, kde-format
+msgctxt "Name for powerdevil shortcuts category"
+msgid "Power Management"
+msgstr "电源管理"
+
+#: actions/bundled/brightnesscontrol.cpp:54
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Increase Screen Brightness"
+msgstr "提高屏幕亮度"
+
+#: actions/bundled/brightnesscontrol.cpp:59
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Decrease Screen Brightness"
+msgstr "降低屏幕亮度"
+
+#: actions/bundled/brightnesscontrolconfig.cpp:70
+#, kde-format
+msgctxt "Brightness level, label for the slider"
+msgid "Level"
+msgstr "级别"
+
+#: actions/bundled/dimdisplayconfig.cpp:64
+#: actions/bundled/runscriptconfig.cpp:82
+#: actions/bundled/suspendsessionconfig.cpp:86
+#: actions/dpms/powerdevildpmsactionconfig.cpp:60
+#, kde-format
+msgid " min"
+msgstr "分钟"
+
+#: actions/bundled/dimdisplayconfig.cpp:74
+#: actions/bundled/runscriptconfig.cpp:85
+#: actions/bundled/runscriptconfig.cpp:106
+#, kde-format
+msgid "After"
+msgstr "等待时间"
+
+#: actions/bundled/handlebuttonevents.cpp:63
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Suspend"
+msgstr "挂起"
+
+#: actions/bundled/handlebuttonevents.cpp:68
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Hibernate"
+msgstr "休眠"
+
+#: actions/bundled/handlebuttonevents.cpp:73
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Power Off"
+msgstr "关机"
+
+#: actions/bundled/handlebuttonevents.cpp:80
+#, kde-format
+msgctxt ""
+"@action:inmenu Global shortcut, used for long presses of the power button"
+msgid "Power Down"
+msgstr "断电"
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:87
+#, kde-format
+msgctxt "Execute action on lid close even when external monitor is connected"
+msgid "Even when an external monitor is connected"
+msgstr "即使已连接外部显示器"
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:97
+#, kde-format
+msgid "Do nothing"
+msgstr "无动作"
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:99
+#: actions/bundled/suspendsessionconfig.cpp:90
+#, kde-format
+msgctxt "Suspend to RAM"
+msgid "Sleep"
+msgstr "睡眠"
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:102
+#: actions/bundled/suspendsessionconfig.cpp:93
+#, kde-format
+msgid "Hibernate"
+msgstr "休眠"
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:105
+#: actions/bundled/suspendsessionconfig.cpp:96
+#, kde-format
+msgid "Hybrid sleep"
+msgstr "混合睡眠"
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:107
+#: actions/bundled/suspendsessionconfig.cpp:98
+#, kde-format
+msgid "Shut down"
+msgstr "关机"
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:108
+#: actions/bundled/suspendsessionconfig.cpp:99
+#, kde-format
+msgid "Lock screen"
+msgstr "锁定屏幕"
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:110
+#, kde-format
+msgid "Prompt log out dialog"
+msgstr "提示注销对话框"
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:112
+#, kde-format
+msgid "Turn off screen"
+msgstr "关闭屏幕"
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:138
+#, kde-format
+msgid "When laptop lid closed"
+msgstr "合上笔记本盖时"
+
+#: actions/bundled/handlebuttoneventsconfig.cpp:149
+#, kde-format
+msgid "When power button pressed"
+msgstr "按下电源键时"
+
+#: actions/bundled/keyboardbrightnesscontrol.cpp:60
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Increase Keyboard Brightness"
+msgstr "提高键盘亮度"
+
+#: actions/bundled/keyboardbrightnesscontrol.cpp:65
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Decrease Keyboard Brightness"
+msgstr "降低键盘亮度"
+
+#: actions/bundled/keyboardbrightnesscontrol.cpp:70
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Toggle Keyboard Backlight"
+msgstr "切换键盘背光"
+
+#: actions/bundled/keyboardbrightnesscontrolconfig.cpp:71
+#, kde-format
+msgctxt "@label:slider Brightness level"
+msgid "Level"
+msgstr "亮度级别"
+
+#: actions/bundled/runscriptconfig.cpp:71
+#, kde-format
+msgid "Script"
+msgstr "脚本"
+
+#: actions/bundled/runscriptconfig.cpp:83
+#, kde-format
+msgid "On Profile Load"
+msgstr "装入配置方案时"
+
+#: actions/bundled/runscriptconfig.cpp:84
+#, kde-format
+msgid "On Profile Unload"
+msgstr "卸载配置方案时"
+
+#: actions/bundled/runscriptconfig.cpp:95
+#, kde-format
+msgid "Run script"
+msgstr "运行脚本"
+
+#: actions/bundled/suspendsessionconfig.cpp:87
+#, kde-format
+msgid "after "
+msgstr "等待时间 "
+
+#: actions/bundled/suspendsessionconfig.cpp:108
+#, kde-format
+msgid "Automatically"
+msgstr "自动"
+
+#: actions/bundled/suspendsessionconfig.cpp:115
+#, kde-format
+msgid "While asleep, hibernate after a period of inactivity"
+msgstr "在睡眠一段时间后休眠"
+
+#: actions/bundled/wirelesspowersavingconfig.cpp:75
+#: actions/bundled/wirelesspowersavingconfig.cpp:80
+#: actions/bundled/wirelesspowersavingconfig.cpp:85
+#, kde-format
+msgid "Leave unchanged"
+msgstr "保持不变"
+
+#: actions/bundled/wirelesspowersavingconfig.cpp:76
+#: actions/bundled/wirelesspowersavingconfig.cpp:81
+#: actions/bundled/wirelesspowersavingconfig.cpp:86
+#, kde-format
+msgid "Turn off"
+msgstr "关闭"
+
+#: actions/bundled/wirelesspowersavingconfig.cpp:77
+#: actions/bundled/wirelesspowersavingconfig.cpp:82
+#: actions/bundled/wirelesspowersavingconfig.cpp:87
+#, kde-format
+msgid "Turn on"
+msgstr "启用"
+
+#: actions/bundled/wirelesspowersavingconfig.cpp:110
+#, kde-format
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+#: actions/bundled/wirelesspowersavingconfig.cpp:111
+#, kde-format
+msgid "Mobile broadband"
+msgstr "移动宽带"
+
+#: actions/bundled/wirelesspowersavingconfig.cpp:112
+#, kde-format
+msgid "Bluetooth"
+msgstr "蓝牙"
+
+#: actions/dpms/powerdevildpmsaction.cpp:84
+#, kde-format
+msgctxt "@action:inmenu Global shortcut"
+msgid "Turn Off Screen"
+msgstr "关闭屏幕"
+
+#: actions/dpms/powerdevildpmsactionconfig.cpp:61
+#, kde-format
+msgid "Switch off after"
+msgstr "关闭前等待时间"
+
+#: backends/upower/login1suspendjob.cpp:79
+#: backends/upower/upowersuspendjob.cpp:69
+#, kde-format
+msgid "Unsupported suspend method"
+msgstr "不支持的挂起方式"
+
+#: powerdevilapp.cpp:62
+#, kde-format
+msgid "KDE Power Management System"
+msgstr "KDE 电源管理系统"
+
+#: powerdevilapp.cpp:63
+#, kde-format
+msgctxt "@title"
+msgid ""
+"PowerDevil, an advanced, modular and lightweight power management daemon"
+msgstr "PowerDevil 是先进、模块化、轻量级的电源管理守护程序"
+
+#: powerdevilapp.cpp:65
+#, kde-format
+msgctxt "@info:credit"
+msgid "(c) 2015-2019 Kai Uwe Broulik"
+msgstr "(c) 2015-2019 Kai Uwe Broulik"
+
+#: powerdevilapp.cpp:66
+#, kde-format
+msgctxt "@info:credit"
+msgid "Kai Uwe Broulik"
+msgstr "Kai Uwe Broulik"
+
+#: powerdevilapp.cpp:67
+#, kde-format
+msgctxt "@info:credit"
+msgid "Maintainer"
+msgstr "维护者"
+
+#: powerdevilapp.cpp:69
+#, kde-format
+msgctxt "@info:credit"
+msgid "Dario Freddi"
+msgstr "Dario Freddi"
+
+#: powerdevilapp.cpp:70
+#, kde-format
+msgctxt "@info:credit"
+msgid "Previous maintainer"
+msgstr "前任维护者"
+
+#: powerdevilapp.cpp:160
+#, kde-format
+msgid "Replace an existing instance"
+msgstr "替换现有实例"
+
+#: powerdevilcore.cpp:429 powerdevilcore.cpp:441
+#, kde-format
+msgid "Activity Manager"
+msgstr "活动管理器"
+
+#: powerdevilcore.cpp:430
+#, kde-format
+msgid "This activity's policies prevent the system from going to sleep"
+msgstr "此活动的策略阻止系统进入睡眠状态"
+
+#: powerdevilcore.cpp:442
+#, kde-format
+msgid "This activity's policies prevent screen power management"
+msgstr "这个活动的策略阻止系统进行屏幕电源管理。"
+
+#: powerdevilcore.cpp:503
+#, kde-format
+msgid "Extra Battery Added"
+msgstr "已添加额外电池"
+
+#: powerdevilcore.cpp:504 powerdevilcore.cpp:702
+#, kde-format
+msgid "The computer will no longer go to sleep."
+msgstr "计算机将不再进入睡眠状态。"
+
+#: powerdevilcore.cpp:563
+#, kde-format
+msgctxt "%1 is vendor name, %2 is product name"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: powerdevilcore.cpp:572
+#, kde-format
+msgid "Mouse Battery Low (%1% Remaining)"
+msgstr "鼠标电池电量低 (剩余 %1%)"
+
+#: powerdevilcore.cpp:574 powerdevilcore.cpp:581 powerdevilcore.cpp:595
+#, kde-format
+msgctxt "Placeholder is device name"
+msgid ""
+"The battery in (\"%1\") is running low, and the device may turn off at any "
+"time. Please recharge or replace the battery."
+msgstr ""
+"您的鼠标 (“%1”) 电池电量低，设备可能随时会关闭。请尽快更换电池或者充电。"
+
+#: powerdevilcore.cpp:579
+#, kde-format
+msgid "Keyboard Battery Low (%1% Remaining)"
+msgstr "键盘电池电量低 (剩余 %1%)"
+
+#: powerdevilcore.cpp:586
+#, kde-format
+msgid "Bluetooth Device Battery Low (%1% Remaining)"
+msgstr "蓝牙设备电池电量低 (剩余 %1%)"
+
+#: powerdevilcore.cpp:588
+#, kde-format
+msgctxt "Placeholder is device name"
+msgid ""
+"The battery in Bluetooth device \"%1\" is running low, and the device may "
+"turn off at any time. Please recharge or replace the battery."
+msgstr ""
+"您的蓝牙设备“%1”电池电量低，设备可能随时会关闭。请尽快更换电池或者充电。"
+
+#: powerdevilcore.cpp:593
+#, kde-format
+msgctxt "The battery in an external device"
+msgid "Device Battery Low (%1% Remaining)"
+msgstr "设备电池电量低 (剩余 %1%)"
+
+#: powerdevilcore.cpp:633
+#, kde-format
+msgid "Battery Low (%1% Remaining)"
+msgstr "电池电量低 (剩余 %1%)"
+
+#: powerdevilcore.cpp:634
+#, kde-format
+msgid ""
+"Battery running low - to continue using your computer, plug it in or shut it "
+"down and change the battery."
+msgstr ""
+"电池剩余电量低。如果您需要继续使用电脑，请接入电源适配器，或者关机并更换电池"
+
+#: powerdevilcore.cpp:648
+#, kde-format
+msgid "Battery Critical (%1% Remaining)"
+msgstr "电池电量危急 (剩余 %1%)"
+
+#: powerdevilcore.cpp:650
+#, kde-format
+msgctxt ""
+"Cancel timeout that will automatically put system to sleep because of low "
+"battery"
+msgid "Cancel"
+msgstr "取消"
+
+#: powerdevilcore.cpp:659
+#, kde-format
+msgid "Battery level critical. Your computer will shut down in 60 seconds."
+msgstr "电池电量过低，电脑会在 60 秒后关闭。"
+
+#: powerdevilcore.cpp:664
+#, kde-format
+msgid ""
+"Battery level critical. Your computer will enter hibernation mode in 60 "
+"seconds."
+msgstr "电池电量过低，电脑会在 60 秒后休眠。"
+
+#: powerdevilcore.cpp:669
+#, kde-format
+msgid "Battery level critical. Your computer will go to sleep in 60 seconds."
+msgstr "电池电量过低，电脑会在 60 秒后关闭。"
+
+#: powerdevilcore.cpp:674
+#, kde-format
+msgid "Battery level critical. Please save your work."
+msgstr "电池电量告急。请保存您的工作。"
+
+#: powerdevilcore.cpp:701
+#, kde-format
+msgid "AC Adapter Plugged In"
+msgstr "已插入交流适配器"
+
+#: powerdevilcore.cpp:704
+#, kde-format
+msgid "Running on AC power"
+msgstr "使用交流电"
+
+#: powerdevilcore.cpp:704
+#, kde-format
+msgid "The power adapter has been plugged in."
+msgstr "电源适配器已插入。"
+
+#: powerdevilcore.cpp:707
+#, kde-format
+msgid "Running on Battery Power"
+msgstr "正在使用电池"
+
+#: powerdevilcore.cpp:707
+#, kde-format
+msgid "The power adapter has been unplugged."
+msgstr "电源适配器已拔下。"
+
+#: powerdevilcore.cpp:767
+#, kde-format
+msgid "Charging Complete"
+msgstr "充电完成"
+
+#: powerdevilcore.cpp:767
+#, kde-format
+msgid "Battery now fully charged."
+msgstr "电池现已充满。"

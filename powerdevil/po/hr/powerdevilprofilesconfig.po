@@ -1,0 +1,77 @@
+# Translation of powerdevilprofilesconfig to Croatian
+#
+# Zarko Pintar <zarko.pintar@gmail.com>, 2009.
+# DoDo <DoDoEntertainment@gmail.com>, 2009.
+# Marko Dimjasevic <marko@dimjasevic.net>, 2009, 2011.
+# Andrej Dundovic <adundovi@gmail.com>, 2009, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: powerdevil\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-24 02:31+0200\n"
+"PO-Revision-Date: 2011-03-05 16:21+0100\n"
+"Last-Translator: Marko Dimjasevic <marko@dimjasevic.net>\n"
+"Language-Team: Croatian <kde-croatia-list@lists.sourceforge.net>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 1.2\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Žarko Pintar, Andrej Dundović, Marko Dimjasevic"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "zarko.pintar@gmail.com, adundovi@gmail.com, marko@dimjasevic.net"
+
+#: EditPage.cpp:191
+#, fuzzy, kde-format
+#| msgid ""
+#| "The KDE Power Management System will now generate a set of default "
+#| "profiles based on your computer's capabilities. This will also erase all "
+#| "existing profiles. Are you sure you want to continue?"
+msgid ""
+"The KDE Power Management System will now generate a set of defaults based on "
+"your computer's capabilities. This will also erase all existing "
+"modifications you made. Are you sure you want to continue?"
+msgstr ""
+"KDE-ov sustav upravljanja potrošnjom energije sad će stvoriti skup zadanih "
+"profila baziranih na mogućnostima Vašeg računala. Ovo će ujedno obrisati sve "
+"postojeće profile. Jeste li sigurni da želite nastaviti?"
+
+#: EditPage.cpp:194
+#, kde-format
+msgid "Restore Default Profiles"
+msgstr "Vrazi zadane profile"
+
+#: EditPage.cpp:273
+#, kde-format
+msgid "The Power Management Service appears not to be running."
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab)
+#: profileEditPage.ui:21
+#, kde-format
+msgid "On AC Power"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_2)
+#: profileEditPage.ui:31
+#, kde-format
+msgid "On Battery"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_3)
+#: profileEditPage.ui:41
+#, kde-format
+msgid "On Low Battery"
+msgstr ""

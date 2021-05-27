@@ -1,0 +1,150 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Svetoslav Stefanov <svetlisashkov@yahoo.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: powerdevilactivitiesconfig\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-07-06 02:13+0200\n"
+"PO-Revision-Date: 2014-05-11 15:12+0200\n"
+"Last-Translator: Svetoslav Stefanov <svetlisashkov@yahoo.com>\n"
+"Language-Team: Bulgarian <kde-i18n-doc@kde.org>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Светослав Стефанов"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "svetlisashkov@yahoo.com"
+
+#: activitypage.cpp:74
+#, kde-format
+msgid ""
+"The activity service is running with bare functionalities.\n"
+"Names and icons of the activities might not be available."
+msgstr ""
+"Дейността се изпълнява с минимална функционалност.\n"
+"Имената и иконите на дейностите може да не са налични."
+
+#: activitypage.cpp:148
+#, kde-format
+msgid ""
+"The activity service is not running.\n"
+"It is necessary to have the activity manager running to configure activity-"
+"specific power management behavior."
+msgstr ""
+"Дейността не се изпълнява.\n"
+"За да може да се настройва поведението на енергоспестяването за всяка една "
+"дейност, трябва да е пуснато управлението на дейността."
+
+#: activitypage.cpp:244
+#, kde-format
+msgid "The Power Management Service appears not to be running."
+msgstr ""
+
+#: activitywidget.cpp:97
+#, fuzzy, kde-format
+#| msgid "Sleep"
+msgctxt "Suspend to RAM"
+msgid "Sleep"
+msgstr "Приспиване"
+
+#: activitywidget.cpp:101
+#, kde-format
+msgid "Hibernate"
+msgstr "Дълбоко приспиване"
+
+#: activitywidget.cpp:103
+#, fuzzy, kde-format
+#| msgid "Shutdown"
+msgid "Shut down"
+msgstr "Изключване"
+
+#: activitywidget.cpp:107
+#, kde-format
+msgid "PC running on AC power"
+msgstr "Компютърът работи на захранване от ел. мрежа"
+
+#: activitywidget.cpp:108
+#, kde-format
+msgid "PC running on battery power"
+msgstr "Компютърът работи на захранване от батерията"
+
+#: activitywidget.cpp:109
+#, kde-format
+msgid "PC running on low battery"
+msgstr "Компютърът работи на нисък заряд на батерията"
+
+#: activitywidget.cpp:138
+#, kde-format
+msgctxt "This is meant to be: Act like activity %1"
+msgid "Activity \"%1\""
+msgstr "Дейност \"%1\""
+
+#. i18n: ectx: property (text), widget (QRadioButton, noSettingsRadio)
+#: activityWidget.ui:19
+#, fuzzy, kde-format
+#| msgid "Don't use special settings"
+msgid "Do not use special settings"
+msgstr "Да не се използват специални настройки"
+
+#. i18n: ectx: property (text), widget (QRadioButton, actLikeRadio)
+#: activityWidget.ui:31
+#, kde-format
+msgid "Act like"
+msgstr "Действие като"
+
+#. i18n: ectx: property (text), widget (QRadioButton, specialBehaviorRadio)
+#: activityWidget.ui:60
+#, kde-format
+msgid "Define a special behavior"
+msgstr "Задаване на потребителско поведение"
+
+#. i18n: ectx: property (text), widget (QCheckBox, noShutdownScreenBox)
+#: activityWidget.ui:72
+#, fuzzy, kde-format
+#| msgid "Never shutdown the screen"
+msgid "Never turn off the screen"
+msgstr "Екранът никога да не се изключва"
+
+#. i18n: ectx: property (text), widget (QCheckBox, noShutdownPCBox)
+#: activityWidget.ui:79
+#, fuzzy, kde-format
+#| msgid "Never shutdown the screen"
+msgid "Never shut down the computer or let it go to sleep"
+msgstr "Екранът никога да не се изключва"
+
+#. i18n: ectx: property (text), widget (QCheckBox, alwaysBox)
+#: activityWidget.ui:91
+#, kde-format
+msgid "Always"
+msgstr "Винаги"
+
+#. i18n: ectx: property (text), widget (QLabel, alwaysAfterLabel)
+#: activityWidget.ui:101
+#, kde-format
+msgid "after"
+msgstr "след"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, alwaysAfterSpin)
+#: activityWidget.ui:108
+#, kde-format
+msgid " min"
+msgstr "мин"
+
+#. i18n: ectx: property (text), widget (QRadioButton, separateSettingsRadio)
+#: activityWidget.ui:138
+#, kde-format
+msgid "Use separate settings (advanced users only)"
+msgstr "Използване на отделни настройки (за само напреднали потребители)"
