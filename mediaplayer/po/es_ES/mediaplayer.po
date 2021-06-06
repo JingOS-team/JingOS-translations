@@ -1,0 +1,124 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# David Martínez Echavarría <damarte86@gmail.com>, 2021.
+#
+
+#: main.qml:127 main.qml:150
+#, kde-format
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: main.qml:129
+#, kde-format
+msgid "Play Video?"
+msgstr "¿Reproducir vídeo?"
+
+#: main.qml:130
+#, kde-format
+msgid "Are u sure?"
+msgstr "¿Está seguro?"
+
+#: main.qml:131
+#, kde-format
+msgid "ok"
+msgstr "ok"
+
+#: main.qml:161
+#, kde-format
+msgid "Save to files"
+msgstr "Guardar a archivos"
+
+#: main.qml:169 main.qml:235 main.qml:1798 main.qml:2339
+#: view_models/BabeTable/BabeTable.qml:108
+#, kde-format
+msgid "Delete"
+msgstr "Eliminar"
+
+#: main.qml:182 main.qml:199
+#, kde-format
+msgid "Are you sure you want to save the file to file manager?"
+msgstr ""
+
+#: main.qml:188 main.qml:211
+#, kde-format
+msgid "Are you sure you want to delete the file?"
+msgstr "¿Estás seguro de que quieres eliminar este archivo?"
+
+#: main.qml:196
+#, kde-format
+msgid "Are you sure you want to save these files to file manager?"
+msgstr ""
+
+#: main.qml:208
+#, kde-format
+msgid "Are you sure you want to delete these files?"
+msgstr "¿Estás seguro de que quieres eliminar estos archivos?"
+
+#: main.qml:227
+#, kde-format
+msgid "Save"
+msgstr "Guardar"
+
+#: main.qml:507
+#, kde-format
+msgid "Media"
+msgstr "Media"
+
+#: main.qml:542 view_models/BabeTable/BabeTable.qml:92
+#, kde-format
+msgid "Search"
+msgstr "Buscar"
+
+#: main.qml:594
+#, kde-format
+msgid "Video"
+msgstr "Vídeo"
+
+#: main.qml:670 main.qml:850 main.qml:1103
+#, kde-format
+msgid "All"
+msgstr "Todos"
+
+#: main.qml:752 main.qml:1016 main.qml:1109
+#, kde-format
+msgid "Lately"
+msgstr "Recientes"
+
+#: main.qml:774
+#, kde-format
+msgid "Music"
+msgstr "Audio"
+
+#: main.qml:935 main.qml:1106
+#, kde-format
+msgid "Like"
+msgstr "Favoritos"
+
+#: main.qml:1100
+#, kde-format
+msgid "Search Results"
+msgstr "Resultados de búsqueda"
+
+#: main.qml:1325
+#, kde-format
+msgid "No Results"
+msgstr "No hay resultados"
+
+#: main.qml:1689 main.qml:2230
+#, kde-format
+msgid "Batch editing"
+msgstr "Edición masiva"
+
+msgid "There is no video at present"
+msgstr "No hay vídeos en este momento"
+
+
+msgid "There is no music at present"
+msgstr "No hay audios en este momento"
+
+msgid "UNKNOWN"
+msgstr "DESCONOCIDO"
+
+msgid "Sorry,there are no search results."
+msgstr "Disculpa, no hay resultados de búsqueda"
