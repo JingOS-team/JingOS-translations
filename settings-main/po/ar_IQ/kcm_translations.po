@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-19 16:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: %E8%8B%B1%E6%96%87
+msgid "العربية"
+msgstr "العربية"
+
+#: source
+msgid "target"
+msgstr ""
+
+msgid "Preferred language order"
+msgstr "ترتيب اللغة المفضل"
+
+msgid "The language at the top of the list will be used by default. If an app doesn't support your default language, the next language in the list will be used instead."
+msgstr "بشكل افتراضي ، سيتم استخدام اللغة الموجودة أعلى القائمة. إذا كان التطبيق لا يدعم لغتك الافتراضية ، فسيتم استخدام اللغة التالية في القائمة."
+
+msgid "Language"
+msgstr "اللغة"
+
+msgid "Default"
+msgstr "الافتراضية"
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "Restart"
+msgstr "اعادة"
+
+msgid "Applying this setting will restart your PAD"
+msgstr "سيؤدي تطبيق هذا الإعداد إلى إعادة تشغيل PAD"
+

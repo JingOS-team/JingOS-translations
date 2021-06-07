@@ -1,0 +1,514 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-19 16:59+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: %E8%8B%B1%E6%96%87
+msgid "العربية"
+
+msgstr "العربية"
+
+#: Location+Service
+msgid "Location Service"
+
+msgstr "خدمة تحديد المواقع"
+
+#: Location+Status
+msgid "Location Status"
+
+msgstr "حالة الموقع"
+
+#: source
+msgid "target"
+msgstr ""
+
+#: Battery
+msgid "Battery"
+msgstr "البطارية"
+
+#: Type:
+msgid "Type:"
+msgstr "النوع"
+
+#: APN:
+msgid "APN:"
+msgstr ""
+
+#: Cellular+Networks
+msgid "Cellular Networks"
+msgstr "الشبكات الخلوية"
+
+#: Modems
+msgid "Modems"
+msgstr "اجهزة المودم"
+
+#: SIM+Cards
+msgid "SIM Cards"
+msgstr "SIM شرائح"
+
+#: Networks
+msgid "Networks"
+msgstr "الشبكات"
+
+#: Modem
+msgid "Modem"
+msgstr "مودم"
+
+#: Modem+1
+msgid "Modem 1"
+
+msgstr "مودم 1"
+
+#: Modem+%251
+msgid "Modem %1"
+
+msgstr "مودم 1%"
+
+#: Name:
+msgid "Name:"
+
+msgstr "اسم"
+
+#: IMEI:
+msgid "IMEI:"
+
+msgstr ""
+
+#: Manufacturer:
+msgid "Manufacturer:"
+
+msgstr "الشركة المصنعه"
+
+#: Model:
+msgid "Model:"
+
+msgstr "طراز الجهاز"
+
+#: Revision:
+msgid "Revision:"
+
+msgstr "الرؤية"
+
+#: Network
+msgid "Network"
+msgstr "الشبكه"
+
+#: Network+%251
+msgid "Network %1"
+
+msgstr "الشبكة %1"
+
+#: Operator:
+msgid "Operator:"
+
+msgstr "المشغل"
+
+#: Mode:
+msgid "Mode:"
+
+msgstr "الوضع"
+
+#: Cell+Id:
+msgid "Cell Id:"
+
+msgstr "معرف cell"
+
+#: MCC:
+msgid "MCC:"
+
+msgstr ""
+
+#: MNC:
+msgid "MNC:"
+
+msgstr ""
+
+#: Technology:
+msgid "Technology:"
+
+msgstr "التقنيه"
+
+#: Strength:
+msgid "Strength:"
+
+msgstr ""
+
+#: Base+Station:
+msgid "Base Station:"
+
+msgstr "المحطة الأساسية"
+
+#: SIM+Card
+msgid "SIM Card"
+
+msgstr ""
+
+#: SIM+Card+1
+msgid "SIM Card 1"
+
+msgstr ""
+
+#: SIM+Card+%251
+msgid "SIM Card %1"
+
+msgstr ""
+
+#: IMSI:
+msgid "IMSI:"
+
+msgstr ""
+
+#: ICCID:
+msgid "ICCID:"
+
+msgstr ""
+
+#: Display
+msgid "Display"
+
+msgstr "الشاشه"
+
+#: Display+%26+Brightness
+msgid "Display & Brightness"
+
+msgstr "الشاشه & السطوع"
+
+#: Brightness
+msgid "Brightness"
+
+msgstr "السطوع"
+
+#: Sleep
+msgid "Sleep"
+
+msgstr "السكون"
+
+#: Applications+scale
+msgid "Applications scale"
+
+msgstr "مقياس التطبيقات"
+
+#: %251+%25
+msgid "%1 %"
+
+msgstr ""
+
+#: Set+scale+
+msgid "Set scale "
+
+msgstr "ضبط القياس"
+
+#: Attention,+the+running+apps+will+be+closed+to+fit+new+configuration.
+msgid "Attention, the running apps will be closed to fit new configuration."
+
+msgstr "يرجى ملاحظة أنه سيتم إغلاق التطبيق قيد التشغيل للتكيف مع التكوين الجديد"
+
+#: 2+Minutes
+msgid "2 Minutes"
+
+msgstr "2 دقيقة"
+
+#: 5+Minutes
+msgid "5 Minutes"
+
+msgstr "5 دقائق"
+
+#: 10+Minutes
+msgid "10 Minutes"
+
+msgstr "10 دقائق"
+
+#: 15+Minutes
+msgid "15 Minutes"
+
+msgstr "15 دقائق"
+
+#: Never
+msgid "Never"
+
+msgstr "مطلقا"
+
+#: Info
+msgid "Info"
+
+msgstr "معلومه"
+
+#: About
+msgid "About"
+
+msgstr "حول"
+
+#: Model+Name
+msgid "Model Name"
+
+msgstr "اسم الطراز"
+
+#: Software+Version
+msgid "Software Version"
+
+msgstr "اصدار النضام"
+
+#: Processor
+msgid "Processor"
+
+msgstr "المعالج"
+
+#: RAM
+msgid "RAM"
+
+msgstr ""
+
+#: %251+of+RAM
+msgid "%1 of RAM"
+
+msgstr ""
+
+#: Unknown
+msgid "Unknown"
+
+msgstr "مجهول"
+
+#: Internal+Storage
+msgid "Internal Storage"
+
+msgstr "التخزين الداخلي"
+
+#: Kernel+Version
+msgid "Kernel Version"
+
+msgstr "اصدار النواة"
+
+#: Serial+Number
+msgid "Serial Number"
+
+msgstr "الرقم التسلسلي"
+
+#: Factory+Reset
+msgid "Factory Reset"
+
+msgstr "اعادة ضبط المصنع"
+
+#: System+%26+Update
+msgid "System & Update"
+
+msgstr "النضام & التحديثات"
+
+#: System+Update
+msgid "System Update"
+
+msgstr "تحديثات النضام"
+
+#: Legal+information
+msgid "Legal information"
+
+msgstr "معلومات قانونيه"
+
+#: Every+day
+msgid "Every day"
+
+msgstr "كل يوم"
+
+#: Every+two+days
+msgid "Every two days"
+
+msgstr "كل يومين"
+
+#: Weekly
+msgid "Weekly"
+
+msgstr "اسبوعياً"
+
+#: Every+two+weeks
+msgid "Every two weeks"
+
+msgstr "كل اسبوعين"
+
+#: Legal+Information
+msgid "Legal Information"
+
+msgstr "معلومات قانونية"
+
+#: Legal+Notices:%0ACopyright+@+2020+Jingling+Inc.+All+rights+reserved.+%0AJingling,+the+Jingling+logo,+Jing+Pad,+other+cache+objects+have+configurable+update+settings,+and+their+update+frequency+is+set+by+the+Document+Manager+administrator.+The+objects+with+configurable+update+settings+are+controlled+vocabulary+lists+(+CVLs),+library+property+definitions,+library+property+values+lists,+native+folder+lists,+and+user+and+group+lists.If+you+issue+a+ROLLBACK+after+invoking+these+procedures,+policy+settings+will+not+be+updated.+
+msgid "Legal Notices:\nCopyright @ 2020 Jingling Inc. All rights reserved. \nJingling, the Jingling logo, Jing Pad, other cache objects have configurable update settings, and their update frequency is set by the Document Manager administrator. The objects with configurable update settings are controlled vocabulary lists ( CVLs), library property definitions, library property values lists, native folder lists, and user and group lists.If you issue a ROLLBACK after invoking these procedures, policy settings will not be updated. "
+
+msgstr ""
+
+#: Downloading...
+msgid "Downloading..."
+
+msgstr "تنزيل"
+
+#: Sever+replied:+Not+Found+
+msgid "Sever replied: Not Found "
+
+msgstr "السيرفر رد: غير موجود"
+
+#: Request+Timeout+
+msgid "Request Timeout "
+
+msgstr "انتهت مدة الطلب"
+
+#: Discover+system+updatable+version+%251
+msgid "Discover system updatable version %1"
+msgstr "تم العثور علئ اصدار جديد"
+
+#: Your+software+is+already+the+latest+version%0A+%251
+msgid "Your software is already the latest version\n %1"
+
+msgstr "نضامك يعمل بالفعل علئ اخر تحديث"
+
+#: Checking+for+updates...
+msgid "Checking for updates..."
+
+msgstr "جار البحث عن تحديث"
+
+#: Update+now
+msgid "Update now"
+
+msgstr "التحديث الان"
+
+#: Update+suggestion
+msgid "Update suggestion"
+
+msgstr "تحديث مقترح"
+
+#: It+is+recommended+that+the+battery+reaches+50%25+or+connect+to+the+power+supply+to+update
+msgid "It is recommended that the battery reaches 50% or connect to the power supply to update"
+
+msgstr "من المستحسن أن يصل مستوى البطارية إلى 50٪ أو الربط بمصدر الطاقة للتحديث"
+
+#: OK
+msgid "OK"
+
+msgstr "نعم"
+
+#: Cancel
+msgid "Cancel"
+
+msgstr "إلغاء"
+
+#: Unable+to+check+for+updates
+msgid "Unable to check for updates"
+
+msgstr "يتعذر التحقق علئ تحديثات"
+
+#: Please+connect+to+the+network+and+%0A+try+again
+msgid "Please connect to the network and \n try again"
+
+msgstr "يرجئ الاتصال بالشبكة والمحاله مره أخرى"
+
+#: Update+Settings
+msgid "Update Settings"
+
+msgstr "اعدادات التحديث"
+
+#: Automatically+check+for+updates+
+msgid "Automatically check for updates "
+
+msgstr "البحث عن التحديثات تلقائياً"
+
+#: Location
+msgid "Location"
+
+msgstr "المنطقة"
+
+#: Lockscreen+PIN
+msgid "Lockscreen PIN"
+
+msgstr "pin قفل الشاشه"
+
+#: Screen+Brightness
+msgid "Screen Brightness"
+
+msgstr "سطوع الشاشه"
+
+#: 0%25
+msgid "0%"
+
+msgstr ""
+
+#: 100%25
+msgid "100%"
+
+msgstr ""
+
+#: Lock+screen+and+Sleep
+msgid "Lock screen and Sleep"
+
+msgstr "قفل الشاشه و السكون"
+
+#: %251+minute
+msgid "%1 minute"
+
+msgstr "دقيقة"
+
+#: %251+minutes
+msgid "%1 minutes"
+
+msgstr ""
+
+#: Turn+off+the+screen
+msgid "Turn off the screen"
+
+msgstr "اطفاء الشاشه"
+
+#: Battery+%251
+msgid "Battery %1"
+
+msgstr "البطارية"
+
+#: %251+(%252)
+msgid "%1 (%2)"
+
+msgstr ""
+
+#: Port:
+msgid "Port:"
+
+msgstr "المنفذ"
+
+#: Increase+Volume
+msgid "Increase Volume"
+
+msgstr "رفع الصوت"
+
+#: Decrease+Volume
+msgid "Decrease Volume"
+
+msgstr "خفض الصوت"
+
+#: Mute
+msgid "Mute"
+
+msgstr "كتم"
+
+#: Sound
+msgid "Sound"
+
+msgstr "الصوت"
+
+#: Storage
+msgid "Storage"
+
+msgstr "التخزين"
+
+#: used:+%251+/+%252+
+msgid "used: %1 / %2 "
+
+msgstr "المستخدم"
+
