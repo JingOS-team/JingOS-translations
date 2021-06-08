@@ -2877,7 +2877,7 @@ msgstr "自动加入"
 
 #: mobile/wifi/package/contents/ui/ConnectedItem.qml:256
 #, kde-format
-msgid "Low Kata Mode "
+msgid "Low data Mode "
 msgstr "低数据模式"
 
 #: mobile/wifi/package/contents/ui/ConnectedItem.qml:269
