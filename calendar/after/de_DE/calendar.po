@@ -525,7 +525,7 @@ msgstr "Vor 1 Stunde"
 #: src/contents/ui/PopupEventEditor.qml:908
 #, kde-format
 msgid " 2 hours before"
-msgstr "Vor 2 Stunde"
+msgstr "Vor 2 Stunden"
 
 #: src/contents/ui/PopupEventEditor.qml:912 src/incidencealarmsmodel.cpp:213
 #, kde-format
