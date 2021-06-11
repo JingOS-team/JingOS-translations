@@ -1,132 +1,79 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: jingos-translation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-28 15:12+0800\n"
+"PO-Revision-Date: 2021-06-11 10:44\n"
+"Last-Translator: \n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
 "X-Crowdin-Project: jingos-translation\n"
 "X-Crowdin-Project-ID: 459864\n"
 "X-Crowdin-Language: cs\n"
-"X-Crowdin-File: /main/mediaplayer/po/es_ES/mediaplayer.po\n"
-"X-Crowdin-File-ID: 1364\n"
-"Project-Id-Version: jingos-translation\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Czech\n"
-"Language: cs_CZ\n"
-"PO-Revision-Date: 2021-06-11 10:43\n"
+"X-Crowdin-File: /main/polkit-kde-agent-1/po/ar_IQ/polkit-kde-agent-1.po\n"
+"X-Crowdin-File-ID: 1380\n"
 
-#: main.qml:127 main.qml:150
+#: authdialog.qml:59
+#, kde-format
+msgid "Certification required"
+msgstr ""
+
+#: authdialog.qml:234
 #, kde-format
 msgid "Cancel"
 msgstr ""
 
-#: main.qml:129
+#: authdialog.qml:291
 #, kde-format
-msgid "Play Video?"
+msgid "Certify"
 msgstr ""
 
-#: main.qml:130
+#: authdialog.qml:300 authdialog.qml:327
 #, kde-format
-msgid "Are u sure?"
+msgid "In the validation"
 msgstr ""
 
-#: main.qml:131
+#: main.cpp:64
 #, kde-format
-msgid "ok"
+msgid "PolicyKit1 KDE Agent"
 msgstr ""
 
-#: main.qml:161
+#: main.cpp:66
 #, kde-format
-msgid "Save to files"
+msgid "(c) 2009 Red Hat, Inc."
 msgstr ""
 
-#: main.qml:169 main.qml:235 main.qml:1798 main.qml:2339
-#: view_models/BabeTable/BabeTable.qml:108
+#: main.cpp:67
 #, kde-format
-msgid "Delete"
+msgid "Lukáš Tinkl"
 msgstr ""
 
-#: main.qml:182 main.qml:199
+#: main.cpp:67
 #, kde-format
-msgid "Are you sure you want to save the file to file manager?"
+msgid "Maintainer"
 msgstr ""
 
-#: main.qml:188 main.qml:211
+#: main.cpp:68
 #, kde-format
-msgid "Are you sure you want to delete the file?"
+msgid "Jaroslav Reznik"
 msgstr ""
 
-#: main.qml:196
+#: main.cpp:68
 #, kde-format
-msgid "Are you sure you want to save these files to file manager?"
+msgid "Former maintainer"
 msgstr ""
 
-#: main.qml:208
+#: policykitlistener.cpp:117
 #, kde-format
-msgid "Are you sure you want to delete these files?"
+msgid "Another client is already authenticating, please try again later."
 msgstr ""
 
-#: main.qml:227
+#: policykitlistener.cpp:178
 #, kde-format
-msgid "Save"
-msgstr ""
-
-#: main.qml:507
-#, kde-format
-msgid "Media"
-msgstr ""
-
-#: main.qml:542 view_models/BabeTable/BabeTable.qml:92
-#, kde-format
-msgid "Search"
-msgstr ""
-
-#: main.qml:594
-#, kde-format
-msgid "Video"
-msgstr ""
-
-#: main.qml:670 main.qml:850 main.qml:1103
-#, kde-format
-msgid "All"
-msgstr ""
-
-#: main.qml:752 main.qml:1016 main.qml:1109
-#, kde-format
-msgid "Lately"
-msgstr ""
-
-#: main.qml:774
-#, kde-format
-msgid "Music"
-msgstr ""
-
-#: main.qml:935 main.qml:1106
-#, kde-format
-msgid "Like"
-msgstr ""
-
-#: main.qml:1100
-#, kde-format
-msgid "Search Results"
-msgstr ""
-
-#: main.qml:1325
-#, kde-format
-msgid "No Results"
-msgstr ""
-
-#: main.qml:1689 main.qml:2230
-#, kde-format
-msgid "Batch editing"
-msgstr ""
-
-msgid "There is no video at present"
-msgstr ""
-
-msgid "There is no music at present"
-msgstr ""
-
-msgid "UNKNOWN"
-msgstr ""
-
-msgid "Sorry,there are no search results."
+msgid "Password input error, please try again"
 msgstr ""
 
