@@ -1,73 +1,132 @@
----
-# SPDX-FileCopyrightText: 2019 Christoph Cullmann <cullmann@kde.org>
-# SPDX-FileCopyrightText: 2019 Gernot Gebhard <gebhard@absint.com>
-#
-# SPDX-License-Identifier: MIT
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"X-Crowdin-Project: test-jingtr\n"
+"X-Crowdin-Project-ID: 460528\n"
+"X-Crowdin-Language: pl\n"
+"X-Crowdin-File: /main/mediaplayer/po/ar_IQ/mediaplayer.po\n"
+"X-Crowdin-File-ID: 3476\n"
+"Project-Id-Version: test-jingtr\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"PO-Revision-Date: 2021-06-11 11:16\n"
 
-# Style for C++
-Language: Cpp
+#: main.qml:127 main.qml:150
+#, kde-format
+msgid "Cancel"
+msgstr ""
 
-# base is WebKit coding style: https://webkit.org/code-style-guidelines/
-# below are only things set that diverge from this style!
-BasedOnStyle: WebKit
+#: main.qml:129
+#, kde-format
+msgid "Play Video?"
+msgstr ""
 
-# enforce C++11 (e.g. for std::vector<std::vector<lala>>
-Standard: Cpp11
+#: main.qml:130
+#, kde-format
+msgid "Are u sure?"
+msgstr ""
 
-# 4 spaces indent
-TabWidth: 4
+#: main.qml:131
+#, kde-format
+msgid "ok"
+msgstr ""
 
-# 2 * 80 wide lines
-ColumnLimit: 160
+#: main.qml:161
+#, kde-format
+msgid "Save to files"
+msgstr ""
 
-# sort includes inside line separated groups
-SortIncludes: true
+#: main.qml:169 main.qml:235 main.qml:1798 main.qml:2339
+#: view_models/BabeTable/BabeTable.qml:108
+#, kde-format
+msgid "Delete"
+msgstr ""
 
-# break before braces on function, namespace and class definitions.
-BreakBeforeBraces: Linux
+#: main.qml:182 main.qml:199
+#, kde-format
+msgid "Are you sure you want to save the file to file manager?"
+msgstr ""
 
-# CrlInstruction *a;
-PointerAlignment: Right
+#: main.qml:188 main.qml:211
+#, kde-format
+msgid "Are you sure you want to delete the file?"
+msgstr ""
 
-# horizontally aligns arguments after an open bracket.
-AlignAfterOpenBracket: Align
+#: main.qml:196
+#, kde-format
+msgid "Are you sure you want to save these files to file manager?"
+msgstr ""
 
-# don't move all parameters to new line
-AllowAllParametersOfDeclarationOnNextLine: false
+#: main.qml:208
+#, kde-format
+msgid "Are you sure you want to delete these files?"
+msgstr ""
 
-# no single line functions
-AllowShortFunctionsOnASingleLine: None
+#: main.qml:227
+#, kde-format
+msgid "Save"
+msgstr ""
 
-# always break before you encounter multi line strings
-AlwaysBreakBeforeMultilineStrings: true
+#: main.qml:507
+#, kde-format
+msgid "Media"
+msgstr ""
 
-# don't move arguments to own lines if they are not all on the same
-BinPackArguments: false
+#: main.qml:542 view_models/BabeTable/BabeTable.qml:92
+#, kde-format
+msgid "Search"
+msgstr ""
 
-# don't move parameters to own lines if they are not all on the same
-BinPackParameters: false
+#: main.qml:594
+#, kde-format
+msgid "Video"
+msgstr ""
 
-# In case we have an if statement whith multiple lines the operator should be at the beginning of the line
-# but we do not want to break assignments
-BreakBeforeBinaryOperators: NonAssignment
+#: main.qml:670 main.qml:850 main.qml:1103
+#, kde-format
+msgid "All"
+msgstr ""
 
-# format C++11 braced lists like function calls
-Cpp11BracedListStyle: true
+#: main.qml:752 main.qml:1016 main.qml:1109
+#, kde-format
+msgid "Lately"
+msgstr ""
 
-# do not put a space before C++11 braced lists
-SpaceBeforeCpp11BracedList: false
+#: main.qml:774
+#, kde-format
+msgid "Music"
+msgstr ""
 
-# remove empty lines
-KeepEmptyLinesAtTheStartOfBlocks: false
+#: main.qml:935 main.qml:1106
+#, kde-format
+msgid "Like"
+msgstr ""
 
-# no namespace indentation to keep indent level low
-NamespaceIndentation: None
+#: main.qml:1100
+#, kde-format
+msgid "Search Results"
+msgstr ""
 
-# we use template< without space.
-SpaceAfterTemplateKeyword: false
+#: main.qml:1325
+#, kde-format
+msgid "No Results"
+msgstr ""
 
-# macros for which the opening brace stays attached.
-ForEachMacros: [ foreach, Q_FOREACH, BOOST_FOREACH, forever, Q_FOREVER, QBENCHMARK, QBENCHMARK_ONCE ]
+#: main.qml:1689 main.qml:2230
+#, kde-format
+msgid "Batch editing"
+msgstr ""
 
-# keep lambda formatting multi-line if not empty
-AllowShortLambdasOnASingleLine: Empty
+msgid "There is no video at present"
+msgstr ""
+
+msgid "There is no music at present"
+msgstr ""
+
+msgid "UNKNOWN"
+msgstr ""
+
+msgid "Sorry,there are no search results."
+msgstr ""
+
