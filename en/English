@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jingos-translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-19 16:54+0800\n"
-"PO-Revision-Date: 2021-06-11 11:02\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2021-06-01 16:54+0800\n"
+"PO-Revision-Date: 2021-06-11 11:03\n"
+"Last-Translator: David Martínez Echavarría <damarte86@gmail.com>\n"
 "Language-Team: English\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
@@ -14,8 +14,8 @@ msgstr ""
 "X-Crowdin-Project: jingos-translation\n"
 "X-Crowdin-Project-ID: 459864\n"
 "X-Crowdin-Language: en\n"
-"X-Crowdin-File: /main/clock/po/zh_CN/j-clock.po\n"
-"X-Crowdin-File-ID: 1338\n"
+"X-Crowdin-File: /main/clock/po/es_ES/j-clock.po\n"
+"X-Crowdin-File-ID: 1336\n"
 
 #: src/alarmmodel.cpp:217
 #, kde-kuit-format
@@ -289,7 +289,7 @@ msgstr ""
 
 #: src/kclock/utilmodel.cpp:102
 #, kde-format
-msgid "Alarm will be rung after %1"
+msgid "La alarma sonará despues de %1"
 msgstr ""
 
 #: src/main.cpp:40
