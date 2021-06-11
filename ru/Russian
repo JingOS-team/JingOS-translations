@@ -1,20 +1,27 @@
-*.qmlc
-build/
-.kdev4/
-kclock.kdev4
-CMakeLists.txt.user
+# Abdalrahim G. Fakhouri <abdilra7eem@yahoo.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: test-jingtr\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:26+0200\n"
+"PO-Revision-Date: 2021-06-11 11:26\n"
+"Last-Translator: Abdalrahim G. Fakhouri <abdilra7eem@yahoo.com>\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Generator: Lokalize 1.5\n"
+"X-Crowdin-Project: test-jingtr\n"
+"X-Crowdin-Project-ID: 460528\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /main/powerdevil/po/ar/libpowerdevilcommonconfig.po\n"
+"X-Crowdin-File-ID: 3504\n"
 
-/cmake-build-debug
-/test.sh
-/flatpak-build-desktop
-/.flatpak-builder
-/mobiletest.sh
+#: ErrorOverlay.cpp:40
+#, kde-format
+msgid "Power Management configuration module could not be loaded.\n"
+"%1"
+msgstr ""
 
-kclock.cflags
-kclock.config
-kclock.creator
-kclock.creator.user
-kclock.cxxflags
-kclock.files
-kclock.includes
-.clang-format
