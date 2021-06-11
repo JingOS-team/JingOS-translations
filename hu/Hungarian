@@ -4,13 +4,13 @@ msgstr ""
 "X-Crowdin-Project: test-jingtr\n"
 "X-Crowdin-Project-ID: 460528\n"
 "X-Crowdin-Language: hu\n"
-"X-Crowdin-File: /main/filemanager/po/es_ES/filemanager.po\n"
-"X-Crowdin-File-ID: 3468\n"
+"X-Crowdin-File: /main/filemanager/po/zh_CN/filemanager.po\n"
+"X-Crowdin-File-ID: 3470\n"
 "Project-Id-Version: test-jingtr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
-"PO-Revision-Date: 2021-06-11 11:17\n"
+"PO-Revision-Date: 2021-06-11 11:18\n"
 
 #: src/LeftMenu.qml:50 src/main1.qml:380 src/main_bak.qml:380
 #: src/widgets/views/BrowserView.qml:121
