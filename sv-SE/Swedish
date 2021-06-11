@@ -1,3 +1,2 @@
-{
-  "phabricator.uri" : "https://phabricator.kde.org/"
-}
+build/
+CMakeLists.txt.*
