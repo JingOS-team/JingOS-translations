@@ -4,13 +4,13 @@ msgstr ""
 "X-Crowdin-Project: test-jingtr\n"
 "X-Crowdin-Project-ID: 460528\n"
 "X-Crowdin-Language: vi\n"
-"X-Crowdin-File: /main/mediaplayer/po/es_ES/mediaplayer.po\n"
-"X-Crowdin-File-ID: 3478\n"
+"X-Crowdin-File: /main/mediaplayer/po/zh_CN/mediaplayer.po\n"
+"X-Crowdin-File-ID: 3480\n"
 "Project-Id-Version: test-jingtr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2021-06-11 11:19\n"
+"PO-Revision-Date: 2021-06-11 11:20\n"
 
 #: main.qml:127 main.qml:150
 #, kde-format
