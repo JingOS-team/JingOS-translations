@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jingos-translation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-09-25 02:27+0200\n"
-"PO-Revision-Date: 2021-06-11 11:22\n"
+"POT-Creation-Date: 2020-07-06 02:13+0200\n"
+"PO-Revision-Date: 2021-06-11 11:23\n"
 "Last-Translator: Kheyyam Gojayev <xxmn77@gmail.com>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt\n"
@@ -16,8 +16,8 @@ msgstr ""
 "X-Crowdin-Project: jingos-translation\n"
 "X-Crowdin-Project-ID: 459864\n"
 "X-Crowdin-Language: pt-BR\n"
-"X-Crowdin-File: /main/powerdevil/po/az/powerdevilglobalconfig.po\n"
-"X-Crowdin-File-ID: 1416\n"
+"X-Crowdin-File: /main/powerdevil/po/az/powerdevilactivitiesconfig.po\n"
+"X-Crowdin-File-ID: 1414\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -29,154 +29,111 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: GeneralPage.cpp:109
+#: activitypage.cpp:74
 #, kde-format
-msgid "Do nothing"
+msgid "The activity service is running with bare functionalities.\n"
+"Names and icons of the activities might not be available."
 msgstr ""
 
-#: GeneralPage.cpp:111
+#: activitypage.cpp:148
+#, kde-format
+msgid "The activity service is not running.\n"
+"It is necessary to have the activity manager running to configure activity-specific power management behavior."
+msgstr ""
+
+#: activitypage.cpp:244
+#, kde-format
+msgid "The Power Management Service appears not to be running."
+msgstr ""
+
+#: activitywidget.cpp:97
 #, kde-format
 msgctxt "Suspend to RAM"
 msgid "Sleep"
 msgstr ""
 
-#: GeneralPage.cpp:114
+#: activitywidget.cpp:101
 #, kde-format
 msgid "Hibernate"
 msgstr ""
 
-#: GeneralPage.cpp:116
+#: activitywidget.cpp:103
 #, kde-format
 msgid "Shut down"
 msgstr ""
 
-#: GeneralPage.cpp:264
+#: activitywidget.cpp:107
 #, kde-format
-msgid "The Power Management Service appears not to be running."
+msgid "PC running on AC power"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, batteryLevelsLabel)
-#: generalPage.ui:22
+#: activitywidget.cpp:108
 #, kde-format
-msgid "<b>Battery Levels                     </b>"
+msgid "PC running on battery power"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, lowLabel)
-#: generalPage.ui:29
+#: activitywidget.cpp:109
 #, kde-format
-msgid "&Low level:"
+msgid "PC running on low battery"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QSpinBox, lowSpin)
-#: generalPage.ui:45
+#: activitywidget.cpp:138
 #, kde-format
-msgid "Low battery level"
+msgctxt "This is meant to be: Act like activity %1"
+msgid "Activity \"%1\""
 msgstr ""
 
-#. i18n: ectx: property (whatsThis), widget (QSpinBox, lowSpin)
-#: generalPage.ui:48
+#. i18n: ectx: property (text), widget (QRadioButton, noSettingsRadio)
+#: activityWidget.ui:19
 #, kde-format
-msgid "Battery will be considered low when it reaches this level"
+msgid "Do not use special settings"
 msgstr ""
 
-#. i18n: ectx: property (suffix), widget (QSpinBox, lowSpin)
-#. i18n: ectx: property (suffix), widget (QSpinBox, criticalSpin)
-#. i18n: ectx: property (suffix), widget (QSpinBox, lowPeripheralSpin)
-#. i18n: ectx: property (suffix), widget (QSpinBox, chargeStartThresholdSpin)
-#. i18n: ectx: property (suffix), widget (QSpinBox, chargeStopThresholdSpin)
-#: generalPage.ui:51 generalPage.ui:83 generalPage.ui:126 generalPage.ui:179
-#: generalPage.ui:242
-#, no-c-format, kde-format
-msgid "%"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, criticalLabel)
-#: generalPage.ui:61
+#. i18n: ectx: property (text), widget (QRadioButton, actLikeRadio)
+#: activityWidget.ui:31
 #, kde-format
-msgid "&Critical level:"
+msgid "Act like"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QSpinBox, criticalSpin)
-#: generalPage.ui:77
+#. i18n: ectx: property (text), widget (QRadioButton, specialBehaviorRadio)
+#: activityWidget.ui:60
 #, kde-format
-msgid "Critical battery level"
+msgid "Define a special behavior"
 msgstr ""
 
-#. i18n: ectx: property (whatsThis), widget (QSpinBox, criticalSpin)
-#: generalPage.ui:80
+#. i18n: ectx: property (text), widget (QCheckBox, noShutdownScreenBox)
+#: activityWidget.ui:72
 #, kde-format
-msgid "Battery will be considered critical when it reaches this level"
+msgid "Never turn off the screen"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, BatteryCriticalLabel)
-#: generalPage.ui:93
+#. i18n: ectx: property (text), widget (QCheckBox, noShutdownPCBox)
+#: activityWidget.ui:79
 #, kde-format
-msgid "A&t critical level:"
+msgid "Never shut down the computer or let it go to sleep"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, lowPeripheralLabel)
-#: generalPage.ui:119
+#. i18n: ectx: property (text), widget (QCheckBox, alwaysBox)
+#: activityWidget.ui:91
 #, kde-format
-msgid "Low level for peripheral devices:"
+msgid "Always"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, batteryThresholdLabel)
-#: generalPage.ui:142
+#. i18n: ectx: property (text), widget (QLabel, alwaysAfterLabel)
+#: activityWidget.ui:101
 #, kde-format
-msgid "Charge Limit"
+msgid "after"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, batteryThresholdExplanation)
-#: generalPage.ui:149
-#, no-c-format, kde-format
-msgid "<html><head/><body><p>Keeping the battery charged 100% over a prolonged period of time may accelerate deterioration of battery health. By limiting the maximum battery charge you can help extend the battery lifespan.</p></body></html>"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (KMessageWidget, chargeStopThresholdMessage)
-#: generalPage.ui:159
+#. i18n: ectx: property (suffix), widget (QSpinBox, alwaysAfterSpin)
+#: activityWidget.ui:108
 #, kde-format
-msgid "You might have to disconnect and re-connect the power source to start charging the battery again."
+msgid " min"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, chargeStartThresholdLabel)
-#: generalPage.ui:169
+#. i18n: ectx: property (text), widget (QRadioButton, separateSettingsRadio)
+#: activityWidget.ui:138
 #, kde-format
-msgid "Start charging only once below:"
-msgstr ""
-
-#. i18n: ectx: property (specialValueText), widget (QSpinBox, chargeStartThresholdSpin)
-#: generalPage.ui:176
-#, kde-format
-msgid "Always charge when plugged in"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, pausePlayersLabel)
-#: generalPage.ui:189
-#, kde-format
-msgid "Pause media players when suspending:"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, pausePlayersCheckBox)
-#: generalPage.ui:196
-#, kde-format
-msgid "Enabled"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QPushButton, notificationsButton)
-#: generalPage.ui:215
-#, kde-format
-msgid "Configure Notifications..."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, label_2)
-#: generalPage.ui:228
-#, kde-format
-msgid "Other Settings"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, chargeStopThresholdLabel)
-#: generalPage.ui:235
-#, kde-format
-msgid "Stop charging at:"
+msgid "Use separate settings (advanced users only)"
 msgstr ""
 
