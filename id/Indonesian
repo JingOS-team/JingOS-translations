@@ -1,382 +1,917 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: jingos-translation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-01 16:54+0800\n"
+"PO-Revision-Date: 2021-06-11 11:01\n"
+"Last-Translator: Carofano Massimo Antonio <massimo.carofano@gmail.com>\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: jingos-translation\n"
 "X-Crowdin-Project-ID: 459864\n"
 "X-Crowdin-Language: id\n"
-"X-Crowdin-File: /main/filemanager/po/zh_CN/filemanager.po\n"
-"X-Crowdin-File-ID: 1356\n"
-"Project-Id-Version: jingos-translation\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Indonesian\n"
-"Language: id_ID\n"
-"PO-Revision-Date: 2021-06-11 11:00\n"
+"X-Crowdin-File: /main/calendar/po/es_ES/calendar.po\n"
+"X-Crowdin-File-ID: 1328\n"
 
-#: src/LeftMenu.qml:50 src/main1.qml:380 src/main_bak.qml:380
-#: src/widgets/views/BrowserView.qml:121
-#: src/widgets/views/SettingsDialog.qml:197
+#: calindac/alarmnotification.cpp:15
 #, kde-format
-msgid "Type"
+msgid "Suspend"
 msgstr ""
 
-#: src/LeftMenu.qml:52 src/main.qml:36
+#: calindac/alarmnotification.cpp:15
 #, kde-format
-msgid "Document"
+msgid "Dismiss"
 msgstr ""
 
-#: src/LeftMenu.qml:53 src/main.qml:232
+#: calindac/calindacmain.cpp:20 calindac/calindacmain.cpp:21
 #, kde-format
-msgid "Picture"
+msgid "Calindori Alarm Check Daemon"
 msgstr ""
 
-#: src/LeftMenu.qml:54
+#: calindac/calindacmain.cpp:23
 #, kde-format
-msgid "Video"
+msgid "(c) 2019 Dimitris Kardarakos"
 msgstr ""
 
-#: src/LeftMenu.qml:55
+#: calindac/calindacmain.cpp:25
 #, kde-format
-msgid "Music"
+msgid "Dimitris Kardarakos"
 msgstr ""
 
-#: src/LeftMenu.qml:58
+#: calindac/calindacmain.cpp:25
 #, kde-format
-msgid "Location"
+msgid "Maintainer"
 msgstr ""
 
-#: src/LeftMenu.qml:59
+#: src/calindoriconfig.cpp:74
 #, kde-format
-msgid "Recents"
+msgid "Calendar name contains invalid characters"
 msgstr ""
 
-#: src/LeftMenu.qml:61
+#: src/calindoriconfig.cpp:96
 #, kde-format
-msgid "Downloads"
+msgid "Calendar already exists"
 msgstr ""
 
-#: src/LeftMenu.qml:62 src/main.qml:1763
+#: src/contents/ui/CalendarAction.qml:20
 #, kde-format
-msgid "On My Pad"
+msgid "Activate"
 msgstr ""
 
-#: src/LeftMenu.qml:63 src/main.qml:1767
-#: src/widgets/views/FileBroswerView.qml:327
-#, kde-format
-msgid "Trash"
-msgstr ""
-
-#: src/LeftMenu.qml:67
-#, kde-format
-msgid "Collection"
-msgstr ""
-
-#: src/LeftMenu.qml:88 src/main1.qml:663 src/main_bak.qml:663
-#: src/widgets/views/CustomPopup.qml:748 src/widgets/views/FolderMenu.qml:845
-#: src/widgets/views/TagMenu.qml:92 src/widgets/views/UnzipFileMenu.qml:175
-#: src/widgets/views/UnzipFileMenuWithoutOM.qml:838
-#: src/widgets/views/ZipFileMenu.qml:175
-#: src/widgets/views/ZipFileMenuWithoutOM.qml:166
-#, kde-format
-msgid "Tags"
-msgstr ""
-
-#: src/main1.qml:389 src/main_bak.qml:389 src/widgets/views/BrowserView.qml:130
-#: src/widgets/views/CustomPopup.qml:431
-#: src/widgets/views/SettingsDialog.qml:185
-#, kde-format
-msgid "Date"
-msgstr ""
-
-#: src/main1.qml:398 src/main_bak.qml:398
-#: src/widgets/previewer/FileInfo.qml:302 src/widgets/views/BrowserView.qml:139
-#, kde-format
-msgid "Modified"
-msgstr ""
-
-#: src/main1.qml:407 src/main_bak.qml:407 src/widgets/views/BrowserView.qml:148
-#: src/widgets/views/CustomPopup.qml:637
-#: src/widgets/views/SettingsDialog.qml:191
-#, kde-format
-msgid "Size"
-msgstr ""
-
-#: src/main1.qml:416 src/main_bak.qml:416 src/widgets/views/BrowserView.qml:157
-#: src/widgets/views/CustomPopup.qml:328
-#: src/widgets/views/FileBroswerView.qml:382
-#, kde-format
-msgid "Name"
-msgstr ""
-
-#: src/main1.qml:576 src/main_bak.qml:576 src/widgets/views/BrowserView.qml:317
-#: src/widgets/views/CustomPopup.qml:234
-#, kde-format
-msgid "List"
-msgstr ""
-
-#: src/main1.qml:651 src/main_bak.qml:651 src/widgets/views/FolderMenu.qml:882
-#: src/widgets/views/ZipFileMenu.qml:184
-#: src/widgets/views/ZipFileMenuWithoutOM.qml:175
-#, kde-format
-msgid "Compress"
-msgstr ""
-
-#: src/main1.qml:684 src/main_bak.qml:683 src/widgets/views/FileMenu.qml:106
-#: src/widgets/views/FolderMenu.qml:791 src/widgets/views/UnzipFileMenu.qml:121
-#: src/widgets/views/UnzipFileMenuWithoutOM.qml:784
-#: src/widgets/views/ZipFileMenu.qml:121
-#: src/widgets/views/ZipFileMenuWithoutOM.qml:112
-#, kde-format
-msgid "Copy"
-msgstr ""
-
-#: src/main1.qml:695 src/main_bak.qml:694 src/widgets/views/FileMenu.qml:118
-#: src/widgets/views/FolderMenu.qml:802 src/widgets/views/UnzipFileMenu.qml:132
-#: src/widgets/views/UnzipFileMenuWithoutOM.qml:795
-#: src/widgets/views/ZipFileMenu.qml:132
-#: src/widgets/views/ZipFileMenuWithoutOM.qml:123
-#, kde-format
-msgid "Cut"
-msgstr ""
-
-#: src/main1.qml:706 src/main_bak.qml:705 src/widgets/views/FileMenu.qml:141
-#: src/widgets/views/PlacesSideBar.qml:126
-#, kde-format
-msgid "Remove"
-msgstr ""
-
-#: src/main.qml:226
-#, kde-format
-msgid "Important"
-msgstr ""
-
-#: src/main.qml:227
-#, kde-format
-msgid "Life"
-msgstr ""
-
-#: src/main.qml:228
-#, kde-format
-msgid "Temporary"
-msgstr ""
-
-#: src/main.qml:229
-#, kde-format
-msgid "Work"
-msgstr ""
-
-#: src/main.qml:230
-#, kde-format
-msgid "Meeting"
-msgstr ""
-
-#: src/main.qml:231 src/widgets/views/FileBroswerView.qml:401
-#, kde-format
-msgid "File"
-msgstr ""
-
-#: src/main.qml:233
-#, kde-format
-msgid "Private"
-msgstr ""
-
-#: src/main.qml:414 src/widgets/views/BrowserItem.qml:220
-#: src/widgets/views/FileBroswerView.qml:332
-#: src/widgets/views/FileBroswerView.qml:423
-#: src/widgets/views/FileBroswerView.qml:1077
-#, kde-format
-msgid "Cancel"
-msgstr ""
-
-#: src/main.qml:415 src/main.qml:416 src/widgets/views/FileBroswerView.qml:326
-#: src/widgets/views/FolderMenu.qml:811 src/widgets/views/TrashFileMenu.qml:392
-#: src/widgets/views/UnzipFileMenu.qml:141
-#: src/widgets/views/UnzipFileMenuWithoutOM.qml:804
-#: src/widgets/views/ZipFileMenu.qml:141
-#: src/widgets/views/ZipFileMenuWithoutOM.qml:132
+#: src/contents/ui/CalendarAction.qml:27
+#: src/contents/ui/CalendarScheduleView.qml:401 src/contents/ui/DayView.qml:132
+#: src/contents/ui/EditDialogView.qml:126 src/contents/ui/EventsCardView.qml:61
+#: src/contents/ui/IncidenceListView.qml:95
+#: src/contents/ui/TodosCardView.qml:58 src/contents/ui/WeekView.qml:155
 #, kde-format
 msgid "Delete"
 msgstr ""
 
-#: src/main.qml:422 src/widgets/views/TrashNormalMenu.qml:177
+#: src/contents/ui/CalendarAction.qml:38
 #, kde-format
-msgid "Are you sure you want to delete these files?"
+msgid "Remove"
 msgstr ""
 
-#: src/main.qml:425 src/widgets/views/TrashNormalMenu.qml:180
+#: src/contents/ui/CalendarAction.qml:49
 #, kde-format
-msgid "Are you sure you want to delete the file?"
+msgid "All data included in this calendar will be deleted. Proceed with deletion?"
 msgstr ""
 
-#: src/main.qml:523
+#: src/contents/ui/CalendarEditor.qml:29
 #, kde-format
-msgid "Files"
+msgid "New calendar"
 msgstr ""
 
-#: src/main.qml:828
+#: src/contents/ui/CalendarEditor.qml:35
 #, kde-format
-msgid "Search"
+msgid "Calendar not imported. %1"
 msgstr ""
 
-#: src/main.qml:1053
+#: src/contents/ui/CalendarEditor.qml:80
 #, kde-format
-msgid " files have been copied"
+msgid "Name:"
 msgstr ""
 
-#: src/main.qml:1073
+#: src/contents/ui/CalendarEditor.qml:86
 #, kde-format
-msgid " files have been cut"
+msgid "Active:"
 msgstr ""
 
-#: src/main.qml:1569
+#: src/contents/ui/CalendarEditor.qml:95
 #, kde-format
-msgid "No Results"
+msgid "File:"
 msgstr ""
 
-#: src/main.qml:1572
+#: src/contents/ui/CalendarEditor.qml:105 src/contents/ui/EventEditor.qml:237
+#: src/contents/ui/RecurrencePickerSheet.qml:98
+#: src/contents/ui/ReminderEditor.qml:95 src/contents/ui/TimePickerSheet.qml:49
+#: src/contents/ui/TodoEditor.qml:267
 #, kde-format
-msgid "There are no files at present."
+msgid "Cancel"
 msgstr ""
 
-#: src/main.qml:1838
+#: src/contents/ui/CalendarEditor.qml:116 src/contents/ui/EventEditor.qml:245
+#: src/contents/ui/RecurrencePickerSheet.qml:89
+#: src/contents/ui/TodoEditor.qml:277
 #, kde-format
-msgid "Sorry, opening this file is not supported at present."
+msgid "Save"
 msgstr ""
 
-#: src/widgets/previewer/FileInfo.qml:178
+#: src/contents/ui/CalendarEditor.qml:149
+#: src/contents/ui/CalindoriGlobalDrawer.qml:194
 #, kde-format
-msgid "Infomation"
+msgid "Import"
 msgstr ""
 
-#: src/widgets/previewer/FileInfo.qml:203 src/widgets/views/CustomPopup.qml:534
+#: src/contents/ui/CalendarEditor.qml:149
+#: src/contents/ui/CalindoriGlobalDrawer.qml:206
+#: src/contents/ui/EventEditor.qml:196 src/contents/ui/IncidenceListView.qml:27
+#: src/contents/ui/TodoEditor.qml:221
 #, kde-format
-msgid "Kind"
+msgid "Add"
 msgstr ""
 
-#: src/widgets/previewer/FileInfo.qml:262
+#: src/contents/ui/CalendarScheduleView.qml:403
 #, kde-format
-msgid "Created"
+msgid "Are you sure you want to delete this event?"
 msgstr ""
 
-#: src/widgets/previewer/FileInfo.qml:342
+#: src/contents/ui/CalindoriGlobalDrawer.qml:28
 #, kde-format
-msgid "Last opened"
+msgid "View"
 msgstr ""
 
-#: src/widgets/previewer/FileInfo.qml:383
+#: src/contents/ui/CalindoriGlobalDrawer.qml:33
 #, kde-format
-msgid "Where"
+msgid "Month"
 msgstr ""
 
-#: src/widgets/views/BrowserMenu.qml:218 src/widgets/views/FolderMenu.qml:836
-#: src/widgets/views/TrashFileMenu.qml:405
-#: src/widgets/views/UnzipFileMenu.qml:166
-#: src/widgets/views/UnzipFileMenuWithoutOM.qml:829
-#: src/widgets/views/ZipFileMenu.qml:166
-#: src/widgets/views/ZipFileMenuWithoutOM.qml:157
+#: src/contents/ui/CalindoriGlobalDrawer.qml:42
 #, kde-format
-msgid "Info"
+msgid "Day"
 msgstr ""
 
-#: src/widgets/views/BrowserMenu.qml:230
+#: src/contents/ui/CalindoriGlobalDrawer.qml:51
 #, kde-format
-msgid "Paste"
+msgid "Week"
 msgstr ""
 
-#: src/widgets/views/CustomPopup.qml:146
+#: src/contents/ui/CalindoriGlobalDrawer.qml:60
 #, kde-format
-msgid "Icons"
+msgid "All Tasks"
 msgstr ""
 
-#: src/widgets/views/EditTagMenu.qml:121
+#: src/contents/ui/CalindoriGlobalDrawer.qml:69
 #, kde-format
-msgid "Edit Tags"
+msgid "All Events"
 msgstr ""
 
-#: src/widgets/views/FileBroswerView.qml:414
-#: src/widgets/views/FileBroswerView.qml:422
-#: src/widgets/views/FolderMenu.qml:820 src/widgets/views/UnzipFileMenu.qml:150
-#: src/widgets/views/UnzipFileMenuWithoutOM.qml:813
-#: src/widgets/views/ZipFileMenu.qml:150
-#: src/widgets/views/ZipFileMenuWithoutOM.qml:141
+#: src/contents/ui/CalindoriGlobalDrawer.qml:81
 #, kde-format
-msgid "Rename"
+msgid "Calendar Management"
 msgstr ""
 
-#: src/widgets/views/FolderMenu.qml:772 src/widgets/views/UnzipFileMenu.qml:94
-#: src/widgets/views/UnzipFileMenuWithoutOM.qml:766
-#: src/widgets/views/ZipFileMenu.qml:94
-#: src/widgets/views/ZipFileMenuWithoutOM.qml:94
+#: src/contents/ui/CalindoriGlobalDrawer.qml:89
 #, kde-format
-msgid "Bulk edit"
+msgid "Local"
 msgstr ""
 
-#: src/widgets/views/FolderMenu.qml:858
+#: src/contents/ui/CalindoriGlobalDrawer.qml:101
 #, kde-format
-msgid "Remove favorite"
+msgid "External"
 msgstr ""
 
-#: src/widgets/views/FolderMenu.qml:861
+#: src/contents/ui/CalindoriGlobalDrawer.qml:108
+#: src/contents/ui/SettingsPage.qml:15
 #, kde-format
-msgid "Favorite"
+msgid "Settings"
 msgstr ""
 
-#: src/widgets/views/GridDelegate.qml:380
-#: src/widgets/views/ListViewDelegate.qml:315
+#: src/contents/ui/CalindoriGlobalDrawer.qml:121
 #, kde-format
-msgid "The file name cannot contain the following characters: '# / ?'"
+msgid "About"
 msgstr ""
 
-#: src/widgets/views/GridDelegate.qml:409
-#: src/widgets/views/ListViewDelegate.qml:344
+#: src/contents/ui/CalindoriGlobalDrawer.qml:182
 #, kde-format
-msgid "The file name already exists."
+msgid "Create"
 msgstr ""
 
-#: src/widgets/views/OpenWithDialog.qml:54
+#: src/contents/ui/ConfirmationSheet.qml:22
 #, kde-format
-msgid "Open with"
+msgid "Confirm"
 msgstr ""
 
-#: src/widgets/views/TrashFileMenu.qml:380
+#: src/contents/ui/ConfirmationSheet.qml:37
 #, kde-format
-msgid "Recover"
+msgid "Yes"
 msgstr ""
 
-#: src/widgets/views/TrashNormalMenu.qml:171
+#: src/contents/ui/ConfirmationSheet.qml:46
 #, kde-format
-msgid "Delete all"
+msgid "No"
 msgstr ""
 
-#: src/widgets/views/UnzipFileMenu.qml:112
-#: src/widgets/views/ZipFileMenu.qml:112
+#: src/contents/ui/DayPage.qml:20
 #, kde-format
-msgid "Open mode"
+msgid "Previous day"
 msgstr ""
 
-#: src/widgets/views/UnzipFileMenu.qml:184
-#: src/widgets/views/UnzipFileMenuWithoutOM.qml:847
+#: src/contents/ui/DayPage.qml:27
 #, kde-format
-msgid "Uncompress"
+msgid "Today"
 msgstr ""
 
-msgid "The file name cannot starts whit character: '.'"
+#: src/contents/ui/DayPage.qml:34
+#, kde-format
+msgid "Next day"
 msgstr ""
 
-msgid "File has been copied"
+#: src/contents/ui/DayPage.qml:42 src/contents/ui/WeekPage.qml:43
+#, kde-format
+msgid "Add Event"
 msgstr ""
 
-msgid "File has been cut"
+#: src/contents/ui/DayPage.qml:48 src/contents/ui/WeekPage.qml:49
+#, kde-format
+msgid "Add Task"
 msgstr ""
 
-msgid "New folder"
+#: src/contents/ui/DayView.qml:142 src/contents/ui/IncidenceListView.qml:105
+#: src/contents/ui/WeekView.qml:165
+#, kde-format
+msgid "Close"
 msgstr ""
 
-msgid "Open in terminal"
+#: src/contents/ui/DayView.qml:149 src/contents/ui/EventsCardView.qml:71
+#: src/contents/ui/IncidenceListView.qml:112
+#: src/contents/ui/TodosCardView.qml:68 src/contents/ui/WeekView.qml:172
+#, kde-format
+msgid "Edit"
 msgstr ""
 
-msgid "Information"
+#: src/contents/ui/DayView.qml:183 src/contents/ui/IncidenceListView.qml:122
+#: src/contents/ui/WeekView.qml:205
+#, kde-format
+msgid "%1 will be deleted. Proceed?"
 msgstr ""
 
-msgid "The tag name cannot empty."
+#: src/contents/ui/EventEditor.qml:44
+#, kde-format
+msgid "New event"
+msgstr ""
+
+#: src/contents/ui/EventEditor.qml:58 src/contents/ui/TodoEditor.qml:61
+#, kde-format
+msgid "Calendar:"
+msgstr ""
+
+#: src/contents/ui/EventEditor.qml:71 src/contents/ui/TodoEditor.qml:74
+#, kde-format
+msgid "Summary:"
+msgstr ""
+
+#: src/contents/ui/EventEditor.qml:77 src/contents/ui/TodoEditor.qml:79
+#, kde-format
+msgid "Start:"
+msgstr ""
+
+#: src/contents/ui/EventEditor.qml:83 src/contents/ui/TodoEditor.qml:85
+#, kde-format
+msgid "Start Date"
+msgstr ""
+
+#: src/contents/ui/EventEditor.qml:89 src/contents/ui/TodoEditor.qml:94
+#, kde-format
+msgid "Start Time"
+msgstr ""
+
+#: src/contents/ui/EventEditor.qml:99
+#, kde-format
+msgid "End:"
+msgstr ""
+
+#: src/contents/ui/EventEditor.qml:106
+#, kde-format
+msgid "End Date"
+msgstr ""
+
+#: src/contents/ui/EventEditor.qml:127
+#, kde-format
+msgid "End Time"
+msgstr ""
+
+#: src/contents/ui/EventEditor.qml:141 src/contents/ui/IncidenceListView.qml:71
+#: src/contents/ui/TodoEditor.qml:172
+#, kde-format
+msgid "All day"
+msgstr ""
+
+#: src/contents/ui/EventEditor.qml:152 src/contents/ui/TodoEditor.qml:183
+#, kde-format
+msgid "Location:"
+msgstr ""
+
+#: src/contents/ui/EventEditor.qml:165
+#, kde-format
+msgid "Repeat:"
+msgstr ""
+
+#: src/contents/ui/EventEditor.qml:184 src/contents/ui/TodoEditor.qml:203
+#, kde-format
+msgid "Description"
+msgstr ""
+
+#: src/contents/ui/EventEditor.qml:192 src/contents/ui/TodoEditor.qml:217
+#, kde-format
+msgid "Reminders"
+msgstr ""
+
+#: src/contents/ui/EventsCardView.qml:19
+#: src/contents/ui/IncidenceListView.qml:21 src/contents/ui/SettingsPage.qml:22
+#, kde-format
+msgid "Events"
+msgstr ""
+
+#: src/contents/ui/EventsCardView.qml:26
+#: src/contents/ui/PopupEventEditor.qml:188
+#: src/contents/ui/PopupEventEditor.qml:346
+#, kde-format
+msgid "New Event"
+msgstr ""
+
+#: src/contents/ui/EventsCardView.qml:46
+#, kde-format
+msgid "No events scheduled for %1"
+msgstr ""
+
+#: src/contents/ui/EventsCardView.qml:46
+#, kde-format
+msgid "No events scheduled"
+msgstr ""
+
+#: src/contents/ui/IncidenceListView.qml:21
+#: src/contents/ui/TodosCardView.qml:19
+#, kde-format
+msgid "Tasks"
+msgstr ""
+
+#: src/contents/ui/IncidenceListView.qml:40
+#, kde-format
+msgid "Show Completed"
+msgstr ""
+
+#: src/contents/ui/IncidenceListView.qml:40
+#, kde-format
+msgid "Hide Completed"
+msgstr ""
+
+#: src/contents/ui/IncidenceListView.qml:49
+#, kde-format
+msgid "Nothing scheduled for %1"
+msgstr ""
+
+#: src/contents/ui/IncidenceListView.qml:49
+#, kde-format
+msgid "Nothing scheduled"
+msgstr ""
+
+#: src/contents/ui/kirigami-playground/CalendarHeader.qml:48
+#, kde-format
+msgid "%1 task"
+msgid_plural "%1 tasks"
+msgstr[0] ""
+
+#: src/contents/ui/kirigami-playground/CalendarHeader.qml:50
+#, kde-format
+msgid "%1 event"
+msgid_plural "%1 events"
+msgstr[0] ""
+
+#: src/contents/ui/kirigami-playground/CustomMonthView.qml:52
+#: src/contents/ui/PopupEventEditor.qml:638
+#, kde-format
+msgid "Time"
+msgstr ""
+
+#: src/contents/ui/kirigami-playground/DateSelectWheelView.qml:51
+#, kde-format
+msgid "January"
+msgstr ""
+
+#: src/contents/ui/kirigami-playground/DateSelectWheelView.qml:54
+#, kde-format
+msgid "February"
+msgstr ""
+
+#: src/contents/ui/kirigami-playground/DateSelectWheelView.qml:57
+#, kde-format
+msgid "March"
+msgstr ""
+
+#: src/contents/ui/kirigami-playground/DateSelectWheelView.qml:60
+#, kde-format
+msgid "April"
+msgstr ""
+
+#: src/contents/ui/kirigami-playground/DateSelectWheelView.qml:63
+#, kde-format
+msgid "May"
+msgstr ""
+
+#: src/contents/ui/kirigami-playground/DateSelectWheelView.qml:66
+#, kde-format
+msgid "June"
+msgstr ""
+
+#: src/contents/ui/kirigami-playground/DateSelectWheelView.qml:69
+#, kde-format
+msgid "July"
+msgstr ""
+
+#: src/contents/ui/kirigami-playground/DateSelectWheelView.qml:72
+#, kde-format
+msgid "August"
+msgstr ""
+
+#: src/contents/ui/kirigami-playground/DateSelectWheelView.qml:75
+#, kde-format
+msgid "September"
+msgstr ""
+
+#: src/contents/ui/kirigami-playground/DateSelectWheelView.qml:78
+#, kde-format
+msgid "October"
+msgstr ""
+
+#: src/contents/ui/kirigami-playground/DateSelectWheelView.qml:81
+#, kde-format
+msgid "November"
+msgstr ""
+
+#: src/contents/ui/kirigami-playground/DateSelectWheelView.qml:84
+#, kde-format
+msgid "December"
+msgstr ""
+
+#: src/contents/ui/kirigami-playground/TimePicker.qml:97
+#, kde-format
+msgid "AM"
+msgstr ""
+
+#: src/contents/ui/kirigami-playground/TimePicker.qml:104
+#, kde-format
+msgid "PM"
+msgstr ""
+
+#: src/contents/ui/PopupEventEditor.qml:147
+#, kde-format
+msgid "Edit Event"
+msgstr ""
+
+#: src/contents/ui/PopupEventEditor.qml:487
+#, kde-format
+msgid "Title"
+msgstr ""
+
+#: src/contents/ui/PopupEventEditor.qml:561
+#: src/contents/ui/PopupEventEditor.qml:788
+#, kde-format
+msgid "Alert"
+msgstr ""
+
+#: src/contents/ui/PopupEventEditor.qml:880 src/incidencealarmsmodel.cpp:200
+#, kde-format
+msgid "None"
+msgstr ""
+
+#: src/contents/ui/PopupEventEditor.qml:884 src/incidencealarmsmodel.cpp:209
+#, kde-format
+msgid "At time of event"
+msgstr ""
+
+#: src/contents/ui/PopupEventEditor.qml:888
+#, kde-format
+msgid " 5 minutes before"
+msgstr ""
+
+#: src/contents/ui/PopupEventEditor.qml:892
+#, kde-format
+msgid " 10 minutes before"
+msgstr ""
+
+#: src/contents/ui/PopupEventEditor.qml:896
+#, kde-format
+msgid " 15 minutes before"
+msgstr ""
+
+#: src/contents/ui/PopupEventEditor.qml:900
+#, kde-format
+msgid " 30 minutes before"
+msgstr ""
+
+#: src/contents/ui/PopupEventEditor.qml:904
+#, kde-format
+msgid " 1 hour before"
+msgstr ""
+
+#: src/contents/ui/PopupEventEditor.qml:908
+#, kde-format
+msgid " 2 hours before"
+msgstr ""
+
+#: src/contents/ui/PopupEventEditor.qml:912 src/incidencealarmsmodel.cpp:213
+#, kde-format
+msgid "1 day before"
+msgid_plural "%1 days before"
+msgstr[0] ""
+
+#: src/contents/ui/PopupEventEditor.qml:916
+#, kde-format
+msgid "2 days before"
+msgstr ""
+
+#: src/contents/ui/RecurrencePickerSheet.qml:31
+#, kde-format
+msgid "Repeat"
+msgstr ""
+
+#: src/contents/ui/RecurrencePickerSheet.qml:57
+#, kde-format
+msgid "%1 year"
+msgid_plural "%1 years"
+msgstr[0] ""
+
+#: src/contents/ui/RecurrencePickerSheet.qml:58
+#, kde-format
+msgid "%1 month"
+msgid_plural "%1 months"
+msgstr[0] ""
+
+#: src/contents/ui/RecurrencePickerSheet.qml:59
+#, kde-format
+msgid "%1 week"
+msgid_plural "%1 weeks"
+msgstr[0] ""
+
+#: src/contents/ui/RecurrencePickerSheet.qml:60
+#, kde-format
+msgid "%1 day"
+msgid_plural "%1 days"
+msgstr[0] ""
+
+#: src/contents/ui/RecurrencePickerSheet.qml:66
+#, kde-format
+msgid "Every:"
+msgstr ""
+
+#: src/contents/ui/RecurrencePickerSheet.qml:73
+#, kde-format
+msgid "%1 repeat"
+msgid_plural "%1 repeats"
+msgstr[0] ""
+
+#: src/contents/ui/RecurrencePickerSheet.qml:73
+#, kde-format
+msgid "Never stop"
+msgstr ""
+
+#: src/contents/ui/RecurrencePickerSheet.qml:79
+#, kde-format
+msgid "Stop After:"
+msgstr ""
+
+#: src/contents/ui/ReminderEditor.qml:27
+#, kde-format
+msgid "New Reminder"
+msgstr ""
+
+#: src/contents/ui/ReminderEditor.qml:33
+#, kde-format
+msgid "Time before start"
+msgstr ""
+
+#: src/contents/ui/ReminderEditor.qml:46
+#, kde-format
+msgid "Seconds:"
+msgstr ""
+
+#: src/contents/ui/ReminderEditor.qml:55
+#, kde-format
+msgid "Minutes:"
+msgstr ""
+
+#: src/contents/ui/ReminderEditor.qml:65
+#, kde-format
+msgid "Hours:"
+msgstr ""
+
+#: src/contents/ui/ReminderEditor.qml:74
+#, kde-format
+msgid "Days:"
+msgstr ""
+
+#: src/contents/ui/ReminderEditor.qml:87 src/contents/ui/TimePickerSheet.qml:41
+#, kde-format
+msgid "OK"
+msgstr ""
+
+#: src/contents/ui/SettingsPage.qml:27
+#, kde-format
+msgid "Initial duration (minutes)"
+msgstr ""
+
+#: src/contents/ui/SettingsPage.qml:37
+#, kde-format
+msgid "Remind before event (minutes)"
+msgstr ""
+
+#: src/contents/ui/SettingsPage.qml:46
+#, kde-format
+msgid "Add reminder to new events"
+msgstr ""
+
+#: src/contents/ui/TodoEditor.qml:35
+#, kde-format
+msgid "New task"
+msgstr ""
+
+#: src/contents/ui/TodoEditor.qml:115
+#, kde-format
+msgid "Due:"
+msgstr ""
+
+#: src/contents/ui/TodoEditor.qml:121
+#, kde-format
+msgid "Due Date"
+msgstr ""
+
+#: src/contents/ui/TodoEditor.qml:147
+#, kde-format
+msgid "Due Time"
+msgstr ""
+
+#: src/contents/ui/TodoEditor.qml:258
+#, kde-format
+msgid "Completed"
+msgstr ""
+
+#: src/contents/ui/TodosCardView.qml:23
+#, kde-format
+msgid "New Task"
+msgstr ""
+
+#: src/contents/ui/TodosCardView.qml:43
+#, kde-format
+msgid "No tasks scheduled for %1"
+msgstr ""
+
+#: src/contents/ui/TodosCardView.qml:43
+#, kde-format
+msgid "No tasks scheduled"
+msgstr ""
+
+#: src/contents/ui/WeekPage.qml:21
+#, kde-format
+msgid "Previous week"
+msgstr ""
+
+#: src/contents/ui/WeekPage.qml:28
+#, kde-format
+msgid "Current week"
+msgstr ""
+
+#: src/contents/ui/WeekPage.qml:35
+#, kde-format
+msgid "Next week"
+msgstr ""
+
+#: src/eventcontroller.cpp:171
+#, kde-format
+msgid "In case of all day events, start date and end date should be equal"
+msgstr ""
+
+#: src/eventcontroller.cpp:181
+#, kde-format
+msgid "End date time should be equal to or greater than the start date time"
+msgstr ""
+
+#: src/eventcontroller.cpp:193
+#, kde-format
+msgid "Daily events should not span multiple days"
+msgstr ""
+
+#: src/incidencealarmsmodel.cpp:156
+#, kde-format
+msgid "days before start"
+msgstr ""
+
+#: src/incidencealarmsmodel.cpp:159
+#, kde-format
+msgid "seconds before start"
+msgstr ""
+
+#: src/incidencealarmsmodel.cpp:218
+#, kde-format
+msgid "1 day"
+msgid_plural "%1 days"
+msgstr[0] ""
+
+#: src/incidencealarmsmodel.cpp:220
+#, kde-format
+msgid "1 hour"
+msgid_plural "%1 hours"
+msgstr[0] ""
+
+#: src/incidencealarmsmodel.cpp:222
+#, kde-format
+msgid "1 minute"
+msgid_plural "%1 minutes"
+msgstr[0] ""
+
+#: src/incidencealarmsmodel.cpp:224
+#, kde-format
+msgid "1 second"
+msgid_plural "%1 seconds"
+msgstr[0] ""
+
+#: src/incidencealarmsmodel.cpp:226
+#, kde-format
+msgid "before"
+msgstr ""
+
+#: src/incidencemodel.cpp:178
+#, kde-format
+msgid "Event"
+msgstr ""
+
+#: src/incidencemodel.cpp:180
+#, kde-format
+msgid "Task"
+msgstr ""
+
+#: src/incidencemodel.cpp:480 src/incidencemodel.cpp:536
+#: src/incidencemodel.cpp:553
+#, kde-format
+msgid "all-day"
+msgstr ""
+
+#: src/incidencemodel.cpp:528
+#, kde-format
+msgid "No Due Date"
+msgstr ""
+
+#: src/localcalendar.cpp:107
+#, kde-format
+msgid "A calendar with the same name already exists"
+msgstr ""
+
+#: src/localcalendar.cpp:135
+#, kde-format
+msgid "The calendar file is not valid"
+msgstr ""
+
+#: src/localcalendar.cpp:143
+#, kde-format
+msgid "The calendar file cannot be saved"
+msgstr ""
+
+#: src/main.cpp:36
+#, kde-format
+msgid "JingOS Calendar"
+msgstr ""
+
+#: src/main.cpp:36
+#, kde-format
+msgctxt "@title"
+msgid "Calendar application"
+msgstr ""
+
+#: src/main.cpp:36
+#, kde-format
+msgctxt "@info:credit"
+msgid "(c) 2018-2020 The Calindori Team"
+msgstr ""
+
+#: src/main.cpp:41
+#, kde-format
+msgctxt "@info:credit"
+msgid "Dimitris Kardarakos"
+msgstr ""
+
+#: src/main.cpp:41
+#, kde-format
+msgctxt "@info:credit"
+msgid "Maintainer and Developer"
+msgstr ""
+
+#: src/main.cpp:43
+#, kde-format
+msgctxt "@info:credit"
+msgid "Nicolas Fella"
+msgstr ""
+
+#: src/main.cpp:43
+#, kde-format
+msgctxt "@info:credit"
+msgid "Developer"
+msgstr ""
+
+#: src/recurrenceperiodmodel.cpp:114
+#, kde-format
+msgid "Do not repeat"
+msgstr ""
+
+#: src/recurrenceperiodmodel.cpp:118
+#, kde-format
+msgid "Yearly"
+msgstr ""
+
+#: src/recurrenceperiodmodel.cpp:121
+#, kde-format
+msgid "Monthly"
+msgstr ""
+
+#: src/recurrenceperiodmodel.cpp:123
+#, kde-format
+msgid "Weekly"
+msgstr ""
+
+#: src/recurrenceperiodmodel.cpp:125
+#, kde-format
+msgid "Daily"
+msgstr ""
+
+#: src/recurrenceperiodmodel.cpp:133
+#, kde-format
+msgid "Every year"
+msgid_plural "Every %1 years"
+msgstr[0] ""
+
+#: src/recurrenceperiodmodel.cpp:134
+#, kde-format
+msgid "Every month"
+msgid_plural "Every %1 months"
+msgstr[0] ""
+
+#: src/recurrenceperiodmodel.cpp:135
+#, kde-format
+msgid "Every week"
+msgid_plural "Every %1 weeks"
+msgstr[0] ""
+
+#: src/recurrenceperiodmodel.cpp:136
+#, kde-format
+msgid "Every day"
+msgid_plural "Every %1 days"
+msgstr[0] ""
+
+#: src/recurrenceperiodmodel.cpp:136
+#, kde-format
+msgid "Never"
+msgstr ""
+
+#: src/recurrenceperiodmodel.cpp:136
+#, kde-format
+msgid "; once"
+msgid_plural "; %1 times"
+msgstr[0] ""
+
+#: src/todocontroller.cpp:128
+#, kde-format
+msgid "In case of all day tasks, start date and due date should be equal"
+msgstr ""
+
+#: src/todocontroller.cpp:135
+#, kde-format
+msgid "Due date time should be equal to or greater than the start date time"
+msgstr ""
+
+msgid "Sun"
+msgstr ""
+
+msgid "Mon"
+msgstr ""
+
+msgid "Tue"
+msgstr ""
+
+msgid "Wed"
+msgstr ""
+
+msgid "Thu"
+msgstr ""
+
+msgid "Fri"
+msgstr ""
+
+msgid "Sat"
+msgstr ""
+
+msgid "Sunday"
 msgstr ""
 
