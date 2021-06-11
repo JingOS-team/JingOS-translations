@@ -114,7 +114,7 @@ msgstr ""
 #: applet/contents/ui/Toolbar.qml:84
 #, kde-format
 msgid "Enable Wi-Fi"
-msgstr ""
+msgstr "启用WIFI"
 
 #: applet/contents/ui/Toolbar.qml:100
 #, kde-format
@@ -137,17 +137,17 @@ msgstr ""
 #: mobile/hotspot/hotspotsettings.cpp:30
 #, kde-format
 msgid "Hotspot"
-msgstr ""
+msgstr "热点"
 
 #: applet/contents/ui/Toolbar.qml:176 applet/contents/ui/Toolbar.qml:187
 #, kde-format
 msgid "Disable Hotspot"
-msgstr ""
+msgstr "禁用热点"
 
 #: applet/contents/ui/Toolbar.qml:181 applet/contents/ui/Toolbar.qml:187
 #, kde-format
 msgid "Create Hotspot"
-msgstr ""
+msgstr "创建热点"
 
 #: applet/contents/ui/Toolbar.qml:199
 #, kde-format
@@ -175,12 +175,12 @@ msgstr ""
 #: applet/contents/ui/TrafficMonitor.qml:96
 #, kde-format
 msgid "Upload"
-msgstr ""
+msgstr "上传"
 
 #: applet/contents/ui/TrafficMonitor.qml:96
 #, kde-format
 msgid "Download"
-msgstr ""
+msgstr "下载"
 
 #: kcm/kcm.cpp:361
 #, kde-format
@@ -190,7 +190,7 @@ msgstr ""
 #: kcm/kcm.cpp:423
 #, kde-format
 msgid "Export VPN Connection"
-msgstr ""
+msgstr "导出VPN 连接"
 
 #: kcm/kcm.cpp:443
 #, kde-format
@@ -201,12 +201,12 @@ msgstr ""
 #, kde-format
 msgctxt "@title:window"
 msgid "Save Changes"
-msgstr ""
+msgstr "保存修改"
 
 #: kcm/kcm.cpp:532
 #, kde-format
 msgid "Import VPN Connection"
-msgstr ""
+msgstr "导入VPN 连接"
 
 #: kcm/qml/AddConnectionDialog.qml:31
 #, kde-format
