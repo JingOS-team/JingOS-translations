@@ -1,382 +1,218 @@
+#. extracted from appstore.csv
 msgid ""
 msgstr ""
+"Project-Id-Version: jingos-translation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-22 11:01+0800\n"
+"PO-Revision-Date: 2021-06-11 11:00\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.0\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: jingos-translation\n"
 "X-Crowdin-Project-ID: 459864\n"
 "X-Crowdin-Language: zh-CN\n"
-"X-Crowdin-File: /main/filemanager/po/zh_CN/filemanager.po\n"
-"X-Crowdin-File-ID: 1356\n"
-"Project-Id-Version: jingos-translation\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language-Team: Chinese Simplified\n"
+"X-Crowdin-File: /main/discover/po/ar_IQ/appstore.po\n"
+"X-Crowdin-File-ID: 1342\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-06-11 11:00\n"
 
-#: src/LeftMenu.qml:50 src/main1.qml:380 src/main_bak.qml:380
-#: src/widgets/views/BrowserView.qml:121
-#: src/widgets/views/SettingsDialog.qml:197
-#, kde-format
-msgid "Type"
+#: discover/DiscoverObject.cpp:279+discover/DiscoverObject.cpp:309
+msgid "Could not open %1"
 msgstr ""
 
-#: src/LeftMenu.qml:52 src/main.qml:36
-#, kde-format
-msgid "Document"
+#: discover/cus/AppClassModel.cpp:191
+msgid "Feature applications"
 msgstr ""
 
-#: src/LeftMenu.qml:53 src/main.qml:232
-#, kde-format
-msgid "Picture"
+#: discover/cus/AppClassModel.cpp:221+discover/qml/cus/DiscoverRightPage.qml:19
+msgid "SoftWare update"
 msgstr ""
 
-#: src/LeftMenu.qml:54
-#, kde-format
-msgid "Video"
+#: discover/cus/AppClassModel.cpp:224+discover/qml/cus/DiscoverRightPage.qml:181
+msgid "Installed apps"
 msgstr ""
 
-#: src/LeftMenu.qml:55
-#, kde-format
-msgid "Music"
+#: discover/main.cpp:104+notifier/main.cpp:43
+msgid "Your names"
 msgstr ""
 
-#: src/LeftMenu.qml:58
-#, kde-format
-msgid "Location"
+#: discover/main.cpp:105+notifier/main.cpp:44
+msgid "Your emails"
 msgstr ""
 
-#: src/LeftMenu.qml:59
-#, kde-format
-msgid "Recents"
+#: discover/qml/ApplicationPage.qml:93
+msgid "Sources"
 msgstr ""
 
-#: src/LeftMenu.qml:61
-#, kde-format
-msgid "Downloads"
+#: discover/qml/ApplicationPage.qml:241
+msgid "Application Introduction"
 msgstr ""
 
-#: src/LeftMenu.qml:62 src/main.qml:1763
-#, kde-format
-msgid "On My Pad"
+#: discover/qml/ApplicationPage.qml:273
+msgid "Detailed information"
 msgstr ""
 
-#: src/LeftMenu.qml:63 src/main.qml:1767
-#: src/widgets/views/FileBroswerView.qml:327
-#, kde-format
-msgid "Trash"
+#: discover/qml/ApplicationPage.qml:310
+msgid "Edition"
 msgstr ""
 
-#: src/LeftMenu.qml:67
-#, kde-format
-msgid "Collection"
+#: discover/qml/ApplicationPage.qml:320
+msgid "Download size"
 msgstr ""
 
-#: src/LeftMenu.qml:88 src/main1.qml:663 src/main_bak.qml:663
-#: src/widgets/views/CustomPopup.qml:748 src/widgets/views/FolderMenu.qml:845
-#: src/widgets/views/TagMenu.qml:92 src/widgets/views/UnzipFileMenu.qml:175
-#: src/widgets/views/UnzipFileMenuWithoutOM.qml:838
-#: src/widgets/views/ZipFileMenu.qml:175
-#: src/widgets/views/ZipFileMenuWithoutOM.qml:166
-#, kde-format
-msgid "Tags"
+#: discover/qml/ApplicationPage.qml:330
+msgid "Update date"
 msgstr ""
 
-#: src/main1.qml:389 src/main_bak.qml:389 src/widgets/views/BrowserView.qml:130
-#: src/widgets/views/CustomPopup.qml:431
-#: src/widgets/views/SettingsDialog.qml:185
-#, kde-format
-msgid "Date"
+#: discover/qml/ApplicationPage.qml:340
+msgid "Developer"
 msgstr ""
 
-#: src/main1.qml:398 src/main_bak.qml:398
-#: src/widgets/previewer/FileInfo.qml:302 src/widgets/views/BrowserView.qml:139
-#, kde-format
-msgid "Modified"
+#: discover/qml/ApplicationPage.qml:349
+msgid "Website"
 msgstr ""
 
-#: src/main1.qml:407 src/main_bak.qml:407 src/widgets/views/BrowserView.qml:148
-#: src/widgets/views/CustomPopup.qml:637
-#: src/widgets/views/SettingsDialog.qml:191
-#, kde-format
-msgid "Size"
-msgstr ""
-
-#: src/main1.qml:416 src/main_bak.qml:416 src/widgets/views/BrowserView.qml:157
-#: src/widgets/views/CustomPopup.qml:328
-#: src/widgets/views/FileBroswerView.qml:382
-#, kde-format
+#: discover/qml/ApplicationsListPage.qml:82
 msgid "Name"
 msgstr ""
 
-#: src/main1.qml:576 src/main_bak.qml:576 src/widgets/views/BrowserView.qml:317
-#: src/widgets/views/CustomPopup.qml:234
-#, kde-format
-msgid "List"
+#: discover/qml/ApplicationsListPage.qml:91
+msgid "Rating"
 msgstr ""
 
-#: src/main1.qml:651 src/main_bak.qml:651 src/widgets/views/FolderMenu.qml:882
-#: src/widgets/views/ZipFileMenu.qml:184
-#: src/widgets/views/ZipFileMenuWithoutOM.qml:175
-#, kde-format
-msgid "Compress"
+#: discover/qml/ApplicationsListPage.qml:100
+msgid "Size"
 msgstr ""
 
-#: src/main1.qml:684 src/main_bak.qml:683 src/widgets/views/FileMenu.qml:106
-#: src/widgets/views/FolderMenu.qml:791 src/widgets/views/UnzipFileMenu.qml:121
-#: src/widgets/views/UnzipFileMenuWithoutOM.qml:784
-#: src/widgets/views/ZipFileMenu.qml:121
-#: src/widgets/views/ZipFileMenuWithoutOM.qml:112
-#, kde-format
-msgid "Copy"
+#: discover/qml/ApplicationsListPage.qml:109
+msgid "Release Date"
 msgstr ""
 
-#: src/main1.qml:695 src/main_bak.qml:694 src/widgets/views/FileMenu.qml:118
-#: src/widgets/views/FolderMenu.qml:802 src/widgets/views/UnzipFileMenu.qml:132
-#: src/widgets/views/UnzipFileMenuWithoutOM.qml:795
-#: src/widgets/views/ZipFileMenu.qml:132
-#: src/widgets/views/ZipFileMenuWithoutOM.qml:123
-#, kde-format
-msgid "Cut"
+#: discover/qml/ApplicationsListPage.qml:140
+msgid "Search Result"
 msgstr ""
 
-#: src/main1.qml:706 src/main_bak.qml:705 src/widgets/views/FileMenu.qml:141
-#: src/widgets/views/PlacesSideBar.qml:126
-#, kde-format
-msgid "Remove"
-msgstr ""
-
-#: src/main.qml:226
-#, kde-format
-msgid "Important"
-msgstr ""
-
-#: src/main.qml:227
-#, kde-format
-msgid "Life"
-msgstr ""
-
-#: src/main.qml:228
-#, kde-format
-msgid "Temporary"
-msgstr ""
-
-#: src/main.qml:229
-#, kde-format
-msgid "Work"
-msgstr ""
-
-#: src/main.qml:230
-#, kde-format
-msgid "Meeting"
-msgstr ""
-
-#: src/main.qml:231 src/widgets/views/FileBroswerView.qml:401
-#, kde-format
-msgid "File"
-msgstr ""
-
-#: src/main.qml:233
-#, kde-format
-msgid "Private"
-msgstr ""
-
-#: src/main.qml:414 src/widgets/views/BrowserItem.qml:220
-#: src/widgets/views/FileBroswerView.qml:332
-#: src/widgets/views/FileBroswerView.qml:423
-#: src/widgets/views/FileBroswerView.qml:1077
-#, kde-format
-msgid "Cancel"
-msgstr ""
-
-#: src/main.qml:415 src/main.qml:416 src/widgets/views/FileBroswerView.qml:326
-#: src/widgets/views/FolderMenu.qml:811 src/widgets/views/TrashFileMenu.qml:392
-#: src/widgets/views/UnzipFileMenu.qml:141
-#: src/widgets/views/UnzipFileMenuWithoutOM.qml:804
-#: src/widgets/views/ZipFileMenu.qml:141
-#: src/widgets/views/ZipFileMenuWithoutOM.qml:132
-#, kde-format
-msgid "Delete"
-msgstr ""
-
-#: src/main.qml:422 src/widgets/views/TrashNormalMenu.qml:177
-#, kde-format
-msgid "Are you sure you want to delete these files?"
-msgstr ""
-
-#: src/main.qml:425 src/widgets/views/TrashNormalMenu.qml:180
-#, kde-format
-msgid "Are you sure you want to delete the file?"
-msgstr ""
-
-#: src/main.qml:523
-#, kde-format
-msgid "Files"
-msgstr ""
-
-#: src/main.qml:828
-#, kde-format
+#: discover/qml/DiscoverWindow.qml:68+discover/qml/cus/DiscoverLeftPage.qml:66
 msgid "Search"
 msgstr ""
 
-#: src/main.qml:1053
-#, kde-format
-msgid " files have been copied"
+#: discover/qml/DiscoverWindow.qml:76+discover/qml/InstalledPage.qml:16+libdiscover/resources/AbstractResource.cpp:116
+msgid "Installed"
 msgstr ""
 
-#: src/main.qml:1073
-#, kde-format
-msgid " files have been cut"
+#: discover/qml/InstallApplicationButton.qml:16+discover/qml/InstallApplicationButton.qml:19+discover/qml/InstallApplicationButton.qml:21+discover/qml/InstallApplicationButton.qml:73
+msgid "GET"
 msgstr ""
 
-#: src/main.qml:1569
-#, kde-format
-msgid "No Results"
+#: discover/qml/InstallApplicationButton.qml:17+discover/qml/InstallApplicationButton.qml:22+discover/qml/InstallApplicationButton.qml:71+discover/qml/cus/JAlertDialog.qml:16+discover/qml/cus/JAlertDialog.qml:18
+msgid "Uninstall"
 msgstr ""
 
-#: src/main.qml:1572
-#, kde-format
-msgid "There are no files at present."
+#: discover/qml/InstallApplicationButton.qml:20+discover/qml/InstallApplicationButton.qml:24+discover/qml/InstallApplicationButton.qml:75
+msgid "OPEN"
 msgstr ""
 
-#: src/main.qml:1838
-#, kde-format
-msgid "Sorry, opening this file is not supported at present."
+#: discover/qml/InstallApplicationButton.qml:23+discover/qml/InstallApplicationButton.qml:77+discover/qml/UpdateApplicaitonButton.qml:19+discover/qml/UpdateApplicationDelegate.qml:122
+msgid "Update"
 msgstr ""
 
-#: src/widgets/previewer/FileInfo.qml:178
-#, kde-format
-msgid "Infomation"
+#: discover/qml/UpdatesPage.qml:62
+msgid "OK"
 msgstr ""
 
-#: src/widgets/previewer/FileInfo.qml:203 src/widgets/views/CustomPopup.qml:534
-#, kde-format
-msgid "Kind"
+#: discover/qml/UpdatesPage.qml:223
+msgid "Restart"
 msgstr ""
 
-#: src/widgets/previewer/FileInfo.qml:262
-#, kde-format
-msgid "Created"
+#: discover/qml/UpdatesPage.qml:418
+msgid "Updates"
 msgstr ""
 
-#: src/widgets/previewer/FileInfo.qml:342
-#, kde-format
-msgid "Last opened"
+#: discover/qml/cus/AppDetails.qml:54
+msgid "App"
 msgstr ""
 
-#: src/widgets/previewer/FileInfo.qml:383
-#, kde-format
-msgid "Where"
+#: discover/qml/cus/DiscoverLeftPage.qml:37
+msgid "Store"
 msgstr ""
 
-#: src/widgets/views/BrowserMenu.qml:218 src/widgets/views/FolderMenu.qml:836
-#: src/widgets/views/TrashFileMenu.qml:405
-#: src/widgets/views/UnzipFileMenu.qml:166
-#: src/widgets/views/UnzipFileMenuWithoutOM.qml:829
-#: src/widgets/views/ZipFileMenu.qml:166
-#: src/widgets/views/ZipFileMenuWithoutOM.qml:157
-#, kde-format
-msgid "Info"
+#: discover/qml/cus/JAlertDialog.qml:17
+msgid "Are you sure uninstall the app?"
 msgstr ""
 
-#: src/widgets/views/BrowserMenu.qml:230
-#, kde-format
-msgid "Paste"
+#: discover/qml/cus/JCategoryList.qml:36+discover/qml/cus/JCategoryList.qml:40+discover/qml/cus/JCategoryList.qml:41+discover/qml/cus/JCategoryList.qml:42
+msgid "My"
 msgstr ""
 
-#: src/widgets/views/CustomPopup.qml:146
-#, kde-format
-msgid "Icons"
+#: discover/qml/cus/NullPageView.qml:46
+msgid "Currently not connected to the network, please connect and try again"
 msgstr ""
 
-#: src/widgets/views/EditTagMenu.qml:121
-#, kde-format
-msgid "Edit Tags"
+#: discover/qml/cus/NullPageView.qml:48
+msgid "There is no apps at present"
 msgstr ""
 
-#: src/widgets/views/FileBroswerView.qml:414
-#: src/widgets/views/FileBroswerView.qml:422
-#: src/widgets/views/FolderMenu.qml:820 src/widgets/views/UnzipFileMenu.qml:150
-#: src/widgets/views/UnzipFileMenuWithoutOM.qml:813
-#: src/widgets/views/ZipFileMenu.qml:150
-#: src/widgets/views/ZipFileMenuWithoutOM.qml:141
-#, kde-format
-msgid "Rename"
+#: kcm/updates.cpp:28
+msgid "Software Updates"
 msgstr ""
 
-#: src/widgets/views/FolderMenu.qml:772 src/widgets/views/UnzipFileMenu.qml:94
-#: src/widgets/views/UnzipFileMenuWithoutOM.qml:766
-#: src/widgets/views/ZipFileMenu.qml:94
-#: src/widgets/views/ZipFileMenuWithoutOM.qml:94
-#, kde-format
-msgid "Bulk edit"
+#: libdiscover/Transaction/TransactionModel.cpp:74
+msgid "Starting"
 msgstr ""
 
-#: src/widgets/views/FolderMenu.qml:858
-#, kde-format
-msgid "Remove favorite"
+#: libdiscover/Transaction/TransactionModel.cpp:76
+msgid "Waiting"
 msgstr ""
 
-#: src/widgets/views/FolderMenu.qml:861
-#, kde-format
-msgid "Favorite"
+#: libdiscover/Transaction/TransactionModel.cpp:78
+msgid "Downloading"
 msgstr ""
 
-#: src/widgets/views/GridDelegate.qml:380
-#: src/widgets/views/ListViewDelegate.qml:315
-#, kde-format
-msgid "The file name cannot contain the following characters: '# / ?'"
+#: libdiscover/Transaction/TransactionModel.cpp:82
+msgid "Installing"
 msgstr ""
 
-#: src/widgets/views/GridDelegate.qml:409
-#: src/widgets/views/ListViewDelegate.qml:344
-#, kde-format
-msgid "The file name already exists."
+#: libdiscover/Transaction/TransactionModel.cpp:84
+msgid "Removing"
 msgstr ""
 
-#: src/widgets/views/OpenWithDialog.qml:54
-#, kde-format
-msgid "Open with"
+#: libdiscover/Transaction/TransactionModel.cpp:90
+msgid "Done"
 msgstr ""
 
-#: src/widgets/views/TrashFileMenu.qml:380
-#, kde-format
-msgid "Recover"
+#: libdiscover/Transaction/TransactionModel.cpp:92
+msgid "Failed"
 msgstr ""
 
-#: src/widgets/views/TrashNormalMenu.qml:171
-#, kde-format
-msgid "Delete all"
+#: libdiscover/UpdateModel/UpdateModel.cpp:143
+msgid "Application Updates"
 msgstr ""
 
-#: src/widgets/views/UnzipFileMenu.qml:112
-#: src/widgets/views/ZipFileMenu.qml:112
-#, kde-format
-msgid "Open mode"
+#: libdiscover/UpdateModel/UpdateModel.cpp:144
+msgid "System Updates"
 msgstr ""
 
-#: src/widgets/views/UnzipFileMenu.qml:184
-#: src/widgets/views/UnzipFileMenuWithoutOM.qml:847
-#, kde-format
-msgid "Uncompress"
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:223
+msgid "Confirm package removal"
 msgstr ""
 
-msgid "The file name cannot starts whit character: '.'"
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:223
+msgid "This action will also remove the following package:\n"
+"%2"
 msgstr ""
 
-msgid "File has been copied"
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:223
+msgid "This action will also remove the following packages:\n"
+"%2"
 msgstr ""
 
-msgid "File has been cut"
+#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:755
+msgid "Cannot remove '%1'"
 msgstr ""
 
-msgid "New folder"
-msgstr ""
-
-msgid "Open in terminal"
-msgstr ""
-
-msgid "Information"
-msgstr ""
-
-msgid "The tag name cannot empty."
+msgid "Application classification"
 msgstr ""
 
