@@ -46,7 +46,7 @@ msgstr ""
 #: calindac/calindacmain.cpp:25
 #, kde-format
 msgid "Maintainer"
-msgstr ""
+msgstr "维护人员"
 
 #: src/calindoriconfig.cpp:74
 #, kde-format
@@ -61,7 +61,7 @@ msgstr "日历已存在"
 #: src/contents/ui/CalendarAction.qml:20
 #, kde-format
 msgid "Activate"
-msgstr ""
+msgstr "激活"
 
 #: src/contents/ui/CalendarAction.qml:27
 #: src/contents/ui/CalendarScheduleView.qml:401 src/contents/ui/DayView.qml:132
@@ -75,13 +75,13 @@ msgstr "删除"
 #: src/contents/ui/CalendarAction.qml:38
 #, kde-format
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 #: src/contents/ui/CalendarAction.qml:49
 #, kde-format
 msgid ""
 "All data included in this calendar will be deleted. Proceed with deletion?"
-msgstr ""
+msgstr "所有包含在日历中的数据会被删除。确定执行删除吗？"
 
 #: src/contents/ui/CalendarEditor.qml:29
 #, kde-format
@@ -121,13 +121,13 @@ msgstr "取消"
 #: src/contents/ui/TodoEditor.qml:277
 #, kde-format
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: src/contents/ui/CalendarEditor.qml:149
 #: src/contents/ui/CalindoriGlobalDrawer.qml:194
 #, kde-format
 msgid "Import"
-msgstr ""
+msgstr "导入"
 
 #: src/contents/ui/CalendarEditor.qml:149
 #: src/contents/ui/CalindoriGlobalDrawer.qml:206
@@ -135,7 +135,7 @@ msgstr ""
 #: src/contents/ui/TodoEditor.qml:221
 #, kde-format
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 #: src/contents/ui/CalendarScheduleView.qml:403
 #, kde-format
@@ -191,22 +191,22 @@ msgstr ""
 #: src/contents/ui/SettingsPage.qml:15
 #, kde-format
 msgid "Settings"
-msgstr ""
+msgstr "设置"
 
 #: src/contents/ui/CalindoriGlobalDrawer.qml:121
 #, kde-format
 msgid "About"
-msgstr ""
+msgstr "关于"
 
 #: src/contents/ui/CalindoriGlobalDrawer.qml:182
 #, kde-format
 msgid "Create"
-msgstr ""
+msgstr "创建"
 
 #: src/contents/ui/ConfirmationSheet.qml:22
 #, kde-format
 msgid "Confirm"
-msgstr ""
+msgstr "确认"
 
 #: src/contents/ui/ConfirmationSheet.qml:37
 #, kde-format
@@ -221,7 +221,7 @@ msgstr ""
 #: src/contents/ui/DayPage.qml:20
 #, kde-format
 msgid "Previous day"
-msgstr ""
+msgstr "前一天"
 
 #: src/contents/ui/DayPage.qml:27
 #, kde-format
@@ -231,7 +231,7 @@ msgstr "今天"
 #: src/contents/ui/DayPage.qml:34
 #, kde-format
 msgid "Next day"
-msgstr ""
+msgstr "下一天"
 
 #: src/contents/ui/DayPage.qml:42 src/contents/ui/WeekPage.qml:43
 #, kde-format
@@ -247,14 +247,14 @@ msgstr ""
 #: src/contents/ui/WeekView.qml:165
 #, kde-format
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #: src/contents/ui/DayView.qml:149 src/contents/ui/EventsCardView.qml:71
 #: src/contents/ui/IncidenceListView.qml:112
 #: src/contents/ui/TodosCardView.qml:68 src/contents/ui/WeekView.qml:172
 #, kde-format
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 #: src/contents/ui/DayView.qml:183 src/contents/ui/IncidenceListView.qml:122
 #: src/contents/ui/WeekView.qml:205
@@ -326,7 +326,7 @@ msgstr ""
 #: src/contents/ui/EventEditor.qml:184 src/contents/ui/TodoEditor.qml:203
 #, kde-format
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #: src/contents/ui/EventEditor.qml:192 src/contents/ui/TodoEditor.qml:217
 #, kde-format
@@ -365,12 +365,12 @@ msgstr ""
 #: src/contents/ui/IncidenceListView.qml:40
 #, kde-format
 msgid "Show Completed"
-msgstr ""
+msgstr "显示以完成"
 
 #: src/contents/ui/IncidenceListView.qml:40
 #, kde-format
 msgid "Hide Completed"
-msgstr ""
+msgstr "隐藏已完成"
 
 #: src/contents/ui/IncidenceListView.qml:49
 #, kde-format
