@@ -1,6 +1,79 @@
----
-#SPDX-FileCopyrightText: (C) 2020 Carl Schwan
-#SPDX-License-Identifier: LGPL-2.1-or-later
-include:
-  - https://invent.kde.org/sysadmin/ci-tooling/raw/master/invent/ci-before.yml
-  - https://invent.kde.org/sysadmin/ci-tooling/raw/master/invent/ci-applications-linux.yml
+msgid ""
+msgstr ""
+"Project-Id-Version: jingos-translation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-28 15:12+0800\n"
+"PO-Revision-Date: 2021-06-11 10:44\n"
+"Last-Translator: David Martínez Echavarría <damarte86@gmail.com>\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: jingos-translation\n"
+"X-Crowdin-Project-ID: 459864\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /main/polkit-kde-agent-1/po/es_ES/polkit-kde-agent-1.po\n"
+"X-Crowdin-File-ID: 1382\n"
+
+#: authdialog.qml:59
+#, kde-format
+msgid "Certification required"
+msgstr ""
+
+#: authdialog.qml:234
+#, kde-format
+msgid "Cancel"
+msgstr ""
+
+#: authdialog.qml:291
+#, kde-format
+msgid "Certify"
+msgstr ""
+
+#: authdialog.qml:300 authdialog.qml:327
+#, kde-format
+msgid "In the validation"
+msgstr ""
+
+#: main.cpp:64
+#, kde-format
+msgid "PolicyKit1 KDE Agent"
+msgstr ""
+
+#: main.cpp:66
+#, kde-format
+msgid "(c) 2009 Red Hat, Inc."
+msgstr ""
+
+#: main.cpp:67
+#, kde-format
+msgid "Lukáš Tinkl"
+msgstr ""
+
+#: main.cpp:67
+#, kde-format
+msgid "Maintainer"
+msgstr ""
+
+#: main.cpp:68
+#, kde-format
+msgid "Jaroslav Reznik"
+msgstr ""
+
+#: main.cpp:68
+#, kde-format
+msgid "Former maintainer"
+msgstr ""
+
+#: policykitlistener.cpp:117
+#, kde-format
+msgid "Another client is already authenticating, please try again later."
+msgstr ""
+
+#: policykitlistener.cpp:178
+#, kde-format
+msgid "Password input error, please try again"
+msgstr ""
+
