@@ -1,28 +1,64 @@
-# Antoni Bella Pérez <antonibella5@yahoo.com>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: jingos-translation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 03:26+0200\n"
-"PO-Revision-Date: 2021-06-11 11:15\n"
-"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"POT-Creation-Date: 2020-10-24 02:31+0200\n"
+"PO-Revision-Date: 2021-06-11 11:16\n"
+"Last-Translator: Samir Ribić <Unknown>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 17341)\n"
+"X-Launchpad-Export-Date: 2015-02-15 06:05+0000\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Accelerator-Marker: &\n"
-"X-Generator: Lokalize 1.5\n"
 "X-Crowdin-Project: jingos-translation\n"
 "X-Crowdin-Project-ID: 459864\n"
 "X-Crowdin-Language: pt-BR\n"
-"X-Crowdin-File: /main/powerdevil/po/ca/libpowerdevilcommonconfig.po\n"
-"X-Crowdin-File-ID: 1444\n"
+"X-Crowdin-File: /main/powerdevil/po/bs/powerdevilprofilesconfig.po\n"
+"X-Crowdin-File-ID: 1442\n"
 
-#: ErrorOverlay.cpp:40
 #, kde-format
-msgid "Power Management configuration module could not be loaded.\n"
-"%1"
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: EditPage.cpp:191
+#, kde-format
+msgid "The KDE Power Management System will now generate a set of defaults based on your computer's capabilities. This will also erase all existing modifications you made. Are you sure you want to continue?"
+msgstr ""
+
+#: EditPage.cpp:194
+#, kde-format
+msgid "Restore Default Profiles"
+msgstr ""
+
+#: EditPage.cpp:273
+#, kde-format
+msgid "The Power Management Service appears not to be running."
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab)
+#: profileEditPage.ui:21
+#, kde-format
+msgid "On AC Power"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_2)
+#: profileEditPage.ui:31
+#, kde-format
+msgid "On Battery"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_3)
+#: profileEditPage.ui:41
+#, kde-format
+msgid "On Low Battery"
 msgstr ""
 
