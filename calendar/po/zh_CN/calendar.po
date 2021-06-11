@@ -150,17 +150,17 @@ msgstr ""
 #: src/contents/ui/CalindoriGlobalDrawer.qml:33
 #, kde-format
 msgid "Month"
-msgstr ""
+msgstr "月"
 
 #: src/contents/ui/CalindoriGlobalDrawer.qml:42
 #, kde-format
 msgid "Day"
-msgstr ""
+msgstr "天"
 
 #: src/contents/ui/CalindoriGlobalDrawer.qml:51
 #, kde-format
 msgid "Week"
-msgstr ""
+msgstr "周"
 
 #: src/contents/ui/CalindoriGlobalDrawer.qml:60
 #, kde-format
@@ -170,7 +170,7 @@ msgstr ""
 #: src/contents/ui/CalindoriGlobalDrawer.qml:69
 #, kde-format
 msgid "All Events"
-msgstr ""
+msgstr "所有事件"
 
 #: src/contents/ui/CalindoriGlobalDrawer.qml:81
 #, kde-format
