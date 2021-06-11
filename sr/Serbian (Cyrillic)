@@ -14,8 +14,8 @@ msgstr ""
 "X-Crowdin-Project: test-jingtr\n"
 "X-Crowdin-Project-ID: 460528\n"
 "X-Crowdin-Language: sr\n"
-"X-Crowdin-File: /main/calendar/po/zh_CN/calendar.po\n"
-"X-Crowdin-File-ID: 3444\n"
+"X-Crowdin-File: /main/calendar/po/ar_IQ/calendar.po\n"
+"X-Crowdin-File-ID: 3440\n"
 
 #: calindac/alarmnotification.cpp:15
 #, kde-format
