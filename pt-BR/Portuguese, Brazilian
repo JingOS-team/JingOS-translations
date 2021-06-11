@@ -15,8 +15,8 @@ msgstr ""
 "X-Crowdin-Project: test-jingtr\n"
 "X-Crowdin-Project-ID: 460528\n"
 "X-Crowdin-Language: pt-BR\n"
-"X-Crowdin-File: /main/discover/po/ar_IQ/appstore.po\n"
-"X-Crowdin-File-ID: 3456\n"
+"X-Crowdin-File: /main/discover/po/zh_CN/appstore.po\n"
+"X-Crowdin-File-ID: 3460\n"
 "Language: pt_BR\n"
 
 #: discover/DiscoverObject.cpp:279+discover/DiscoverObject.cpp:309
