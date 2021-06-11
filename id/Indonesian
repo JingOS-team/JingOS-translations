@@ -1,10 +1,10 @@
-# enolp <enolp@softastur.org>, 2019, 2020.
+# enolp <enolp@softastur.org>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: jingos-translation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-10-24 02:31+0200\n"
-"PO-Revision-Date: 2021-06-11 11:11\n"
+"POT-Creation-Date: 2020-07-06 02:13+0200\n"
+"PO-Revision-Date: 2021-06-11 11:12\n"
 "Last-Translator: enolp <enolp@softastur.org>\n"
 "Language-Team: Indonesian\n"
 "Language: id\n"
@@ -16,8 +16,8 @@ msgstr ""
 "X-Crowdin-Project: jingos-translation\n"
 "X-Crowdin-Project-ID: 459864\n"
 "X-Crowdin-Language: id\n"
-"X-Crowdin-File: /main/powerdevil/po/ast/powerdevilprofilesconfig.po\n"
-"X-Crowdin-File-ID: 1408\n"
+"X-Crowdin-File: /main/powerdevil/po/ast/powerdevilactivitiesconfig.po\n"
+"X-Crowdin-File-ID: 1406\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -29,36 +29,111 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: EditPage.cpp:191
+#: activitypage.cpp:74
 #, kde-format
-msgid "The KDE Power Management System will now generate a set of defaults based on your computer's capabilities. This will also erase all existing modifications you made. Are you sure you want to continue?"
+msgid "The activity service is running with bare functionalities.\n"
+"Names and icons of the activities might not be available."
 msgstr ""
 
-#: EditPage.cpp:194
+#: activitypage.cpp:148
 #, kde-format
-msgid "Restore Default Profiles"
+msgid "The activity service is not running.\n"
+"It is necessary to have the activity manager running to configure activity-specific power management behavior."
 msgstr ""
 
-#: EditPage.cpp:273
+#: activitypage.cpp:244
 #, kde-format
 msgid "The Power Management Service appears not to be running."
 msgstr ""
 
-#. i18n: ectx: attribute (title), widget (QWidget, tab)
-#: profileEditPage.ui:21
+#: activitywidget.cpp:97
 #, kde-format
-msgid "On AC Power"
+msgctxt "Suspend to RAM"
+msgid "Sleep"
 msgstr ""
 
-#. i18n: ectx: attribute (title), widget (QWidget, tab_2)
-#: profileEditPage.ui:31
+#: activitywidget.cpp:101
 #, kde-format
-msgid "On Battery"
+msgid "Hibernate"
 msgstr ""
 
-#. i18n: ectx: attribute (title), widget (QWidget, tab_3)
-#: profileEditPage.ui:41
+#: activitywidget.cpp:103
 #, kde-format
-msgid "On Low Battery"
+msgid "Shut down"
+msgstr ""
+
+#: activitywidget.cpp:107
+#, kde-format
+msgid "PC running on AC power"
+msgstr ""
+
+#: activitywidget.cpp:108
+#, kde-format
+msgid "PC running on battery power"
+msgstr ""
+
+#: activitywidget.cpp:109
+#, kde-format
+msgid "PC running on low battery"
+msgstr ""
+
+#: activitywidget.cpp:138
+#, kde-format
+msgctxt "This is meant to be: Act like activity %1"
+msgid "Activity \"%1\""
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, noSettingsRadio)
+#: activityWidget.ui:19
+#, kde-format
+msgid "Do not use special settings"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, actLikeRadio)
+#: activityWidget.ui:31
+#, kde-format
+msgid "Act like"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, specialBehaviorRadio)
+#: activityWidget.ui:60
+#, kde-format
+msgid "Define a special behavior"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, noShutdownScreenBox)
+#: activityWidget.ui:72
+#, kde-format
+msgid "Never turn off the screen"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, noShutdownPCBox)
+#: activityWidget.ui:79
+#, kde-format
+msgid "Never shut down the computer or let it go to sleep"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, alwaysBox)
+#: activityWidget.ui:91
+#, kde-format
+msgid "Always"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, alwaysAfterLabel)
+#: activityWidget.ui:101
+#, kde-format
+msgid "after"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, alwaysAfterSpin)
+#: activityWidget.ui:108
+#, kde-format
+msgid " min"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, separateSettingsRadio)
+#: activityWidget.ui:138
+#, kde-format
+msgid "Use separate settings (advanced users only)"
 msgstr ""
 
