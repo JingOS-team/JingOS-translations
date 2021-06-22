@@ -30,9 +30,9 @@
 *.exe
 *.out
 *.app
-*.kdev4
-.clang-format
-build
-CMakeLists.txt.*
 
-.vscode/
+*.kdev4
+.vscode
+build/
+CMakeLists.txt.*
+.clang-format
