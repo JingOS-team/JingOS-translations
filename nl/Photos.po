@@ -15,8 +15,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: nl\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/photo/po/zh_CN/Photos.po\n"
-"X-Crowdin-File-ID: 2434\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/photo/po/ar_IQ/Photos.po\n"
+"X-Crowdin-File-ID: 2430\n"
 "Language: nl_NL\n"
 
 #: src/main.cpp:48
