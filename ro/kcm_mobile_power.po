@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-01 16:54+0800\n"
-"PO-Revision-Date: 2021-06-22 12:33\n"
-"Last-Translator: David Martínez Echavarría <damarte86@gmail.com>\n"
+"POT-Creation-Date: 2021-04-19 16:59+0800\n"
+"PO-Revision-Date: 2021-06-22 17:04\n"
+"Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
 "MIME-Version: 1.0\n"
@@ -14,8 +14,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: ro\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/settings-main/po/es_ES/kcm_mobile_power.po\n"
-"X-Crowdin-File-ID: 3106\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/settings-main/po/ar_IQ/kcm_mobile_power.po\n"
+"X-Crowdin-File-ID: 3074\n"
 
 #: source
 msgid "target"
@@ -53,15 +53,19 @@ msgstr ""
 msgid "Modem"
 msgstr ""
 
+#: RE
+msgid " %1h %2m "
+msgstr ""
+
 #: Network
 msgid "Network"
 msgstr ""
 
-#: Discover+system+updatable+version+%251
-msgid "Discover system updatable version %1"
+#: until+full
+msgid "%1 until full"
 msgstr ""
 
-#: Appearance
-msgid "Appearance"
+#: remaining
+msgid "%1 remaining"
 msgstr ""
 
