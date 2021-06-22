@@ -13,12 +13,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Lokalize 1.5\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: zh-CN\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ca@valencia/libpowerdevilcommonconfig.po\n"
-"X-Crowdin-File-ID: 2522\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ca/libpowerdevilcommonconfig.po\n"
+"X-Crowdin-File-ID: 2512\n"
 
 #: ErrorOverlay.cpp:40
 #, kde-format
