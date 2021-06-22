@@ -1,22 +1,28 @@
+# Translation of powerdevilglobalconfig.po into Serbian.
+# Chusslove Illich <caslav.ilic@gmx.net>, 2009, 2010, 2011, 2012, 2014, 2015, 2016, 2017.
+# Dalibor Djuric <daliborddjuric@gmail.com>, 2009, 2010, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-09-25 02:27+0200\n"
-"PO-Revision-Date: 2021-06-22 15:41\n"
-"Last-Translator: Sönke Dibbern <s_dibbern@web.de>\n"
+"POT-Creation-Date: 2019-10-02 03:35+0200\n"
+"PO-Revision-Date: 2021-06-22 15:56\n"
+"Last-Translator: Chusslove Illich <caslav.ilic@gmx.net>\n"
 "Language-Team: Afrikaans\n"
 "Language: af\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Associated-UI-Catalogs: systemsettings.desktop powerdevilprofilesconfig\n"
+"X-Environment: kde\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: af\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/nds/powerdevilglobalconfig.po\n"
-"X-Crowdin-File-ID: 2816\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/sr/powerdevilglobalconfig.po\n"
+"X-Crowdin-File-ID: 2930\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -28,30 +34,34 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: GeneralPage.cpp:109
+# >> @item:inlistbox
+#: GeneralPage.cpp:106
 #, kde-format
 msgid "Do nothing"
 msgstr ""
 
-#: GeneralPage.cpp:111
-#| msgid "Sleep"
+#: GeneralPage.cpp:108
+#, kde-format
 msgctxt "Suspend to RAM"
 msgid "Sleep"
 msgstr ""
 
-#: GeneralPage.cpp:114
+# >> @item:inlistbox
+#: GeneralPage.cpp:111
 #, kde-format
 msgid "Hibernate"
 msgstr ""
 
-#: GeneralPage.cpp:116
-#| msgid "Shutdown"
+# >> @item:inlistbox
+#: GeneralPage.cpp:113
+#, kde-format
 msgid "Shut down"
 msgstr ""
 
-#: GeneralPage.cpp:264
+#: GeneralPage.cpp:210
 #, kde-format
-msgid "The Power Management Service appears not to be running."
+msgid "The Power Management Service appears not to be running.\n"
+"This can be solved by starting or scheduling it inside \"Startup and Shutdown\""
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, batteryLevelsLabel)
@@ -62,7 +72,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lowLabel)
 #: generalPage.ui:29
-#| msgid "Low level:"
+#, kde-format
 msgid "&Low level:"
 msgstr ""
 
@@ -81,17 +91,14 @@ msgstr ""
 #. i18n: ectx: property (suffix), widget (QSpinBox, lowSpin)
 #. i18n: ectx: property (suffix), widget (QSpinBox, criticalSpin)
 #. i18n: ectx: property (suffix), widget (QSpinBox, lowPeripheralSpin)
-#. i18n: ectx: property (suffix), widget (QSpinBox, chargeStartThresholdSpin)
-#. i18n: ectx: property (suffix), widget (QSpinBox, chargeStopThresholdSpin)
-#: generalPage.ui:51 generalPage.ui:83 generalPage.ui:126 generalPage.ui:179
-#: generalPage.ui:242
+#: generalPage.ui:51 generalPage.ui:83 generalPage.ui:158
 #, no-c-format, kde-format
 msgid "%"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, criticalLabel)
 #: generalPage.ui:61
-#| msgid "Critical level:"
+#, kde-format
 msgid "&Critical level:"
 msgstr ""
 
@@ -109,73 +116,31 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, BatteryCriticalLabel)
 #: generalPage.ui:93
-#| msgid "At critical level:"
+#, kde-format
 msgid "A&t critical level:"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, lowPeripheralLabel)
-#: generalPage.ui:119
-#, kde-format
-msgid "Low level for peripheral devices:"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, batteryThresholdLabel)
-#: generalPage.ui:142
-#, kde-format
-msgid "Charge Limit"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, batteryThresholdExplanation)
-#: generalPage.ui:149
-#, no-c-format, kde-format
-msgid "<html><head/><body><p>Keeping the battery charged 100% over a prolonged period of time may accelerate deterioration of battery health. By limiting the maximum battery charge you can help extend the battery lifespan.</p></body></html>"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (KMessageWidget, chargeStopThresholdMessage)
-#: generalPage.ui:159
-#, kde-format
-msgid "You might have to disconnect and re-connect the power source to start charging the battery again."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, chargeStartThresholdLabel)
-#: generalPage.ui:169
-#, kde-format
-msgid "Start charging only once below:"
-msgstr ""
-
-#. i18n: ectx: property (specialValueText), widget (QSpinBox, chargeStartThresholdSpin)
-#: generalPage.ui:176
-#, kde-format
-msgid "Always charge when plugged in"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, pausePlayersLabel)
-#: generalPage.ui:189
-#, kde-format
-msgid "Pause media players when suspending:"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, pausePlayersCheckBox)
-#: generalPage.ui:196
-#, kde-format
-msgid "Enabled"
-msgstr ""
-
 #. i18n: ectx: property (text), widget (QPushButton, notificationsButton)
-#: generalPage.ui:215
+#: generalPage.ui:144
 #, kde-format
 msgid "Configure Notifications..."
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, label_2)
-#: generalPage.ui:228
+#. i18n: ectx: property (text), widget (QLabel, lowPeripheralLabel)
+#: generalPage.ui:151
 #, kde-format
-msgid "Other Settings"
+msgid "Low level for peripheral devices:"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QLabel, chargeStopThresholdLabel)
-#: generalPage.ui:235
+#. i18n: ectx: property (text), widget (QCheckBox, pausePlayersCheckBox)
+#: generalPage.ui:168
 #, kde-format
-msgid "Stop charging at:"
+msgid "Enabled"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, pausePlayersLabel)
+#: generalPage.ui:175
+#, kde-format
+msgid "Pause media players when suspending:"
 msgstr ""
 
