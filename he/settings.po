@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-19 16:59+0800\n"
-"PO-Revision-Date: 2021-06-22 17:07\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2021-06-01 16:54+0800\n"
+"PO-Revision-Date: 2021-06-22 17:09\n"
+"Last-Translator: David Martínez Echavarría <damarte86@gmail.com>\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
 "MIME-Version: 1.0\n"
@@ -14,8 +14,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: he\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/settings-main/po/ar_IQ/settings.po\n"
-"X-Crowdin-File-ID: 3092\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/settings-main/po/es_ES/settings.po\n"
+"X-Crowdin-File-ID: 3124\n"
 
 #: source
 msgid "target"
@@ -23,6 +23,19 @@ msgstr ""
 
 #: Battery
 msgid "Battery"
+msgstr ""
+
+#: Location+Service
+msgid "Location Service"
+msgstr ""
+
+msgid "Trackpad"
+msgstr ""
+
+msgid "Mouse"
+msgstr ""
+
+msgid "Keyboard"
 msgstr ""
 
 #: Type:
@@ -53,20 +66,49 @@ msgstr ""
 msgid "Modem"
 msgstr ""
 
-#: RE
-msgid " %1h %2m "
-msgstr ""
-
 #: Network
 msgid "Network"
 msgstr ""
 
-#: until+full
-msgid "%1 until full"
+msgid "Font Size"
 msgstr ""
 
-#: remaining
-msgid "%1 remaining"
+msgid "Brightness"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Icons"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "Extra Small"
+msgstr ""
+
+msgid "Small"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Large"
+msgstr ""
+
+msgid "Extra Large"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+#: Discover+system+updatable+version+%251
+msgid "Discover system updatable version %1"
+msgstr ""
+
+#: Appearance
+msgid "Appearance"
 msgstr ""
 
 msgid "On"
