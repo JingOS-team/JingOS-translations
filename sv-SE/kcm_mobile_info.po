@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-19 16:59+0800\n"
-"PO-Revision-Date: 2021-06-22 17:44\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2021-06-01 16:54+0800\n"
+"PO-Revision-Date: 2021-06-22 17:46\n"
+"Last-Translator: David Martínez Echavarría <damarte86@gmail.com>\n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
 "MIME-Version: 1.0\n"
@@ -14,8 +14,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: sv-SE\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/settings-main/po/zh_CN/kcm_mobile_info.po\n"
-"X-Crowdin-File-ID: 3136\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/settings-main/po/es_ES/kcm_mobile_info.po\n"
+"X-Crowdin-File-ID: 3104\n"
 
 #: source
 msgid "target"
@@ -53,16 +53,27 @@ msgstr ""
 msgid "Modem"
 msgstr ""
 
+#: RE
+msgid " %1h %2m "
+msgstr ""
+
 #: Network
 msgid "Network"
+msgstr ""
+
+#: until+full
+msgid "%1 until full"
+msgstr ""
+
+#: remaining
+msgid "%1 remaining"
 msgstr ""
 
 #: Discover+system+updatable+version+%251
 msgid "Discover system updatable version %1"
 msgstr ""
 
-#: Your+software+is+already+the+latest+version%0A+%251
-msgid "Your software is already the latest version\n"
-" %1"
+#: Appearance
+msgid "Appearance"
 msgstr ""
 
