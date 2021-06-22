@@ -1,12 +1,15 @@
+# FengChao <rainofchaos@gmail.com>, 2011, 2013.
+# Weng Xuetian <wengxt@gmail.com>, 2011, 2016.
+# Xuetian Weng <wengxt@gmail.cm>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-07-06 02:13+0200\n"
-"PO-Revision-Date: 2021-06-22 17:00\n"
-"Last-Translator: Gheyret Kenji <gheyret@gmail.com>\n"
+"PO-Revision-Date: 2021-06-22 17:01\n"
+"Last-Translator: \n"
 "Language-Team: Swedish\n"
-"Language: sv\n"
+"Language: sv_SE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -14,8 +17,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: sv-SE\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ug/powerdevilactivitiesconfig.po\n"
-"X-Crowdin-File-ID: 3006\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/zh_CN/powerdevilactivitiesconfig.po\n"
+"X-Crowdin-File-ID: 3042\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -45,7 +48,7 @@ msgid "The Power Management Service appears not to be running."
 msgstr ""
 
 #: activitywidget.cpp:97
-#| msgid "Sleep"
+#, kde-format
 msgctxt "Suspend to RAM"
 msgid "Sleep"
 msgstr ""
@@ -56,7 +59,7 @@ msgid "Hibernate"
 msgstr ""
 
 #: activitywidget.cpp:103
-#| msgid "Shutdown"
+#, kde-format
 msgid "Shut down"
 msgstr ""
 
