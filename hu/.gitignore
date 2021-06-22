@@ -1,20 +1,8 @@
-# Ignore the following files
-*~
-*.[oa]
-*.diff
-*.kate-swp
+*.o
+build
 *.kdev4
-.kdev_include_paths
-*.kdevelop.pcs
-*.moc
-*.moc.cpp
-*.orig
-*.user
-.*.swp
-.swp.*
-Makefile
-/build*/
-CMakeLists.txt.user*
-*.unc-backup*
+CMakeLists.txt.user
 .clang-format
 /build*/
+cmake-build-debug*
+.idea
