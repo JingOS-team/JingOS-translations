@@ -21,8 +21,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: tr\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/sr/powerdevil.po\n"
-"X-Crowdin-File-ID: 2926\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/sr@ijekavian/powerdevil.po\n"
+"X-Crowdin-File-ID: 2936\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
