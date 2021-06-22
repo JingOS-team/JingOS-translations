@@ -1,14 +1,14 @@
-# Marce Villarino <mvillarino@kde-espana.es>, 2011.
-# Marce Villarino <mvillarino@kde-espana.es>, 2011, 2012.
-# Adrián Chaves Fernández <adriyetichaves@gmail.com>, 2015, 2016.
-# Adrián Chaves (Gallaecio) <adrian@chaves.io>, 2017, 2019.
+# Irish translation of powerdevilglobalconfig
+# Copyright (C) 2011 This_file_is_part_of_KDE
+# This file is distributed under the same license as the powerdevilglobalconfig package.
+# Kevin Scannell <kscanne@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-09-25 02:27+0200\n"
 "PO-Revision-Date: 2021-06-22 12:15\n"
-"Last-Translator: Adrián Chaves (Gallaecio) <adrian@chaves.io>\n"
+"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language-Team: Swedish\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -18,8 +18,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: sv-SE\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/gl/powerdevilglobalconfig.po\n"
-"X-Crowdin-File-ID: 2650\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ga/powerdevilglobalconfig.po\n"
+"X-Crowdin-File-ID: 2640\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -37,7 +37,7 @@ msgid "Do nothing"
 msgstr ""
 
 #: GeneralPage.cpp:111
-#, kde-format
+#| msgid "Sleep"
 msgctxt "Suspend to RAM"
 msgid "Sleep"
 msgstr ""
@@ -48,7 +48,7 @@ msgid "Hibernate"
 msgstr ""
 
 #: GeneralPage.cpp:116
-#, kde-format
+#| msgid "Shutdown"
 msgid "Shut down"
 msgstr ""
 
@@ -65,7 +65,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lowLabel)
 #: generalPage.ui:29
-#, kde-format
+#| msgid "Low battery level"
 msgid "&Low level:"
 msgstr ""
 
@@ -94,7 +94,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, criticalLabel)
 #: generalPage.ui:61
-#, kde-format
+#| msgid "Critical battery level"
 msgid "&Critical level:"
 msgstr ""
 
@@ -112,7 +112,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, BatteryCriticalLabel)
 #: generalPage.ui:93
-#, kde-format
+#| msgid "Battery is at critical level at"
 msgid "A&t critical level:"
 msgstr ""
 
