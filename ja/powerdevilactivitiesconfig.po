@@ -1,0 +1,143 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Abdelrahman Osama <it@abdelos.com>, 2012.
+# Abdalrahim G. Fakhouri <abdilra7eem@yahoo.com>, 2012, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: testcalendar\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-07-06 02:13+0200\n"
+"PO-Revision-Date: 2021-06-22 06:52\n"
+"Last-Translator: Abdalrahim G. Fakhouri <abdilra7eem@yahoo.com>\n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.5\n"
+"X-Project-Style: kde\n"
+"X-Crowdin-Project: testcalendar\n"
+"X-Crowdin-Project-ID: 460550\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ar/powerdevilactivitiesconfig.po\n"
+"X-Crowdin-File-ID: 2450\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: activitypage.cpp:74
+#, kde-format
+msgid "The activity service is running with bare functionalities.\n"
+"Names and icons of the activities might not be available."
+msgstr ""
+
+#: activitypage.cpp:148
+#, kde-format
+msgid "The activity service is not running.\n"
+"It is necessary to have the activity manager running to configure activity-specific power management behavior."
+msgstr ""
+
+#: activitypage.cpp:244
+#, kde-format
+msgid "The Power Management Service appears not to be running."
+msgstr ""
+
+#: activitywidget.cpp:97
+#| msgid "Sleep"
+msgctxt "Suspend to RAM"
+msgid "Sleep"
+msgstr ""
+
+#: activitywidget.cpp:101
+#, kde-format
+msgid "Hibernate"
+msgstr ""
+
+#: activitywidget.cpp:103
+#| msgid "Shutdown"
+msgid "Shut down"
+msgstr ""
+
+#: activitywidget.cpp:107
+#, kde-format
+msgid "PC running on AC power"
+msgstr ""
+
+#: activitywidget.cpp:108
+#, kde-format
+msgid "PC running on battery power"
+msgstr ""
+
+#: activitywidget.cpp:109
+#, kde-format
+msgid "PC running on low battery"
+msgstr ""
+
+#: activitywidget.cpp:138
+#, kde-format
+msgctxt "This is meant to be: Act like activity %1"
+msgid "Activity \"%1\""
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, noSettingsRadio)
+#: activityWidget.ui:19
+#| msgid "Don't use special settings"
+msgid "Do not use special settings"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, actLikeRadio)
+#: activityWidget.ui:31
+#, kde-format
+msgid "Act like"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, specialBehaviorRadio)
+#: activityWidget.ui:60
+#, kde-format
+msgid "Define a special behavior"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, noShutdownScreenBox)
+#: activityWidget.ui:72
+#| msgid "Never shutdown the screen"
+msgid "Never turn off the screen"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, noShutdownPCBox)
+#: activityWidget.ui:79
+#| msgid "Never shutdown the screen"
+msgid "Never shut down the computer or let it go to sleep"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, alwaysBox)
+#: activityWidget.ui:91
+#, kde-format
+msgid "Always"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, alwaysAfterLabel)
+#: activityWidget.ui:101
+#, kde-format
+msgid "after"
+msgstr ""
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, alwaysAfterSpin)
+#: activityWidget.ui:108
+#, kde-format
+msgid " min"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, separateSettingsRadio)
+#: activityWidget.ui:138
+#, kde-format
+msgid "Use separate settings (advanced users only)"
+msgstr ""
+
