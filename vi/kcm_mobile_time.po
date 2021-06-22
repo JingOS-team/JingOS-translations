@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-19 16:59+0800\n"
-"PO-Revision-Date: 2021-06-22 17:38\n"
+"PO-Revision-Date: 2021-06-22 17:41\n"
 "Last-Translator: \n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
@@ -14,8 +14,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: vi\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/settings-main/po/zh_CN/kcm_mobile_time.po\n"
-"X-Crowdin-File-ID: 3140\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/settings-main/po/ar_IQ/kcm_mobile_time.po\n"
+"X-Crowdin-File-ID: 3076\n"
 
 #: source
 msgid "target"
@@ -53,7 +53,19 @@ msgstr ""
 msgid "Modem"
 msgstr ""
 
+#: RE
+msgid " %1h %2m "
+msgstr ""
+
 #: Network
 msgid "Network"
+msgstr ""
+
+#: until+full
+msgid "%1 until full"
+msgstr ""
+
+#: remaining
+msgid "%1 remaining"
 msgstr ""
 
