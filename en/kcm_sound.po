@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-19 16:59+0800\n"
-"PO-Revision-Date: 2021-06-22 17:41\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2021-06-01 16:54+0800\n"
+"PO-Revision-Date: 2021-06-22 17:46\n"
+"Last-Translator: David Martínez Echavarría <damarte86@gmail.com>\n"
 "Language-Team: English\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
@@ -14,8 +14,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: en\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/settings-main/po/ar_IQ/kcm_sound.po\n"
-"X-Crowdin-File-ID: 3082\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/settings-main/po/es_ES/kcm_sound.po\n"
+"X-Crowdin-File-ID: 3114\n"
 
 #: source
 msgid "target"
@@ -53,19 +53,24 @@ msgstr ""
 msgid "Modem"
 msgstr ""
 
-#: RE
-msgid " %1h %2m "
-msgstr ""
-
 #: Network
 msgid "Network"
 msgstr ""
 
-#: until+full
-msgid "%1 until full"
+msgid "Silent mode"
 msgstr ""
 
-#: remaining
-msgid "%1 remaining"
+msgid "Voice"
+msgstr ""
+
+msgid "Ringtone"
+msgstr ""
+
+#: Discover+system+updatable+version+%251
+msgid "Discover system updatable version %1"
+msgstr ""
+
+#: Appearance
+msgid "Appearance"
 msgstr ""
 
