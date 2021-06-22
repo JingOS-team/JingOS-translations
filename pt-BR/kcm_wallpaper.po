@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: testcalendar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-11 20:20+0800\n"
+"PO-Revision-Date: 2021-06-22 17:38\n"
+"Last-Translator: \n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: testcalendar\n"
+"X-Crowdin-Project-ID: 460550\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/settings-main/po/zh_CN/kcm_wallpaper.po\n"
+"X-Crowdin-File-ID: 3154\n"
+
+#: package/contents/ui/Contexts.qml:28
+#, kde-format
+msgid "Access Points"
+msgstr ""
+
+#: package/contents/ui/Contexts.qml:68
+#, kde-format
+msgid "Active:"
+msgstr ""
+
+#: package/contents/ui/Contexts.qml:82
+#, kde-format
+msgid "Protocol:"
+msgstr ""
+
+#: package/contents/ui/Contexts.qml:91
+#, kde-format
+msgid "Type:"
+msgstr ""
+
+#: package/contents/ui/Contexts.qml:100
+#, kde-format
+msgid "APN:"
+msgstr ""
+
+#: package/contents/ui/JSetMenu.qml:24
+#, kde-format
+msgid "Set Lock Screen"
+msgstr ""
+
+#: package/contents/ui/JSetMenu.qml:33
+#, kde-format
+msgid "Set Home Screen"
+msgstr ""
+
+#: package/contents/ui/JSetMenu.qml:43 package/contents/ui/JSetMenu.qml:120
+#, kde-format
+msgid "Set Both"
+msgstr ""
+
+#: package/contents/ui/LockScrrenView.qml:45
+#, kde-format
+msgid "2020-09-12.Monday"
+msgstr ""
+
+#: package/contents/ui/SystemWallpaperView.qml:80
+#: package/contents/ui/main.qml:233
+#, kde-format
+msgid "System wallpaper"
+msgstr ""
+
+#: package/contents/ui/WallpaperEditView.qml:129
+#, kde-format
+msgid "Move & Scale"
+msgstr ""
+
+#: package/contents/ui/WallpaperEditView.qml:151
+#, kde-format
+msgid "Cancel"
+msgstr ""
+
+#: package/contents/ui/WallpaperEditView.qml:176
+#, kde-format
+msgid "Set"
+msgstr ""
+
+#: package/contents/ui/WallpaperEditView.qml:277
+#, kde-format
+msgid "Setting wallpaper..."
+msgstr ""
+
+#: package/contents/ui/main.qml:168 wallpaper.cpp:41
+#, kde-format
+msgid "Wallpaper"
+msgstr ""
+
+#: wallpaper.cpp:42
+#, kde-format
+msgid "Zhang he gang"
+msgstr ""
+
