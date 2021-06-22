@@ -1,21 +1,25 @@
+# Serdar Soytetir, 2010, 2012.
+# H. İbrahim Güngör <ibrahim@pardus.org.tr>, 2011.
+# Volkan Gezer <volkangezer@gmail.com>, 2014, 2015, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-09-25 02:27+0200\n"
-"PO-Revision-Date: 2021-06-22 16:47\n"
-"Last-Translator: Gheyret Kenji <gheyret@gmail.com>\n"
+"PO-Revision-Date: 2021-06-22 16:48\n"
+"Last-Translator: Mesutcan <mesutcank@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 2.0\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ug/powerdevilglobalconfig.po\n"
-"X-Crowdin-File-ID: 3008\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/tr/powerdevilglobalconfig.po\n"
+"X-Crowdin-File-ID: 2998\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -44,7 +48,7 @@ msgid "Hibernate"
 msgstr ""
 
 #: GeneralPage.cpp:116
-#| msgid "Shutdown"
+#, kde-format
 msgid "Shut down"
 msgstr ""
 
@@ -61,7 +65,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lowLabel)
 #: generalPage.ui:29
-#| msgid "Low battery level"
+#, kde-format
 msgid "&Low level:"
 msgstr ""
 
@@ -90,7 +94,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, criticalLabel)
 #: generalPage.ui:61
-#| msgid "Critical battery level"
+#, kde-format
 msgid "&Critical level:"
 msgstr ""
 
@@ -108,7 +112,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, BatteryCriticalLabel)
 #: generalPage.ui:93
-#| msgid "Battery is at critical level at"
+#, kde-format
 msgid "A&t critical level:"
 msgstr ""
 
