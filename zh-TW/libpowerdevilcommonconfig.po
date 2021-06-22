@@ -1,26 +1,23 @@
-# Translation of libpowerdevilcommonconfig.po into Serbian.
-# Chusslove Illich <caslav.ilic@gmx.net>, 2013.
+# Alexander Lakhin <exclusion@gmail.com>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-05-20 03:26+0200\n"
 "PO-Revision-Date: 2021-06-22 16:46\n"
-"Last-Translator: Chusslove Illich <caslav.ilic@gmx.net>\n"
+"Last-Translator: Alexander Lakhin <exclusion@gmail.com>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
-"X-Environment: kde\n"
+"X-Generator: Lokalize 1.5\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: zh-TW\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/sr/libpowerdevilcommonconfig.po\n"
-"X-Crowdin-File-ID: 2924\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ru/libpowerdevilcommonconfig.po\n"
+"X-Crowdin-File-ID: 2890\n"
 
 #: ErrorOverlay.cpp:40
 #, kde-format
