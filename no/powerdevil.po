@@ -1,27 +1,23 @@
-# translation of powerdevil.po to Slovak
-# Roman Paholík <wizzardsk@gmail.com>, 2014, 2015, 2016, 2017.
-# Mthw <jari_45@hotmail.com>, 2019.
-# Matej Mrenica <matejm98mthw@gmail.com>, 2019, 2020.
-# Dusan Kazik <prescott66@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-08 02:39+0100\n"
-"PO-Revision-Date: 2021-06-22 16:37\n"
-"Last-Translator: Matej Mrenica <matejm98mthw@gmail.com>\n"
+"PO-Revision-Date: 2021-06-22 16:38\n"
+"Last-Translator: Vilson Gjeci <vilsongjeci@gmail.com>\n"
 "Language-Team: Norwegian\n"
 "Language: no\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 20.03.90\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Launchpad-Export-Date: 2011-05-06 01:38+0000\n"
+"X-Generator: Launchpad (build 12959)\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: no\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/sk/powerdevil.po\n"
-"X-Crowdin-File-ID: 2904\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/sq/powerdevil.po\n"
+"X-Crowdin-File-ID: 2922\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -131,7 +127,7 @@ msgstr ""
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:107
 #: actions/bundled/suspendsessionconfig.cpp:98
-#, kde-format
+#| msgid "Shutdown"
 msgid "Shut down"
 msgstr ""
 
@@ -297,19 +293,19 @@ msgid "Kai Uwe Broulik"
 msgstr ""
 
 #: powerdevilapp.cpp:67
-#, kde-format
+#| msgid "Maintainer"
 msgctxt "@info:credit"
 msgid "Maintainer"
 msgstr ""
 
 #: powerdevilapp.cpp:69
-#, kde-format
+#| msgid "Dario Freddi"
 msgctxt "@info:credit"
 msgid "Dario Freddi"
 msgstr ""
 
 #: powerdevilapp.cpp:70
-#, kde-format
+#| msgid "Maintainer"
 msgctxt "@info:credit"
 msgid "Previous maintainer"
 msgstr ""
