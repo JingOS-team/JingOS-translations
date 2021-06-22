@@ -1,28 +1,30 @@
-# Translation of powerdevilprofilesconfig.po into Serbian.
-# Chusslove Illich <caslav.ilic@gmx.net>, 2009, 2010, 2011, 2012, 2017.
-# Dalibor Djuric <daliborddjuric@gmail.com>, 2009, 2010, 2011.
+# Alexander Potashev <aspotashev@gmail.com>, 2010, 2011.
+# Andrey Cherepanov <skull@kde.ru>, 2011.
+# Nick Shaforostoff <shafff@ukr.net>, 2011.
+# Julia Dronova <juliette.tux@gmail.com>, 2012.
+# Alexander Yavorsky <kekcuha@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-25 03:33+0100\n"
-"PO-Revision-Date: 2021-06-22 15:55\n"
-"Last-Translator: Chusslove Illich <caslav.ilic@gmx.net>\n"
+"POT-Creation-Date: 2020-10-24 02:31+0200\n"
+"PO-Revision-Date: 2021-06-22 15:56\n"
+"Last-Translator: Alexander Yavorsky <kekcuha@gmail.com>\n"
 "Language-Team: Czech\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.08.0\n"
 "Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"X-Environment: kde\n"
 "X-Accelerator-Marker: &\n"
 "X-Text-Markup: kde4\n"
-"X-Associated-UI-Catalogs: systemsettings.desktop\n"
-"X-Environment: kde\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: cs\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/sr/powerdevilprofilesconfig.po\n"
-"X-Crowdin-File-ID: 2932\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ru/powerdevilprofilesconfig.po\n"
+"X-Crowdin-File-ID: 2898\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -34,21 +36,19 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: EditPage.cpp:192
+#: EditPage.cpp:191
 #, kde-format
 msgid "The KDE Power Management System will now generate a set of defaults based on your computer's capabilities. This will also erase all existing modifications you made. Are you sure you want to continue?"
 msgstr ""
 
-# >> @title:window
-#: EditPage.cpp:195
+#: EditPage.cpp:194
 #, kde-format
 msgid "Restore Default Profiles"
 msgstr ""
 
-#: EditPage.cpp:274
+#: EditPage.cpp:273
 #, kde-format
-msgid "The Power Management Service appears not to be running.\n"
-"This can be solved by starting or scheduling it inside \"Startup and Shutdown\""
+msgid "The Power Management Service appears not to be running."
 msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab)
