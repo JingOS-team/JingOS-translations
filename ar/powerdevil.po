@@ -1,25 +1,27 @@
-# Andrej Mernik <andrejm@ubuntu.si>, 2014, 2015, 2016, 2017.
-# Matjaž Jeran <matjaz.jeran@amis.net>, 2020.
+# translation of powerdevil.po to Slovak
+# Roman Paholík <wizzardsk@gmail.com>, 2014, 2015, 2016, 2017.
+# Mthw <jari_45@hotmail.com>, 2019.
+# Matej Mrenica <matejm98mthw@gmail.com>, 2019, 2020.
+# Dusan Kazik <prescott66@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-08 02:39+0100\n"
 "PO-Revision-Date: 2021-06-22 15:56\n"
-"Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
+"Last-Translator: Matej Mrenica <matejm98mthw@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Translator: Andrej Mernik <andrejm@ubuntu.si>\n"
+"X-Generator: Lokalize 20.03.90\n"
 "Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
-"X-Generator: Lokalize 19.12.2\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: ar\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/sl/powerdevil.po\n"
-"X-Crowdin-File-ID: 2914\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/sk/powerdevil.po\n"
+"X-Crowdin-File-ID: 2904\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
