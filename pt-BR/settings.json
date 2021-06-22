@@ -1,25 +1,11 @@
 {
     "files.associations": {
-        "array": "cpp",
-        "chrono": "cpp",
-        "functional": "cpp",
-        "istream": "cpp",
-        "ostream": "cpp",
-        "ratio": "cpp",
-        "tuple": "cpp",
-        "type_traits": "cpp",
-        "utility": "cpp",
         "variant": "cpp",
-        "*.tcc": "cpp",
-        "deque": "cpp",
-        "list": "cpp",
+        "array": "cpp",
         "string": "cpp",
-        "unordered_map": "cpp",
-        "vector": "cpp",
-        "*.moc": "cpp",
         "string_view": "cpp",
-        "optional": "cpp",
-        "system_error": "cpp",
+        "*.tcc": "cpp",
+        "tuple": "cpp",
         "typeinfo": "cpp"
     }
 }
