@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-19 16:59+0800\n"
-"PO-Revision-Date: 2021-06-22 17:41\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2021-06-01 16:54+0800\n"
+"PO-Revision-Date: 2021-06-22 17:46\n"
+"Last-Translator: David Martínez Echavarría <damarte86@gmail.com>\n"
 "Language-Team: English\n"
 "Language: en_US\n"
 "MIME-Version: 1.0\n"
@@ -14,8 +14,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: en\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/settings-main/po/ar_IQ/kcm_trackpad.po\n"
-"X-Crowdin-File-ID: 3086\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/settings-main/po/es_ES/kcm_trackpad.po\n"
+"X-Crowdin-File-ID: 3118\n"
 
 #: source
 msgid "target"
@@ -23,6 +23,34 @@ msgstr ""
 
 #: Battery
 msgid "Battery"
+msgstr ""
+
+#: Storage+info
+msgid "Storage Info"
+msgstr ""
+
+msgid "%1 of %2 Used"
+msgstr ""
+
+msgid "Trackpad"
+msgstr ""
+
+msgid "Natural Scrolling"
+msgstr ""
+
+msgid "Tracking Speed"
+msgstr ""
+
+msgid "Scrolling Speed"
+msgstr ""
+
+msgid "Content will track the movement of your fingers."
+msgstr ""
+
+msgid "Slow"
+msgstr ""
+
+msgid "Fast"
 msgstr ""
 
 #: Type:
@@ -53,19 +81,15 @@ msgstr ""
 msgid "Modem"
 msgstr ""
 
-#: RE
-msgid " %1h %2m "
-msgstr ""
-
 #: Network
 msgid "Network"
 msgstr ""
 
-#: until+full
-msgid "%1 until full"
+#: Discover+system+updatable+version+%251
+msgid "Discover system updatable version %1"
 msgstr ""
 
-#: remaining
-msgid "%1 remaining"
+#: Appearance
+msgid "Appearance"
 msgstr ""
 
