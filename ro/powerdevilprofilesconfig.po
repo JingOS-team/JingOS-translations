@@ -1,28 +1,22 @@
-# Eirik U. Birkeland <eirbir@gmail.com>, 2009, 2010, 2011.
-# Karl Ove Hufthammer <karl@huftis.org>, 2009, 2015, 2018, 2020.
-# Øystein Steffensen-Alværvik <ystein@posteo.net>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-10-24 02:31+0200\n"
-"PO-Revision-Date: 2021-06-22 15:38\n"
-"Last-Translator: Karl Ove Hufthammer <karl@huftis.org>\n"
+"PO-Revision-Date: 2021-06-22 15:39\n"
+"Last-Translator: José Nuno Coelho Pires <zepires@gmail.com>\n"
 "Language-Team: Romanian\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-POFile-SpellExtra: Freddi\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
-"X-Generator: Lokalize 20.08.0\n"
-"X-Environment: kde\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: ro\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/nn/powerdevilprofilesconfig.po\n"
-"X-Crowdin-File-ID: 2838\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/pt/powerdevilprofilesconfig.po\n"
+"X-Crowdin-File-ID: 2868\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
