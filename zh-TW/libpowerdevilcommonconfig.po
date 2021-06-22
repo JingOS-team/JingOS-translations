@@ -1,11 +1,11 @@
-# Aman Alam <aalam@users.sf.net>, 2013.
+# Freek de Kruijf <freekdekruijf@kde.nl>, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-05-20 03:26+0200\n"
 "PO-Revision-Date: 2021-06-22 15:51\n"
-"Last-Translator: Aman Alam <aalam@users.sf.net>\n"
+"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
@@ -16,8 +16,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: zh-TW\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/pa/libpowerdevilcommonconfig.po\n"
-"X-Crowdin-File-ID: 2840\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/nl/libpowerdevilcommonconfig.po\n"
+"X-Crowdin-File-ID: 2820\n"
 
 #: ErrorOverlay.cpp:40
 #, kde-format
