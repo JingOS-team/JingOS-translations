@@ -1,12 +1,14 @@
-# Sharuzzaman Ahmat Raslan <sharuzzaman@myrealbox.com>, 2008, 2009, 2010.
-# Sharuzzaman Ahmat Raslan <sharuzzaman@gmail.com>, 2010.
+# Viesturs Zarins <viesturs.zarins@mii.lu.lv>, 2008, 2009, 2010.
+# Maris Nartiss <maris.kde@gmail.com>, 2008, 2011, 2012.
+# Viesturs Zariņš <viesturs.zarins@mii.lu.lv>, 2009.
+# Einars Sprugis <einars8@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-08 02:39+0100\n"
 "PO-Revision-Date: 2021-06-22 15:22\n"
-"Last-Translator: Sharuzzaman Ahmat Raslan <sharuzzaman@gmail.com>\n"
+"Last-Translator: Maris Nartiss <maris.kde@gmail.com>\n"
 "Language-Team: Czech\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -17,8 +19,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: cs\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ms/powerdevil.po\n"
-"X-Crowdin-File-ID: 2794\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/lv/powerdevil.po\n"
+"X-Crowdin-File-ID: 2768\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -34,19 +36,21 @@ msgstr ""
 #: actions/bundled/handlebuttonevents.cpp:58
 #: actions/bundled/keyboardbrightnesscontrol.cpp:56
 #: actions/dpms/powerdevildpmsaction.cpp:81
-#| msgid "Profile Management"
+#| msgid "KDE Power Management System"
 msgctxt "Name for powerdevil shortcuts category"
 msgid "Power Management"
 msgstr ""
 
 #: actions/bundled/brightnesscontrol.cpp:54
-#, kde-format
+#| msgctxt "Global shortcut"
+#| msgid "Increase Screen Brightness"
 msgctxt "@action:inmenu Global shortcut"
 msgid "Increase Screen Brightness"
 msgstr ""
 
 #: actions/bundled/brightnesscontrol.cpp:59
-#, kde-format
+#| msgctxt "Global shortcut"
+#| msgid "Decrease Screen Brightness"
 msgctxt "@action:inmenu Global shortcut"
 msgid "Decrease Screen Brightness"
 msgstr ""
@@ -79,7 +83,7 @@ msgid "Suspend"
 msgstr ""
 
 #: actions/bundled/handlebuttonevents.cpp:68
-#, kde-format
+#| msgid "Hibernate"
 msgctxt "@action:inmenu Global shortcut"
 msgid "Hibernate"
 msgstr ""
@@ -109,7 +113,7 @@ msgstr ""
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:99
 #: actions/bundled/suspendsessionconfig.cpp:90
-#, kde-format
+#| msgid "Sleep"
 msgctxt "Suspend to RAM"
 msgid "Sleep"
 msgstr ""
@@ -134,7 +138,7 @@ msgstr ""
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:108
 #: actions/bundled/suspendsessionconfig.cpp:99
-#| msgid "Lock Screen"
+#, kde-format
 msgid "Lock screen"
 msgstr ""
 
@@ -159,13 +163,15 @@ msgid "When power button pressed"
 msgstr ""
 
 #: actions/bundled/keyboardbrightnesscontrol.cpp:60
-#, kde-format
+#| msgctxt "Global shortcut"
+#| msgid "Increase Screen Brightness"
 msgctxt "@action:inmenu Global shortcut"
 msgid "Increase Keyboard Brightness"
 msgstr ""
 
 #: actions/bundled/keyboardbrightnesscontrol.cpp:65
-#, kde-format
+#| msgctxt "Global shortcut"
+#| msgid "Decrease Screen Brightness"
 msgctxt "@action:inmenu Global shortcut"
 msgid "Decrease Keyboard Brightness"
 msgstr ""
@@ -177,7 +183,8 @@ msgid "Toggle Keyboard Backlight"
 msgstr ""
 
 #: actions/bundled/keyboardbrightnesscontrolconfig.cpp:71
-#, kde-format
+#| msgctxt "Brightness level, label for the slider"
+#| msgid "Level"
 msgctxt "@label:slider Brightness level"
 msgid "Level"
 msgstr ""
@@ -188,7 +195,7 @@ msgid "Script"
 msgstr ""
 
 #: actions/bundled/runscriptconfig.cpp:83
-#| msgid "New Profile"
+#, kde-format
 msgid "On Profile Load"
 msgstr ""
 
@@ -203,7 +210,7 @@ msgid "Run script"
 msgstr ""
 
 #: actions/bundled/suspendsessionconfig.cpp:87
-#, kde-format
+#| msgid "After"
 msgid "after "
 msgstr ""
 
@@ -227,14 +234,14 @@ msgstr ""
 #: actions/bundled/wirelesspowersavingconfig.cpp:76
 #: actions/bundled/wirelesspowersavingconfig.cpp:81
 #: actions/bundled/wirelesspowersavingconfig.cpp:86
-#, kde-format
+#| msgid "Turn off screen"
 msgid "Turn off"
 msgstr ""
 
 #: actions/bundled/wirelesspowersavingconfig.cpp:77
 #: actions/bundled/wirelesspowersavingconfig.cpp:82
 #: actions/bundled/wirelesspowersavingconfig.cpp:87
-#, kde-format
+#| msgid "Turn off screen"
 msgid "Turn on"
 msgstr ""
 
@@ -254,7 +261,7 @@ msgid "Bluetooth"
 msgstr ""
 
 #: actions/dpms/powerdevildpmsaction.cpp:84
-#, kde-format
+#| msgid "Turn off screen"
 msgctxt "@action:inmenu Global shortcut"
 msgid "Turn Off Screen"
 msgstr ""
@@ -271,12 +278,14 @@ msgid "Unsupported suspend method"
 msgstr ""
 
 #: powerdevilapp.cpp:62
-#| msgid "A Power Management tool for KDE4"
+#| msgid "KDE Power Management System"
 msgid "KDE Power Management System"
 msgstr ""
 
 #: powerdevilapp.cpp:63
-#, kde-format
+#| msgid ""
+#| "KDE Power Management System is PowerDevil, an advanced, modular and "
+#| "lightweight Power Management daemon"
 msgctxt "@title"
 msgid "PowerDevil, an advanced, modular and lightweight power management daemon"
 msgstr ""
@@ -322,7 +331,7 @@ msgid "Activity Manager"
 msgstr ""
 
 #: powerdevilcore.cpp:430
-#, kde-format
+#| msgid "This activity's policies prevent the system from suspending"
 msgid "This activity's policies prevent the system from going to sleep"
 msgstr ""
 
@@ -396,29 +405,32 @@ msgid "Battery Critical (%1% Remaining)"
 msgstr ""
 
 #: powerdevilcore.cpp:650
-#| msgctxt "Interrupts the suspension/shutdown process"
-#| msgid "Cancel"
+#, kde-format
 msgctxt "Cancel timeout that will automatically put system to sleep because of low battery"
 msgid "Cancel"
 msgstr ""
 
 #: powerdevilcore.cpp:659
-#, kde-format
+#| msgid ""
+#| "Your battery level is critical, the computer will be halted in 30 seconds."
 msgid "Battery level critical. Your computer will shut down in 60 seconds."
 msgstr ""
 
 #: powerdevilcore.cpp:664
-#, kde-format
+#| msgid ""
+#| "Your battery level is critical, the computer will be hibernated in 30 "
+#| "seconds."
 msgid "Battery level critical. Your computer will enter hibernation mode in 60 seconds."
 msgstr ""
 
 #: powerdevilcore.cpp:669
-#, kde-format
+#| msgid ""
+#| "Your battery level is critical, the computer will be halted in 30 seconds."
 msgid "Battery level critical. Your computer will go to sleep in 60 seconds."
 msgstr ""
 
 #: powerdevilcore.cpp:674
-#, kde-format
+#| msgid "Your battery level is critical: save your work as soon as possible."
 msgid "Battery level critical. Please save your work."
 msgstr ""
 
@@ -433,7 +445,7 @@ msgid "Running on AC power"
 msgstr ""
 
 #: powerdevilcore.cpp:704
-#, kde-format
+#| msgid "The power adaptor has been plugged in."
 msgid "The power adapter has been plugged in."
 msgstr ""
 
@@ -443,7 +455,7 @@ msgid "Running on Battery Power"
 msgstr ""
 
 #: powerdevilcore.cpp:707
-#, kde-format
+#| msgid "The power adaptor has been unplugged."
 msgid "The power adapter has been unplugged."
 msgstr ""
 
