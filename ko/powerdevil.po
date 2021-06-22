@@ -1,23 +1,23 @@
-# Krishna Babu K <kkrothap@redhat.com>, 2009.
+# Victor Ibragimov <victor.ibragimov@gmail.com>, 2009, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-08 02:39+0100\n"
 "PO-Revision-Date: 2021-06-22 16:34\n"
-"Last-Translator: Krishna Babu K <kkrothap@redhat.com>\n"
+"Last-Translator: Victor Ibragimov <victor.ibragimov@gmail.com>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"X-Generator: Lokalize 20.04.2\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: ko\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/te/powerdevil.po\n"
-"X-Crowdin-File-ID: 2974\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/tg/powerdevil.po\n"
+"X-Crowdin-File-ID: 2978\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -127,13 +127,13 @@ msgstr ""
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:107
 #: actions/bundled/suspendsessionconfig.cpp:98
-#| msgid "Shutdown"
+#, kde-format
 msgid "Shut down"
 msgstr ""
 
 #: actions/bundled/handlebuttoneventsconfig.cpp:108
 #: actions/bundled/suspendsessionconfig.cpp:99
-#| msgid "Lock Screen"
+#, kde-format
 msgid "Lock screen"
 msgstr ""
 
@@ -187,7 +187,7 @@ msgid "Script"
 msgstr ""
 
 #: actions/bundled/runscriptconfig.cpp:83
-#| msgid "New Profile"
+#, kde-format
 msgid "On Profile Load"
 msgstr ""
 
@@ -293,7 +293,7 @@ msgid "Kai Uwe Broulik"
 msgstr ""
 
 #: powerdevilapp.cpp:67
-#| msgid "Maintainer"
+#, kde-format
 msgctxt "@info:credit"
 msgid "Maintainer"
 msgstr ""
@@ -305,7 +305,7 @@ msgid "Dario Freddi"
 msgstr ""
 
 #: powerdevilapp.cpp:70
-#| msgid "Maintainer"
+#, kde-format
 msgctxt "@info:credit"
 msgid "Previous maintainer"
 msgstr ""
