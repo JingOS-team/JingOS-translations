@@ -1,11 +1,11 @@
-# Iñigo Salvador Azurmendi <xalba@euskalnet.net>, 2014.
+# Martin Schlander <mschlander@opensuse.org>, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-05-20 03:26+0200\n"
 "PO-Revision-Date: 2021-06-22 11:59\n"
-"Last-Translator: Iñigo Salvador Azurmendi <xalba@euskalnet.net>\n"
+"Last-Translator: Martin Schlander <mschlander@opensuse.org>\n"
 "Language-Team: Serbian (Cyrillic)\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
@@ -16,8 +16,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: sr\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/eu/libpowerdevilcommonconfig.po\n"
-"X-Crowdin-File-ID: 2604\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/da/libpowerdevilcommonconfig.po\n"
+"X-Crowdin-File-ID: 2542\n"
 
 #: ErrorOverlay.cpp:40
 #, kde-format
