@@ -13,12 +13,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Lokalize 1.5\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: uk\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ca@valencia/libpowerdevilcommonconfig.po\n"
-"X-Crowdin-File-ID: 2522\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ca/libpowerdevilcommonconfig.po\n"
+"X-Crowdin-File-ID: 2512\n"
 
 #: ErrorOverlay.cpp:40
 #, kde-format
