@@ -1,24 +1,24 @@
-# Erdal Ronahi <erdal.ronahi@nospam.gmail.com>, 2008.
+# Sangeeta Kumari <sangeeta09@gmail.com>, 2008, 2009.
+# Rajesh Ranjan <rajesh672@gmail.com>, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-08 02:39+0100\n"
 "PO-Revision-Date: 2021-06-22 14:48\n"
-"Last-Translator: Omer Ensari <oensari@gmail.com>\n"
+"Last-Translator: Rajesh Ranjan <rajesh672@gmail.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 0.2\n"
+"X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
-"X-Poedit-Language: Kurdish\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: ar\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ku/powerdevil.po\n"
-"X-Crowdin-File-ID: 2756\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/mai/powerdevil.po\n"
+"X-Crowdin-File-ID: 2774\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -337,9 +337,8 @@ msgid "Extra Battery Added"
 msgstr ""
 
 #: powerdevilcore.cpp:504 powerdevilcore.cpp:702
-#| msgid ""
-#| "The computer will be halted in %1 seconds. Click here to block the "
-#| "process."
+#| msgid "The computer will be halted in 1 second."
+#| msgid_plural "The computer will be halted in %1 seconds."
 msgid "The computer will no longer go to sleep."
 msgstr ""
 
@@ -398,36 +397,41 @@ msgid "Battery Critical (%1% Remaining)"
 msgstr ""
 
 #: powerdevilcore.cpp:650
-#, kde-format
+#| msgctxt "Interrupts the suspension/shutdown process"
+#| msgid "Cancel"
 msgctxt "Cancel timeout that will automatically put system to sleep because of low battery"
 msgid "Cancel"
 msgstr ""
 
 #: powerdevilcore.cpp:659
 #| msgid ""
-#| "Your battery has reached critical level, the PC will be halted in %1 "
-#| "seconds. Click here to block the process."
+#| "Your battery level is critical, the computer will be halted in 1 second."
+#| "Your battery level is critical, the computer will be halted in %1 seconds."
+#| msgid_plural ""
+#| "Your battery level is critical, the computer will be halted in %1 seconds."
 msgid "Battery level critical. Your computer will shut down in 60 seconds."
 msgstr ""
 
 #: powerdevilcore.cpp:664
 #| msgid ""
-#| "Your battery has reached critical level, the PC will be halted in %1 "
-#| "seconds. Click here to block the process."
+#| "Your battery level is critical, the computer will be halted in 1 second."
+#| "Your battery level is critical, the computer will be halted in %1 seconds."
+#| msgid_plural ""
+#| "Your battery level is critical, the computer will be halted in %1 seconds."
 msgid "Battery level critical. Your computer will enter hibernation mode in 60 seconds."
 msgstr ""
 
 #: powerdevilcore.cpp:669
 #| msgid ""
-#| "Your battery has reached critical level, the PC will be halted in %1 "
-#| "seconds. Click here to block the process."
+#| "Your battery level is critical, the computer will be halted in 1 second."
+#| "Your battery level is critical, the computer will be halted in %1 seconds."
+#| msgid_plural ""
+#| "Your battery level is critical, the computer will be halted in %1 seconds."
 msgid "Battery level critical. Your computer will go to sleep in 60 seconds."
 msgstr ""
 
 #: powerdevilcore.cpp:674
-#| msgid ""
-#| "Your battery has reached critical level, save your work as soon as "
-#| "possible!"
+#| msgid "Your battery level is critical: save your work as soon as possible."
 msgid "Battery level critical. Please save your work."
 msgstr ""
 
@@ -442,7 +446,7 @@ msgid "Running on AC power"
 msgstr ""
 
 #: powerdevilcore.cpp:704
-#| msgid "The power adaptor has been plugged in"
+#| msgid "The power adaptor has been plugged in."
 msgid "The power adapter has been plugged in."
 msgstr ""
 
@@ -452,7 +456,7 @@ msgid "Running on Battery Power"
 msgstr ""
 
 #: powerdevilcore.cpp:707
-#| msgid "The power adaptor has been unplugged"
+#| msgid "The power adaptor has been unplugged."
 msgid "The power adapter has been unplugged."
 msgstr ""
 
