@@ -14,8 +14,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: sv-SE\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/settings-main/po/ar_IQ/kcm_display.po\n"
-"X-Crowdin-File-ID: 3064\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/settings-main/po/zh_CN/kcm_display.po\n"
+"X-Crowdin-File-ID: 3128\n"
 
 #: source
 msgid "target"
