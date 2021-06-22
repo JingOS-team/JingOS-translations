@@ -1,23 +1,28 @@
-# Stefan Asserhall <stefan.asserhall@bredband.net>, 2010, 2011, 2020.
+# Translation of powerdevilprofilesconfig.po into Serbian.
+# Chusslove Illich <caslav.ilic@gmx.net>, 2009, 2010, 2011, 2012, 2017.
+# Dalibor Djuric <daliborddjuric@gmail.com>, 2009, 2010, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-10-24 02:31+0200\n"
-"PO-Revision-Date: 2021-06-22 16:34\n"
-"Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
+"POT-Creation-Date: 2019-11-25 03:33+0100\n"
+"PO-Revision-Date: 2021-06-22 16:35\n"
+"Last-Translator: Chusslove Illich <caslav.ilic@gmx.net>\n"
 "Language-Team: Hungarian\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 19.04.3\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Associated-UI-Catalogs: systemsettings.desktop\n"
+"X-Environment: kde\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: hu\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/sv/powerdevilprofilesconfig.po\n"
-"X-Crowdin-File-ID: 2972\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/sr@latin/powerdevilprofilesconfig.po\n"
+"X-Crowdin-File-ID: 2962\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -29,19 +34,21 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: EditPage.cpp:191
+#: EditPage.cpp:192
 #, kde-format
 msgid "The KDE Power Management System will now generate a set of defaults based on your computer's capabilities. This will also erase all existing modifications you made. Are you sure you want to continue?"
 msgstr ""
 
-#: EditPage.cpp:194
+# >> @title:window
+#: EditPage.cpp:195
 #, kde-format
 msgid "Restore Default Profiles"
 msgstr ""
 
-#: EditPage.cpp:273
+#: EditPage.cpp:274
 #, kde-format
-msgid "The Power Management Service appears not to be running."
+msgid "The Power Management Service appears not to be running.\n"
+"This can be solved by starting or scheduling it inside \"Startup and Shutdown\""
 msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab)
