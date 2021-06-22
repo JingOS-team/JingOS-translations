@@ -1,23 +1,21 @@
-# Alexander Lakhin <exclusion@gmail.com>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-05-20 03:26+0200\n"
 "PO-Revision-Date: 2021-06-22 16:36\n"
-"Last-Translator: Alexander Lakhin <exclusion@gmail.com>\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
 "Language-Team: Japanese\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 1.5\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: ja\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ru/libpowerdevilcommonconfig.po\n"
-"X-Crowdin-File-ID: 2890\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ro/libpowerdevilcommonconfig.po\n"
+"X-Crowdin-File-ID: 2880\n"
 
 #: ErrorOverlay.cpp:40
 #, kde-format
