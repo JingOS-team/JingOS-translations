@@ -1,8 +1,38 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
 *.o
-build
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
 *.kdev4
-CMakeLists.txt.user
+.vscode
+build/
+CMakeLists.txt.*
 .clang-format
-/build*/
-cmake-build-debug*
-.idea
