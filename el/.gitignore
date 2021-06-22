@@ -1,20 +1,3 @@
-*.qmlc
 build/
-.kdev4/
-kclock.kdev4
-CMakeLists.txt.user
+CMakeLists.txt.*
 
-/cmake-build-debug
-/test.sh
-/flatpak-build-desktop
-/.flatpak-builder
-/mobiletest.sh
-
-kclock.cflags
-kclock.config
-kclock.creator
-kclock.creator.user
-kclock.cxxflags
-kclock.files
-kclock.includes
-.clang-format
