@@ -1,23 +1,29 @@
-# Sweta Kothari <swkothar@redhat.com>, 2008, 2010.
+# Zarko Pintar <zarko.pintar@gmail.com>, 2009.
+# DoDo <DoDoEntertainment@gmail.com>, 2009.
+# Marko Dimjasevic <marko@dimjasevic.net>, 2009, 2011.
+# Andrej Dundovic <adundovi@gmail.com>, 2009, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-08 02:39+0100\n"
 "PO-Revision-Date: 2021-06-22 12:17\n"
-"Last-Translator: Sweta Kothari <swkothar@redhat.com>\n"
+"Last-Translator: Marko Dimjasevic <marko@dimjasevic.net>\n"
 "Language-Team: English\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 1.2\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: en\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/gu/powerdevil.po\n"
-"X-Crowdin-File-ID: 2654\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/hr/powerdevil.po\n"
+"X-Crowdin-File-ID: 2672\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -53,7 +59,7 @@ msgid "Decrease Screen Brightness"
 msgstr ""
 
 #: actions/bundled/brightnesscontrolconfig.cpp:70
-#| msgid "Level"
+#, kde-format
 msgctxt "Brightness level, label for the slider"
 msgid "Level"
 msgstr ""
@@ -92,7 +98,7 @@ msgid "Power Off"
 msgstr ""
 
 #: actions/bundled/handlebuttonevents.cpp:80
-#, kde-format
+#| msgid "PowerDevil"
 msgctxt "@action:inmenu Global shortcut, used for long presses of the power button"
 msgid "Power Down"
 msgstr ""
@@ -180,6 +186,7 @@ msgid "Toggle Keyboard Backlight"
 msgstr ""
 
 #: actions/bundled/keyboardbrightnesscontrolconfig.cpp:71
+#| msgctxt "Brightness level, label for the slider"
 #| msgid "Level"
 msgctxt "@label:slider Brightness level"
 msgid "Level"
@@ -279,7 +286,9 @@ msgid "KDE Power Management System"
 msgstr ""
 
 #: powerdevilapp.cpp:63
-#, kde-format
+#| msgid ""
+#| "KDE Power Management System is PowerDevil, an advanced, modular and "
+#| "lightweight Power Management daemon"
 msgctxt "@title"
 msgid "PowerDevil, an advanced, modular and lightweight power management daemon"
 msgstr ""
@@ -340,7 +349,8 @@ msgid "Extra Battery Added"
 msgstr ""
 
 #: powerdevilcore.cpp:504 powerdevilcore.cpp:702
-#, kde-format
+#| msgid "The computer will be halted in 1 second."
+#| msgid_plural "The computer will be halted in %1 seconds."
 msgid "The computer will no longer go to sleep."
 msgstr ""
 
