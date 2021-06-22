@@ -1,11 +1,11 @@
-# Maris Nartiss <maris.kde@gmail.com>, 2011.
+# Sharuzzaman Ahmat Raslan <sharuzzaman@gmail.com>, 2010, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-10-24 02:31+0200\n"
 "PO-Revision-Date: 2021-06-22 15:23\n"
-"Last-Translator: Maris Nartiss <maris.kde@gmail.com>\n"
+"Last-Translator: Sharuzzaman Ahmat Raslan <sharuzzaman@gmail.com>\n"
 "Language-Team: Catalan\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
@@ -16,8 +16,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: ca\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/lv/powerdevilprofilesconfig.po\n"
-"X-Crowdin-File-ID: 2772\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ms/powerdevilprofilesconfig.po\n"
+"X-Crowdin-File-ID: 2798\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -30,15 +30,10 @@ msgid "Your emails"
 msgstr ""
 
 #: EditPage.cpp:191
-#| msgid ""
-#| "The KDE Power Management System will now generate a set of default "
-#| "profiles based on your computer's capabilities. This will also erase all "
-#| "existing profiles. Are you sure you want to continue?"
 msgid "The KDE Power Management System will now generate a set of defaults based on your computer's capabilities. This will also erase all existing modifications you made. Are you sure you want to continue?"
 msgstr ""
 
 #: EditPage.cpp:194
-#, kde-format
 msgid "Restore Default Profiles"
 msgstr ""
 
