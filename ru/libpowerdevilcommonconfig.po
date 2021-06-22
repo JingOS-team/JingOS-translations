@@ -1,21 +1,23 @@
+# Stefan Asserhäll <stefan.asserhall@bredband.net>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-05-20 03:26+0200\n"
 "PO-Revision-Date: 2021-06-22 16:38\n"
-"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Generator: Lokalize 1.4\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: ru\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ro/libpowerdevilcommonconfig.po\n"
-"X-Crowdin-File-ID: 2880\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/sv/libpowerdevilcommonconfig.po\n"
+"X-Crowdin-File-ID: 2964\n"
 
 #: ErrorOverlay.cpp:40
 #, kde-format
