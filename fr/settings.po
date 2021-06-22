@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: testcalendar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-01 16:54+0800\n"
+"PO-Revision-Date: 2021-06-22 17:05\n"
+"Last-Translator: David Martínez Echavarría <damarte86@gmail.com>\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: testcalendar\n"
+"X-Crowdin-Project-ID: 460550\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/settings-main/po/es_ES/settings.po\n"
+"X-Crowdin-File-ID: 3124\n"
+
+#: source
+msgid "target"
+msgstr ""
+
+#: Battery
+msgid "Battery"
+msgstr ""
+
+#: Location+Service
+msgid "Location Service"
+msgstr ""
+
+msgid "Trackpad"
+msgstr ""
+
+msgid "Mouse"
+msgstr ""
+
+msgid "Keyboard"
+msgstr ""
+
+#: Type:
+msgid "Type:"
+msgstr ""
+
+#: APN:
+msgid "APN:"
+msgstr ""
+
+#: Cellular+Networks
+msgid "Cellular Networks"
+msgstr ""
+
+#: Modems
+msgid "Modems"
+msgstr ""
+
+#: SIM+Cards
+msgid "SIM Cards"
+msgstr ""
+
+#: Networks
+msgid "Networks"
+msgstr ""
+
+#: Modem
+msgid "Modem"
+msgstr ""
+
+#: Network
+msgid "Network"
+msgstr ""
+
+msgid "Font Size"
+msgstr ""
+
+msgid "Brightness"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Icons"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "Extra Small"
+msgstr ""
+
+msgid "Small"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Large"
+msgstr ""
+
+msgid "Extra Large"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+#: Discover+system+updatable+version+%251
+msgid "Discover system updatable version %1"
+msgstr ""
+
+#: Appearance
+msgid "Appearance"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "On connection"
+msgstr ""
+
+msgid "Not connected"
+msgstr ""
+
+msgid "Connected"
+msgstr ""
+
