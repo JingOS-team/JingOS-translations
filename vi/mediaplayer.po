@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: testcalendar\n"
+"X-Crowdin-Project-ID: 460550\n"
+"X-Crowdin-Language: vi\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/mediaplayer/po/zh_CN/mediaplayer.po\n"
+"X-Crowdin-File-ID: 2422\n"
+"Project-Id-Version: testcalendar\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Vietnamese\n"
+"Language: vi_VN\n"
+"PO-Revision-Date: 2021-06-22 06:49\n"
+
+#: main.qml:127 main.qml:150
+#, kde-format
+msgid "Cancel"
+msgstr ""
+
+#: main.qml:129
+#, kde-format
+msgid "Play Video?"
+msgstr ""
+
+#: main.qml:130
+#, kde-format
+msgid "Are u sure?"
+msgstr ""
+
+#: main.qml:131
+#, kde-format
+msgid "ok"
+msgstr ""
+
+#: main.qml:161
+#, kde-format
+msgid "Save to files"
+msgstr ""
+
+#: main.qml:169 main.qml:235 main.qml:1798 main.qml:2339
+#: view_models/BabeTable/BabeTable.qml:108
+#, kde-format
+msgid "Delete"
+msgstr ""
+
+#: main.qml:182 main.qml:199
+#, kde-format
+msgid "Are you sure you want to save the file to file manager?"
+msgstr ""
+
+#: main.qml:188 main.qml:211
+#, kde-format
+msgid "Are you sure you want to delete the file?"
+msgstr ""
+
+#: main.qml:196
+#, kde-format
+msgid "Are you sure you want to save these files to file manager?"
+msgstr ""
+
+#: main.qml:208
+#, kde-format
+msgid "Are you sure you want to delete these files?"
+msgstr ""
+
+#: main.qml:227
+#, kde-format
+msgid "Save"
+msgstr ""
+
+#: main.qml:507
+#, kde-format
+msgid "Media"
+msgstr ""
+
+#: main.qml:542 view_models/BabeTable/BabeTable.qml:92
+#, kde-format
+msgid "Search"
+msgstr ""
+
+#: main.qml:594
+#, kde-format
+msgid "Video"
+msgstr ""
+
+#: main.qml:670 main.qml:850 main.qml:1103
+#, kde-format
+msgid "All"
+msgstr ""
+
+#: main.qml:752 main.qml:1016 main.qml:1109
+#, kde-format
+msgid "Lately"
+msgstr ""
+
+#: main.qml:774
+#, kde-format
+msgid "Music"
+msgstr ""
+
+#: main.qml:935 main.qml:1106
+#, kde-format
+msgid "Like"
+msgstr ""
+
+#: main.qml:1100
+#, kde-format
+msgid "Search Results"
+msgstr ""
+
+#: main.qml:1325
+#, kde-format
+msgid "No Results"
+msgstr ""
+
+#: main.qml:1689 main.qml:2230
+#, kde-format
+msgid "Batch editing"
+msgstr ""
+
+msgid "There is no video at present"
+msgstr ""
+
+msgid "There is no music at present"
+msgstr ""
+
+msgid "UNKNOWN"
+msgstr ""
+
+msgid "Sorry,there are no search results."
+msgstr ""
+
