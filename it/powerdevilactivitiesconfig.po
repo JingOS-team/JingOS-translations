@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-07-06 02:13+0200\n"
 "PO-Revision-Date: 2021-06-22 16:55\n"
-"Last-Translator: Gheyret Kenji <gheyret@gmail.com>\n"
+"Last-Translator: transxx.py program <null@kde.org>\n"
 "Language-Team: Italian\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -14,8 +14,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: it\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ug/powerdevilactivitiesconfig.po\n"
-"X-Crowdin-File-ID: 3006\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/x-test/powerdevilactivitiesconfig.po\n"
+"X-Crowdin-File-ID: 3032\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -45,7 +45,7 @@ msgid "The Power Management Service appears not to be running."
 msgstr ""
 
 #: activitywidget.cpp:97
-#| msgid "Sleep"
+#, kde-format
 msgctxt "Suspend to RAM"
 msgid "Sleep"
 msgstr ""
@@ -56,7 +56,7 @@ msgid "Hibernate"
 msgstr ""
 
 #: activitywidget.cpp:103
-#| msgid "Shutdown"
+#, kde-format
 msgid "Shut down"
 msgstr ""
 
