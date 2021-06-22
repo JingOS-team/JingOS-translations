@@ -1,13 +1,13 @@
-# Ihar Hrachyshka <ihar.hrachyshka@gmail.com>, 2008.
+# Runa Bhattacharjee <runab@redhat.com>, 2008.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-08 02:39+0100\n"
 "PO-Revision-Date: 2021-06-22 09:21\n"
-"Last-Translator: Ihar Hrachyshka <ihar.hrachyshka@gmail.com>\n"
+"Last-Translator: Runa Bhattacharjee <runab@redhat.com>\n"
 "Language-Team: Danish\n"
-"Language: da\n"
+"Language: da_DK\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,8 +16,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: da\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/be@latin/powerdevil.po\n"
-"X-Crowdin-File-ID: 2488\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/bn_IN/powerdevil.po\n"
+"X-Crowdin-File-ID: 2500\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -60,7 +60,7 @@ msgstr ""
 #: actions/bundled/runscriptconfig.cpp:82
 #: actions/bundled/suspendsessionconfig.cpp:86
 #: actions/dpms/powerdevildpmsactionconfig.cpp:60
-#, kde-format
+#| msgid "min"
 msgid " min"
 msgstr ""
 
@@ -259,13 +259,13 @@ msgid "Turn Off Screen"
 msgstr ""
 
 #: actions/dpms/powerdevildpmsactionconfig.cpp:61
-#| msgid "&Power off after"
+#, kde-format
 msgid "Switch off after"
 msgstr ""
 
 #: backends/upower/login1suspendjob.cpp:79
 #: backends/upower/upowersuspendjob.cpp:69
-#| msgid "Supported suspend methods"
+#| msgid "Supported schemes"
 msgid "Unsupported suspend method"
 msgstr ""
 
@@ -331,7 +331,7 @@ msgid "This activity's policies prevent screen power management"
 msgstr ""
 
 #: powerdevilcore.cpp:503
-#| msgid "Critical battery level"
+#, kde-format
 msgid "Extra Battery Added"
 msgstr ""
 
