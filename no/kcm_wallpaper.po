@@ -14,8 +14,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: no\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/settings-main/po/zh_CN/kcm_wallpaper.po\n"
-"X-Crowdin-File-ID: 3154\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/settings-main/po/ar_IQ/kcm_wallpaper.po\n"
+"X-Crowdin-File-ID: 3090\n"
 
 #: package/contents/ui/Contexts.qml:28
 #, kde-format
