@@ -19,8 +19,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: it\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/sr@ijekavianlatin/libpowerdevilcommonconfig.po\n"
-"X-Crowdin-File-ID: 2944\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/sr/libpowerdevilcommonconfig.po\n"
+"X-Crowdin-File-ID: 2924\n"
 
 #: ErrorOverlay.cpp:40
 #, kde-format
