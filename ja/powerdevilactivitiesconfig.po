@@ -1,25 +1,25 @@
-# KDE Finnish translation sprint participants:
-# Author: Artnay
+# Translators:
+# Iñigo Salvador Azurmendi <xalba@euskalnet.net>, 2011, 2014, 2018, 2019, 2020.
+# Hizkuntza Politikarako Sailburuordetza <hizpol@ej-gv.es>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-07-06 02:13+0200\n"
 "PO-Revision-Date: 2021-06-22 09:42\n"
-"Last-Translator: Tommi Nieminen <translator@legisign.org>\n"
+"Last-Translator: Iñigo Salvador Azurmendi <xalba@ni.eus>\n"
 "Language-Team: Japanese\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.04.2\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-POT-Import-Date: 2012-12-01 22:22:38+0000\n"
-"X-Generator: Lokalize 20.04.3\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: ja\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/fi/powerdevilactivitiesconfig.po\n"
-"X-Crowdin-File-ID: 2618\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/eu/powerdevilactivitiesconfig.po\n"
+"X-Crowdin-File-ID: 2608\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -115,7 +115,6 @@ msgstr ""
 msgid "Never shut down the computer or let it go to sleep"
 msgstr ""
 
-# Tämä suomennos jätetty tarkoituksella tyhjäksi. Ks. konteksti.
 #. i18n: ectx: property (text), widget (QCheckBox, alwaysBox)
 #: activityWidget.ui:91
 #, kde-format
