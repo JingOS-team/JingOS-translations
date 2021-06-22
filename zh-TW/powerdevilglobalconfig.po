@@ -1,31 +1,27 @@
-# Nick Shaforostoff <shaforostoff@kde.ru>, 2008, 2009.
-# Andrey Cherepanov <skull@kde.ru>, 2009, 2011.
-# Nick Shaforostoff <shafff@ukr.net>, 2009, 2010, 2011.
-# Alexander Potashev <aspotashev@gmail.com>, 2010, 2011, 2014, 2015, 2016, 2017, 2019.
-# Julia Dronova <juliette.tux@gmail.com>, 2012.
-# Alexander Yavorsky <kekcuha@gmail.com>, 2020.
+# translation of powerdevilglobalconfig.po to Slovak
+# Roman Paholík <wizzardsk@gmail.com>, 2014, 2015, 2016, 2017.
+# Mthw <jari_45@hotmail.com>, 2019.
+# Dusan Kazik <prescott66@gmail.com>, 2020.
+# Matej Mrenica <matejm98mthw@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-09-25 02:27+0200\n"
 "PO-Revision-Date: 2021-06-22 16:46\n"
-"Last-Translator: Alexander Yavorsky <kekcuha@gmail.com>\n"
+"Last-Translator: Matej Mrenica <matejm98mthw@gmail.com>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 20.08.2\n"
+"X-Generator: Lokalize 20.08.1\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Environment: kde\n"
-"X-Accelerator-Marker: &\n"
-"X-Text-Markup: kde4\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: zh-TW\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ru/powerdevilglobalconfig.po\n"
-"X-Crowdin-File-ID: 2896\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/sk/powerdevilglobalconfig.po\n"
+"X-Crowdin-File-ID: 2908\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
