@@ -4,33 +4,33 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: it\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/mediaplayer/po/zh_CN/mediaplayer.po\n"
-"X-Crowdin-File-ID: 2422\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/mediaplayer/po/ar_IQ/mediaplayer.po\n"
+"X-Crowdin-File-ID: 2418\n"
 "Project-Id-Version: testcalendar\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-06-22 13:03\n"
+"PO-Revision-Date: 2021-06-22 13:15\n"
 
 #: main.qml:127 main.qml:150
 #, kde-format
 msgid "Cancel"
-msgstr ""
+msgstr "Cancella"
 
 #: main.qml:129
 #, kde-format
 msgid "Play Video?"
-msgstr ""
+msgstr "Riprodurre Video?"
 
 #: main.qml:130
 #, kde-format
 msgid "Are u sure?"
-msgstr ""
+msgstr "Sicuramente no?"
 
 #: main.qml:131
 #, kde-format
 msgid "ok"
-msgstr ""
+msgstr "oc"
 
 #: main.qml:161
 #, kde-format
