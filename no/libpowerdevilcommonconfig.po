@@ -1,23 +1,23 @@
-# Kheyyam Gojayev <xxmn77@gmail.com>, 2020.
+# enolp <enolp@softastur.org>, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-05-20 03:26+0200\n"
-"PO-Revision-Date: 2021-06-22 07:09\n"
-"Last-Translator: Kheyyam Gojayev <xxmn77@gmail.com>\n"
+"PO-Revision-Date: 2021-06-22 07:11\n"
+"Last-Translator: enolp <enolp@softastur.org>\n"
 "Language-Team: Norwegian\n"
 "Language: no\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 20.08.3\n"
+"X-Generator: Lokalize 19.12.2\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: no\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/az/libpowerdevilcommonconfig.po\n"
-"X-Crowdin-File-ID: 2478\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ast/libpowerdevilcommonconfig.po\n"
+"X-Crowdin-File-ID: 2470\n"
 
 #: ErrorOverlay.cpp:40
 #, kde-format
