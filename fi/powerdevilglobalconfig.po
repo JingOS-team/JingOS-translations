@@ -1,22 +1,27 @@
+# translation of powerdevilglobalconfig.po to Khmer
+# Khoem Sokhem <khoemsokhem@khmeros.info>, 2011, 2012.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-09-25 02:27+0200\n"
 "PO-Revision-Date: 2021-06-22 12:23\n"
-"Last-Translator: Vincenzo Reale <smart2128@baslug.org>\n"
+"Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
 "Language-Team: Finnish\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"X-Language: km-KH\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 20.08.1\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: fi\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/it/powerdevilglobalconfig.po\n"
-"X-Crowdin-File-ID: 2714\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/km/powerdevilglobalconfig.po\n"
+"X-Crowdin-File-ID: 2742\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -34,7 +39,7 @@ msgid "Do nothing"
 msgstr ""
 
 #: GeneralPage.cpp:111
-#, kde-format
+#| msgid "Sleep"
 msgctxt "Suspend to RAM"
 msgid "Sleep"
 msgstr ""
@@ -45,7 +50,7 @@ msgid "Hibernate"
 msgstr ""
 
 #: GeneralPage.cpp:116
-#, kde-format
+#| msgid "Shutdown"
 msgid "Shut down"
 msgstr ""
 
@@ -56,13 +61,13 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, batteryLevelsLabel)
 #: generalPage.ui:22
-#, kde-format
+#| msgid "<b>Battery levels</b>"
 msgid "<b>Battery Levels                     </b>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lowLabel)
 #: generalPage.ui:29
-#, kde-format
+#| msgid "Low battery level"
 msgid "&Low level:"
 msgstr ""
 
@@ -91,7 +96,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, criticalLabel)
 #: generalPage.ui:61
-#, kde-format
+#| msgid "Critical battery level"
 msgid "&Critical level:"
 msgstr ""
 
@@ -109,7 +114,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, BatteryCriticalLabel)
 #: generalPage.ui:93
-#, kde-format
+#| msgid "Battery is at critical level at"
 msgid "A&t critical level:"
 msgstr ""
 
