@@ -1,10 +1,12 @@
+# Automatically generated, 2014.
+# Eloy Cuadra <ecuadra@eloihr.net>, 2014, 2015, 2016, 2017, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-09-25 02:27+0200\n"
-"PO-Revision-Date: 2021-06-22 11:48\n"
-"Last-Translator: Vit Pelcak <vit@pelcak.org>\n"
+"PO-Revision-Date: 2021-06-22 11:49\n"
+"Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
 "Language-Team: Afrikaans\n"
 "Language: af\n"
 "MIME-Version: 1.0\n"
@@ -15,8 +17,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: af\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/cs/powerdevilglobalconfig.po\n"
-"X-Crowdin-File-ID: 2538\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/es/powerdevilglobalconfig.po\n"
+"X-Crowdin-File-ID: 2590\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
