@@ -1,26 +1,24 @@
-# Copyright (C) YEAR This_file_is_part_of_KDE
-# This file is distributed under the same license as the PACKAGE package.
-# Safa Alfulaij <safaalfulaij@hotmail.con>, 2013.
-# Abdalrahim G. Fakhouri <abdilra7eem@yahoo.com>, 2014.
+# Svetoslav Stefanov <svetlisashkov@yahoo.com>, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-10-24 02:31+0200\n"
-"PO-Revision-Date: 2021-06-22 07:01\n"
-"Last-Translator: Abdalrahim G. Fakhouri <abdilra7eem@yahoo.com>\n"
+"PO-Revision-Date: 2021-06-22 07:03\n"
+"Last-Translator: Svetoslav Stefanov <svetlisashkov@yahoo.com>\n"
 "Language-Team: Greek\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: el\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ar/powerdevilprofilesconfig.po\n"
-"X-Crowdin-File-ID: 2454\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/bg/powerdevilprofilesconfig.po\n"
+"X-Crowdin-File-ID: 2496\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
