@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-09-25 02:27+0200\n"
-"PO-Revision-Date: 2021-06-22 17:02\n"
-"Last-Translator: Gheyret Kenji <gheyret@gmail.com>\n"
+"PO-Revision-Date: 2021-06-22 17:03\n"
+"Last-Translator: transxx.py program <null@kde.org>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -14,8 +14,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: pt-BR\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/ug/powerdevilglobalconfig.po\n"
-"X-Crowdin-File-ID: 3008\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/x-test/powerdevilglobalconfig.po\n"
+"X-Crowdin-File-ID: 3034\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
@@ -33,7 +33,7 @@ msgid "Do nothing"
 msgstr ""
 
 #: GeneralPage.cpp:111
-#| msgid "Sleep"
+#, kde-format
 msgctxt "Suspend to RAM"
 msgid "Sleep"
 msgstr ""
@@ -44,7 +44,7 @@ msgid "Hibernate"
 msgstr ""
 
 #: GeneralPage.cpp:116
-#| msgid "Shutdown"
+#, kde-format
 msgid "Shut down"
 msgstr ""
 
@@ -61,7 +61,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lowLabel)
 #: generalPage.ui:29
-#| msgid "Low battery level"
+#, kde-format
 msgid "&Low level:"
 msgstr ""
 
@@ -90,7 +90,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, criticalLabel)
 #: generalPage.ui:61
-#| msgid "Critical battery level"
+#, kde-format
 msgid "&Critical level:"
 msgstr ""
 
@@ -108,7 +108,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, BatteryCriticalLabel)
 #: generalPage.ui:93
-#| msgid "Battery is at critical level at"
+#, kde-format
 msgid "A&t critical level:"
 msgstr ""
 
@@ -168,7 +168,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: generalPage.ui:228
-#| msgid "Advanced Battery Settings"
+#, kde-format
 msgid "Other Settings"
 msgstr ""
 
