@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-19 16:59+0800\n"
-"PO-Revision-Date: 2021-06-22 17:39\n"
+"PO-Revision-Date: 2021-06-22 17:41\n"
 "Last-Translator: \n"
 "Language-Team: Serbian (Cyrillic)\n"
 "Language: sr_SP\n"
@@ -14,8 +14,8 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: sr\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/settings-main/po/zh_CN/settings.po\n"
-"X-Crowdin-File-ID: 3156\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/settings-main/po/ar_IQ/settings.po\n"
+"X-Crowdin-File-ID: 3092\n"
 
 #: source
 msgid "target"
@@ -23,19 +23,6 @@ msgstr ""
 
 #: Battery
 msgid "Battery"
-msgstr ""
-
-#: Location+Service
-msgid "Location Service"
-msgstr ""
-
-msgid "Trackpad"
-msgstr ""
-
-msgid "Mouse"
-msgstr ""
-
-msgid "Keyboard"
 msgstr ""
 
 #: Type:
@@ -66,38 +53,20 @@ msgstr ""
 msgid "Modem"
 msgstr ""
 
+#: RE
+msgid " %1h %2m "
+msgstr ""
+
 #: Network
 msgid "Network"
 msgstr ""
 
-msgid "Font Size"
+#: until+full
+msgid "%1 until full"
 msgstr ""
 
-msgid "Preview"
-msgstr ""
-
-msgid "Icons"
-msgstr ""
-
-msgid "List"
-msgstr ""
-
-msgid "Extra Small"
-msgstr ""
-
-msgid "Small"
-msgstr ""
-
-msgid "Normal"
-msgstr ""
-
-msgid "Large"
-msgstr ""
-
-msgid "Extra Large"
-msgstr ""
-
-msgid "Name"
+#: remaining
+msgid "%1 remaining"
 msgstr ""
 
 msgid "On"
