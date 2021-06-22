@@ -1,38 +1,63 @@
-# Prerequisites
-*.d
+mauikit/
+3rdparty/kirigami/
+3rdparty/mauikit/
+3rdparty/breeze-icons/
+3rdparty/openssl/
+3rdparty/taglib
+3rdparty/taglib/taglib.pri
+.directory
 
-# Compiled Object files
+*.kdev4
+*.*~
+#~*.*
+#~.*
+*.DS_Store
+
+# C++ objects and libs
 *.slo
 *.lo
 *.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
 *.a
-*.lib
+*.la
+*.lai
+#*.so
+*.dll
+*.dylib
 
-# Executables
-*.exe
-*.out
-*.app
-*.kdev4
-.clang-format
-build
-CMakeLists.txt.*
+# Qt-es
+object_script.*.Release
+object_script.*.Debug
+*_plugin_import.cpp
+/.qmake.cache
+/.qmake.stash
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.qmlc
+*.jsc
+Makefile*
+*build-*
 
+# Qt unit tests
+target_wrapper.*
+
+# QtCreator
+*.autosave
+
+# QtCreator Qml
+*.qmlproject.user
+*.qmlproject.user.*
+
+# QtCreator CMake
+CMakeLists.txt.user*
+
+# build folders and output
+build/
+vvave
 .vscode/
