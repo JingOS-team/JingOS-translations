@@ -1,24 +1,23 @@
-# FengChao <rainofchaos@gmail.com>, 2011, 2013.
-# Weng Xuetian <wengxt@gmail.com>, 2011, 2016.
-# Xuetian Weng <wengxt@gmail.cm>, 2015.
+# Victor Ibragimov <victor.ibragimov@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: testcalendar\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-07-06 02:13+0200\n"
 "PO-Revision-Date: 2021-06-22 16:54\n"
-"Last-Translator: \n"
+"Last-Translator: Victor Ibragimov <victor.ibragimov@gmail.com>\n"
 "Language-Team: Korean\n"
-"Language: ko_KR\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 19.04.3\n"
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: ko\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/zh_CN/powerdevilactivitiesconfig.po\n"
-"X-Crowdin-File-ID: 3042\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/powerdevil/po/tg/powerdevilactivitiesconfig.po\n"
+"X-Crowdin-File-ID: 2980\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
