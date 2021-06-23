@@ -1,0 +1,124 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Maik Brenke <maik.brenke@mail.com>, 2021.
+#
+
+#: main.qml:127 main.qml:150
+#, kde-format
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: main.qml:129
+#, kde-format
+msgid "Play Video?"
+msgstr "Video abspielen?"
+
+#: main.qml:130
+#, kde-format
+msgid "Are u sure?"
+msgstr "Sind Sie sicher?"
+
+#: main.qml:131
+#, kde-format
+msgid "ok"
+msgstr "Ok"
+
+#: main.qml:161
+#, kde-format
+msgid "Save to files"
+msgstr "Speichern in Dateien"
+
+#: main.qml:169 main.qml:235 main.qml:1798 main.qml:2339
+#: view_models/BabeTable/BabeTable.qml:108
+#, kde-format
+msgid "Delete"
+msgstr "Löschen"
+
+#: main.qml:182 main.qml:199
+#, kde-format
+msgid "Are you sure you want to save the file to file manager?"
+msgstr "Sind Sie sicher, dass Sie die Datei im Dateimanager speichern möchten?"
+
+#: main.qml:188 main.qml:211
+#, kde-format
+msgid "Are you sure you want to delete the file?"
+msgstr "Sind Sie sicher, dass Sie die Datei löschen wollen?"
+
+#: main.qml:196
+#, kde-format
+msgid "Are you sure you want to save these files to file manager?"
+msgstr "Sind Sie sicher, dass Sie diese Dateien im Dateimanager speichern möchten?"
+
+#: main.qml:208
+#, kde-format
+msgid "Are you sure you want to delete these files?"
+msgstr "Sind Sie sicher, dass Sie diese Dateien löschen wollen?"
+
+#: main.qml:227
+#, kde-format
+msgid "Save"
+msgstr "Speichern"
+
+#: main.qml:507
+#, kde-format
+msgid "Media"
+msgstr "Medien"
+
+#: main.qml:542 view_models/BabeTable/BabeTable.qml:92
+#, kde-format
+msgid "Search"
+msgstr "Suche"
+
+#: main.qml:594
+#, kde-format
+msgid "Video"
+msgstr "Suche"
+
+#: main.qml:670 main.qml:850 main.qml:1103
+#, kde-format
+msgid "All"
+msgstr "Alle"
+
+#: main.qml:752 main.qml:1016 main.qml:1109
+#, kde-format
+msgid "Lately"
+msgstr "Kürzlich"
+
+#: main.qml:774
+#, kde-format
+msgid "Music"
+msgstr "Musik"
+
+#: main.qml:935 main.qml:1106
+#, kde-format
+msgid "Like"
+msgstr "Favoriten"
+
+#: main.qml:1100
+#, kde-format
+msgid "Search Results"
+msgstr "Suchergebnisse"
+
+#: main.qml:1325
+#, kde-format
+msgid "No Results"
+msgstr "Keine Ergebnisse"
+
+#: main.qml:1689 main.qml:2230
+#, kde-format
+msgid "Batch editing"
+msgstr "Stapelverarbeitung"
+
+msgid "There is no video at present"
+msgstr "Zur Zeit ist kein Video vorhanden"
+
+
+msgid "There is no music at present"
+msgstr "Zur Zeit ist keine Musik vorhanden"
+
+msgid "UNKNOWN"
+msgstr "UNBEKANNT"
+
+msgid "Sorry,there are no search results."
+msgstr "Entschuldigung, es gibt keine Suchergebnisse."
