@@ -32,7 +32,7 @@ cp zh_CN/*.po [The directory you created]
 4 step:
 cd [The directory you created] Modify the .po file
 
-In the po file, “msgid“ represents the original string name before translation,the “msgid“ default is English,  
+In the po file, “msgid“ represents the original string name before translation, the “msgid“ default is English,  
 and “msgstr” represents the local language you need to translate to
 ```
 
