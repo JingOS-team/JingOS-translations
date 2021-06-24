@@ -4,13 +4,13 @@ msgstr ""
 "X-Crowdin-Project: testcalendar\n"
 "X-Crowdin-Project-ID: 460550\n"
 "X-Crowdin-Language: ca\n"
-"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/mediaplayer/po/zh_CN/mediaplayer.po\n"
-"X-Crowdin-File-ID: 2422\n"
+"X-Crowdin-File: /[JingOS-team.JingOS-translations] main/mediaplayer/po/de_DE/mediaplayer.po\n"
+"X-Crowdin-File-ID: 3262\n"
 "Project-Id-Version: testcalendar\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
-"PO-Revision-Date: 2021-06-22 13:03\n"
+"PO-Revision-Date: 2021-06-24 07:20\n"
 
 #: main.qml:127 main.qml:150
 #, kde-format
