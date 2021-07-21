@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-19 16:59+0800\n"
+"PO-Revision-Date: 2021-06-24 15:53+0200\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+
+#: %E8%8B%B1%E6%96%87
+msgid "英文"
+msgstr "Galego"
+
+#: source
+msgid "target"
+msgstr "obxectivo"
+
+msgid "Applying this setting will restart your PAD"
+msgstr "Se aplicas esta configuración, reiniciarase o teu teclado"
+
+msgid "Restart"
+msgstr "Reiniciar"
+
+#: Fonts:
+msgid "Fonts"
+msgstr "Fontes"
+
+msgid "Operation prompt content copy Secondary style preview"
+msgstr "Copia do contido da solicitude de operación Vista previa do estilo secundario"
+
+msgid "Font Size"
+msgstr "Tamaño da fonte"
+
+msgid "Brightness"
+msgstr "Brillo"
+
+msgid "Preview"
+msgstr "Previsualización"
+
+msgid "Icons"
+msgstr "Iconas"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Extra Small"
+msgstr "Extra pequena"
+
+msgid "Small"
+msgstr "Pequena"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Large"
+msgstr "Largo"
+
+msgid "Extra Large"
+msgstr "Extra largo"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Display & Brightness"
+msgstr "Amosar & brillo"
+
+msgid "Sleep"
+msgstr "Apagar"
+
+msgid "Applications scale"
+msgstr "Escala dos aplicativos"
+
+msgid "Font"
+msgstr "Fonte"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Set"
+msgstr "Establecer"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: Set+scale+
+msgid "Set scale "
+msgstr "Establecer escala "
+
+#: Attention,+the+running+apps+will+be+closed+to+fit+new+configuration.
+msgid "Attention, the running apps will be closed to fit new configuration."
+msgstr "Atención, os aplicativos executados pecharanse para axustalos á nova configuración."
+
+#: 2+Minutes
+msgid "2 Minutes"
+msgstr "2 minutos"
+
+#: 5+Minutes
+msgid "5 Minutes"
+msgstr "5 minutos"
+
+#: 10+Minutes
+msgid "10 Minutes"
+msgstr "10 minutos"
+
+#: 15+Minutes
+msgid "15 Minutes"
+msgstr "15 minutos"
+
+#: Never
+msgid "Never"
+msgstr "Nunca"

@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"X-Generator: Poedit 3.0\n"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: main.qml:127 main.qml:150
+#, kde-format
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: main.qml:129
+#, kde-format
+msgid "Play Video?"
+msgstr "Reproducir vídeo?"
+
+#: main.qml:130
+#, kde-format
+msgid "Are u sure?"
+msgstr "Ten a certeza？"
+
+#: main.qml:131
+#, kde-format
+msgid "ok"
+msgstr "aceptar"
+
+#: main.qml:161
+#, kde-format
+msgid "Save to files"
+msgstr "Gardar nos ficheiros"
+
+#: main.qml:169 main.qml:235 main.qml:1798 main.qml:2339
+#: view_models/BabeTable/BabeTable.qml:108
+#, kde-format
+msgid "Delete"
+msgstr "Eliminar"
+
+#: main.qml:182 main.qml:199
+#, kde-format
+msgid "Are you sure you want to save the file to file manager?"
+msgstr "Ten a certeza de que quere gardar o ficheiro nun xestor de ficheiros?"
+
+#: main.qml:188 main.qml:211
+#, kde-format
+msgid "Are you sure you want to delete the file?"
+msgstr "Ten a certeza de que quere eliminar este ficheiro?"
+
+#: main.qml:196
+#, kde-format
+msgid "Are you sure you want to save these files to file manager?"
+msgstr "Ten a certeza de que quere gardar estes ficheiros nun xestor de ficheiros?"
+
+#: main.qml:208
+#, kde-format
+msgid "Are you sure you want to delete these files?"
+msgstr "Ten a certeza de que quere eliminar estes ficheiros?"
+
+#: main.qml:227
+#, kde-format
+msgid "Save"
+msgstr "Gardar"
+
+#: main.qml:507
+#, kde-format
+msgid "Media"
+msgstr "Medios"
+
+#: main.qml:542 view_models/BabeTable/BabeTable.qml:92
+#, kde-format
+msgid "Search"
+msgstr "Buscar"
+
+#: main.qml:594
+#, kde-format
+msgid "Video"
+msgstr "Vídeo"
+
+#: main.qml:670 main.qml:850 main.qml:1103
+#, kde-format
+msgid "All"
+msgstr "Todo"
+
+#: main.qml:752 main.qml:1016 main.qml:1109
+#, kde-format
+msgid "Lately"
+msgstr "Recentemente"
+
+#: main.qml:774
+#, kde-format
+msgid "Music"
+msgstr "Música"
+
+#: main.qml:935 main.qml:1106
+#, kde-format
+msgid "Like"
+msgstr "Gústame"
+
+#: main.qml:1100
+#, kde-format
+msgid "Search Results"
+msgstr "Resultados da busca"
+
+#: main.qml:1325
+#, kde-format
+msgid "No Results"
+msgstr "Non hai resultados"
+
+#: main.qml:1689 main.qml:2230
+#, kde-format
+msgid "Batch editing"
+msgstr "Edición por lotes"
+
+msgid "There is no video at present"
+msgstr "Non hai vídeos polo momento"
+
+msgid "There is no music at present"
+msgstr "Non hai música polo momento"
+
+msgid "UNKNOWN"
+msgstr "Descoñecido"
+
+msgid "Sorry,there are no search results."
+msgstr "Non hai resultados  para esta busca."

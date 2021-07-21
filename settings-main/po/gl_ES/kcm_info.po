@@ -1,0 +1,2469 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-19 16:59+0800\n"
+"PO-Revision-Date: 2021-06-24 17:01+0200\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+
+#: %E8%8B%B1%E6%96%87
+msgid "英文"
+msgstr "Galego"
+
+#: Location+Service
+msgid "Location Service"
+msgstr "Servizo da localización"
+
+#: Location+Status
+msgid "Location Status"
+msgstr "Estado da localización"
+
+#: source
+msgid "target"
+msgstr "obxectivo"
+
+#: Battery
+msgid "Battery"
+msgstr "Batería"
+
+#: Type:
+msgid "Type:"
+msgstr "Tipo:"
+
+#: APN:
+msgid "APN:"
+msgstr "APN:"
+
+#: Cellular+Networks
+msgid "Cellular Networks"
+msgstr "Redes do móbil"
+
+#: Modems
+msgid "Modems"
+msgstr "Módems"
+
+#: SIM+Cards
+msgid "SIM Cards"
+msgstr "Tarxetas SIM"
+
+#: Networks
+msgid "Networks"
+msgstr "Redes"
+
+#: Modem
+msgid "Modem"
+msgstr "Módem"
+
+#: Modem+1
+msgid "Modem 1"
+msgstr "Módem 1"
+
+#: Modem+%251
+msgid "Modem %1"
+msgstr "Módem %1"
+
+#: Name:
+msgid "Name:"
+msgstr "Nome:"
+
+#: IMEI:
+msgid "IMEI:"
+msgstr "IMEI:"
+
+#: Manufacturer:
+msgid "Manufacturer:"
+msgstr "Manufacturador:"
+
+#: Model:
+msgid "Model:"
+msgstr "Modelo:"
+
+#: Revision:
+msgid "Revision:"
+msgstr "Revisión:"
+
+#: Network
+msgid "Network"
+msgstr "Rede"
+
+#: Network+%251
+msgid "Network %1"
+msgstr "Rede %1"
+
+#: Operator:
+msgid "Operator:"
+msgstr "Operador:"
+
+#: Mode:
+msgid "Mode:"
+msgstr "Modo:"
+
+#: Cell+Id:
+msgid "Cell Id:"
+msgstr "ID da cela:"
+
+#: MCC:
+msgid "MCC:"
+msgstr "MCC:"
+
+#: MNC:
+msgid "MNC:"
+msgstr "MNC:"
+
+#: Technology:
+msgid "Technology:"
+msgstr "Tecnoloxía:"
+
+#: Strength:
+msgid "Strength:"
+msgstr "Forza:"
+
+#: Base+Station:
+msgid "Base Station:"
+msgstr "Estación base:"
+
+#: SIM+Card
+msgid "SIM Card"
+msgstr "Tarxeta SIM"
+
+#: SIM+Card+1
+msgid "SIM Card 1"
+msgstr "Tarxeta SIM 1"
+
+#: SIM+Card+%251
+msgid "SIM Card %1"
+msgstr "Tarxeta SIM %1"
+
+#: IMSI:
+msgid "IMSI:"
+msgstr "IMSI:"
+
+#: ICCID:
+msgid "ICCID:"
+msgstr "ICCID:"
+
+#: Display
+msgid "Display"
+msgstr "Amosar"
+
+#: Display+%26+Brightness
+msgid "Display & Brightness"
+msgstr "Amosar & brillo"
+
+#: Brightness
+msgid "Brightness"
+msgstr "Brillo"
+
+#: Sleep
+msgid "Sleep"
+msgstr "Apagar"
+
+#: Applications+scale
+msgid "Applications scale"
+msgstr "Escala dos aplicativos"
+
+#: %251+%25
+msgid "%1 %"
+msgstr "%1 %"
+
+#: Set+scale+
+msgid "Set scale "
+msgstr "Establecer escala "
+
+#: Attention,+the+running+apps+will+be+closed+to+fit+new+configuration.
+msgid "Attention, the running apps will be closed to fit new configuration."
+msgstr "Atención, os aplicativos executados pecharanse para axustalos á nova configuración."
+
+#: 2+Minutes
+msgid "2 Minutes"
+msgstr "2 minutos"
+
+#: 5+Minutes
+msgid "5 Minutes"
+msgstr "5 minutos"
+
+#: 10+Minutes
+msgid "10 Minutes"
+msgstr "10 minutos"
+
+#: 15+Minutes
+msgid "15 Minutes"
+msgstr "15 minutos"
+
+#: Never
+msgid "Never"
+msgstr "Nunca"
+
+#: Info
+msgid "Info"
+msgstr "Información"
+
+#: About
+msgid "About"
+msgstr "Sobre"
+
+#: Model+Name
+msgid "Model Name"
+msgstr "Nome do modelo"
+
+#: Software+Version
+msgid "Software Version"
+msgstr "Versión do software"
+
+#: Processor
+msgid "Processor"
+msgstr "Procesador"
+
+#: RAM
+msgid "RAM"
+msgstr "RAM"
+
+#: %251+of+RAM
+msgid "%1 of RAM"
+msgstr "%1 de RAM"
+
+#: Unknown
+msgid "Unknown"
+msgstr "Descoñecido"
+
+#: Internal+Storage
+msgid "Internal Storage"
+msgstr "Almacenamento interno"
+
+#: Kernel+Version
+msgid "Kernel Version"
+msgstr "Versión do núcleo"
+
+#: Serial+Number
+msgid "Serial Number"
+msgstr "Número da serie"
+
+#: Factory+Reset
+msgid "Factory Reset"
+msgstr "Restablecer de fábrica"
+
+#: System+%26+Update
+msgid "System & Update"
+msgstr "Sistema & actualizar"
+
+#: System+Update
+msgid "System Update"
+msgstr "Actualizar o sistema"
+
+#: Legal+information
+msgid "Legal information"
+msgstr "Información legal"
+
+#: Every+day
+msgid "Every day"
+msgstr "Todo o día"
+
+#: Every+two+days
+msgid "Every two days"
+msgstr "Cada dous días"
+
+#: Weekly
+msgid "Weekly"
+msgstr "Semanalmente"
+
+#: Every+two+weeks
+msgid "Every two weeks"
+msgstr "Cada dúas semanas"
+
+#: Legal+Information
+msgid "Legal Information"
+msgstr "Información legal"
+
+#: Legal+Notices:%0ACopyright+@+2020+Jingling+Inc.+All+rights+reserved.+%0AJingling,+the+Jingling+logo,+Jing+Pad,+other+cache+objects+have+configurable+update+settings,+and+their+update+frequency+is+set+by+the+Document+Manager+administrator.+The+objects+with+configurable+update+settings+are+controlled+vocabulary+lists+(+CVLs),+library+property+definitions,+library+property+values+lists,+native+folder+lists,+and+user+and+group+lists.If+you+issue+a+ROLLBACK+after+invoking+these+procedures,+policy+settings+will+not+be+updated.+
+msgid ""
+"Legal Notices:\n"
+"Copyright @ 2020 Jingling Inc. All rights reserved. \n"
+"Jingling, the Jingling logo, Jing Pad, other cache objects have configurable update settings, and their update frequency is set by the Document Manager administrator. The objects with configurable update settings are controlled vocabulary lists ( CVLs), library property definitions, library property values lists, native folder lists, and user and group lists.If you issue a ROLLBACK after invoking these procedures, policy settings will not be updated. "
+msgstr ""
+"Avisos legais:\n"
+"Copyright @ 2020 Jingling Inc. Todos os dereitos reservados.\n"
+"Jingling, o logotipo de Jingling, Jing Pad, outros obxectos de caché teñen configuracións de actualización configurables e a súa frecuencia de actualización establécea o administrador do Xestor de documentos. Os obxectos con configuración de actualización configurables son listas de vocabulario controlado (CVL), definicións de propiedades de biblioteca, listas de valores de propiedades de biblioteca, listas de cartafoles nativos e listas de usuarios e grupos. Se emite unha revolución despois de invocar estes procedementos, a configuración da política non se actualizará."
+
+#: Downloading...
+msgid "Downloading..."
+msgstr "Descargando..."
+
+#: Sever+replied:+Not+Found+
+msgid "Sever replied: Not Found "
+msgstr "Respondeu o servidor: non se atopou"
+
+#: Request+Timeout+
+msgid "Request Timeout "
+msgstr "Requirir tempo de espera "
+
+#: Discover+system+updatable+version+%251
+msgid "Discover system updatable version %1"
+msgstr "Descubra a versión actualizable do sistema %1"
+
+#: Your+software+is+already+the+latest+version%0A+%251
+msgid ""
+"Your software is already the latest version\n"
+" %1"
+msgstr ""
+"O teu software está xa na última versión\n"
+" %1"
+
+#: Checking+for+updates...
+msgid "Checking for updates..."
+msgstr "Comprobando se hai actualizacións..."
+
+#: Update+now
+msgid "Update now"
+msgstr "Actualizar agora"
+
+#: Update+suggestion
+msgid "Update suggestion"
+msgstr "Suxestión de actualización"
+
+#: It+is+recommended+that+the+battery+reaches+50%25+or+connect+to+the+power+supply+to+update
+msgid "It is recommended that the battery reaches 50% or connect to the power supply to update"
+msgstr "Recoméndase que a batería alcance o 50% ou se conecte á fonte de alimentación para actualizala"
+
+#: OK
+msgid "OK"
+msgstr "Aceptar"
+
+#: Cancel
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: Unable+to+check+for+updates
+msgid "Unable to check for updates"
+msgstr "Activar a comprobación de actualizacións"
+
+#: Please+connect+to+the+network+and+%0A+try+again
+msgid ""
+"Please connect to the network and \n"
+" try again"
+msgstr ""
+"Conéctese á rede e \n"
+" inténteo de novo"
+
+#: Update+Settings
+msgid "Update Settings"
+msgstr "Configuración das actualizacións"
+
+#: Automatically+check+for+updates+
+msgid "Automatically check for updates "
+msgstr "Comprobar actualizacións automaticamente"
+
+#: Location
+msgid "Location"
+msgstr "Localización"
+
+#: Lockscreen+PIN
+msgid "Lockscreen PIN"
+msgstr "O PIN da pantalla de bloqueo"
+
+#: Screen+Brightness
+msgid "Screen Brightness"
+msgstr "Brillo da pantalla"
+
+#: 0%25
+msgid "0%"
+msgstr "0%"
+
+#: 100%25
+msgid "100%"
+msgstr "100%"
+
+#: Lock+screen+and+Sleep
+msgid "Lock screen and Sleep"
+msgstr "Bloqueo de pantalla e Apagar"
+
+#: %251+minute
+msgid "%1 minute"
+msgstr "%1 minuto"
+
+#: %251+minutes
+msgid "%1 minutes"
+msgstr "%1 minutos"
+
+#: Turn+off+the+screen
+msgid "Turn off the screen"
+msgstr "Apagar a pantalla"
+
+#: Battery+%251
+msgid "Battery %1"
+msgstr "Batería %1"
+
+#: %251+(%252)
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: Port:
+msgid "Port:"
+msgstr "Porto:"
+
+#: Increase+Volume
+msgid "Increase Volume"
+msgstr "Subir volume"
+
+#: Decrease+Volume
+msgid "Decrease Volume"
+msgstr "Baixar volume"
+
+#: Mute
+msgid "Mute"
+msgstr "Silenciar"
+
+#: Sound
+msgid "Sound"
+msgstr "Son"
+
+#: Storage
+msgid "Storage"
+msgstr "Almacenamento"
+
+#: used:+%251+/+%252+
+msgid "used: %1 / %2 "
+msgstr "usado: %1 / %2 "
+
+#: Theme
+msgid "Theme"
+msgstr "Tema"
+
+#: Appearance
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: Jan
+msgid "Jan"
+msgstr "Xan"
+
+#: Feb
+msgid "Feb"
+msgstr "Feb"
+
+#: Mar
+msgid "Mar"
+msgstr "Mar"
+
+#: Apr
+msgid "Apr"
+msgstr "Abr"
+
+#: May
+msgid "May"
+msgstr "Mai"
+
+#: Jun
+msgid "Jun"
+msgstr "Xuñ"
+
+#: Jul
+msgid "Jul"
+msgstr "Xul"
+
+#: Aug
+msgid "Aug"
+msgstr "Ago"
+
+#: Sep
+msgid "Sep"
+msgstr "Sep"
+
+#: Oct
+msgid "Oct"
+msgstr "Out"
+
+#: Nov
+msgid "Nov"
+msgstr "Nov"
+
+#: Dec
+msgid "Dec"
+msgstr "Dec"
+
+#: Date+%26+Time
+msgid "Date & Time"
+msgstr "Data & Hora"
+
+#: 24-Hour+Time
+msgid "24-Hour Time"
+msgstr "Hora co formato 24 horas"
+
+#: Set+Automatically
+msgid "Set Automatically"
+msgstr "Establecer automaticamente"
+
+#: Time+Zone
+msgid "Time Zone"
+msgstr "Zona horaria"
+
+#: Date+and+Time
+msgid "Date and Time"
+msgstr "Data e hora"
+
+#: Unable+to+change+NTP+settings
+msgid "Unable to change NTP settings"
+msgstr "Activar para cambiar a configuración de NTP"
+
+#: Unable+to+set+current+time
+msgid "Unable to set current time"
+msgstr "Activar para establecer a hora actual"
+
+#: Unable+to+set+timezone
+msgid "Unable to set timezone"
+msgstr "Activar para establecer a zona horaria"
+
+#: Local
+msgid "Local"
+msgstr "Local"
+
+#: Your+system+time+zone
+msgid "Your system time zone"
+msgstr "A zona horaria do teu sistema"
+
+#: Abidjan
+msgid "Abidjan"
+msgstr "Abidjan"
+
+#: Accra
+msgid "Accra"
+msgstr "Accra"
+
+#: Adak
+msgid "Adak"
+msgstr "Adak"
+
+#: Addis+Ababa
+msgid "Addis Ababa"
+msgstr "Addis Ababa"
+
+#: Adelaide
+msgid "Adelaide"
+msgstr "Adelaide"
+
+#: Aden
+msgid "Aden"
+msgstr "Aden"
+
+#: Algiers
+msgid "Algiers"
+msgstr "Algiers"
+
+#: Almaty
+msgid "Almaty"
+msgstr "Almaty"
+
+#: Amman
+msgid "Amman"
+msgstr "Amman"
+
+#: Amsterdam
+msgid "Amsterdam"
+msgstr "Amsterdam"
+
+#: Anadyr
+msgid "Anadyr"
+msgstr "Anadyr"
+
+#: Anchorage
+msgid "Anchorage"
+msgstr "Anchorage"
+
+#: Andorra
+msgid "Andorra"
+msgstr "Andorra"
+
+#: Anguilla
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: Antananarivo
+msgid "Antananarivo"
+msgstr "Antananarivo"
+
+#: Antigua
+msgid "Antigua"
+msgstr "Antigua"
+
+#: Apia
+msgid "Apia"
+msgstr "Apia"
+
+#: Aqtau
+msgid "Aqtau"
+msgstr "Aqtau"
+
+#: Aqtobe
+msgid "Aqtobe"
+msgstr "Aqtobe"
+
+#: Araguaina
+msgid "Araguaina"
+msgstr "Araguaina"
+
+#: Aruba
+msgid "Aruba"
+msgstr "Aruba"
+
+#: Ashgabat
+msgid "Ashgabat"
+msgstr "Ashgabat"
+
+#: Asmara
+msgid "Asmara"
+msgstr "Asmara"
+
+#: Asuncion
+msgid "Asuncion"
+msgstr "Asunción"
+
+#: Athens
+msgid "Athens"
+msgstr "Atenas"
+
+#: Atikokan
+msgid "Atikokan"
+msgstr "Atikokan"
+
+#: Auckland
+msgid "Auckland"
+msgstr "Auckland"
+
+#: Azores
+msgid "Azores"
+msgstr "Azores"
+
+#: Baghdad
+msgid "Baghdad"
+msgstr "Baghdad"
+
+#: Bahia+Banderas
+msgid "Bahia Banderas"
+msgstr "Bahía Banderas"
+
+#: Bahia
+msgid "Bahia"
+msgstr "Bahía"
+
+#: Bahrain
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: Baku
+msgid "Baku"
+msgstr "Bakú"
+
+#: Bamako
+msgid "Bamako"
+msgstr "Bamako"
+
+#: Bangkok
+msgid "Bangkok"
+msgstr "Bangkok"
+
+#: Bangui
+msgid "Bangui"
+msgstr "Bangui"
+
+#: Banjul
+msgid "Banjul"
+msgstr "Banjul"
+
+#: Barbados
+msgid "Barbados"
+msgstr "Barbados"
+
+#: Beirut
+msgid "Beirut"
+msgstr "Beirut"
+
+#: Belem
+msgid "Belem"
+msgstr "Belem"
+
+#: Belgrade
+msgid "Belgrade"
+msgstr "Belgrade"
+
+#: Belize
+msgid "Belize"
+msgstr "Belize"
+
+#: Berlin
+msgid "Berlin"
+msgstr "Berlín"
+
+#: Bermuda
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: Beulah
+msgid "Beulah"
+msgstr "Beulah"
+
+#: Bishkek
+msgid "Bishkek"
+msgstr "Bishkek"
+
+#: Bissau
+msgid "Bissau"
+msgstr "Bissau"
+
+#: Blanc-Sablon
+msgid "Blanc-Sablon"
+msgstr "Blanc-Sablon"
+
+#: Blantyre
+msgid "Blantyre"
+msgstr "Blantyre"
+
+#: Boa+Vista
+msgid "Boa Vista"
+msgstr "Boa Vista"
+
+#: Bogota
+msgid "Bogota"
+msgstr "Bogotá"
+
+#: Boise
+msgid "Boise"
+msgstr "Boise"
+
+#: Bratislava
+msgid "Bratislava"
+msgstr "Bratislava"
+
+#: Brazzaville
+msgid "Brazzaville"
+msgstr "Brazzaville"
+
+#: Brisbane
+msgid "Brisbane"
+msgstr "Brisbane"
+
+#: Broken+Hill
+msgid "Broken Hill"
+msgstr "Broken Hill"
+
+#: Brunei
+msgid "Brunei"
+msgstr "Brunei"
+
+#: Brussels
+msgid "Brussels"
+msgstr "Bruselas"
+
+#: Bucharest
+msgid "Bucharest"
+msgstr "Bucarest"
+
+#: Budapest
+msgid "Budapest"
+msgstr "Budapest"
+
+#: Buenos+Aires
+msgid "Buenos Aires"
+msgstr "Buenos Aires"
+
+#: Bujumbura
+msgid "Bujumbura"
+msgstr "Bujumbura"
+
+#: Busingen
+msgid "Busingen"
+msgstr "Busingen"
+
+#: Cairo
+msgid "Cairo"
+msgstr "Cairo"
+
+#: Cambridge+Bay
+msgid "Cambridge Bay"
+msgstr "Cambridge Bay"
+
+#: Campo+Grande
+msgid "Campo Grande"
+msgstr "Campo Grande"
+
+#: Canary
+msgid "Canary"
+msgstr "Canarias"
+
+#: Cancun
+msgid "Cancun"
+msgstr "Cancún"
+
+#: Cape+Verde
+msgid "Cape Verde"
+msgstr "Cabo Verde"
+
+#: Caracas
+msgid "Caracas"
+msgstr "Caracas"
+
+#: Casablanca
+msgid "Casablanca"
+msgstr "Casablanca"
+
+#: Casey
+msgid "Casey"
+msgstr "Casey"
+
+#: Catamarca
+msgid "Catamarca"
+msgstr "Catamarca"
+
+#: Cayenne
+msgid "Cayenne"
+msgstr "Cayenne"
+
+#: Cayman
+msgid "Cayman"
+msgstr "Cayman"
+
+#: Center
+msgid "Center"
+msgstr "Center"
+
+#: Ceuta
+msgid "Ceuta"
+msgstr "Ceuta"
+
+#: Chagos
+msgid "Chagos"
+msgstr "Chagos"
+
+#: Chatham
+msgid "Chatham"
+msgstr "Chatham"
+
+#: Chicago
+msgid "Chicago"
+msgstr "Chicago"
+
+#: Chihuahua
+msgid "Chihuahua"
+msgstr "Chihuahua"
+
+#: Chisinau
+msgid "Chisinau"
+msgstr "Chisinau"
+
+#: Choibalsan
+msgid "Choibalsan"
+msgstr "Choibalsan"
+
+#: Chongqing
+msgid "Chongqing"
+msgstr "Chongqing"
+
+#: Christmas
+msgid "Christmas"
+msgstr "Christmas"
+
+#: Chuuk
+msgid "Chuuk"
+msgstr "Chuuk"
+
+#: Cocos
+msgid "Cocos"
+msgstr "Cocos"
+
+#: Colombo
+msgid "Colombo"
+msgstr "Colombo"
+
+#: Comoro
+msgid "Comoro"
+msgstr "Comoro"
+
+#: Conakry
+msgid "Conakry"
+msgstr "Conakry"
+
+#: Copenhagen
+msgid "Copenhagen"
+msgstr "Copenhagen"
+
+#: Cordoba
+msgid "Cordoba"
+msgstr "Córdoba"
+
+#: Costa+Rica
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: Creston
+msgid "Creston"
+msgstr "Creston"
+
+#: Cuiaba
+msgid "Cuiaba"
+msgstr "Cuiaba"
+
+#: Curacao
+msgid "Curacao"
+msgstr "Curação"
+
+#: Currie
+msgid "Currie"
+msgstr "Currie"
+
+#: Dakar
+msgid "Dakar"
+msgstr "Dakar"
+
+#: Damascus
+msgid "Damascus"
+msgstr "Damasco"
+
+#: Danmarkshavn
+msgid "Danmarkshavn"
+msgstr "Danmarkshavn"
+
+#: Dar+es+Salaam
+msgid "Dar es Salaam"
+msgstr "Dar es Salaam"
+
+#: Darwin
+msgid "Darwin"
+msgstr "Darwin"
+
+#: Davis
+msgid "Davis"
+msgstr "Davis"
+
+#: Dawson+Creek
+msgid "Dawson Creek"
+msgstr "Dawson Creek"
+
+#: Dawson
+msgid "Dawson"
+msgstr "Dawson"
+
+#: Denver
+msgid "Denver"
+msgstr "Denver"
+
+#: Detroit
+msgid "Detroit"
+msgstr "Detroit"
+
+#: Dhaka
+msgid "Dhaka"
+msgstr "Dhaka"
+
+#: Dili
+msgid "Dili"
+msgstr "Dili"
+
+#: Djibouti
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: Dominica
+msgid "Dominica"
+msgstr "Dominica"
+
+#: Douala
+msgid "Douala"
+msgstr "Douala"
+
+#: Dubai
+msgid "Dubai"
+msgstr "Dubai"
+
+#: Dublin
+msgid "Dublin"
+msgstr "Dublín"
+
+#: Dumont+d%E2%80%99Urville
+msgid "Dumont d’Urville"
+msgstr "Dumont d’Urville"
+
+#: Dushanbe
+msgid "Dushanbe"
+msgstr "Dushanbe"
+
+#: Easter
+msgid "Easter"
+msgstr "Pascua"
+
+#: Edmonton
+msgid "Edmonton"
+msgstr "Edmonton"
+
+#: Efate
+msgid "Efate"
+msgstr "Efate"
+
+#: Eirunepe
+msgid "Eirunepe"
+msgstr "Eirunepe"
+
+#: El+Aaiun
+msgid "El Aaiun"
+msgstr "El Aaiun"
+
+#: El+Salvador
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: Enderbury
+msgid "Enderbury"
+msgstr "Enderbury"
+
+#: Eucla
+msgid "Eucla"
+msgstr "Eucla"
+
+#: Fakaofo
+msgid "Fakaofo"
+msgstr "Fakaofo"
+
+#: Faroe
+msgid "Faroe"
+msgstr "Faroe"
+
+#: Fiji
+msgid "Fiji"
+msgstr "Fiji"
+
+#: Fortaleza
+msgid "Fortaleza"
+msgstr "Fortaleza"
+
+#: Freetown
+msgid "Freetown"
+msgstr "Freetown"
+
+#: Funafuti
+msgid "Funafuti"
+msgstr "Funafuti"
+
+#: Gaborone
+msgid "Gaborone"
+msgstr "Gaborone"
+
+#: Galapagos
+msgid "Galapagos"
+msgstr "Galapagos"
+
+#: Gambier
+msgid "Gambier"
+msgstr "Gambier"
+
+#: Gaza
+msgid "Gaza"
+msgstr "Gaza"
+
+#: Gibraltar
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: Glace+Bay
+msgid "Glace Bay"
+msgstr "Glace Bay"
+
+#: Godthab
+msgid "Godthab"
+msgstr "Godthab"
+
+#: Goose+Bay
+msgid "Goose Bay"
+msgstr "Goose Bay"
+
+#: Grand+Turk
+msgid "Grand Turk"
+msgstr "Grand Turk"
+
+#: Grenada
+msgid "Grenada"
+msgstr "Grenada"
+
+#: Guadalcanal
+msgid "Guadalcanal"
+msgstr "Guadalcanal"
+
+#: Guadeloupe
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: Guam
+msgid "Guam"
+msgstr "Guam"
+
+#: Guatemala
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: Guayaquil
+msgid "Guayaquil"
+msgstr "Guayaquil"
+
+#: Guernsey
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: Guyana
+msgid "Guyana"
+msgstr "Guyana"
+
+#: Halifax
+msgid "Halifax"
+msgstr "Halifax"
+
+#: Harare
+msgid "Harare"
+msgstr "Harare"
+
+#: Harbin
+msgid "Harbin"
+msgstr "Harbin"
+
+#: Havana
+msgid "Havana"
+msgstr "Habana"
+
+#: Hebron
+msgid "Hebron"
+msgstr "Hebron"
+
+#: Helsinki
+msgid "Helsinki"
+msgstr "Helsinki"
+
+#: Hermosillo
+msgid "Hermosillo"
+msgstr "Hermosillo"
+
+#: Ho+Chi+Minh
+msgid "Ho Chi Minh"
+msgstr "Ho Chi Minh"
+
+#: Hobart
+msgid "Hobart"
+msgstr "Hobart"
+
+#: Hong+Kong
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: Honolulu
+msgid "Honolulu"
+msgstr "Honolulu"
+
+#: Hovd
+msgid "Hovd"
+msgstr "Hovd"
+
+#: Indianapolis
+msgid "Indianapolis"
+msgstr "Indianapolis"
+
+#: Inuvik
+msgid "Inuvik"
+msgstr "Inuvik"
+
+#: Iqaluit
+msgid "Iqaluit"
+msgstr "Iqaluit"
+
+#: Irkutsk
+msgid "Irkutsk"
+msgstr "Irkutsk"
+
+#: Isle+of+Man
+msgid "Isle of Man"
+msgstr "Illa de Man"
+
+#: Istanbul
+msgid "Istanbul"
+msgstr "Istanbul"
+
+#: Jakarta
+msgid "Jakarta"
+msgstr "Jakarta"
+
+#: Jamaica
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: Jayapura
+msgid "Jayapura"
+msgstr "Jayapura"
+
+#: Jersey
+msgid "Jersey"
+msgstr "Jersey"
+
+#: Jerusalem
+msgid "Jerusalem"
+msgstr "Xerusalén"
+
+#: Johannesburg
+msgid "Johannesburg"
+msgstr "Johannesburg"
+
+#: Johnston
+msgid "Johnston"
+msgstr "Johnston"
+
+#: Juba
+msgid "Juba"
+msgstr "Juba"
+
+#: Jujuy
+msgid "Jujuy"
+msgstr "Jujuy"
+
+#: Juneau
+msgid "Juneau"
+msgstr "Juneau"
+
+#: Kabul
+msgid "Kabul"
+msgstr "Kabul"
+
+#: Kaliningrad
+msgid "Kaliningrad"
+msgstr "Kaliningrado"
+
+#: Kamchatka
+msgid "Kamchatka"
+msgstr "Kamchatka"
+
+#: Kampala
+msgid "Kampala"
+msgstr "Kampala"
+
+#: Karachi
+msgid "Karachi"
+msgstr "Karachi"
+
+#: Kashgar
+msgid "Kashgar"
+msgstr "Kashgar"
+
+#: Kathmandu
+msgid "Kathmandu"
+msgstr "Kathmandu"
+
+#: Kerguelen
+msgid "Kerguelen"
+msgstr "Kerguelen"
+
+#: Khandyga
+msgid "Khandyga"
+msgstr "Khandyga"
+
+#: Khartoum
+msgid "Khartoum"
+msgstr "Khartoum"
+
+#: Kiev
+msgid "Kiev"
+msgstr "Kiev"
+
+#: Kigali
+msgid "Kigali"
+msgstr "Kigali"
+
+#: Kinshasa
+msgid "Kinshasa"
+msgstr "Kinshasa"
+
+#: Kiritimati
+msgid "Kiritimati"
+msgstr "Kiritimati"
+
+#: Knox
+msgid "Knox"
+msgstr "Knox"
+
+#: Kolkata
+msgid "Kolkata"
+msgstr "Kolkata"
+
+#: Kosrae
+msgid "Kosrae"
+msgstr "Kosrae"
+
+#: Kralendijk
+msgid "Kralendijk"
+msgstr "Kralendijk"
+
+#: Krasnoyarsk
+msgid "Krasnoyarsk"
+msgstr "Krasnoyarsk"
+
+#: Kuala+Lumpur
+msgid "Kuala Lumpur"
+msgstr "Kuala Lumpur"
+
+#: Kuching
+msgid "Kuching"
+msgstr "Kuching"
+
+#: Kuwait
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: Kwajalein
+msgid "Kwajalein"
+msgstr "Kwajalein"
+
+#: La+Paz
+msgid "La Paz"
+msgstr "La Paz"
+
+#: La+Rioja
+msgid "La Rioja"
+msgstr "La Rioja"
+
+#: Lagos
+msgid "Lagos"
+msgstr "Lagos"
+
+#: Libreville
+msgid "Libreville"
+msgstr "Libreville"
+
+#: Lima
+msgid "Lima"
+msgstr "Lima"
+
+#: Lindeman
+msgid "Lindeman"
+msgstr "Lindeman"
+
+#: Lisbon
+msgid "Lisbon"
+msgstr "Lisbon"
+
+#: Ljubljana
+msgid "Ljubljana"
+msgstr "Ljubljana"
+
+#: Lome
+msgid "Lome"
+msgstr "Lome"
+
+#: London
+msgid "London"
+msgstr "London"
+
+#: Longyearbyen
+msgid "Longyearbyen"
+msgstr "Longyearbyen"
+
+#: Lord+Howe
+msgid "Lord Howe"
+msgstr "Lord Howe"
+
+#: Los+Angeles
+msgid "Los Angeles"
+msgstr "Los Angeles"
+
+#: Louisville
+msgid "Louisville"
+msgstr "Louisville"
+
+#: Lower+Princes
+msgid "Lower Princes"
+msgstr "Lower Princes"
+
+#: Luanda
+msgid "Luanda"
+msgstr "Luanda"
+
+#: Lubumbashi
+msgid "Lubumbashi"
+msgstr "Lubumbashi"
+
+#: Lusaka
+msgid "Lusaka"
+msgstr "Lusaka"
+
+#: Luxembourg
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+#: Macau
+msgid "Macau"
+msgstr "Macau"
+
+#: Maceio
+msgid "Maceio"
+msgstr "Maceio"
+
+#: Macquarie
+msgid "Macquarie"
+msgstr "Macquarie"
+
+#: Madeira
+msgid "Madeira"
+msgstr "Madeira"
+
+#: Madrid
+msgid "Madrid"
+msgstr "Madrid"
+
+#: Magadan
+msgid "Magadan"
+msgstr "Magadan"
+
+#: Mahe
+msgid "Mahe"
+msgstr "Mahe"
+
+#: Majuro
+msgid "Majuro"
+msgstr "Majuro"
+
+#: Makassar
+msgid "Makassar"
+msgstr "Makassar"
+
+#: Malabo
+msgid "Malabo"
+msgstr "Malabo"
+
+#: Maldives
+msgid "Maldives"
+msgstr "Maldivas"
+
+#: Malta
+msgid "Malta"
+msgstr "Malta"
+
+#: Managua
+msgid "Managua"
+msgstr "Managua"
+
+#: Manaus
+msgid "Manaus"
+msgstr "Manaus"
+
+#: Manila
+msgid "Manila"
+msgstr "Manila"
+
+#: Maputo
+msgid "Maputo"
+msgstr "Maputo"
+
+#: Marengo
+msgid "Marengo"
+msgstr "Marengo"
+
+#: Mariehamn
+msgid "Mariehamn"
+msgstr "Mariehamn"
+
+#: Marigot
+msgid "Marigot"
+msgstr "Marigot"
+
+#: Marquesas
+msgid "Marquesas"
+msgstr "Marquesas"
+
+#: Martinique
+msgid "Martinique"
+msgstr "Martinique"
+
+#: Maseru
+msgid "Maseru"
+msgstr "Maseru"
+
+#: Matamoros
+msgid "Matamoros"
+msgstr "Matamoros"
+
+#: Mauritius
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: Mawson
+msgid "Mawson"
+msgstr "Mawson"
+
+#: Mayotte
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: Mazatlan
+msgid "Mazatlan"
+msgstr "Mazatlan"
+
+#: Mbabane
+msgid "Mbabane"
+msgstr "Mbabane"
+
+#: McMurdo
+msgid "McMurdo"
+msgstr "McMurdo"
+
+#: Melbourne
+msgid "Melbourne"
+msgstr "Melbourne"
+
+#: Mendoza
+msgid "Mendoza"
+msgstr "Mendoza"
+
+#: Menominee
+msgid "Menominee"
+msgstr "Menominee"
+
+#: Merida
+msgid "Merida"
+msgstr "Mérida"
+
+#: Metlakatla
+msgid "Metlakatla"
+msgstr "Metlakatla"
+
+#: Mexico+City
+msgid "Mexico City"
+msgstr "Ciudad de Méxigo"
+
+#: Midway
+msgid "Midway"
+msgstr "Midway"
+
+#: Minsk
+msgid "Minsk"
+msgstr "Minsk"
+
+#: Miquelon
+msgid "Miquelon"
+msgstr "Miquelon"
+
+#: Mogadishu
+msgid "Mogadishu"
+msgstr "Mogadishu"
+
+#: Monaco
+msgid "Monaco"
+msgstr "Mónaco"
+
+#: Moncton
+msgid "Moncton"
+msgstr "Moncton"
+
+#: Monrovia
+msgid "Monrovia"
+msgstr "Monrovia"
+
+#: Monterrey
+msgid "Monterrey"
+msgstr "Monterrey"
+
+#: Montevideo
+msgid "Montevideo"
+msgstr "Montevideo"
+
+#: Monticello
+msgid "Monticello"
+msgstr "Monticello"
+
+#: Montserrat
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: Moscow
+msgid "Moscow"
+msgstr "Moscow"
+
+#: Muscat
+msgid "Muscat"
+msgstr "Muscat"
+
+#: Nairobi
+msgid "Nairobi"
+msgstr "Nairobi"
+
+#: Nassau
+msgid "Nassau"
+msgstr "Nassau"
+
+#: Nauru
+msgid "Nauru"
+msgstr "Nauru"
+
+#: Ndjamena
+msgid "Ndjamena"
+msgstr "Ndjamena"
+
+#: New+Salem
+msgid "New Salem"
+msgstr "New Salem"
+
+#: New+York
+msgid "New York"
+msgstr "New York"
+
+#: Niamey
+msgid "Niamey"
+msgstr "Niamey"
+
+#: Nicosia
+msgid "Nicosia"
+msgstr "Nicosia"
+
+#: Nipigon
+msgid "Nipigon"
+msgstr "Nipigon"
+
+#: Niue
+msgid "Niue"
+msgstr "Niue"
+
+#: Nome
+msgid "Nome"
+msgstr "Nome"
+
+#: Norfolk
+msgid "Norfolk"
+msgstr "Norfolk"
+
+#: Noronha
+msgid "Noronha"
+msgstr "Noronha"
+
+#: Nouakchott
+msgid "Nouakchott"
+msgstr "Nouakchott"
+
+#: Noumea
+msgid "Noumea"
+msgstr "Noumea"
+
+#: Novokuznetsk
+msgid "Novokuznetsk"
+msgstr "Novokuznetsk"
+
+#: Novosibirsk
+msgid "Novosibirsk"
+msgstr "Novosibirsk"
+
+#: Ojinaga
+msgid "Ojinaga"
+msgstr "Ojinaga"
+
+#: Omsk
+msgid "Omsk"
+msgstr "Omsk"
+
+#: Oral
+msgid "Oral"
+msgstr "Oral"
+
+#: Oslo
+msgid "Oslo"
+msgstr "Oslo"
+
+#: Ouagadougou
+msgid "Ouagadougou"
+msgstr "Ouagadougou"
+
+#: Pago+Pago
+msgid "Pago Pago"
+msgstr "Pago Pago"
+
+#: Palau
+msgid "Palau"
+msgstr "Palau"
+
+#: Palmer
+msgid "Palmer"
+msgstr "Palmer"
+
+#: Panama
+msgid "Panama"
+msgstr "Panama"
+
+#: Pangnirtung
+msgid "Pangnirtung"
+msgstr "Pangnirtung"
+
+#: Paramaribo
+msgid "Paramaribo"
+msgstr "Paramaribo"
+
+#: Paris
+msgid "Paris"
+msgstr "Paris"
+
+#: Perth
+msgid "Perth"
+msgstr "Perth"
+
+#: Petersburg
+msgid "Petersburg"
+msgstr "Petersburg"
+
+#: Phnom+Penh
+msgid "Phnom Penh"
+msgstr "Phnom Penh"
+
+#: Phoenix
+msgid "Phoenix"
+msgstr "Phoenix"
+
+#: Pitcairn
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: Podgorica
+msgid "Podgorica"
+msgstr "Podgorica"
+
+#: Pohnpei
+msgid "Pohnpei"
+msgstr "Pohnpei"
+
+#: Pontianak
+msgid "Pontianak"
+msgstr "Pontianak"
+
+#: Port-au-Prince
+msgid "Port-au-Prince"
+msgstr "Port-au-Prince"
+
+#: Port+Moresby
+msgid "Port Moresby"
+msgstr "Port Moresby"
+
+#: Port+of+Spain
+msgid "Port of Spain"
+msgstr "Port of Spain"
+
+#: Porto-Novo
+msgid "Porto-Novo"
+msgstr "Porto-Novo"
+
+#: Porto+Velho
+msgid "Porto Velho"
+msgstr "Porto Velho"
+
+#: Prague
+msgid "Prague"
+msgstr "Praga"
+
+#: Puerto+Rico
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: Pyongyang
+msgid "Pyongyang"
+msgstr "Pyongyang"
+
+#: Qatar
+msgid "Qatar"
+msgstr "Qatar"
+
+#: Qyzylorda
+msgid "Qyzylorda"
+msgstr "Qyzylorda"
+
+#: Rainy+River
+msgid "Rainy River"
+msgstr "Rainy River"
+
+#: Rangoon
+msgid "Rangoon"
+msgstr "Rangoon"
+
+#: Rankin+Inlet
+msgid "Rankin Inlet"
+msgstr "Rankin Inlet"
+
+#: Rarotonga
+msgid "Rarotonga"
+msgstr "Rarotonga"
+
+#: Recife
+msgid "Recife"
+msgstr "Recife"
+
+#: Regina
+msgid "Regina"
+msgstr "Regina"
+
+#: Resolute
+msgid "Resolute"
+msgstr "Resolute"
+
+#: Reunion
+msgid "Reunion"
+msgstr "Reunión"
+
+#: Reykjavik
+msgid "Reykjavik"
+msgstr "Reykjavik"
+
+#: Riga
+msgid "Riga"
+msgstr "Riga"
+
+#: Rio+Branco
+msgid "Rio Branco"
+msgstr "Río Branco"
+
+#: Rio+Gallegos
+msgid "Rio Gallegos"
+msgstr "Río Gallegos"
+
+#: Riyadh
+msgid "Riyadh"
+msgstr "Riyadh"
+
+#: Rome
+msgid "Rome"
+msgstr "Roma"
+
+#: Rothera
+msgid "Rothera"
+msgstr "Rothera"
+
+#: Saipan
+msgid "Saipan"
+msgstr "Saipan"
+
+#: Sakhalin
+msgid "Sakhalin"
+msgstr "Sakhalin"
+
+#: Salta
+msgid "Salta"
+msgstr "Salta"
+
+#: Samara
+msgid "Samara"
+msgstr "Samara"
+
+#: Samarkand
+msgid "Samarkand"
+msgstr "Samarkand"
+
+#: San+Juan
+msgid "San Juan"
+msgstr "San Juán"
+
+#: San+Luis
+msgid "San Luis"
+msgstr "San Luís"
+
+#: San+Marino
+msgid "San Marino"
+msgstr "San Marino"
+
+#: Santa+Isabel
+msgid "Santa Isabel"
+msgstr "Santa Isabel"
+
+#: Santarem
+msgid "Santarem"
+msgstr "Santarem"
+
+#: Santiago
+msgid "Santiago"
+msgstr "Santiago"
+
+#: Santo+Domingo
+msgid "Santo Domingo"
+msgstr "Santo Domingo"
+
+#: Sao+Paulo
+msgid "Sao Paulo"
+msgstr "São Paulo"
+
+#: Sao+Tome
+msgid "Sao Tome"
+msgstr "São Tomé"
+
+#: Sarajevo
+msgid "Sarajevo"
+msgstr "Saraxevo"
+
+#: Scoresbysund
+msgid "Scoresbysund"
+msgstr "Scoresbysund"
+
+#: Seoul
+msgid "Seoul"
+msgstr "Seúl"
+
+#: Shanghai
+msgid "Shanghai"
+msgstr "Shanghai"
+
+#: Simferopol
+msgid "Simferopol"
+msgstr "Simferopol"
+
+#: Singapore
+msgid "Singapore"
+msgstr "Singapore"
+
+#: Sitka
+msgid "Sitka"
+msgstr "Sitka"
+
+#: Skopje
+msgid "Skopje"
+msgstr "Skopje"
+
+#: Sofia
+msgid "Sofia"
+msgstr "Sofía"
+
+#: South+Georgia
+msgid "South Georgia"
+msgstr "South Georgia"
+
+#: St+Barthelemy
+msgid "St Barthelemy"
+msgstr "St Barthelemy"
+
+#: St+Helena
+msgid "St Helena"
+msgstr "St Helena"
+
+#: St+Johns
+msgid "St Johns"
+msgstr "St Johns"
+
+#: St+Kitts
+msgid "St Kitts"
+msgstr "St Kitts"
+
+#: St+Lucia
+msgid "St Lucia"
+msgstr "St Lucia"
+
+#: St+Thomas
+msgid "St Thomas"
+msgstr "St Thomas"
+
+#: St+Vincent
+msgid "St Vincent"
+msgstr "St Vincent"
+
+#: Stanley
+msgid "Stanley"
+msgstr "Stanley"
+
+#: Stockholm
+msgid "Stockholm"
+msgstr "Stockholm"
+
+#: Swift+Current
+msgid "Swift Current"
+msgstr "Swift Current"
+
+#: Sydney
+msgid "Sydney"
+msgstr "Sydney"
+
+#: Syowa
+msgid "Syowa"
+msgstr "Syowa"
+
+#: Tahiti
+msgid "Tahiti"
+msgstr "Tahiti"
+
+#: Taipei
+msgid "Taipei"
+msgstr "Taipei"
+
+#: Tallinn
+msgid "Tallinn"
+msgstr "Tallinn"
+
+#: Tarawa
+msgid "Tarawa"
+msgstr "Tarawa"
+
+#: Tashkent
+msgid "Tashkent"
+msgstr "Tashkent"
+
+#: Tbilisi
+msgid "Tbilisi"
+msgstr "Tbilisi"
+
+#: Tegucigalpa
+msgid "Tegucigalpa"
+msgstr "Tegucigalpa"
+
+#: Tehran
+msgid "Tehran"
+msgstr "Tehran"
+
+#: Tell+City
+msgid "Tell City"
+msgstr "Tell City"
+
+#: Thimphu
+msgid "Thimphu"
+msgstr "Thimphu"
+
+#: Thule
+msgid "Thule"
+msgstr "Thule"
+
+#: Thunder+Bay
+msgid "Thunder Bay"
+msgstr "Thunder Bay"
+
+#: Tijuana
+msgid "Tijuana"
+msgstr "Tijuana"
+
+#: Tirane
+msgid "Tirane"
+msgstr "Tirane"
+
+#: Tokyo
+msgid "Tokyo"
+msgstr "Tokio"
+
+#: Tongatapu
+msgid "Tongatapu"
+msgstr "Tongatapu"
+
+#: Toronto
+msgid "Toronto"
+msgstr "Toronto"
+
+#: Tortola
+msgid "Tortola"
+msgstr "Tortola"
+
+#: Tripoli
+msgid "Tripoli"
+msgstr "Trípoli"
+
+#: Troll
+msgid "Troll"
+msgstr "Troll"
+
+#: Tucuman
+msgid "Tucuman"
+msgstr "Tucuman"
+
+#: Tunis
+msgid "Tunis"
+msgstr "Túnez"
+
+#: Ulaanbaatar
+msgid "Ulaanbaatar"
+msgstr "Ulaanbaatar"
+
+#: Urumqi
+msgid "Urumqi"
+msgstr "Urumqi"
+
+#: Ushuaia
+msgid "Ushuaia"
+msgstr "Ushuaia"
+
+#: Ust-Nera
+msgid "Ust-Nera"
+msgstr "Ust-Nera"
+
+#: UTC%2B00:0
+msgid "UTC+00:00"
+msgstr "UTC+00:00"
+
+#: UTC%2B01:0
+msgid "UTC+01:00"
+msgstr "UTC+01:00"
+
+#: UTC%2B02:0
+msgid "UTC+02:00"
+msgstr "UTC+02:00"
+
+#: UTC%2B03:0
+msgid "UTC+03:00"
+msgstr "UTC+03:00"
+
+#: UTC%2B03:30
+msgid "UTC+03:30"
+msgstr "UTC+03:30"
+
+#: UTC%2B04:0
+msgid "UTC+04:00"
+msgstr "UTC+04:00"
+
+#: UTC%2B04:30
+msgid "UTC+04:30"
+msgstr "UTC+04:30"
+
+#: UTC%2B05:0
+msgid "UTC+05:00"
+msgstr "UTC+05:00"
+
+#: UTC%2B05:30
+msgid "UTC+05:30"
+msgstr "UTC+05:30"
+
+#: UTC%2B05:45
+msgid "UTC+05:45"
+msgstr "UTC+05:45"
+
+#: UTC%2B06:0
+msgid "UTC+06:00"
+msgstr "UTC+06:00"
+
+#: UTC%2B06:30
+msgid "UTC+06:30"
+msgstr "UTC+06:30"
+
+#: UTC%2B07:0
+msgid "UTC+07:00"
+msgstr "UTC+07:00"
+
+#: UTC%2B08:0
+msgid "UTC+08:00"
+msgstr "UTC+08:00"
+
+#: UTC%2B09:0
+msgid "UTC+09:00"
+msgstr "UTC+09:00"
+
+#: UTC%2B09:30
+msgid "UTC+09:30"
+msgstr "UTC+09:30"
+
+#: UTC%2B10:0
+msgid "UTC+10:00"
+msgstr "UTC+10:00"
+
+#: UTC%2B11:0
+msgid "UTC+11:00"
+msgstr "UTC+11:00"
+
+#: UTC%2B12:0
+msgid "UTC+12:00"
+msgstr "UTC+12:00"
+
+#: UTC%2B13:0
+msgid "UTC+13:00"
+msgstr "UTC+13:00"
+
+#: UTC%2B14:0
+msgid "UTC+14:00"
+msgstr "UTC+14:00"
+
+#: UTC-00:0
+msgid "UTC-00:00"
+msgstr "UTC-00:00"
+
+#: UTC-01:0
+msgid "UTC-01:00"
+msgstr "UTC-01:00"
+
+#: UTC-02:0
+msgid "UTC-02:00"
+msgstr "UTC-02:00"
+
+#: UTC-03:0
+msgid "UTC-03:00"
+msgstr "UTC-03:00"
+
+#: UTC-03:30
+msgid "UTC-03:30"
+msgstr "UTC-03:30"
+
+#: UTC-04:0
+msgid "UTC-04:00"
+msgstr "UTC-04:00"
+
+#: UTC-04:30
+msgid "UTC-04:30"
+msgstr "UTC-04:30"
+
+#: UTC-05:0
+msgid "UTC-05:00"
+msgstr "UTC-05:00"
+
+#: UTC-06:0
+msgid "UTC-06:00"
+msgstr "UTC-06:00"
+
+#: UTC-07:0
+msgid "UTC-07:00"
+msgstr "UTC-07:00"
+
+#: UTC-08:0
+msgid "UTC-08:00"
+msgstr "UTC-08:00"
+
+#: UTC-09:0
+msgid "UTC-09:00"
+msgstr "UTC-09:00"
+
+#: UTC-10:0
+msgid "UTC-10:00"
+msgstr "UTC-10:00"
+
+#: UTC-11:0
+msgid "UTC-11:00"
+msgstr "UTC-11:00"
+
+#: UTC-12:0
+msgid "UTC-12:00"
+msgstr "UTC-12:00"
+
+#: UTC-13:0
+msgid "UTC-13:00"
+msgstr "UTC-13:00"
+
+#: UTC-14:0
+msgid "UTC-14:00"
+msgstr "UTC-14:00"
+
+#: UTC
+msgid "UTC"
+msgstr "UTC"
+
+#: Uzhgorod
+msgid "Uzhgorod"
+msgstr "Uzhgorod"
+
+#: Vaduz
+msgid "Vaduz"
+msgstr "Vaduz"
+
+#: Vancouver
+msgid "Vancouver"
+msgstr "Vancouver"
+
+#: Vatican
+msgid "Vatican"
+msgstr "Vaticano"
+
+#: Vevay
+msgid "Vevay"
+msgstr "Vevay"
+
+#: Vienna
+msgid "Vienna"
+msgstr "Viena"
+
+#: Vientiane
+msgid "Vientiane"
+msgstr "Vientiane"
+
+#: Vilnius
+msgid "Vilnius"
+msgstr "Vilnius"
+
+#: Vincennes
+msgid "Vincennes"
+msgstr "Vincennes"
+
+#: Vladivostok
+msgid "Vladivostok"
+msgstr "Vladivostok"
+
+#: Volgograd
+msgid "Volgograd"
+msgstr "Volgograd"
+
+#: Vostok
+msgid "Vostok"
+msgstr "Vostok"
+
+#: Wake
+msgid "Wake"
+msgstr "Wake"
+
+#: Wallis
+msgid "Wallis"
+msgstr "Wallis"
+
+#: Warsaw
+msgid "Warsaw"
+msgstr "Varsovia"
+
+#: Whitehorse
+msgid "Whitehorse"
+msgstr "Whitehorse"
+
+#: Winamac
+msgid "Winamac"
+msgstr "Winamac"
+
+#: Windhoek
+msgid "Windhoek"
+msgstr "Windhoek"
+
+#: Winnipeg
+msgid "Winnipeg"
+msgstr "Winnipeg"
+
+#: Yakutat
+msgid "Yakutat"
+msgstr "Yakutat"
+
+#: Yakutsk
+msgid "Yakutsk"
+msgstr "Yakutsk"
+
+#: Yekaterinburg
+msgid "Yekaterinburg"
+msgstr "Yekaterinburg"
+
+#: Yellowknife
+msgid "Yellowknife"
+msgstr "Yellowknife"
+
+#: Yerevan
+msgid "Yerevan"
+msgstr "Yerevan"
+
+#: Zagreb
+msgid "Zagreb"
+msgstr "Zagreb"
+
+#: Zaporozhye
+msgid "Zaporozhye"
+msgstr "Zaporozhye"
+
+#: Zurich
+msgid "Zurich"
+msgstr "Zúrich"
+
+#: Africa
+msgid "Africa"
+msgstr "África"
+
+#: America
+msgid "America"
+msgstr "América"
+
+#: Antarctica
+msgid "Antarctica"
+msgstr "Antártica"
+
+#: Asia
+msgid "Asia"
+msgstr "Asia"
+
+#: Atlantic
+msgid "Atlantic"
+msgstr "Atlántica"
+
+#: Australia
+msgid "Australia"
+msgstr "Australia"
+
+#: Europe
+msgid "Europe"
+msgstr "Europa"
+
+#: Indian
+msgid "Indian"
+msgstr "Índico"
+
+#: Pacific
+msgid "Pacific"
+msgstr "Pacífico"
+
+#: Languages
+msgid "Languages"
+msgstr "Idiomas"
+
+#: Apply
+msgid "Apply"
+msgstr "Aplicar"
+
+#: Virtual+Keyboard
+msgid "Virtual Keyboard"
+msgstr "Teclado virtual"
+
+#: Text+correction:
+msgid "Text correction:"
+msgstr "Corrección do texto:"
+
+#: Check+spelling+of+entered+text
+msgid "Check spelling of entered text"
+msgstr "Comprobar a ortografía do texto enteiro"
+
+#: Capitalize+the+first+letter+of+each+sentence
+msgid "Capitalize the first letter of each sentence"
+msgstr "Poña en maiúscula a primeira letra de cada frase"
+
+#: Complete+current+word+with+first+suggestion+when+hitting+space
+msgid "Complete current word with first suggestion when hitting space"
+msgstr "Completa a palabra actual coa primeira suxestión ao bater a tecla de espazo"
+
+#: Suggest+potential+words+in+word+ribbon
+msgid "Suggest potential words in word ribbon"
+msgstr "Suxire palabras potenciais na cinta de palabras"
+
+#: Insert+a+full-stop+when+space+is+pressed+twice
+msgid "Insert a full-stop when space is pressed twice"
+msgstr "Insira un punto cando se prema na tecla de espazo dúas veces"
+
+#: Feedback:
+msgid "Feedback:"
+msgstr "Comentario:"
+
+#: Languages:
+msgid "Languages:"
+msgstr "Idiomas:"
+
+#: Configure+Languages
+msgid "Configure Languages"
+msgstr "Configurar idiomas"
+
+#: Settings
+msgid "Settings"
+msgstr "Configuración"
+
+#: Network+and+connectivity
+msgid "Network and connectivity"
+msgstr "Redes e conectividade"
+
+#: Display+and+sound
+msgid "Display and sound"
+msgstr "Dispositivo e son"
+
+#: Security+and+privacy
+msgid "Security and privacy"
+msgstr "Seguranza e privacidade"
+
+#: Password
+msgid "Password"
+msgstr "Contrasinal"
+
+#: System
+msgid "System"
+msgstr "Sistema"
+
+#: WLAN
+msgid "WLAN"
+msgstr "WLAN"
+
+#: Bluetooth
+msgid "Bluetooth"
+msgstr "Bluetooth"

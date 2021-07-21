@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"X-Generator: Poedit 3.0\n"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: src/LeftMenu.qml:50 src/main1.qml:380 src/main_bak.qml:380
+#: src/widgets/views/BrowserView.qml:121
+#: src/widgets/views/SettingsDialog.qml:197
+#, kde-format
+msgid "Type"
+msgstr "Tipo"
+
+#: src/LeftMenu.qml:52 src/main.qml:36
+#, kde-format
+msgid "Document"
+msgstr "Documento"
+
+#: src/LeftMenu.qml:53 src/main.qml:232
+#, kde-format
+msgid "Picture"
+msgstr "Imaxe"
+
+#: src/LeftMenu.qml:54
+#, kde-format
+msgid "Video"
+msgstr "Vídeo"
+
+#: src/LeftMenu.qml:55
+#, kde-format
+msgid "Music"
+msgstr "Música"
+
+#: src/LeftMenu.qml:58
+#, kde-format
+msgid "Location"
+msgstr "Localización"
+
+#: src/LeftMenu.qml:59
+#, kde-format
+msgid "Recents"
+msgstr "Recentes"
+
+#: src/LeftMenu.qml:61
+#, kde-format
+msgid "Downloads"
+msgstr "Descargas"
+
+#: src/LeftMenu.qml:62 src/main.qml:1763
+#, kde-format
+msgid "On My Pad"
+msgstr "No meu teclado"
+
+#: src/LeftMenu.qml:63 src/main.qml:1767
+#: src/widgets/views/FileBroswerView.qml:327
+#, kde-format
+msgid "Trash"
+msgstr "Colector do lixo"
+
+#: src/LeftMenu.qml:67
+#, kde-format
+msgid "Collection"
+msgstr "Colección"
+
+#: src/LeftMenu.qml:88 src/main1.qml:663 src/main_bak.qml:663
+#: src/widgets/views/CustomPopup.qml:748 src/widgets/views/FolderMenu.qml:845
+#: src/widgets/views/TagMenu.qml:92 src/widgets/views/UnzipFileMenu.qml:175
+#: src/widgets/views/UnzipFileMenuWithoutOM.qml:838
+#: src/widgets/views/ZipFileMenu.qml:175
+#: src/widgets/views/ZipFileMenuWithoutOM.qml:166
+#, kde-format
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: src/main1.qml:389 src/main_bak.qml:389 src/widgets/views/BrowserView.qml:130
+#: src/widgets/views/CustomPopup.qml:431
+#: src/widgets/views/SettingsDialog.qml:185
+#, kde-format
+msgid "Date"
+msgstr "Data"
+
+#: src/main1.qml:398 src/main_bak.qml:398
+#: src/widgets/previewer/FileInfo.qml:302 src/widgets/views/BrowserView.qml:139
+#, kde-format
+msgid "Modified"
+msgstr "Modificado"
+
+#: src/main1.qml:407 src/main_bak.qml:407 src/widgets/views/BrowserView.qml:148
+#: src/widgets/views/CustomPopup.qml:637
+#: src/widgets/views/SettingsDialog.qml:191
+#, kde-format
+msgid "Size"
+msgstr "Tamaño"
+
+#: src/main1.qml:416 src/main_bak.qml:416 src/widgets/views/BrowserView.qml:157
+#: src/widgets/views/CustomPopup.qml:328
+#: src/widgets/views/FileBroswerView.qml:382
+#, kde-format
+msgid "Name"
+msgstr "Nome"
+
+#: src/main1.qml:576 src/main_bak.qml:576 src/widgets/views/BrowserView.qml:317
+#: src/widgets/views/CustomPopup.qml:234
+#, kde-format
+msgid "List"
+msgstr "Lista"
+
+#: src/main1.qml:651 src/main_bak.qml:651 src/widgets/views/FolderMenu.qml:882
+#: src/widgets/views/ZipFileMenu.qml:184
+#: src/widgets/views/ZipFileMenuWithoutOM.qml:175
+#, kde-format
+msgid "Compress"
+msgstr "Comprimir"
+
+#: src/main1.qml:684 src/main_bak.qml:683 src/widgets/views/FileMenu.qml:106
+#: src/widgets/views/FolderMenu.qml:791 src/widgets/views/UnzipFileMenu.qml:121
+#: src/widgets/views/UnzipFileMenuWithoutOM.qml:784
+#: src/widgets/views/ZipFileMenu.qml:121
+#: src/widgets/views/ZipFileMenuWithoutOM.qml:112
+#, kde-format
+msgid "Copy"
+msgstr "Copiar"
+
+#: src/main1.qml:695 src/main_bak.qml:694 src/widgets/views/FileMenu.qml:118
+#: src/widgets/views/FolderMenu.qml:802 src/widgets/views/UnzipFileMenu.qml:132
+#: src/widgets/views/UnzipFileMenuWithoutOM.qml:795
+#: src/widgets/views/ZipFileMenu.qml:132
+#: src/widgets/views/ZipFileMenuWithoutOM.qml:123
+#, kde-format
+msgid "Cut"
+msgstr "Cortar"
+
+#: src/main1.qml:706 src/main_bak.qml:705 src/widgets/views/FileMenu.qml:141
+#: src/widgets/views/PlacesSideBar.qml:126
+#, kde-format
+msgid "Remove"
+msgstr "Eliminar"
+
+#: src/main.qml:226
+#, kde-format
+msgid "Important"
+msgstr "Importante"
+
+#: src/main.qml:227
+#, kde-format
+msgid "Life"
+msgstr "Vida"
+
+#: src/main.qml:228
+#, kde-format
+msgid "Temporary"
+msgstr "Temporal"
+
+#: src/main.qml:229
+#, kde-format
+msgid "Work"
+msgstr "Traballo"
+
+#: src/main.qml:230
+#, kde-format
+msgid "Meeting"
+msgstr "Encontro"
+
+#: src/main.qml:231 src/widgets/views/FileBroswerView.qml:401
+#, kde-format
+msgid "File"
+msgstr "Ficheiro"
+
+#: src/main.qml:233
+#, kde-format
+msgid "Private"
+msgstr "Privado"
+
+#: src/main.qml:414 src/widgets/views/BrowserItem.qml:220
+#: src/widgets/views/FileBroswerView.qml:332
+#: src/widgets/views/FileBroswerView.qml:423
+#: src/widgets/views/FileBroswerView.qml:1077
+#, kde-format
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: src/main.qml:415 src/main.qml:416 src/widgets/views/FileBroswerView.qml:326
+#: src/widgets/views/FolderMenu.qml:811 src/widgets/views/TrashFileMenu.qml:392
+#: src/widgets/views/UnzipFileMenu.qml:141
+#: src/widgets/views/UnzipFileMenuWithoutOM.qml:804
+#: src/widgets/views/ZipFileMenu.qml:141
+#: src/widgets/views/ZipFileMenuWithoutOM.qml:132
+#, kde-format
+msgid "Delete"
+msgstr "Eliminar"
+
+#: src/main.qml:422 src/widgets/views/TrashNormalMenu.qml:177
+#, kde-format
+msgid "Are you sure you want to delete these files?"
+msgstr "Ten a certeza de que quere eliminar estes ficheiros?"
+
+#: src/main.qml:425 src/widgets/views/TrashNormalMenu.qml:180
+#, kde-format
+msgid "Are you sure you want to delete the file?"
+msgstr "Ten a certeza de que quere eliminar este ficheiro?"
+
+#: src/main.qml:523
+#, kde-format
+msgid "Files"
+msgstr "Ficheiros"
+
+#: src/main.qml:828
+#, kde-format
+msgid "Search"
+msgstr "Buscar"
+
+#: src/main.qml:1053
+#, kde-format
+msgid " files have been copied"
+msgstr " copiáronse os ficheiros"
+
+#: src/main.qml:1073
+#, kde-format
+msgid " files have been cut"
+msgstr " cortáronse os ficheiros"
+
+#: src/main.qml:1569
+#, kde-format
+msgid "No Results"
+msgstr "Non hai resultados"
+
+#: src/main.qml:1572
+#, kde-format
+msgid "There are no files at present."
+msgstr "Non hai ficheiros polo momento."
+
+#: src/main.qml:1838
+#, kde-format
+msgid "Sorry, opening this file is not supported at present."
+msgstr "Non hai soporte para abrir este ficheiro agora."
+
+#: src/widgets/previewer/FileInfo.qml:178
+#, kde-format
+msgid "Infomation"
+msgstr "Información"
+
+#: src/widgets/previewer/FileInfo.qml:203 src/widgets/views/CustomPopup.qml:534
+#, kde-format
+msgid "Kind"
+msgstr "Tipo"
+
+#: src/widgets/previewer/FileInfo.qml:262
+#, kde-format
+msgid "Created"
+msgstr "Creado"
+
+#: src/widgets/previewer/FileInfo.qml:342
+#, kde-format
+msgid "Last opened"
+msgstr "Último aberto"
+
+#: src/widgets/previewer/FileInfo.qml:383
+#, kde-format
+msgid "Where"
+msgstr "Onde"
+
+#: src/widgets/views/BrowserMenu.qml:218 src/widgets/views/FolderMenu.qml:836
+#: src/widgets/views/TrashFileMenu.qml:405
+#: src/widgets/views/UnzipFileMenu.qml:166
+#: src/widgets/views/UnzipFileMenuWithoutOM.qml:829
+#: src/widgets/views/ZipFileMenu.qml:166
+#: src/widgets/views/ZipFileMenuWithoutOM.qml:157
+#, kde-format
+msgid "Info"
+msgstr "Información"
+
+#: src/widgets/views/BrowserMenu.qml:230
+#, kde-format
+msgid "Paste"
+msgstr "Pegar"
+
+#: src/widgets/views/CustomPopup.qml:146
+#, kde-format
+msgid "Icons"
+msgstr "Iconas"
+
+#: src/widgets/views/EditTagMenu.qml:121
+#, kde-format
+msgid "Edit Tags"
+msgstr "Editar etiquetas"
+
+#: src/widgets/views/FileBroswerView.qml:414
+#: src/widgets/views/FileBroswerView.qml:422
+#: src/widgets/views/FolderMenu.qml:820 src/widgets/views/UnzipFileMenu.qml:150
+#: src/widgets/views/UnzipFileMenuWithoutOM.qml:813
+#: src/widgets/views/ZipFileMenu.qml:150
+#: src/widgets/views/ZipFileMenuWithoutOM.qml:141
+#, kde-format
+msgid "Rename"
+msgstr "Renomear"
+
+#: src/widgets/views/FolderMenu.qml:772 src/widgets/views/UnzipFileMenu.qml:94
+#: src/widgets/views/UnzipFileMenuWithoutOM.qml:766
+#: src/widgets/views/ZipFileMenu.qml:94
+#: src/widgets/views/ZipFileMenuWithoutOM.qml:94
+#, kde-format
+msgid "Bulk edit"
+msgstr "Edición masiva"
+
+#: src/widgets/views/FolderMenu.qml:858
+#, kde-format
+msgid "Remove favorite"
+msgstr "Eliminar favorito"
+
+#: src/widgets/views/FolderMenu.qml:861
+#, kde-format
+msgid "Favorite"
+msgstr "Favorito"
+
+#: src/widgets/views/GridDelegate.qml:380
+#: src/widgets/views/ListViewDelegate.qml:315
+#, kde-format
+msgid "The file name cannot contain the following characters: '# / ?'"
+msgstr "O nome do ficheiro non pode conter os seguintes caracteres：'# / ?'"
+
+#: src/widgets/views/GridDelegate.qml:409
+#: src/widgets/views/ListViewDelegate.qml:344
+#, kde-format
+msgid "The file name already exists."
+msgstr "O nome do ficheiro xa existe."
+
+#: src/widgets/views/OpenWithDialog.qml:54
+#, kde-format
+msgid "Open with"
+msgstr "Abrir con"
+
+#: src/widgets/views/TrashFileMenu.qml:380
+#, kde-format
+msgid "Recover"
+msgstr "Recuperar"
+
+#: src/widgets/views/TrashNormalMenu.qml:171
+#, kde-format
+msgid "Delete all"
+msgstr "Eliminar todo"
+
+#: src/widgets/views/UnzipFileMenu.qml:112
+#: src/widgets/views/ZipFileMenu.qml:112
+#, kde-format
+msgid "Open mode"
+msgstr "Modo Abrir"
+
+#: src/widgets/views/UnzipFileMenu.qml:184
+#: src/widgets/views/UnzipFileMenuWithoutOM.qml:847
+#, kde-format
+msgid "Uncompress"
+msgstr "Non comprimir"
+
+msgid "The file name cannot starts whit character: '.'"
+msgstr "O nome do ficheiro non pode comezar con carácter: '.'"
+
+msgid "File has been copied"
+msgstr "Copiouse o ficheiro"
+
+msgid "File has been cut"
+msgstr "Cortouse o ficheiro"
+
+msgid "New folder"
+msgstr "Novo cartafol"
+
+msgid "Open in terminal"
+msgstr "Abrir no terminal"
+
+msgid "Information"
+msgstr "Información"
+
+msgid "The tag name cannot empty."
+msgstr "O nome da etiqueta non pode estar baleiro."

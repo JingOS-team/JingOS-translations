@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-11 20:20+0800\n"
+"PO-Revision-Date: 2021-06-24 16:04+0200\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+
+#: package/contents/ui/Contexts.qml:28
+#, kde-format
+msgid "Access Points"
+msgstr "Puntos de acceso"
+
+#: package/contents/ui/Contexts.qml:68
+#, kde-format
+msgid "Active:"
+msgstr "Activo:"
+
+#: package/contents/ui/Contexts.qml:82
+#, kde-format
+msgid "Protocol:"
+msgstr "Protocolo:"
+
+#: package/contents/ui/Contexts.qml:91
+#, kde-format
+msgid "Type:"
+msgstr "Tipo:"
+
+#: package/contents/ui/Contexts.qml:100
+#, kde-format
+msgid "APN:"
+msgstr "APN:"
+
+#: package/contents/ui/JSetMenu.qml:24
+#, kde-format
+msgid "Set Lock Screen"
+msgstr "Establecer bloqueo de pantalla"
+
+#: package/contents/ui/JSetMenu.qml:33
+#, kde-format
+msgid "Set Home Screen"
+msgstr "Establecer pantalla de inicio"
+
+#: package/contents/ui/JSetMenu.qml:43 package/contents/ui/JSetMenu.qml:120
+#, kde-format
+msgid "Set Both"
+msgstr "Establecer as dúas"
+
+#: package/contents/ui/LockScrrenView.qml:45
+#, kde-format
+msgid "2020-09-12.Monday"
+msgstr "Luns, 12-09-2020"
+
+#: package/contents/ui/SystemWallpaperView.qml:80
+#: package/contents/ui/main.qml:233
+#, kde-format
+msgid "System wallpaper"
+msgstr "Fondo de pantalla do sistema"
+
+#: package/contents/ui/WallpaperEditView.qml:129
+#, kde-format
+msgid "Move & Scale"
+msgstr "Mover & Escala"
+
+#: package/contents/ui/WallpaperEditView.qml:151
+#, kde-format
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: package/contents/ui/WallpaperEditView.qml:176
+#, kde-format
+msgid "Set"
+msgstr "Establecer"
+
+#: package/contents/ui/WallpaperEditView.qml:277
+#, kde-format
+msgid "Setting wallpaper..."
+msgstr "Establecer o fondo de pantalla..."
+
+#: package/contents/ui/main.qml:168 wallpaper.cpp:41
+#, kde-format
+msgid "Wallpaper"
+msgstr "Fondo de pantalla"
+
+#: wallpaper.cpp:42
+#, kde-format
+msgid "Zhang he gang"
+msgstr "Zhang Hegang"

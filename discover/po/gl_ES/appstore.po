@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-22 11:01+0800\n"
+"PO-Revision-Date: 2021-06-23 23:19+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: gl_ES\n"
+
+#: discover/DiscoverObject.cpp:279+discover/DiscoverObject.cpp:309
+msgid "Could not open %1"
+msgstr "Non se puido abrir %1"
+
+#: discover/cus/AppClassModel.cpp:191
+msgid "Feature applications"
+msgstr "Características do aplicativo"
+
+#: discover/cus/AppClassModel.cpp:221+discover/qml/cus/DiscoverRightPage.qml:19
+msgid "SoftWare update"
+msgstr "Actualización do software"
+
+#: discover/cus/AppClassModel.cpp:224+discover/qml/cus/DiscoverRightPage.qml:181
+msgid "Installed apps"
+msgstr "Aplicativos instalados"
+
+#: discover/main.cpp:104+notifier/main.cpp:43
+msgid "Your names"
+msgstr "Os teus nomes"
+
+#: discover/main.cpp:105+notifier/main.cpp:44
+msgid "Your emails"
+msgstr "Os teus correos"
+
+#: discover/qml/ApplicationPage.qml:93
+msgid "Sources"
+msgstr "Fontes"
+
+#: discover/qml/ApplicationPage.qml:241
+msgid "Application Introduction"
+msgstr "Introdución do aplicativo"
+
+#: discover/qml/ApplicationPage.qml:273
+msgid "Detailed information"
+msgstr "Información detallada"
+
+#: discover/qml/ApplicationPage.qml:310
+msgid "Edition"
+msgstr "Edición"
+
+#: discover/qml/ApplicationPage.qml:320
+msgid "Download size"
+msgstr "Descargar tamaño"
+
+#: discover/qml/ApplicationPage.qml:330
+msgid "Update date"
+msgstr "Actualizar datos"
+
+#: discover/qml/ApplicationPage.qml:340
+msgid "Developer"
+msgstr "Desenvolvedor"
+
+#: discover/qml/ApplicationPage.qml:349
+msgid "Website"
+msgstr "Páxina web"
+
+#: discover/qml/ApplicationsListPage.qml:82
+msgid "Name"
+msgstr "Nome"
+
+#: discover/qml/ApplicationsListPage.qml:91
+msgid "Rating"
+msgstr "Puntuar"
+
+#: discover/qml/ApplicationsListPage.qml:100
+msgid "Size"
+msgstr "Tamaño"
+
+#: discover/qml/ApplicationsListPage.qml:109
+msgid "Release Date"
+msgstr "Data da saída"
+
+#: discover/qml/ApplicationsListPage.qml:140
+msgid "Search Result"
+msgstr "Resultado da busca"
+
+#: discover/qml/DiscoverWindow.qml:68+discover/qml/cus/DiscoverLeftPage.qml:66
+msgid "Search"
+msgstr "Buscar"
+
+#: discover/qml/DiscoverWindow.qml:76+discover/qml/InstalledPage.qml:16+libdiscover/resources/AbstractResource.cpp:116
+msgid "Installed"
+msgstr "Instalado"
+
+#: discover/qml/InstallApplicationButton.qml:16+discover/qml/InstallApplicationButton.qml:19+discover/qml/InstallApplicationButton.qml:21+discover/qml/InstallApplicationButton.qml:73
+msgid "GET"
+msgstr "GET"
+
+#: discover/qml/InstallApplicationButton.qml:17+discover/qml/InstallApplicationButton.qml:22+discover/qml/InstallApplicationButton.qml:71+discover/qml/cus/JAlertDialog.qml:16+discover/qml/cus/JAlertDialog.qml:18
+msgid "Uninstall"
+msgstr "Desinstalado"
+
+#: discover/qml/InstallApplicationButton.qml:20+discover/qml/InstallApplicationButton.qml:24+discover/qml/InstallApplicationButton.qml:75
+msgid "OPEN"
+msgstr "Abrir"
+
+#: discover/qml/InstallApplicationButton.qml:23+discover/qml/InstallApplicationButton.qml:77+discover/qml/UpdateApplicaitonButton.qml:19+discover/qml/UpdateApplicationDelegate.qml:122
+msgid "Update"
+msgstr "Actualizar"
+
+#: discover/qml/UpdatesPage.qml:62
+msgid "OK"
+msgstr "Aceptar"
+
+#: discover/qml/UpdatesPage.qml:223
+msgid "Restart"
+msgstr "Restaurar"
+
+#: discover/qml/UpdatesPage.qml:418
+msgid "Updates"
+msgstr "Actualizacións"
+
+#: discover/qml/cus/AppDetails.qml:54
+msgid "App"
+msgstr "Aplicativo"
+
+#: discover/qml/cus/DiscoverLeftPage.qml:37
+msgid "Store"
+msgstr "Tenda"
+
+#: discover/qml/cus/JAlertDialog.qml:17
+msgid "Are you sure uninstall the app?"
+msgstr "Tes a certeza de querer desinstalar o aplicativo?"
+
+#: discover/qml/cus/JCategoryList.qml:36+discover/qml/cus/JCategoryList.qml:40+discover/qml/cus/JCategoryList.qml:41+discover/qml/cus/JCategoryList.qml:42
+msgid "My"
+msgstr "O meu"
+
+#: discover/qml/cus/NullPageView.qml:46
+msgid "Currently not connected to the network, please connect and try again"
+msgstr "Non estás conectado á rede agora. Conéctate e inténtao de novo"
+
+#: discover/qml/cus/NullPageView.qml:48
+msgid "There is no apps at present"
+msgstr "Non hai aplicativos neste momento"
+
+#: kcm/updates.cpp:28
+msgid "Software Updates"
+msgstr "Actualizacións do software"
+
+#: libdiscover/Transaction/TransactionModel.cpp:74
+msgid "Starting"
+msgstr "Comezando"
+
+#: libdiscover/Transaction/TransactionModel.cpp:76
+msgid "Waiting"
+msgstr "Agardando"
+
+#: libdiscover/Transaction/TransactionModel.cpp:78
+msgid "Downloading"
+msgstr "Descargando"
+
+#: libdiscover/Transaction/TransactionModel.cpp:82
+msgid "Installing"
+msgstr "Instalando"
+
+#: libdiscover/Transaction/TransactionModel.cpp:84
+msgid "Removing"
+msgstr "Eliminando"
+
+#: libdiscover/Transaction/TransactionModel.cpp:90
+msgid "Done"
+msgstr "Rematado"
+
+#: libdiscover/Transaction/TransactionModel.cpp:92
+msgid "Failed"
+msgstr "Fallou"
+
+#: libdiscover/UpdateModel/UpdateModel.cpp:143
+msgid "Application Updates"
+msgstr "Actualizacións dos aplicativos"
+
+#: libdiscover/UpdateModel/UpdateModel.cpp:144
+msgid "System Updates"
+msgstr "Actualizacións do sistema"
+
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:223
+msgid "Confirm package removal"
+msgstr "Confirmar a eliminación do paquete"
+
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:223
+msgid ""
+"This action will also remove the following package:\n"
+"%2"
+msgstr ""
+"Esta acción tamén se eliminará no seguinte paquete:\n"
+"%2"
+
+#: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:223
+msgid ""
+"This action will also remove the following packages:\n"
+"%2"
+msgstr ""
+"Esta acción tamén se eliminará nos seguintes paquetes:\n"
+"%2"
+
+#: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:755
+msgid "Cannot remove '%1'"
+msgstr "Non se pode eliminar '%1'"
+
+msgid "Application classification"
+msgstr "Clasificación do aplicativo"

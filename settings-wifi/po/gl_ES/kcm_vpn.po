@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-23 15:32+0800\n"
+"PO-Revision-Date: 2021-06-24 15:22+0200\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+
+msgid "VPN Status"
+msgstr "Estado do VPN"
+
+msgid "To connect using ”%1”, use the “%1” application."
+msgstr "Para conectar usando \"%1\", use o aplicativo \"%1\"."
+
+msgid "Add VPN Configuration…"
+msgstr "Engadir a configuración do VPN..."
+
+msgid "To configure the settings for ”%1”,use the ”%1” application."
+msgstr "Para configurar a configuración de \"%1\", use o aplicativo \"%1\"."
+
+msgid "Delete VPN"
+msgstr "Eliminar VPN"
+
+msgid "NT Domain"
+msgstr "Dominio NT"
+
+msgid "Authentication"
+msgstr "Autentificación"
+
+msgid "User Authentication"
+msgstr "Autentificación do usuario"
+
+msgid "Username"
+msgstr "Nome do usuario"
+
+#: mobile/wifi/package/contents/ui/OtherNetwork.qml:220
+#, kde-format
+msgid "Password"
+msgstr "Contrasinal"
+
+msgid "Gateway"
+msgstr "Pasarela"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Description"
+msgstr "Descrición"
+
+msgid "Required"
+msgstr "Requirido"
+
+msgid "Ask Every Time"
+msgstr "Preguntar cada vez"
+
+msgid "Add Configuration"
+msgstr "Engadir configuración"
+
+msgid "Done"
+msgstr "Acabado"
+
+msgid "Pre-shared key"
+msgstr "Clave anteriormente compartida"
+
+msgid "CA Certificate"
+msgstr "Certificado CA"
+
+msgid "User Certificate"
+msgstr "Certificar o usuario"
+
+msgid "Private Key"
+msgstr "Clave privada"
+
+msgid "Static Key"
+msgstr "Clave estática"
+
+msgid "Not Required"
+msgstr "Non requirido"
+
+msgid "Are you sure you want to delete this VPN?"
+msgstr "Ten certeza de que quere eliminar este VPN?"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Not connected"
+msgstr "Non conectado"
+
+msgid "Connected"
+msgstr "Conectado"
+
+msgid "Edit"
+msgstr "Editar"
