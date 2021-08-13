@@ -31,11 +31,11 @@ msgstr "Installierte Anwendungen"
 
 #: discover/main.cpp:104+notifier/main.cpp:43
 msgid "Your names"
-msgstr "Eure Namen"
+msgstr "Maik Brenke"
 
 #: discover/main.cpp:105+notifier/main.cpp:44
 msgid "Your emails"
-msgstr "Eure E-Mails"
+msgstr "maik.brenke@mail.de"
 
 #: discover/qml/ApplicationPage.qml:93
 msgid "Sources"
