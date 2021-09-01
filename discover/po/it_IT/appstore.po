@@ -1,16 +1,16 @@
-#. extracted from appstore.csv
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-26 14:37+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Jacopo Gennaro Esposito <jaco.espo@hotmail.it>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-08-31 09:24+0200\n"
+"Last-Translator: Massimo A. Carofano <massimo.carofano@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.5.0\n"
+"X-Generator: Poedit 3.0\n"
+"Language-Team: \n"
+"Language: it_IT\n"
 
 #: discover/DiscoverObject.cpp:279+discover/DiscoverObject.cpp:309
 msgid "Could not open %1"
@@ -106,7 +106,7 @@ msgstr "Disinstalla"
 
 #: discover/qml/InstallApplicationButton.qml:20+discover/qml/InstallApplicationButton.qml:24+discover/qml/InstallApplicationButton.qml:75
 msgid "OPEN"
-msgstr "APRIRE"
+msgstr "APRI"
 
 #: discover/qml/InstallApplicationButton.qml:23+discover/qml/InstallApplicationButton.qml:77+discover/qml/UpdateApplicaitonButton.qml:19+discover/qml/UpdateApplicationDelegate.qml:122
 msgid "Update"
@@ -138,7 +138,7 @@ msgstr "Sei sicuro di voler disinstallare l'app?"
 
 #: discover/qml/cus/JCategoryList.qml:36+discover/qml/cus/JCategoryList.qml:40+discover/qml/cus/JCategoryList.qml:41+discover/qml/cus/JCategoryList.qml:42
 msgid "My"
-msgstr "Mio"
+msgstr "Mie"
 
 #: discover/qml/cus/NullPageView.qml:46
 msgid "Currently not connected to the network, please connect and try again"
@@ -196,14 +196,16 @@ msgstr "Conferma rimozione pacchetto"
 msgid ""
 "This action will also remove the following package:\n"
 "%2"
-msgstr "Questa azione rimuoverà anche il seguente pacchetto:\n"
+msgstr ""
+"Questa azione rimuoverà anche il seguente pacchetto:\n"
 "%2"
 
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:223
 msgid ""
 "This action will also remove the following packages:\n"
 "%2"
-msgstr "Questa azione rimuoverà anche i seguenti pacchetti:\n"
+msgstr ""
+"Questa azione rimuoverà anche i seguenti pacchetti:\n"
 "%2"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:755
