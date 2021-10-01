@@ -1,0 +1,3511 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-23 15:32+0800\n"
+"PO-Revision-Date: 2021-08-13 13:54+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Language: de_DE\n"
+
+#: applet/contents/ui/ConnectionItem.qml:61 kcm/qml/ConnectionItem.qml:112
+#, kde-format
+msgid "Connect"
+msgstr "Verbinden"
+
+#: applet/contents/ui/ConnectionItem.qml:61 kcm/qml/ConnectionItem.qml:112
+#, kde-format
+msgid "Disconnect"
+msgstr "Trennen"
+
+msgid "On Connection"
+msgstr "Verbindung besteht"
+
+#: applet/contents/ui/ConnectionItem.qml:97
+#, kde-format
+msgid "Show network's QR code"
+msgstr "QR-Code des Netzwerks anzeigen"
+
+#: applet/contents/ui/ConnectionItem.qml:108
+#, kde-format
+msgid "Configure..."
+msgstr "Konfigurieren..."
+
+#: applet/contents/ui/ConnectionItem.qml:132
+#, kde-format
+msgid "Speed"
+msgstr "Geschwindigkeit"
+
+#: applet/contents/ui/ConnectionItem.qml:137
+#, kde-format
+msgid "Details"
+msgstr "Details"
+
+#: applet/contents/ui/ConnectionItem.qml:275
+#, kde-format
+msgid "Connected, ⬇ %1/s, ⬆ %2/s"
+msgstr "Verbunden, ⬇ %1/s, ⬆ %2/s"
+
+#: applet/contents/ui/ConnectionItem.qml:279 kcm/qml/ConnectionItem.qml:160
+#, kde-format
+msgid "Connected"
+msgstr "Verbunden"
+
+#: applet/contents/ui/DetailsText.qml:44
+#, kde-format
+msgid "Copy"
+msgstr "Kopieren"
+
+#: applet/contents/ui/main.qml:33
+#, kde-format
+msgid "Networks"
+msgstr "Netzwerke"
+
+#: applet/contents/ui/main.qml:57
+#, kde-format
+msgid "&Configure Network Connections..."
+msgstr "&Netzwerkverbindungen konfigurieren..."
+
+#: applet/contents/ui/main.qml:60
+#, kde-format
+msgid "Open Network Login Page..."
+msgstr "Netzwerkanmeldeseite öffnen..."
+
+#: applet/contents/ui/PasswordField.qml:30
+#, kde-format
+msgid "Password..."
+msgstr "Passwort..."
+
+#: applet/contents/ui/PopupDialog.qml:74
+#, kde-format
+msgid "Airplane mode is enabled"
+msgstr "Flugzeugmodus ist aktiviert"
+
+#: applet/contents/ui/PopupDialog.qml:78
+#, kde-format
+msgid "Wireless and mobile networks are deactivated"
+msgstr "Drahtlose und mobile Netzwerke sind deaktiviert"
+
+#: applet/contents/ui/PopupDialog.qml:80
+#, kde-format
+msgid "Wireless is deactivated"
+msgstr "WLAN ist deaktiviert"
+
+#: applet/contents/ui/PopupDialog.qml:83
+#, kde-format
+msgid "Mobile network is deactivated"
+msgstr "Mobiles Netzwerk ist deaktiviert"
+
+#: applet/contents/ui/PopupDialog.qml:85
+#, kde-format
+msgid "No available connections"
+msgstr "Keine verfügbaren Verbindungen"
+
+#: applet/contents/ui/Toolbar.qml:84
+#, kde-format
+msgid "Enable Wi-Fi"
+msgstr "WLAN aktivieren"
+
+#: applet/contents/ui/Toolbar.qml:100
+#, kde-format
+msgid "Enable mobile network"
+msgstr "Mobiles Netzwerk aktivieren"
+
+#: applet/contents/ui/Toolbar.qml:140
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Disable airplane mode<nl/><nl/>This will enable Wi-Fi and Bluetooth"
+msgstr ""
+"Flugmodus deaktivieren<nl/><nl/>Damit werden WLAN und Bluetooth aktiviert"
+
+#: applet/contents/ui/Toolbar.qml:141
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Enable airplane mode<nl/><nl/>This will disable Wi-Fi and Bluetooth"
+msgstr ""
+"Flugmodus aktivieren<nl/><nl/>Damit werden WLAN und Bluetooth deaktiviert"
+
+#: applet/contents/ui/Toolbar.qml:155 kcm/qml/ConfigurationDialog.qml:75
+#: mobile/hotspot/hotspotsettings.cpp:30
+#, kde-format
+msgid "Hotspot"
+msgstr "Hotspot"
+
+#: applet/contents/ui/Toolbar.qml:176 applet/contents/ui/Toolbar.qml:187
+#, kde-format
+msgid "Disable Hotspot"
+msgstr "Hotspot deaktivieren"
+
+#: applet/contents/ui/Toolbar.qml:181 applet/contents/ui/Toolbar.qml:187
+#, kde-format
+msgid "Create Hotspot"
+msgstr "Hotspot erstellen"
+
+#: applet/contents/ui/Toolbar.qml:199
+#, kde-format
+msgctxt "button tooltip"
+msgid "Search the connections"
+msgstr "Suche die Verbindungen"
+
+#: applet/contents/ui/Toolbar.qml:211
+#, kde-format
+msgid "Configure network connections..."
+msgstr "Netzwerkverbindungen konfigurieren..."
+
+#: applet/contents/ui/Toolbar.qml:231
+#, kde-format
+msgctxt "text field placeholder text"
+msgid "Search..."
+msgstr "Suche..."
+
+#: applet/contents/ui/TrafficMonitor.qml:50
+#: applet/contents/ui/TrafficMonitor.qml:114
+#, kde-format
+msgid "/s"
+msgstr "/s"
+
+#: applet/contents/ui/TrafficMonitor.qml:96
+#, kde-format
+msgid "Upload"
+msgstr "Hochladen"
+
+#: applet/contents/ui/TrafficMonitor.qml:96
+#, kde-format
+msgid "Download"
+msgstr "Herunterladen"
+
+#: kcm/kcm.cpp:361
+#, kde-format
+msgid "my_shared_connection"
+msgstr "meine_gemeinsame_Verbindung"
+
+#: kcm/kcm.cpp:423
+#, kde-format
+msgid "Export VPN Connection"
+msgstr "VPN-Verbindung exportieren"
+
+#: kcm/kcm.cpp:443
+#, kde-format
+msgid "Do you want to save changes made to the connection '%1'?"
+msgstr ""
+"Möchten Sie die an der Verbindung '%1' vorgenommenen Änderungen speichern?"
+
+#: kcm/kcm.cpp:443
+#, kde-format
+msgctxt "@title:window"
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: kcm/kcm.cpp:532
+#, kde-format
+msgid "Import VPN Connection"
+msgstr "VPN-Verbindung importieren"
+
+#: kcm/qml/AddConnectionDialog.qml:31
+#, kde-format
+msgctxt "@title:window"
+msgid "Choose a Connection Type"
+msgstr "Wählen Sie einen Verbindungstyp"
+
+#: kcm/qml/AddConnectionDialog.qml:174
+#, kde-format
+msgid "Create"
+msgstr "Erstellen"
+
+#: kcm/qml/AddConnectionDialog.qml:184 kcm/qml/ConfigurationDialog.qml:130
+#, kde-format
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: kcm/qml/ConfigurationDialog.qml:30
+#, kde-format
+msgctxt "@title:window"
+msgid "Configuration"
+msgstr "Konfiguration"
+
+#: kcm/qml/ConfigurationDialog.qml:55
+#, kde-format
+msgid "General"
+msgstr "Allgemein"
+
+#: kcm/qml/ConfigurationDialog.qml:60
+#, kde-format
+msgid "Ask for PIN on modem detection"
+msgstr "Bei Modemerkennung nach PIN fragen"
+
+#: kcm/qml/ConfigurationDialog.qml:67
+#, kde-format
+msgid "Show virtual connections"
+msgstr "Virtuelle Verbindungen anzeigen"
+
+#: kcm/qml/ConfigurationDialog.qml:81
+#, kde-format
+msgid "Hotspot name:"
+msgstr "Hotspotname:"
+
+#: kcm/qml/ConfigurationDialog.qml:91
+#, kde-format
+msgid "Hotspot password:"
+msgstr "Hotspotkennwort:"
+
+#: kcm/qml/ConfigurationDialog.qml:121
+#, kde-format
+msgid "Ok"
+msgstr "Ok"
+
+#: kcm/qml/ConnectionItem.qml:125
+#, kde-format
+msgid "Delete"
+msgstr "Löschen"
+
+#: kcm/qml/ConnectionItem.qml:135
+#, kde-format
+msgid "Export"
+msgstr "Exportieren"
+
+#: kcm/qml/ConnectionItem.qml:162
+#, kde-format
+msgid "Connecting"
+msgstr "Verbinden"
+
+#: kcm/qml/main.qml:75
+#, kde-format
+msgid "Search..."
+msgstr "Suche..."
+
+#: kcm/qml/main.qml:154
+#, kde-format
+msgid "Add new connection"
+msgstr "Neue Verbindung hinzufügen"
+
+#: kcm/qml/main.qml:168
+#, kde-format
+msgid "Remove selected connection"
+msgstr "Ausgewählte Verbindung entfernen"
+
+#: kcm/qml/main.qml:184
+#, kde-format
+msgid "Export selected connection"
+msgstr "Ausgewählte Verbindung exportieren"
+
+#: kcm/qml/main.qml:208
+#, kde-format
+msgid "Configuration"
+msgstr "Konfiguration"
+
+#: kcm/qml/main.qml:236
+#, kde-format
+msgctxt "@title:window"
+msgid "Remove Connection"
+msgstr "Verbindung entfernen"
+
+#: kcm/qml/main.qml:237 libs/editor/settings/bondwidget.cpp:266
+#: libs/editor/settings/bridgewidget.cpp:217
+#: libs/editor/settings/teamwidget.cpp:205
+#, kde-format
+msgid "Do you want to remove the connection '%1'?"
+msgstr "Möchten Sie die Verbindung '%1' entfernen?"
+
+#: kded/bluetoothmonitor.cpp:82
+#, kde-format
+msgid "Only 'dun' and 'nap' services are supported."
+msgstr "Nur die Dienste 'dun' und 'nap' werden unterstützt."
+
+#: kded/modemmonitor.cpp:204
+#, kde-format
+msgctxt "Text in GSM PIN/PUK unlock error dialog"
+msgid "Error unlocking modem: %1"
+msgstr "Fehler bei der Entsperrung des Modems: %1"
+
+#: kded/modemmonitor.cpp:205
+#, kde-format
+msgctxt "Title for GSM PIN/PUK unlock error dialog"
+msgid "PIN/PUK unlock error"
+msgstr "PIN/PUK-Entsperrungsfehler"
+
+#: kded/notification.cpp:99
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to ConfigFailedReason"
+msgid "The device could not be configured"
+msgstr "Das Gerät konnte nicht konfiguriert werden"
+
+#: kded/notification.cpp:103
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"ConfigUnavailableReason"
+msgid "IP configuration was unavailable"
+msgstr "IP-Konfiguration war nicht verfügbar"
+
+#: kded/notification.cpp:107
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to ConfigExpiredReason"
+msgid "IP configuration expired"
+msgstr "IP-Konfiguration ist abgelaufen"
+
+#: kded/notification.cpp:111
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to NoSecretsReason"
+msgid "No secrets were provided"
+msgstr "Es wurden keine Geheimnisse verraten"
+
+#: kded/notification.cpp:116
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"AuthSupplicantDisconnectReason"
+msgid "Authorization supplicant disconnected"
+msgstr "Autorisierungssupplikant wurde getrennt"
+
+#: kded/notification.cpp:120
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"AuthSupplicantConfigFailedReason"
+msgid "Authorization supplicant's configuration failed"
+msgstr "Konfiguration des Autorisierungssupplikant fehlgeschlagen"
+
+#: kded/notification.cpp:124
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"AuthSupplicantFailedReason"
+msgid "Authorization supplicant failed"
+msgstr "Autorisierung des Antragstellers fehlgeschlagen"
+
+#: kded/notification.cpp:128
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"AuthSupplicantTimeoutReason"
+msgid "Authorization supplicant timed out"
+msgstr "Zeitüberschreitung bei der Autorisierung des Antragstellers"
+
+#: kded/notification.cpp:132
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to PppStartFailedReason"
+msgid "PPP failed to start"
+msgstr "PPP kann nicht gestartet werden"
+
+#: kded/notification.cpp:136
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to PppDisconnectReason"
+msgid "PPP disconnected"
+msgstr "PPP getrennt"
+
+#: kded/notification.cpp:140
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to PppFailedReason"
+msgid "PPP failed"
+msgstr "PPP fehlgeschlagen"
+
+#: kded/notification.cpp:144
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to DhcpStartFailedReason"
+msgid "DHCP failed to start"
+msgstr "DHCP kann nicht gestartet werden"
+
+#: kded/notification.cpp:148
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to DhcpErrorReason"
+msgid "A DHCP error occurred"
+msgstr "Ein DHCP-Fehler ist aufgetreten"
+
+#: kded/notification.cpp:152
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to DhcpFailedReason"
+msgid "DHCP failed "
+msgstr "DHCP fehlgeschlagen "
+
+#: kded/notification.cpp:156
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"SharedStartFailedReason"
+msgid "The shared service failed to start"
+msgstr "Der gemeinsame Dienst konnte nicht gestartet werden"
+
+#: kded/notification.cpp:160
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to SharedFailedReason"
+msgid "The shared service failed"
+msgstr "Der gemeinsame Dienst ist fehlgeschlagen"
+
+#: kded/notification.cpp:164
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"AutoIpStartFailedReason"
+msgid "The auto IP service failed to start"
+msgstr "Der automatische IP-Dienst konnte nicht gestartet werden"
+
+#: kded/notification.cpp:168
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to AutoIpErrorReason"
+msgid "The auto IP service reported an error"
+msgstr "Der automatische IP-Dienst hat einen Fehler gemeldet"
+
+#: kded/notification.cpp:172
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to AutoIpFailedReason"
+msgid "The auto IP service failed"
+msgstr "Der automatische IP-Dienst ist fehlgeschlagen"
+
+#: kded/notification.cpp:176
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to ModemBusyReason"
+msgid "The modem is busy"
+msgstr "Das Modem ist besetzt"
+
+#: kded/notification.cpp:180
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to ModemNoDialToneReason"
+msgid "The modem has no dial tone"
+msgstr "Das Modem hat kein Freizeichen"
+
+#: kded/notification.cpp:184
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to ModemNoCarrierReason"
+msgid "The modem shows no carrier"
+msgstr "Das Modem zeigt keinen Betreiber an"
+
+#: kded/notification.cpp:188
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"ModemDialTimeoutReason"
+msgid "The modem dial timed out"
+msgstr "Zeitüberschreitung bei der Modemwahl"
+
+#: kded/notification.cpp:192
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to ModemDialFailedReason"
+msgid "The modem dial failed"
+msgstr "Die Modemwahl ist fehlgeschlagen"
+
+#: kded/notification.cpp:196
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to ModemInitFailedReason"
+msgid "The modem could not be initialized"
+msgstr "Das Modem konnte nicht initialisiert werden"
+
+#: kded/notification.cpp:200
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"GsmApnSelectFailedReason"
+msgid "The GSM APN could not be selected"
+msgstr "Der GSM APN konnte nicht ausgewählt werden"
+
+#: kded/notification.cpp:204
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to GsmNotSearchingReason"
+msgid "The GSM modem is not searching"
+msgstr "Das GSM-Modem sucht nicht"
+
+#: kded/notification.cpp:208
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"GsmRegistrationDeniedReason"
+msgid "GSM network registration was denied"
+msgstr "GSM-Netz-Registrierung wurde verweigert"
+
+#: kded/notification.cpp:212
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"GsmRegistrationTimeoutReason"
+msgid "GSM network registration timed out"
+msgstr "Zeitüberschreitung bei der Registrierung im GSM-Netz"
+
+#: kded/notification.cpp:216
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"GsmRegistrationFailedReason"
+msgid "GSM registration failed"
+msgstr "GSM-Registrierung fehlgeschlagen"
+
+#: kded/notification.cpp:220
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"GsmPinCheckFailedReason"
+msgid "The GSM PIN check failed"
+msgstr "Die Prüfung der GSM-PIN ist fehlgeschlagen"
+
+#: kded/notification.cpp:224
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to FirmwareMissingReason"
+msgid "Device firmware is missing"
+msgstr "Gerätefirmware fehlt"
+
+#: kded/notification.cpp:228
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to DeviceRemovedReason"
+msgid "The device was removed"
+msgstr "Das Gerät wurde entfernt"
+
+#: kded/notification.cpp:232
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to SleepingReason"
+msgid "The networking system is now sleeping"
+msgstr "Das Netzwerksystem ist jetzt im Ruhezustand"
+
+#: kded/notification.cpp:236
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"ConnectionRemovedReason"
+msgid "The connection was removed"
+msgstr "Die Verbindung wurde entfernt"
+
+#: kded/notification.cpp:242
+#, kde-format
+msgctxt "@info:status Notification when the device failed due to CarrierReason"
+msgid "The cable was disconnected"
+msgstr "Das Kabel wurde getrennt"
+
+#: kded/notification.cpp:249
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to ModemNotFoundReason"
+msgid "The modem could not be found"
+msgstr "Das Modem konnte nicht gefunden werden"
+
+#: kded/notification.cpp:253
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to BluetoothFailedReason"
+msgid "The bluetooth connection failed or timed out"
+msgstr "Die Bluetooth-Verbindung ist fehlgeschlagen oder verfallen"
+
+#: kded/notification.cpp:257
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to GsmSimNotInserted"
+msgid "GSM Modem's SIM Card not inserted"
+msgstr "SIM-Karte des GSM-Modems nicht eingelegt"
+
+#: kded/notification.cpp:261
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to GsmSimPinRequired"
+msgid "GSM Modem's SIM Pin required"
+msgstr "GSM Modem SIM Pin erforderlich"
+
+#: kded/notification.cpp:265
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to GsmSimPukRequired"
+msgid "GSM Modem's SIM Puk required"
+msgstr "GSM Modem SIM Puk erforderlich"
+
+#: kded/notification.cpp:269
+#, kde-format
+msgctxt "@info:status Notification when the device failed due to GsmSimWrong"
+msgid "GSM Modem's SIM wrong"
+msgstr "GSM Modem SIM falsch"
+
+#: kded/notification.cpp:273
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to InfiniBandMode"
+msgid "InfiniBand device does not support connected mode"
+msgstr "InfiniBandgerät unterstützt den Verbindungsmodus nicht"
+
+#: kded/notification.cpp:277
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to DependencyFailed"
+msgid "A dependency of the connection failed"
+msgstr "Eine Abhängigkeit der Verbindung ist fehlgeschlagen"
+
+#: kded/notification.cpp:281
+#, kde-format
+msgctxt "@info:status Notification when the device failed due to Br2684Failed"
+msgid "Problem with the RFC 2684 Ethernet over ADSL bridge"
+msgstr "Problem beim RFC 2684 Ethernet über ADSL Brücke"
+
+#: kded/notification.cpp:285
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"ModemManagerUnavailable"
+msgid "ModemManager not running"
+msgstr "ModemManager läuft nicht"
+
+#: kded/notification.cpp:289
+#, kde-format
+msgctxt "@info:status Notification when the device failed due to SsidNotFound"
+msgid "The WiFi network could not be found"
+msgstr "Das WLAN-Netzwerk konnte nicht gefunden werden"
+
+#: kded/notification.cpp:293
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"SecondaryConnectionFailed"
+msgid "A secondary connection of the base connection failed"
+msgstr "Eine sekundäre Verbindung der Basisverbindung ist fehlgeschlagen"
+
+#: kded/notification.cpp:297
+#, kde-format
+msgctxt "@info:status Notification when the device failed due to DcbFcoeFailed"
+msgid "DCB or FCoE setup failed"
+msgstr "DCB- oder FCoE-Einrichtung fehlgeschlagen"
+
+#: kded/notification.cpp:301
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to TeamdControlFailed"
+msgid "teamd control failed"
+msgstr "teamd-Kontrolle fehlgeschlagen"
+
+#: kded/notification.cpp:305
+#, kde-format
+msgctxt "@info:status Notification when the device failed due to ModemFailed"
+msgid "Modem failed or no longer available"
+msgstr "Modem ausgefallen oder nicht mehr verfügbar"
+
+#: kded/notification.cpp:309
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to ModemAvailable"
+msgid "Modem now ready and available"
+msgstr "Modem jetzt bereit und verfügbar"
+
+#: kded/notification.cpp:313
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to SimPinIncorrect"
+msgid "The SIM PIN was incorrect"
+msgstr "Die SIM-PIN war falsch"
+
+#: kded/notification.cpp:317
+#, kde-format
+msgctxt "@info:status Notification when the device failed due to NewActivation"
+msgid "A new connection activation was enqueued"
+msgstr "Eine neue Verbindungsaktivierung wurde in die Warteschlange gestellt"
+
+#: kded/notification.cpp:321
+#, kde-format
+msgctxt "@info:status Notification when the device failed due to ParentChanged"
+msgid "The device's parent changed"
+msgstr "Das übergeordnete Gerät wurde geändert"
+
+#: kded/notification.cpp:325
+#, kde-format
+msgctxt ""
+"@info:status Notification when the device failed due to ParentManagedChanged"
+msgid "The device parent's management changed"
+msgstr "Die Verwaltung des übergeordneten Geräts wurde geändert"
+
+#: kded/notification.cpp:393
+#, kde-format
+msgid "Connection '%1' activated."
+msgstr "Verbindung '%1' aktiviert."
+
+#: kded/notification.cpp:420
+#, kde-format
+msgid "Connection '%1' deactivated."
+msgstr "Verbindung '%1' wurde deaktiviert."
+
+#: kded/notification.cpp:471
+#, kde-format
+msgid "VPN connection '%1' activated."
+msgstr "VPN-Verbindung '%1' aktiviert."
+
+#: kded/notification.cpp:474
+#, kde-format
+msgid "VPN connection '%1' failed."
+msgstr "VPN-Verbindung '%1' fehlgeschlagen."
+
+#: kded/notification.cpp:477
+#, kde-format
+msgid "VPN connection '%1' disconnected."
+msgstr "VPN-Verbindung '%1' wurde getrennt."
+
+#: kded/notification.cpp:485
+#, kde-format
+msgid "The VPN connection changed state because the user disconnected it."
+msgstr ""
+"Der Status der VPN-Verbindung wurde geändert, da der Benutzer diesen "
+"getrennt hat."
+
+#: kded/notification.cpp:488
+#, kde-format
+msgid ""
+"The VPN connection changed state because the device it was using was "
+"disconnected."
+msgstr ""
+"Der Status der VPN-Verbindung wurde geändert, da das verwendete Gerät "
+"getrennt hat."
+
+#: kded/notification.cpp:491
+#, kde-format
+msgid "The service providing the VPN connection was stopped."
+msgstr ""
+"Der Zustand der VPN-Verbindung hat sich geändert, weil der Benutzer die "
+"Verbindung getrennt hat."
+
+#: kded/notification.cpp:494
+#, kde-format
+msgid "The IP config of the VPN connection was invalid."
+msgstr "Die IP-Konfiguration der VPN-Verbindung war ungültig."
+
+#: kded/notification.cpp:497
+#, kde-format
+msgid "The connection attempt to the VPN service timed out."
+msgstr "Der Verbindungsversuch zum VPN-Dienst wurde abgebrochen."
+
+#: kded/notification.cpp:500
+#, kde-format
+msgid ""
+"A timeout occurred while starting the service providing the VPN connection."
+msgstr ""
+"Beim Starten des Dienstes, der die VPN-Verbindung bereitstellt, ist eine "
+"Zeitüberschreitung aufgetreten."
+
+#: kded/notification.cpp:503
+#, kde-format
+msgid "Starting the service providing the VPN connection failed."
+msgstr ""
+"Das Starten des Dienstes, der die VPN-Verbindung bereitstellt, ist "
+"fehlgeschlagen."
+
+#: kded/notification.cpp:506
+#, kde-format
+msgid "Necessary secrets for the VPN connection were not provided."
+msgstr ""
+"Erforderliche Geheimnisse für die VPN-Verbindung wurden nicht bereitgestellt."
+
+#: kded/notification.cpp:509
+#, kde-format
+msgid "Authentication to the VPN server failed."
+msgstr "Authentifizierung zum VPN-Server fehlgeschlagen."
+
+#: kded/notification.cpp:512
+#, kde-format
+msgid "The connection was deleted from settings."
+msgstr "Die Verbindung wurde aus den Einstellungen gelöscht."
+
+#: kded/notification.cpp:595
+#, kde-format
+msgid "No Network Connection"
+msgstr "Keine Netzwerkverbindung"
+
+#: kded/notification.cpp:596
+#, kde-format
+msgid "You are no longer connected to a network."
+msgstr "Sie sind nicht mehr mit einem Netzwerk verbunden."
+
+#: kded/passworddialog.cpp:69
+#, kde-format
+msgid "Authenticate %1"
+msgstr "Authentifizierung %1"
+
+#: kded/passworddialog.cpp:113
+#, kde-format
+msgid "Provide the password for the wireless network '%1':"
+msgstr "Geben Sie das Passwort für das drahtlose Netzwerk '%1' ein:"
+
+#: kded/passworddialog.cpp:115
+#, kde-format
+msgid "Provide the password for the connection '%1':"
+msgstr "Geben Sie das Passwort für die Verbindung '%1' an:"
+
+#: kded/passworddialog.cpp:121
+#, kde-format
+msgid "%1 password dialog"
+msgstr "%1 Passwortdialog"
+
+#: kded/passworddialog.cpp:142
+#, kde-format
+msgid "Provide the secrets for the VPN connection '%1':"
+msgstr "Geben Sie die Geheimnisse für die VPN-Verbindung '%1' an:"
+
+#: kded/passworddialog.cpp:143
+#, kde-format
+msgid "VPN secrets (%1) dialog"
+msgstr "VPN-Geheimnisse (%1) Dialog"
+
+#: kded/pindialog.cpp:79
+#, kde-format
+msgid "SIM PUK"
+msgstr "SIM PUK"
+
+#: kded/pindialog.cpp:81
+#, kde-format
+msgid "SIM PUK2"
+msgstr "SIM PUK2"
+
+#: kded/pindialog.cpp:83
+#, kde-format
+msgid "Service provider PUK"
+msgstr "Dienstanbieter PUK"
+
+#: kded/pindialog.cpp:85
+#, kde-format
+msgid "Network PUK"
+msgstr "Netzwerk PUK"
+
+#: kded/pindialog.cpp:87
+#, kde-format
+msgid "Corporate PUK"
+msgstr "Firmen PUK"
+
+#: kded/pindialog.cpp:89
+#, kde-format
+msgid "PH-FSIM PUK"
+msgstr "PH-FSIM PUK"
+
+#: kded/pindialog.cpp:91
+#, kde-format
+msgid "Network Subset PUK"
+msgstr "Netzwerkuntergruppe PUK"
+
+#: kded/pindialog.cpp:94 kded/pindialog.cpp:126
+#, kde-format
+msgid "%1 unlock required"
+msgstr "%1 Freischaltung erforderlich"
+
+#: kded/pindialog.cpp:95 kded/pindialog.cpp:127
+#, kde-format
+msgid "%1 Unlock Required"
+msgstr "%1 Freischaltung erforderlich"
+
+#: kded/pindialog.cpp:96 kded/pindialog.cpp:128
+#, kde-format
+msgid ""
+"The mobile broadband device '%1' requires a %2 code before it can be used."
+msgstr ""
+"Das mobile Breitbandgerät '%1' erfordert einen %2-Code, bevor es verwendet "
+"werden kann."
+
+#: kded/pindialog.cpp:97 kded/pindialog.cpp:129
+#, kde-format
+msgid "%1 code:"
+msgstr "%1 Code:"
+
+#: kded/pindialog.cpp:98
+#, kde-format
+msgid "New PIN code:"
+msgstr "Neuer PIN-Code:"
+
+#: kded/pindialog.cpp:99
+#, kde-format
+msgid "Re-enter new PIN code:"
+msgstr "Neuen PIN-Code erneut eingeben:"
+
+#: kded/pindialog.cpp:100
+#, kde-format
+msgid "Show PIN/PUK code"
+msgstr "PIN/PUK-Code anzeigen"
+
+#: kded/pindialog.cpp:110
+#, kde-format
+msgid "SIM PIN"
+msgstr "SIM PIN"
+
+#: kded/pindialog.cpp:112
+#, kde-format
+msgid "SIM PIN2"
+msgstr "SIM PIN2"
+
+#: kded/pindialog.cpp:114
+#, kde-format
+msgid "Service provider PIN"
+msgstr "Dienstanbieter-PIN"
+
+#: kded/pindialog.cpp:116
+#, kde-format
+msgid "Network PIN"
+msgstr "Netzwerk PIN"
+
+#: kded/pindialog.cpp:118
+#, kde-format
+msgid "PIN"
+msgstr "PIN"
+
+#: kded/pindialog.cpp:120
+#, kde-format
+msgid "Corporate PIN"
+msgstr "Firmen PIN"
+
+#: kded/pindialog.cpp:122
+#, kde-format
+msgid "PH-FSIM PIN"
+msgstr "PH-FSIM PIN"
+
+#: kded/pindialog.cpp:124
+#, kde-format
+msgid "Network Subset PIN"
+msgstr "Netzwerkuntergruppe PIN"
+
+#: kded/pindialog.cpp:130
+#, kde-format
+msgid "Show PIN code"
+msgstr "PIN-Code anzeigen"
+
+#: kded/pindialog.cpp:213
+#, kde-format
+msgid "PIN code too short. It should be at least 4 digits."
+msgstr "Der PIN-Code ist zu kurz. Dieser sollte mindestens 4-stellig sein."
+
+#: kded/pindialog.cpp:218
+#, kde-format
+msgid "The two PIN codes do not match"
+msgstr "Die beiden PIN-Codes stimmen nicht überein"
+
+#: kded/pindialog.cpp:223
+#, kde-format
+msgid "PUK code too short. It should be 8 digits."
+msgstr "PUK-Code zu kurz. Dieser sollte 8-stellig sein."
+
+#: kded/pindialog.cpp:228
+#, kde-format
+msgid "Unknown Error"
+msgstr "Unbekannter Fehler"
+
+#: kded/portalmonitor.cpp:57
+#, kde-format
+msgid "Log in"
+msgstr "Anmelden"
+
+#: kded/portalmonitor.cpp:59
+#, kde-format
+msgid "You need to log in to this network"
+msgstr "Sie müssen sich bei diesem Netzwerk anmelden"
+
+#: kded/portalmonitor.cpp:69
+#, kde-format
+msgid "Network authentication"
+msgstr "Netzwerkauthentifizierung"
+
+#: kded/secretagent.cpp:417 kded/secretagent.cpp:463
+#, kde-format
+msgid "Authentication to %1 failed. Wrong password?"
+msgstr "Authentifizierung an %1 fehlgeschlagen. Falsches Passwort?"
+
+#: kded/secretagent.cpp:458 mobile/wifi/package/contents/ui/main.qml:157
+#, kde-format
+msgid "Failed to join"
+msgstr "Anmeldung fehlgeschlagen"
+
+#: kded/secretagent.cpp:459
+#, kde-format
+msgid "Incorrect password for %1"
+msgstr "Falsches Passwort für %1"
+
+#: libs/declarative/networkstatus.cpp:120
+#, kde-format
+msgctxt ""
+"A network device is connected, but there is only link-local connectivity"
+msgid "Connected"
+msgstr "Verbunden"
+
+#: libs/declarative/networkstatus.cpp:123
+#, kde-format
+msgctxt ""
+"A network device is connected, but there is only site-local connectivity"
+msgid "Connected"
+msgstr "Verbunden"
+
+#: libs/declarative/networkstatus.cpp:126
+#, kde-format
+msgctxt "A network device is connected, with global network connectivity"
+msgid "Connected"
+msgstr "Verbunden"
+
+#: libs/declarative/networkstatus.cpp:129
+#, kde-format
+msgctxt "Networking is inactive and all devices are disabled"
+msgid "Inactive"
+msgstr "Inaktiv"
+
+#: libs/declarative/networkstatus.cpp:132
+#, kde-format
+msgctxt "There is no active network connection"
+msgid "Disconnected"
+msgstr "Getrennt"
+
+#: libs/declarative/networkstatus.cpp:135
+#, kde-format
+msgctxt "Network connections are being cleaned up"
+msgid "Disconnecting"
+msgstr "Trennen der Verbindung"
+
+#: libs/declarative/networkstatus.cpp:138
+#, kde-format
+msgctxt ""
+"A network device is connecting to a network and there is no other available "
+"network connection"
+msgid "Connecting"
+msgstr "Verbinden"
+
+#: libs/declarative/networkstatus.cpp:189 libs/uiutils.cpp:239
+#, kde-format
+msgid "VPN"
+msgstr "VPN"
+
+#: libs/declarative/networkstatus.cpp:211
+#: libs/models/creatableconnectionsmodel.cpp:227
+#: libs/models/creatableconnectionsmodel.cpp:228
+#, kde-format
+msgid "WireGuard"
+msgstr "WireGuard"
+
+#: libs/declarative/networkstatus.cpp:217
+#, kde-format
+msgid "Connecting to %1"
+msgstr "Verbinden mit %1"
+
+#: libs/declarative/networkstatus.cpp:221
+#, kde-format
+msgid "Connected to %1 (no connectivity)"
+msgstr "Verbunden mit %1 (keine Konnektivität)"
+
+#: libs/declarative/networkstatus.cpp:224
+#, kde-format
+msgid "Connected to %1 (limited connectivity)"
+msgstr "Verbunden mit %1 (eingeschränkte Konnektivität)"
+
+#: libs/declarative/networkstatus.cpp:227
+#, kde-format
+msgid "Connected to %1 (log in required)"
+msgstr "Verbunden mit %1 (Anmeldung erforderlich)"
+
+#: libs/declarative/networkstatus.cpp:230
+#, kde-format
+msgid "Connected to %1"
+msgstr "Verbunden mit %1"
+
+#: libs/declarative/networkstatus.cpp:255
+#, kde-format
+msgid "NetworkManager not running"
+msgstr "NetzwerkManager läuft nicht"
+
+#: libs/declarative/networkstatus.cpp:260
+#, kde-format
+msgid "NetworkManager 0.9.8 required, found %1."
+msgstr "NetzwerkManager 0.9.8 erforderlich, gefunden %1."
+
+#: libs/declarative/networkstatus.cpp:263
+#, kde-format
+msgctxt "global connection state"
+msgid "Unknown"
+msgstr "Unbekannt"
+
+#: libs/editor/connectioneditorbase.cpp:208
+#, kde-format
+msgctxt "General"
+msgid "General configuration"
+msgstr "Allgemeine Konfiguration"
+
+#: libs/editor/connectioneditorbase.cpp:214
+#: libs/editor/connectioneditorbase.cpp:229
+#, kde-format
+msgid "Wired"
+msgstr "Verkabelt"
+
+#: libs/editor/connectioneditorbase.cpp:216
+#, kde-format
+msgid "802.1x Security"
+msgstr "802.1x Sicherheit"
+
+#: libs/editor/connectioneditorbase.cpp:219
+#: libs/editor/settings/bridgewidget.cpp:54
+#: libs/editor/settings/teamwidget.cpp:55
+#: libs/models/creatableconnectionsmodel.cpp:167 libs/uiutils.cpp:247
+#, kde-format
+msgid "Wi-Fi"
+msgstr "WLAN"
+
+#: libs/editor/connectioneditorbase.cpp:223
+#, kde-format
+msgid "Wi-Fi Security"
+msgstr "WLAN Sicherheit"
+
+#: libs/editor/connectioneditorbase.cpp:227
+#: libs/models/creatableconnectionsmodel.cpp:139 libs/uiutils.cpp:211
+#, kde-format
+msgid "DSL"
+msgstr "DSL"
+
+#: libs/editor/connectioneditorbase.cpp:232
+#: libs/editor/connectioneditorbase.cpp:235
+#, kde-format
+msgid "Mobile Broadband (%1)"
+msgstr "Mobiles Breitband (%1)"
+
+#: libs/editor/connectioneditorbase.cpp:238 libs/uiutils.cpp:215
+#, kde-format
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: libs/editor/connectioneditorbase.cpp:242
+#, kde-format
+msgid "GSM"
+msgstr "GSM"
+
+#: libs/editor/connectioneditorbase.cpp:244
+#: libs/editor/connectioneditorbase.cpp:289
+#, kde-format
+msgid "PPP"
+msgstr "PPP"
+
+#: libs/editor/connectioneditorbase.cpp:248
+#: libs/editor/settings/teamwidget.cpp:52
+#: libs/models/creatableconnectionsmodel.cpp:144
+#: libs/models/networkmodelitem.cpp:836 libs/uiutils.cpp:230
+#, kde-format
+msgid "Infiniband"
+msgstr "Infiniband"
+
+#: libs/editor/connectioneditorbase.cpp:251
+#: libs/models/creatableconnectionsmodel.cpp:179
+#: libs/models/networkmodelitem.cpp:842 libs/uiutils.cpp:219
+#, kde-format
+msgid "Bond"
+msgstr "Bond"
+
+#: libs/editor/connectioneditorbase.cpp:254
+#: libs/models/creatableconnectionsmodel.cpp:185
+#: libs/models/networkmodelitem.cpp:848 libs/uiutils.cpp:222
+#, kde-format
+msgid "Bridge"
+msgstr "Brücke"
+
+#: libs/editor/connectioneditorbase.cpp:257
+#: libs/models/creatableconnectionsmodel.cpp:197
+#: libs/models/networkmodelitem.cpp:854
+#, kde-format
+msgid "Vlan"
+msgstr "VLAN"
+
+#: libs/editor/connectioneditorbase.cpp:260
+#: libs/models/creatableconnectionsmodel.cpp:191
+#: libs/models/networkmodelitem.cpp:863 libs/uiutils.cpp:251
+#, kde-format
+msgid "Team"
+msgstr "Team"
+
+#: libs/editor/connectioneditorbase.cpp:263
+#, kde-format
+msgid "WireGuard Interface"
+msgstr "WireGuard-Schnittstelle"
+
+#: libs/editor/connectioneditorbase.cpp:279
+#, kde-format
+msgid "VPN (%1)"
+msgstr "VPN (%1)"
+
+#: libs/editor/connectioneditorbase.cpp:295
+#, kde-format
+msgid "IPv4"
+msgstr "IPv4"
+
+#: libs/editor/connectioneditorbase.cpp:311
+#, kde-format
+msgid "IPv6"
+msgstr "IPv6"
+
+#: libs/editor/connectioneditorbase.cpp:482
+#: libs/models/networkmodelitem.cpp:972 libs/models/networkmodelitem.cpp:1001
+#, kde-format
+msgid "Failed to get secrets for %1"
+msgstr "Es konnten keine Geheimnisse für %1 abgerufen werden"
+
+#: libs/editor/connectioneditordialog.cpp:49
+#, kde-format
+msgid "New Connection (%1)"
+msgstr "Neue Verbindung (%1)"
+
+#: libs/editor/connectioneditordialog.cpp:51
+#, kde-format
+msgid "Edit Connection '%1'"
+msgstr "Verbindung bearbeiten '%1'"
+
+#: libs/editor/connectioneditortabwidget.cpp:64
+#, kde-format
+msgid "New %1 connection"
+msgstr "Neue %1-Verbindung"
+
+#: libs/editor/settings/bondwidget.cpp:50
+#: libs/editor/settings/bridgewidget.cpp:48
+#: libs/editor/settings/teamwidget.cpp:49
+#, kde-format
+msgid "Ethernet"
+msgstr "Ethernet"
+
+#: libs/editor/settings/bondwidget.cpp:53
+#, kde-format
+msgid "InfiniBand"
+msgstr "InfiniBand"
+
+#: libs/editor/settings/bondwidget.cpp:62
+#, kde-format
+msgctxt "bond mode"
+msgid "Round-robin"
+msgstr "Round Robin"
+
+#: libs/editor/settings/bondwidget.cpp:63
+#, kde-format
+msgctxt "bond mode"
+msgid "Active backup"
+msgstr "Aktive Sicherung"
+
+#: libs/editor/settings/bondwidget.cpp:64
+#, kde-format
+msgctxt "bond mode"
+msgid "Broadcast"
+msgstr "Broadcast"
+
+#: libs/editor/settings/bondwidget.cpp:65
+#, kde-format
+msgctxt "bond mode"
+msgid "802.3ad"
+msgstr "802.3ad"
+
+#: libs/editor/settings/bondwidget.cpp:66
+#, kde-format
+msgctxt "bond mode"
+msgid "Adaptive transmit load balancing"
+msgstr "Adaptiver Übertragungslastausgleich"
+
+#: libs/editor/settings/bondwidget.cpp:67
+#, kde-format
+msgctxt "bond mode"
+msgid "Adaptive load balancing"
+msgstr "Adaptiver Lastausgleich"
+
+#: libs/editor/settings/bondwidget.cpp:70
+#, kde-format
+msgctxt "bond link monitoring"
+msgid "MII (recommended)"
+msgstr "MII (empfohlen)"
+
+#: libs/editor/settings/bondwidget.cpp:71
+#, kde-format
+msgctxt "bond link monitoring"
+msgid "ARP"
+msgstr "ARP"
+
+#: libs/editor/settings/bondwidget.cpp:266
+#: libs/editor/settings/bridgewidget.cpp:217
+#: libs/editor/settings/teamwidget.cpp:205
+#, kde-format
+msgid "Remove Connection"
+msgstr "Verbindung entfernen"
+
+#: libs/editor/settings/bridgewidget.cpp:51
+#: libs/editor/settings/teamwidget.cpp:58 libs/uiutils.cpp:236
+#, kde-format
+msgid "VLAN"
+msgstr "VLAN"
+
+#: libs/editor/settings/btwidget.cpp:35
+#, kde-format
+msgid "DUN (dial up networking)"
+msgstr "DUN (Einwahlnetzwerk)"
+
+#: libs/editor/settings/btwidget.cpp:36
+#, kde-format
+msgid "PAN (personal area network)"
+msgstr "PAN (Persönliches Netzwerk)"
+
+#: libs/editor/settings/connectionwidget.cpp:168
+#, kde-format
+msgctxt "@title:window advanced permissions editor"
+msgid "Advanced Permissions Editor"
+msgstr "Editor für erweiterte Zugriffsrechte"
+
+#: libs/editor/settings/infinibandwidget.cpp:36
+#, kde-format
+msgctxt "infiniband transport mode"
+msgid "Datagram"
+msgstr "Datagram"
+
+#: libs/editor/settings/infinibandwidget.cpp:37
+#, kde-format
+msgctxt "infiniband transport mode"
+msgid "Connected"
+msgstr "Verbunden"
+
+#: libs/editor/settings/ipv4widget.cpp:69
+#: libs/editor/widgets/ipv4routeswidget.cpp:38
+#, kde-format
+msgctxt "Header text for IPv4 address"
+msgid "Address"
+msgstr "Adresse"
+
+#: libs/editor/settings/ipv4widget.cpp:71
+#: libs/editor/widgets/ipv4routeswidget.cpp:40
+#, kde-format
+msgctxt "Header text for IPv4 netmask"
+msgid "Netmask"
+msgstr "Netzmaske"
+
+#: libs/editor/settings/ipv4widget.cpp:73
+#: libs/editor/widgets/ipv4routeswidget.cpp:42
+#, kde-format
+msgctxt "Header text for IPv4 gateway"
+msgid "Gateway"
+msgstr "Gateway"
+
+#: libs/editor/settings/ipv4widget.cpp:284
+#: libs/editor/settings/ipv6widget.cpp:264
+#, kde-format
+msgid "Other DNS Servers:"
+msgstr "Andere DNS-Server:"
+
+#: libs/editor/settings/ipv4widget.cpp:296
+#: libs/editor/settings/ipv4widget.cpp:308
+#: libs/editor/settings/ipv4widget.cpp:320
+#: libs/editor/settings/ipv4widget.cpp:332
+#: libs/editor/settings/ipv6widget.cpp:276
+#: libs/editor/settings/ipv6widget.cpp:288
+#: libs/editor/settings/ipv6widget.cpp:300
+#: libs/editor/settings/ipv6widget.cpp:312
+#, kde-format
+msgid "DNS Servers:"
+msgstr "DNS-Server:"
+
+#: libs/editor/settings/ipv4widget.cpp:439
+#, kde-format
+msgid ""
+"<qt>You can find more information about these values here:<br/><a "
+"href='https://developer.gnome.org/NetworkManager/stable/nm-settings."
+"html'>https://developer.gnome.org/NetworkManager/stable/nm-settings.html</"
+"a></qt>"
+msgstr ""
+"<qt>Weitere Informationen zu diesen Werten finden Sie hier:<br/><a "
+"href='https://developer.gnome.org/NetworkManager/stable/nm-settings."
+"html'>https://developer.gnome.org/NetworkManager/stable/nm-settings.html</"
+"a></qt>"
+
+#: libs/editor/settings/ipv4widget.cpp:443
+#, kde-format
+msgid "Send hostname:"
+msgstr "Hostname senden:"
+
+#: libs/editor/settings/ipv4widget.cpp:448
+#, kde-format
+msgid "DHCP hostname:"
+msgstr "DHCP Hostname:"
+
+#: libs/editor/settings/ipv4widget.cpp:453
+#, kde-format
+msgid "Default"
+msgstr "Standard"
+
+#: libs/editor/settings/ipv4widget.cpp:454
+#, kde-format
+msgctxt "Milliseconds"
+msgid " ms"
+msgstr " ms"
+
+#: libs/editor/settings/ipv4widget.cpp:457
+#, kde-format
+msgid "DAD timeout:"
+msgstr "DAD Zeitüberschreitung:"
+
+#: libs/editor/settings/ipv4widget.cpp:478
+#: libs/editor/settings/ipv6widget.cpp:413
+#, kde-format
+msgid "Edit DNS servers"
+msgstr "DNS-Server bearbeiten"
+
+#: libs/editor/settings/ipv4widget.cpp:509
+#: libs/editor/settings/ipv6widget.cpp:444
+#, kde-format
+msgid "Edit DNS search domains"
+msgstr "DNS-Suchdomänen bearbeiten"
+
+#: libs/editor/settings/ipv6widget.cpp:53
+#: libs/editor/widgets/ipv6routeswidget.cpp:39
+#, kde-format
+msgctxt "Header text for IPv6 address"
+msgid "Address"
+msgstr "Adresse"
+
+#: libs/editor/settings/ipv6widget.cpp:55
+#, kde-format
+msgctxt "Header text for IPv6 prefix"
+msgid "Prefix"
+msgstr "Präfix"
+
+#: libs/editor/settings/ipv6widget.cpp:57
+#: libs/editor/widgets/ipv6routeswidget.cpp:43
+#, kde-format
+msgctxt "Header text for IPv6 gateway"
+msgid "Gateway"
+msgstr "Gateway"
+
+#: libs/editor/settings/security802-1x.cpp:527
+#, kde-format
+msgid "Alternative Subject Matches"
+msgstr "Alternative Themenübereinstimmungen"
+
+#: libs/editor/settings/security802-1x.cpp:528
+#, kde-format
+msgid ""
+"<qt>This entry must be one of:<ul><li>DNS: &lt;name or ip address&gt;</"
+"li><li>EMAIL: &lt;email&gt;</li><li>URI: &lt;uri, e.g. https://www.kde."
+"org&gt;</li></ul></qt>"
+msgstr ""
+"<qt>Dieser Eintrag muss einer der folgenden sein:<ul><li>DNS: &lt;Name oder "
+"IP-Adresse&gt;</li><li>EMAIL: &lt;email&gt;</li><li>URI: &lt;uri, z.B. "
+"https://www.kde.org&gt;</li></ul></qt>"
+
+#: libs/editor/settings/security802-1x.cpp:550
+#, kde-format
+msgid "Connect to these servers only"
+msgstr "Nur mit diesen Servern verbinden"
+
+#: libs/editor/settings/teamwidget.cpp:236
+#, kde-format
+msgid "Select file to import"
+msgstr "Datei zum Importieren auswählen"
+
+#: libs/editor/settings/wificonnectionwidget.cpp:197
+#, kde-format
+msgid "%1 (%2 MHz)"
+msgstr "%1 (%2 MHz)"
+
+#: libs/editor/settings/wireguardpeerwidget.cpp:103
+#: libs/editor/settings/wireguardtabwidget.cpp:87
+#, kde-format
+msgctxt "@title: window wireguard peers properties"
+msgid "WireGuard peers properties"
+msgstr "Eigenschaften der WireGuard-Peers"
+
+#: libs/editor/vpnuiplugin.cpp:53
+#, kde-format
+msgctxt "Error message in VPN import/export dialog"
+msgid "Operation not supported for this VPN type."
+msgstr "Operation nicht unterstützt für diesen VPN-Typ."
+
+#: libs/editor/widgets/advancedpermissionswidget.cpp:100
+#, kde-format
+msgctxt "@item:intable shortcut for Not Available"
+msgid "N/A"
+msgstr "N/A"
+
+#: libs/editor/widgets/advancedpermissionswidget.cpp:101
+#, kde-format
+msgctxt "@info:tooltip real user name is not available"
+msgid "Not Available"
+msgstr "Nicht verfügbar"
+
+#: libs/editor/widgets/bssidcombobox.cpp:135
+#, kde-format
+msgid "First select the SSID"
+msgstr "Wählen Sie zuerst die SSID"
+
+#: libs/editor/widgets/bssidcombobox.cpp:144
+#, kde-format
+msgid ""
+"%1 (%2%)\n"
+"Frequency: %3 Mhz\n"
+"Channel: %4"
+msgstr ""
+"%1 (%2%)\n"
+"Frequenz: %3 Mhz\n"
+"Kanal: %4"
+
+#: libs/editor/widgets/ipv4routeswidget.cpp:44
+#, kde-format
+msgctxt "Header text for IPv4 route metric"
+msgid "Metric"
+msgstr "Metrik"
+
+#: libs/editor/widgets/ipv6routeswidget.cpp:41
+#, kde-format
+msgctxt "Header text for IPv6 netmask"
+msgid "Netmask"
+msgstr "Netzmaske"
+
+#: libs/editor/widgets/ipv6routeswidget.cpp:45
+#, kde-format
+msgctxt "Header text for IPv6 route metric"
+msgid "Metric"
+msgstr "Metrik"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:54
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "New Mobile Broadband Connection"
+msgstr "Neue mobile Breitbandverbindung"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:150
+#: libs/editor/widgets/mobileconnectionwizard.cpp:168
+#: libs/editor/widgets/mobileconnectionwizard.cpp:196
+#: libs/editor/widgets/mobileconnectionwizard.cpp:529
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "My plan is not listed..."
+msgstr "Mein Plan ist nicht aufgelistet..."
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:153
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "Unknown Provider"
+msgstr "Unbekannter Anbieter"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:161
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "Default"
+msgstr "Standard"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:198
+#: libs/editor/widgets/mobileconnectionwizard.cpp:206
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "APN: %1"
+msgstr "APN: %1"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:251
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "Set up a Mobile Broadband Connection"
+msgstr "Eine mobile Breitbandverbindung einrichten"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:254
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid ""
+"This assistant helps you easily set up a mobile broadband connection to a "
+"cellular (3G) network."
+msgstr ""
+"Mit diesem Assistenten können Sie ganz einfach eine mobile "
+"Breitbandverbindung zu einem zellulärem (3G) Netz einrichten."
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:258
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "You will need the following information:"
+msgstr "Sie benötigen die folgenden Informationen:"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:262
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "Your broadband provider's name"
+msgstr "Name Ihres Breitbandanbieters"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:263
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "Your broadband billing plan name"
+msgstr "Name Ihres Breitbandabrechnungstarifs"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:264
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "(in some cases) Your broadband billing plan APN (Access Point Name)"
+msgstr "(in einigen Fällen) Ihren Breitband-APN (Access Point Name)"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:268
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "Create a connection for &this mobile broadband device:"
+msgstr "Erstellen Sie eine Verbindung für &dieses mobile Breitbandgerät:"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:272
+#: libs/editor/widgets/mobileconnectionwizard.cpp:399
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "Any GSM device"
+msgstr "Beliebiges GSM-Gerät"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:274
+#: libs/editor/widgets/mobileconnectionwizard.cpp:401
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "Any CDMA device"
+msgstr "Beliebiges CDMA-Gerät"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:325
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "Installed GSM device"
+msgstr "Installiertes GSM-Gerät"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:329
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "Installed CDMA device"
+msgstr "Installiertes CDMA-Gerät"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:414
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "Choose your Provider's Country"
+msgstr "Wählen Sie das Land Ihres Providers"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:417
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "Country List:"
+msgstr "Länderliste:"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:421
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "My country is not listed"
+msgstr "Mein Land ist nicht aufgeführt"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:437
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "Choose your Provider"
+msgstr "Wählen Sie Ihren Provider"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:440
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "Select your provider from a &list:"
+msgstr "Wählen Sie Ihren Anbieter aus der &Liste:"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:449
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "I cannot find my provider and I wish to enter it &manually:"
+msgstr ""
+"Ich kann meinen Provider nicht finden und möchte ihn &manuell eingeben:"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:491
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "Choose your Billing Plan"
+msgstr "Wählen Sie Ihren Abrechnungstarif"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:494
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "&Select your plan:"
+msgstr "&Wählen Sie Ihren Plan:"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:501
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "Selected plan &APN (Access Point Name):"
+msgstr "Ausgewählter Plan &APN (Access Point Name):"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:513
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid ""
+"Warning: Selecting an incorrect plan may result in billing issues for your "
+"broadband account or may prevent connectivity.\n"
+"\n"
+"If you are unsure of your plan please ask your provider for your plan's APN."
+msgstr ""
+"Warnung: Die Auswahl eines falschen Tarifs kann zu Problemen bei der "
+"Abrechnung Ihrer Breitbandkonto führen oder kann die Verbindung verhindern.\n"
+"\n"
+"Wenn Sie unsicher sind, fragen Sie bitte Ihren Anbieter nach dem APN Ihres "
+"Tarifs."
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:550
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "Confirm Mobile Broadband Settings"
+msgstr "Einstellungen für mobiles Breitband bestätigen"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:553
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid ""
+"Your mobile broadband connection is configured with the following settings:"
+msgstr ""
+"Ihre mobile Breitbandverbindung ist mit den folgenden Einstellungen "
+"konfiguriert:"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:557
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "Your Provider:"
+msgstr "Ihr Anbieter:"
+
+#: libs/editor/widgets/mobileconnectionwizard.cpp:562
+#, kde-format
+msgctxt "Mobile Connection Wizard"
+msgid "Your Plan:"
+msgstr "Ihr Plan:"
+
+#: libs/editor/widgets/passwordfield.cpp:45
+#, kde-format
+msgid "Change the visibility of the password"
+msgstr "Sichtbarkeit des Kennworts ändern"
+
+#: libs/editor/widgets/passwordfield.cpp:55
+#, kde-format
+msgid "Store password for this user only (encrypted)"
+msgstr "Passwort nur für diesen Benutzer speichern (verschlüsselt)"
+
+#: libs/editor/widgets/passwordfield.cpp:56
+#, kde-format
+msgid "Store password for all users (not encrypted)"
+msgstr "Passwort für alle Benutzer speichern (nicht verschlüsselt)"
+
+#: libs/editor/widgets/passwordfield.cpp:57
+#: libs/editor/widgets/passwordfield.cpp:103
+#, kde-format
+msgid "Ask for this password every time"
+msgstr "Jedes Mal nach diesem Kennwort fragen"
+
+#: libs/editor/widgets/passwordfield.cpp:118
+#, kde-format
+msgid "This password is not required"
+msgstr "Dieses Passwort ist nicht erforderlich"
+
+#: libs/editor/widgets/ssidcombobox.cpp:139
+#, kde-format
+msgid ""
+"%1 (%2%)\n"
+"Security: %3\n"
+"Frequency: %4 Mhz"
+msgstr ""
+"%1 (%2%)\n"
+"Sicherheit: %3\n"
+"Frequenz: %4 Mhz"
+
+#: libs/editor/widgets/ssidcombobox.cpp:142
+#, kde-format
+msgid ""
+"%1 (%2%)\n"
+"Security: Insecure\n"
+"Frequency: %3 Mhz"
+msgstr ""
+"%1 (%2%)\n"
+"Sicherheit: Unsicher\n"
+"Frequenz: %3 Mhz"
+
+#: libs/handler.cpp:136
+#, kde-format
+msgid "Missing VPN plugin"
+msgstr "Fehlendes VPN-Plugin"
+
+#: libs/handler.cpp:758
+#, kde-format
+msgid "Failed to activate %1"
+msgstr "Aktivierung von %1 fehlgeschlagen"
+
+#: libs/handler.cpp:762
+#, kde-format
+msgid "Failed to add %1"
+msgstr "Hinzufügen von %1 fehlgeschlagen"
+
+#: libs/handler.cpp:767
+#, kde-format
+msgid "Failed to add connection %1"
+msgstr "Verbindung %1 konnte nicht hinzugefügt werden"
+
+#: libs/handler.cpp:771
+#, kde-format
+msgid "Failed to deactivate %1"
+msgstr "Deaktivierung von %1 fehlgeschlagen"
+
+#: libs/handler.cpp:775
+#, kde-format
+msgid "Failed to remove %1"
+msgstr "%1 konnte nicht entfernt werden"
+
+#: libs/handler.cpp:779
+#, kde-format
+msgid "Failed to update connection %1"
+msgstr "Verbindung %1 konnte nicht aktualisiert werden"
+
+#: libs/handler.cpp:792
+#, kde-format
+msgid "Failed to create hotspot %1"
+msgstr "Hotspot %1 konnte nicht erstellt werden"
+
+#: libs/handler.cpp:811
+#, kde-format
+msgid "Connection %1 has been added"
+msgstr "Verbindung %1 wurde hinzugefügt"
+
+#: libs/handler.cpp:815
+#, kde-format
+msgid "Connection %1 has been removed"
+msgstr "Verbindung %1 wurde entfernt"
+
+#: libs/handler.cpp:819
+#, kde-format
+msgid "Connection %1 has been updated"
+msgstr "Verbindung %1 wurde aktualisiert"
+
+#: libs/models/creatableconnectionsmodel.cpp:139
+#: libs/models/creatableconnectionsmodel.cpp:144
+#: libs/models/creatableconnectionsmodel.cpp:150
+#: libs/models/creatableconnectionsmodel.cpp:156
+#: libs/models/creatableconnectionsmodel.cpp:161
+#: libs/models/creatableconnectionsmodel.cpp:167
+#: libs/models/creatableconnectionsmodel.cpp:172
+#, kde-format
+msgid "Hardware based connections"
+msgstr "Hardware-basierte Verbindungen"
+
+#: libs/models/creatableconnectionsmodel.cpp:140
+#, kde-format
+msgid "Some DSL description"
+msgstr "Einige DSL-Beschreibung"
+
+#: libs/models/creatableconnectionsmodel.cpp:145
+#, kde-format
+msgid "Some infiniband description"
+msgstr "Einige Infiniband-Beschreibungen"
+
+#: libs/models/creatableconnectionsmodel.cpp:150
+#, kde-format
+msgid "Mobile Broadband"
+msgstr "Mobiles Breitband"
+
+#: libs/models/creatableconnectionsmodel.cpp:151
+#, kde-format
+msgid "Some mobile broadband description"
+msgstr "Eine Beschreibung des mobilen Breitbands"
+
+#: libs/models/creatableconnectionsmodel.cpp:156 libs/uiutils.cpp:243
+#, kde-format
+msgid "Wired Ethernet"
+msgstr "Kabel Ethernet"
+
+#: libs/models/creatableconnectionsmodel.cpp:157
+#: libs/models/creatableconnectionsmodel.cpp:162
+#, kde-format
+msgid "Some wired ethernet description"
+msgstr "Einige kabelgebundene Ethernetbeschreibung"
+
+#: libs/models/creatableconnectionsmodel.cpp:161
+#, kde-format
+msgid "Wired Ethernet (shared)"
+msgstr "Kabelgebundenes Ethernet (gemeinsam genutzt)"
+
+#: libs/models/creatableconnectionsmodel.cpp:168
+#: libs/models/creatableconnectionsmodel.cpp:173
+#, kde-format
+msgid "Some wi-fi description"
+msgstr "Einige WLAN-Beschreibung"
+
+#: libs/models/creatableconnectionsmodel.cpp:172
+#, kde-format
+msgid "Wi-Fi (shared)"
+msgstr "WLAN (gemeinsam genutzt)"
+
+#: libs/models/creatableconnectionsmodel.cpp:179
+#: libs/models/creatableconnectionsmodel.cpp:185
+#: libs/models/creatableconnectionsmodel.cpp:191
+#: libs/models/creatableconnectionsmodel.cpp:197
+#, kde-format
+msgid "Virtual connections"
+msgstr "Virtuelle Verbindungen"
+
+#: libs/models/creatableconnectionsmodel.cpp:180
+#: libs/models/creatableconnectionsmodel.cpp:186
+#, kde-format
+msgid "Some bond description"
+msgstr "Einige Bond Beschreibung"
+
+#: libs/models/creatableconnectionsmodel.cpp:192
+#, kde-format
+msgid "Some team description"
+msgstr "Einige Team Beschreibung"
+
+#: libs/models/creatableconnectionsmodel.cpp:198
+#, kde-format
+msgid "Some vlan description"
+msgstr "Einige VLAN Beschreibung"
+
+#: libs/models/creatableconnectionsmodel.cpp:217
+#: libs/models/creatableconnectionsmodel.cpp:227
+#, kde-format
+msgid "VPN connections"
+msgstr "VPN-Verbindungen"
+
+#: libs/models/creatableconnectionsmodel.cpp:235
+#, kde-format
+msgid "Import VPN connection..."
+msgstr "VPN-Verbindung importieren..."
+
+#: libs/models/creatableconnectionsmodel.cpp:235
+#, kde-format
+msgid "Other"
+msgstr "Sonstiges"
+
+#: libs/models/creatableconnectionsmodel.cpp:236
+#, kde-format
+msgid "Import a saved configuration file"
+msgstr "Importiere eine gespeicherte Konfigurationsdatei"
+
+#: libs/models/kcmidentitymodel.cpp:91
+#, kde-format
+msgid "Saved network"
+msgstr "Gesichertes Netzwerk"
+
+#: libs/models/kcmidentitymodel.cpp:93
+#, kde-format
+msgid "Other networks"
+msgstr "Andere Netzwerke"
+
+#: libs/models/networkmodelitem.cpp:725
+#, kde-format
+msgid "IPv4 Address"
+msgstr "IPv4-Adresse"
+
+#: libs/models/networkmodelitem.cpp:735
+#, kde-format
+msgid "IPv4 Default Gateway"
+msgstr "IPv4 Standardgateway"
+
+#: libs/models/networkmodelitem.cpp:741
+#, kde-format
+msgid "IPv4 Nameserver"
+msgstr "IPv4 Nameserver"
+
+#: libs/models/networkmodelitem.cpp:751
+#, kde-format
+msgid "IPv6 Address"
+msgstr "IPv6 Adresse"
+
+#: libs/models/networkmodelitem.cpp:757
+#, kde-format
+msgid "IPv6 Nameserver"
+msgstr "IPv6 Nameserver"
+
+#: libs/models/networkmodelitem.cpp:765 libs/models/networkmodelitem.cpp:778
+#, kde-format
+msgid "Connection speed"
+msgstr "Verbindungsgeschwindigkeit"
+
+#: libs/models/networkmodelitem.cpp:767 libs/models/networkmodelitem.cpp:780
+#: libs/models/networkmodelitem.cpp:831 libs/models/networkmodelitem.cpp:838
+#: libs/models/networkmodelitem.cpp:844 libs/models/networkmodelitem.cpp:850
+#: libs/models/networkmodelitem.cpp:857 libs/models/networkmodelitem.cpp:865
+#, kde-format
+msgid "MAC Address"
+msgstr "MAC Adresse"
+
+#: libs/models/networkmodelitem.cpp:771
+#, kde-format
+msgid "Access point (SSID)"
+msgstr "Zugangspunkt (SSID)"
+
+#: libs/models/networkmodelitem.cpp:773
+#, kde-format
+msgid "Signal strength"
+msgstr "Signalstärke"
+
+#: libs/models/networkmodelitem.cpp:775
+#, kde-format
+msgid "Security type"
+msgstr "Sicherheitstyp"
+
+#: libs/models/networkmodelitem.cpp:793
+#, kde-format
+msgid "Operator"
+msgstr "Betreiber"
+
+#: libs/models/networkmodelitem.cpp:797
+#, kde-format
+msgid "Network ID"
+msgstr "Netzwerk-ID"
+
+#: libs/models/networkmodelitem.cpp:801
+#, kde-format
+msgid "Signal Quality"
+msgstr "Signalqualität"
+
+#: libs/models/networkmodelitem.cpp:802
+#, kde-format
+msgid "Access Technology"
+msgstr "Zugangstechnologie"
+
+#: libs/models/networkmodelitem.cpp:808
+#, kde-format
+msgid "VPN plugin"
+msgstr "VPN-Plugin"
+
+#: libs/models/networkmodelitem.cpp:819
+#, kde-format
+msgid "Banner"
+msgstr "Banner"
+
+#: libs/models/networkmodelitem.cpp:825
+#: mobile/wifi/package/contents/ui/OtherNetwork.qml:143
+#, kde-format
+msgid "Name"
+msgstr "Name"
+
+#: libs/models/networkmodelitem.cpp:827 libs/models/networkmodelitem.cpp:829
+#, kde-format
+msgid "Capabilities"
+msgstr "Fähigkeiten"
+
+#: libs/models/networkmodelitem.cpp:836 libs/models/networkmodelitem.cpp:842
+#: libs/models/networkmodelitem.cpp:848 libs/models/networkmodelitem.cpp:854
+#: libs/models/networkmodelitem.cpp:860 libs/models/networkmodelitem.cpp:863
+#, kde-format
+msgid "Type"
+msgstr "Typ"
+
+#: libs/models/networkmodelitem.cpp:856
+#, kde-format
+msgid "Vlan ID"
+msgstr "VLAN-ID"
+
+#: libs/models/networkmodelitem.cpp:860
+#, kde-format
+msgid "Adsl"
+msgstr "Adsl"
+
+#: libs/models/networkmodelitem.cpp:870
+#, kde-format
+msgid "Device"
+msgstr "Gerät"
+
+#: libs/uiutils.cpp:151
+#, kde-format
+msgctxt "title of the interface widget in nm's popup"
+msgid "Wi-Fi"
+msgstr "WLAN"
+
+#: libs/uiutils.cpp:154
+#, kde-format
+msgctxt "title of the interface widget in nm's popup"
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: libs/uiutils.cpp:157
+#, kde-format
+msgctxt "title of the interface widget in nm's popup"
+msgid "Infiniband"
+msgstr "Infiniband"
+
+#: libs/uiutils.cpp:160
+#, kde-format
+msgctxt "title of the interface widget in nm's popup"
+msgid "ADSL"
+msgstr "ADSL"
+
+#: libs/uiutils.cpp:163
+#, kde-format
+msgctxt "title of the interface widget in nm's popup"
+msgid "Virtual (bond)"
+msgstr "Virtuell (Bond)"
+
+#: libs/uiutils.cpp:166
+#, kde-format
+msgctxt "title of the interface widget in nm's popup"
+msgid "Virtual (bridge)"
+msgstr "Virtuell (Brücke)"
+
+#: libs/uiutils.cpp:169
+#, kde-format
+msgctxt "title of the interface widget in nm's popup"
+msgid "Virtual (vlan)"
+msgstr "Virtuell (VLAN)"
+
+#: libs/uiutils.cpp:172
+#, kde-format
+msgctxt "title of the interface widget in nm's popup"
+msgid "Virtual (team)"
+msgstr "Virtuell (Team)"
+
+#: libs/uiutils.cpp:179
+#, kde-format
+msgctxt "title of the interface widget in nm's popup"
+msgid "Serial Modem"
+msgstr "Serielles Modem"
+
+#: libs/uiutils.cpp:184
+#, kde-format
+msgctxt "title of the interface widget in nm's popup"
+msgid "Mobile Broadband"
+msgstr "Mobiles Breitband"
+
+#: libs/uiutils.cpp:195
+#, kde-format
+msgctxt "title of the interface widget in nm's popup"
+msgid "Wired Ethernet"
+msgstr "Kabelgebundenes Ethernet"
+
+#: libs/uiutils.cpp:207
+#, kde-format
+msgid "ADSL"
+msgstr "ADSL"
+
+#: libs/uiutils.cpp:226
+#, kde-format
+msgid "Mobile broadband"
+msgstr "Mobiles Breitband"
+
+#: libs/uiutils.cpp:233
+#, kde-format
+msgid "Olpc mesh"
+msgstr "Olpc Mesh"
+
+#: libs/uiutils.cpp:254
+#, kde-format
+msgid "WireGuard VPN"
+msgstr "WireGuard VPN"
+
+#: libs/uiutils.cpp:258
+#, kde-format
+msgid "Unknown connection type"
+msgstr "Unbekannter Verbindungstyp"
+
+#: libs/uiutils.cpp:270
+#, kde-format
+msgid "Wireless Interface (%1)"
+msgstr "Drahtlose Schnittstelle (%1)"
+
+#: libs/uiutils.cpp:273
+#, kde-format
+msgid "Wired Interface (%1)"
+msgstr "Kabelgebundene Schnittstelle (%1)"
+
+#: libs/uiutils.cpp:276
+#, kde-format
+msgid "Bluetooth (%1)"
+msgstr "Bluetooth (%1)"
+
+#: libs/uiutils.cpp:279
+#, kde-format
+msgid "Modem (%1)"
+msgstr "Modem (%1)"
+
+#: libs/uiutils.cpp:282
+#, kde-format
+msgid "ADSL (%1)"
+msgstr "ADSL (%1)"
+
+#: libs/uiutils.cpp:285
+#, kde-format
+msgid "VLan (%1)"
+msgstr "VLAN (%1)"
+
+#: libs/uiutils.cpp:288
+#, kde-format
+msgid "Bridge (%1)"
+msgstr "Brücke (%1)"
+
+#: libs/uiutils.cpp:301
+#, kde-format
+msgctxt "description of unknown network interface state"
+msgid "Unknown"
+msgstr "Unbekannt"
+
+#: libs/uiutils.cpp:304
+#, kde-format
+msgctxt "description of unmanaged network interface state"
+msgid "Unmanaged"
+msgstr "Unverwaltet"
+
+#: libs/uiutils.cpp:307
+#, kde-format
+msgctxt "description of unavailable network interface state"
+msgid "Unavailable"
+msgstr "Nicht verfügbar"
+
+#: libs/uiutils.cpp:310
+#, kde-format
+msgctxt "description of unconnected network interface state"
+msgid "Not connected"
+msgstr "Nicht verbunden"
+
+#: libs/uiutils.cpp:313
+#, kde-format
+msgctxt "description of preparing to connect network interface state"
+msgid "Preparing to connect"
+msgstr "Verbindung wird vorbereitet"
+
+#: libs/uiutils.cpp:316
+#, kde-format
+msgctxt "description of configuring hardware network interface state"
+msgid "Configuring interface"
+msgstr "Schnittstelle konfigurieren"
+
+#: libs/uiutils.cpp:319
+#, kde-format
+msgctxt "description of waiting for authentication network interface state"
+msgid "Waiting for authorization"
+msgstr "Warten auf Autorisierung"
+
+#: libs/uiutils.cpp:322
+#, kde-format
+msgctxt "network interface doing dhcp request in most cases"
+msgid "Setting network address"
+msgstr "Netzwerkadresse einstellen"
+
+#: libs/uiutils.cpp:325
+#, kde-format
+msgctxt "is other action required to fully connect? captive portals, etc."
+msgid "Checking further connectivity"
+msgstr "Überprüfung der weiteren Konnektivität"
+
+#: libs/uiutils.cpp:328
+#, kde-format
+msgctxt ""
+"a secondary connection (e.g. VPN) has to be activated first to continue"
+msgid "Waiting for a secondary connection"
+msgstr "Warten auf eine sekundäre Verbindung"
+
+#: libs/uiutils.cpp:332
+#, kde-format
+msgctxt "network interface connected state label"
+msgid "Connected"
+msgstr "Verbunden"
+
+#: libs/uiutils.cpp:334
+#, kde-format
+msgctxt "network interface connected state label"
+msgid "Connected to %1"
+msgstr "Verbunden mit %1"
+
+#: libs/uiutils.cpp:338
+#, kde-format
+msgctxt "network interface disconnecting state label"
+msgid "Deactivating connection"
+msgstr "Deaktivieren der Verbindung"
+
+#: libs/uiutils.cpp:341
+#, kde-format
+msgctxt "network interface connection failed state label"
+msgid "Connection Failed"
+msgstr "Verbindung fehlgeschlagen"
+
+#: libs/uiutils.cpp:344 libs/uiutils.cpp:378
+#, kde-format
+msgctxt "interface state"
+msgid "Error: Invalid state"
+msgstr "Fehler: Ungültiger Zustand"
+
+#: libs/uiutils.cpp:354
+#, kde-format
+msgctxt "The state of the VPN connection is unknown"
+msgid "Unknown"
+msgstr "Unbekannt"
+
+#: libs/uiutils.cpp:357
+#, kde-format
+msgctxt "The VPN connection is preparing to connect"
+msgid "Preparing to connect"
+msgstr "Verbindung wird vorbereitet"
+
+#: libs/uiutils.cpp:360
+#, kde-format
+msgctxt "The VPN connection needs authorization credentials"
+msgid "Needs authorization"
+msgstr "Benötigt Autorisierung"
+
+#: libs/uiutils.cpp:363
+#, kde-format
+msgctxt "The VPN connection is being established"
+msgid "Connecting"
+msgstr "Verbinden"
+
+#: libs/uiutils.cpp:366
+#, kde-format
+msgctxt "The VPN connection is getting an IP address"
+msgid "Setting network address"
+msgstr "Netzwerkadresse einstellen"
+
+#: libs/uiutils.cpp:369
+#, kde-format
+msgctxt "The VPN connection is active"
+msgid "Activated"
+msgstr "Aktiviert"
+
+#: libs/uiutils.cpp:372
+#, kde-format
+msgctxt "The VPN connection failed"
+msgid "Failed"
+msgstr "Gescheitert"
+
+#: libs/uiutils.cpp:375
+#, kde-format
+msgctxt "The VPN connection is disconnected"
+msgid "Failed"
+msgstr "Gescheitert"
+
+#: libs/uiutils.cpp:387
+#, kde-format
+msgctxt "wireless network operation mode"
+msgid "Unknown"
+msgstr "Unbekannt"
+
+#: libs/uiutils.cpp:390
+#, kde-format
+msgctxt "wireless network operation mode"
+msgid "Adhoc"
+msgstr "Adhoc"
+
+#: libs/uiutils.cpp:393
+#, kde-format
+msgctxt "wireless network operation mode"
+msgid "Infrastructure"
+msgstr "Infrastruktur"
+
+#: libs/uiutils.cpp:396
+#, kde-format
+msgctxt "wireless network operation mode"
+msgid "Access point"
+msgstr "Zugangspunkt"
+
+#: libs/uiutils.cpp:399
+#, kde-format
+msgid "INCORRECT MODE FIX ME"
+msgstr "FALSCHER MODUS REPARATUR ERFORDERLICH"
+
+#: libs/uiutils.cpp:421
+#, kde-format
+msgctxt "wireless network cipher"
+msgid "Pairwise WEP40"
+msgstr "Paarweise WEP40"
+
+#: libs/uiutils.cpp:423
+#, kde-format
+msgctxt "wireless network cipher"
+msgid "Pairwise WEP104"
+msgstr "Paarweise WEP104"
+
+#: libs/uiutils.cpp:425
+#, kde-format
+msgctxt "wireless network cipher"
+msgid "Pairwise TKIP"
+msgstr "Paarweise TKIP"
+
+#: libs/uiutils.cpp:427
+#, kde-format
+msgctxt "wireless network cipher"
+msgid "Pairwise CCMP"
+msgstr "Paarweise CCMP"
+
+#: libs/uiutils.cpp:429
+#, kde-format
+msgctxt "wireless network cipher"
+msgid "Group WEP40"
+msgstr "Gruppe WEP40"
+
+#: libs/uiutils.cpp:431
+#, kde-format
+msgctxt "wireless network cipher"
+msgid "Group WEP104"
+msgstr "Gruppe WEP104"
+
+#: libs/uiutils.cpp:433
+#, kde-format
+msgctxt "wireless network cipher"
+msgid "Group TKIP"
+msgstr "Gruppe TKIP"
+
+#: libs/uiutils.cpp:435
+#, kde-format
+msgctxt "wireless network cipher"
+msgid "Group CCMP"
+msgstr "Gruppe CCMP"
+
+#: libs/uiutils.cpp:437
+#, kde-format
+msgctxt "wireless network cipher"
+msgid "PSK"
+msgstr "PSK"
+
+#: libs/uiutils.cpp:439
+#, kde-format
+msgctxt "wireless network cipher"
+msgid "802.1x"
+msgstr "802.1x"
+
+#: libs/uiutils.cpp:449
+#, kde-format
+msgctxt "connection speed"
+msgid "%1 Bit/s"
+msgstr "%1 Bit/s"
+
+#: libs/uiutils.cpp:451
+#, kde-format
+msgctxt "connection speed"
+msgid "%1 MBit/s"
+msgstr "%1 MBit/s"
+
+#: libs/uiutils.cpp:453
+#, kde-format
+msgctxt "connection speed"
+msgid "%1 GBit/s"
+msgstr "%1 GBit/s"
+
+#: libs/uiutils.cpp:479
+#, kde-format
+msgctxt "Gsm modes (2G/3G/any)"
+msgid "LTE"
+msgstr "LTE"
+
+#: libs/uiutils.cpp:481
+#, kde-format
+msgctxt "Gsm modes (2G/3G/any)"
+msgid "UMTS/HSxPA"
+msgstr "UMTS/HSxPA"
+
+#: libs/uiutils.cpp:483
+#, kde-format
+msgctxt "Gsm modes (2G/3G/any)"
+msgid "GPRS/EDGE"
+msgstr "GPRS/EDGE"
+
+#: libs/uiutils.cpp:485
+#, kde-format
+msgctxt "Gsm modes (2G/3G/any)"
+msgid "GSM"
+msgstr "GSM"
+
+#: libs/uiutils.cpp:487 libs/uiutils.cpp:490
+#, kde-format
+msgctxt "Gsm modes (2G/3G/any)"
+msgid "Any"
+msgstr "Alle"
+
+#: libs/uiutils.cpp:496
+#, kde-format
+msgctxt "Cellular access technology"
+msgid "LTE"
+msgstr "LTE"
+
+#: libs/uiutils.cpp:498
+#, kde-format
+msgctxt "Cellular access technology"
+msgid "CDMA2000 EVDO revision B"
+msgstr "CDMA2000 EVDO revision B"
+
+#: libs/uiutils.cpp:500
+#, kde-format
+msgctxt "Cellular access technology"
+msgid "CDMA2000 EVDO revision A"
+msgstr "CDMA2000 EVDO revision A"
+
+#: libs/uiutils.cpp:502
+#, kde-format
+msgctxt "Cellular access technology"
+msgid "CDMA2000 EVDO revision 0"
+msgstr "CDMA2000 EVDO revision 0"
+
+#: libs/uiutils.cpp:504
+#, kde-format
+msgctxt "Cellular access technology"
+msgid "CDMA2000 1xRTT"
+msgstr "CDMA2000 1xRTT"
+
+#: libs/uiutils.cpp:506
+#, kde-format
+msgctxt "Cellular access technology"
+msgid "HSPA+"
+msgstr "HSPA+"
+
+#: libs/uiutils.cpp:508
+#, kde-format
+msgctxt "Cellular access technology"
+msgid "HSPA"
+msgstr "HSPA"
+
+#: libs/uiutils.cpp:510
+#, kde-format
+msgctxt "Cellular access technology"
+msgid "HSUPA"
+msgstr "HSUPA"
+
+#: libs/uiutils.cpp:512
+#, kde-format
+msgctxt "Cellular access technology"
+msgid "HSDPA"
+msgstr "HSDPA"
+
+#: libs/uiutils.cpp:514
+#, kde-format
+msgctxt "Cellular access technology"
+msgid "UMTS"
+msgstr "UMTS"
+
+#: libs/uiutils.cpp:516
+#, kde-format
+msgctxt "Cellular access technology"
+msgid "EDGE"
+msgstr "EDGE"
+
+#: libs/uiutils.cpp:518
+#, kde-format
+msgctxt "Cellular access technology"
+msgid "GPRS"
+msgstr "GPRS"
+
+#: libs/uiutils.cpp:520
+#, kde-format
+msgctxt "Cellular access technology"
+msgid "Compact GSM"
+msgstr "Kompaktes GSM"
+
+#: libs/uiutils.cpp:522
+#, kde-format
+msgctxt "Cellular access technology"
+msgid "GSM"
+msgstr "GSM"
+
+#: libs/uiutils.cpp:524
+#, kde-format
+msgctxt "Analog wireline modem"
+msgid "Analog"
+msgstr "Analog"
+
+#: libs/uiutils.cpp:526 libs/uiutils.cpp:531
+#, kde-format
+msgctxt "Unknown cellular access technology"
+msgid "Unknown"
+msgstr "Unbekannt"
+
+#: libs/uiutils.cpp:528
+#, kde-format
+msgctxt "Any cellular access technology"
+msgid "Any"
+msgstr "Alle"
+
+#: libs/uiutils.cpp:538
+#, kde-format
+msgctxt "possible SIM lock reason"
+msgid "Modem is unlocked."
+msgstr "Modem ist freigeschaltet."
+
+#: libs/uiutils.cpp:540
+#, kde-format
+msgctxt "possible SIM lock reason"
+msgid "SIM requires the PIN code."
+msgstr "SIM erfordert den PIN-Code."
+
+#: libs/uiutils.cpp:542
+#, kde-format
+msgctxt "possible SIM lock reason"
+msgid "SIM requires the PIN2 code."
+msgstr "SIM erfordert den PIN2-Code."
+
+#: libs/uiutils.cpp:544
+#, kde-format
+msgctxt "possible SIM lock reason"
+msgid "SIM requires the PUK code."
+msgstr "SIM benötigt den PUK-Code."
+
+#: libs/uiutils.cpp:546
+#, kde-format
+msgctxt "possible SIM lock reason"
+msgid "SIM requires the PUK2 code."
+msgstr "SIM erfordert den PUK2-Code."
+
+#: libs/uiutils.cpp:548
+#, kde-format
+msgctxt "possible SIM lock reason"
+msgid "Modem requires the service provider PIN code."
+msgstr "Das Modem benötigt den PIN-Code des Dienstanbieters."
+
+#: libs/uiutils.cpp:550
+#, kde-format
+msgctxt "possible SIM lock reason"
+msgid "Modem requires the service provider PUK code."
+msgstr "Das Modem benötigt den PUK-Code des Dienstanbieters."
+
+#: libs/uiutils.cpp:552
+#, kde-format
+msgctxt "possible SIM lock reason"
+msgid "Modem requires the network PIN code."
+msgstr "Das Modem benötigt den Netzwerk-PIN-Code."
+
+#: libs/uiutils.cpp:554
+#, kde-format
+msgctxt "possible SIM lock reason"
+msgid "Modem requires the network PUK code."
+msgstr "Das Modem benötigt den Netzwerk-PUK-Code."
+
+#: libs/uiutils.cpp:556
+#, kde-format
+msgctxt "possible SIM lock reason"
+msgid "Modem requires the PIN code."
+msgstr "Das Modem benötigt den PIN-Code."
+
+#: libs/uiutils.cpp:558
+#, kde-format
+msgctxt "possible SIM lock reason"
+msgid "Modem requires the corporate PIN code."
+msgstr "Das Modem benötigt den Firmen-PIN-Code."
+
+#: libs/uiutils.cpp:560
+#, kde-format
+msgctxt "possible SIM lock reason"
+msgid "Modem requires the corporate PUK code."
+msgstr "Das Modem benötigt den PUK-Code des Unternehmens."
+
+#: libs/uiutils.cpp:562
+#, kde-format
+msgctxt "possible SIM lock reason"
+msgid "Modem requires the PH-FSIM PIN code."
+msgstr "Das Modem benötigt den PH-FSIM-PIN-Code."
+
+#: libs/uiutils.cpp:564
+#, kde-format
+msgctxt "possible SIM lock reason"
+msgid "Modem requires the PH-FSIM PUK code."
+msgstr "Das Modem benötigt den PH-FSIM PUK-Code."
+
+#: libs/uiutils.cpp:566
+#, kde-format
+msgctxt "possible SIM lock reason"
+msgid "Modem requires the network subset PIN code."
+msgstr "Das Modem benötigt den Netzwerkuntergruppe-PIN-Code."
+
+#: libs/uiutils.cpp:568
+#, kde-format
+msgctxt "possible SIM lock reason"
+msgid "Modem requires the network subset PUK code."
+msgstr "Das Modem benötigt den PUK-Code für die Netzwerkuntergruppe."
+
+#: libs/uiutils.cpp:571
+#, kde-format
+msgctxt "possible SIM lock reason"
+msgid "Lock reason unknown."
+msgstr "Sperrgrund unbekannt."
+
+#: libs/uiutils.cpp:595
+#, kde-format
+msgctxt "@label no security"
+msgid "Insecure"
+msgstr "Unsicher"
+
+#: libs/uiutils.cpp:598
+#, kde-format
+msgctxt "@label WEP security"
+msgid "WEP"
+msgstr "WEP"
+
+#: libs/uiutils.cpp:601
+#, kde-format
+msgctxt "@label LEAP security"
+msgid "LEAP"
+msgstr "LEAP"
+
+#: libs/uiutils.cpp:604
+#, kde-format
+msgctxt "@label Dynamic WEP security"
+msgid "Dynamic WEP"
+msgstr "Dynamisches WEP"
+
+#: libs/uiutils.cpp:607
+#, kde-format
+msgctxt "@label WPA-PSK security"
+msgid "WPA-PSK"
+msgstr "WPA-PSK"
+
+#: libs/uiutils.cpp:610
+#, kde-format
+msgctxt "@label WPA-EAP security"
+msgid "WPA-EAP"
+msgstr "WPA-EAP"
+
+#: libs/uiutils.cpp:613
+#, kde-format
+msgctxt "@label WPA2-PSK security"
+msgid "WPA2-PSK"
+msgstr "WPA2-PSK"
+
+#: libs/uiutils.cpp:616
+#, kde-format
+msgctxt "@label WPA2-EAP security"
+msgid "WPA2-EAP"
+msgstr "WPA2-EAP"
+
+#: libs/uiutils.cpp:619
+#, kde-format
+msgctxt "@label WPA3-SAE security"
+msgid "WPA3-SAE"
+msgstr "WPA3-SAE"
+
+#: libs/uiutils.cpp:622
+#, kde-format
+msgctxt "@label unknown security"
+msgid "Unknown security type"
+msgstr "Unbekannter Sicherheitstyp"
+
+#: libs/uiutils.cpp:639
+#, kde-format
+msgctxt ""
+"Label for last used time for a network connection used in the last hour, as "
+"the number of minutes since usage"
+msgid "One minute ago"
+msgid_plural "%1 minutes ago"
+msgstr[0] "Vor einer Minute"
+msgstr[1] "vor %1 Minuten"
+
+#: libs/uiutils.cpp:646
+#, kde-format
+msgctxt ""
+"Label for last used time for a network connection used in the last day, as "
+"the number of hours since usage"
+msgid "One hour ago"
+msgid_plural "%1 hours ago"
+msgstr[0] "Vor einer Stunde"
+msgstr[1] "vor %1 Stunden"
+
+#: libs/uiutils.cpp:651
+#, kde-format
+msgctxt ""
+"Label for last used time for a network connection used the previous day"
+msgid "Yesterday"
+msgstr "Gestern"
+
+#: libs/uiutils.cpp:657
+#, kde-format
+msgctxt ""
+"Label for last used time for a network connection that has never been used"
+msgid "Never"
+msgstr "Niemals"
+
+#: libs/uiutils.cpp:673
+#, kde-format
+msgctxt ""
+"Label for last used time for a network connection used in the last hour, as "
+"the number of minutes since usage"
+msgid "Last used one minute ago"
+msgid_plural "Last used %1 minutes ago"
+msgstr[0] "Zuletzt verwendet vor einer Minute"
+msgstr[1] "Zuletzt verwendet vor %1 Minuten"
+
+#: libs/uiutils.cpp:680
+#, kde-format
+msgctxt ""
+"Label for last used time for a network connection used in the last day, as "
+"the number of hours since usage"
+msgid "Last used one hour ago"
+msgid_plural "Last used %1 hours ago"
+msgstr[0] "Zuletzt vor einer Stunde verwendet"
+msgstr[1] "Zuletzt verwendet vor %1 Stunden"
+
+#: libs/uiutils.cpp:685
+#, kde-format
+msgctxt ""
+"Label for last used time for a network connection used the previous day"
+msgid "Last used yesterday"
+msgstr "Zuletzt verwendet gestern"
+
+#: libs/uiutils.cpp:687
+#, kde-format
+msgid "Last used on %1"
+msgstr "Zuletzt verwendet am %1"
+
+#: libs/uiutils.cpp:691
+#, kde-format
+msgctxt ""
+"Label for last used time for a network connection that has never been used"
+msgid "Never used"
+msgstr "Nie benutzt"
+
+#: mobile/broadband/mobilebroadbandsettings.cpp:40
+#, kde-format
+msgid "Configure mobile broadband"
+msgstr "Mobiles Breitband konfigurieren"
+
+#: mobile/broadband/mobilebroadbandsettings.cpp:42
+#: mobile/wifi/wifisettings.cpp:53
+#, kde-format
+msgid "Martin Kacej"
+msgstr "Martin Kacej"
+
+#: mobile/broadband/package/contents/ui/MobileSettings.qml:34
+#, kde-format
+msgid "Enable mobile data network"
+msgstr "Mobiles Datennetz aktivieren"
+
+#: mobile/broadband/package/contents/ui/MobileSettings.qml:48
+#, kde-format
+msgid "Enable data roaming"
+msgstr "Datenroaming aktivieren"
+
+#: mobile/broadband/package/contents/ui/MobileSettings.qml:66
+#, kde-format
+msgid "Access point name"
+msgstr "Name des Zugangspunkts"
+
+#: mobile/broadband/package/contents/ui/MobileSettings.qml:74
+#, kde-format
+msgid "Edit APN"
+msgstr "APN bearbeiten"
+
+#: mobile/broadband/package/contents/ui/MobileSettings.qml:79
+#, kde-format
+msgid "Data usage"
+msgstr "Datennutzung"
+
+#: mobile/hotspot/hotspotsettings.cpp:32
+#, kde-format
+msgid "Tobias Fella"
+msgstr "Tobias Fella"
+
+#: mobile/hotspot/package/contents/ui/main.qml:40
+#, kde-format
+msgid "Enabled:"
+msgstr "Aktiviert:"
+
+#: mobile/hotspot/package/contents/ui/main.qml:52
+#, kde-format
+msgid "SSID:"
+msgstr "SSID:"
+
+#: mobile/hotspot/package/contents/ui/main.qml:58
+#: vpn/openvpn/openvpnauth.cpp:84 vpn/openvpn/openvpnauth.cpp:93
+#, kde-format
+msgid "Password:"
+msgstr "Passwort:"
+
+#: mobile/hotspot/package/contents/ui/main.qml:63
+#, kde-format
+msgid "Save"
+msgstr "Speichern"
+
+#: mobile/wifi/package/contents/ui/ConnectedItem.qml:185
+#: mobile/wifi/package/contents/ui/ConnectedItem.qml:194
+#, kde-format
+msgid "Forget This Network"
+msgstr "Dieses Netzwerk vergessen"
+
+#: mobile/wifi/package/contents/ui/ConnectedItem.qml:185
+#, kde-format
+msgid "Join This Network"
+msgstr "Diesem Netzwerk beitreten"
+
+#: mobile/wifi/package/contents/ui/ConnectedItem.qml:230
+#, kde-format
+msgid "Auto-Join"
+msgstr "Auto-Join"
+
+#: mobile/wifi/package/contents/ui/ConnectedItem.qml:256
+#, kde-format
+msgid "Low data Mode "
+msgstr "Datensparmodus "
+
+#: mobile/wifi/package/contents/ui/ConnectedItem.qml:269
+#, kde-format
+msgid ""
+"Low Data Mode helps reduce your pad data usage over your cellular network or "
+"specific WLAN networks you select.When Low Data Mode is turned on,automatic "
+"updates and background tasks,such as Photos syncing,are paused."
+msgstr ""
+"Der Datensparmodus hilft Ihnen, die Datennutzung Ihres Pads über Ihr "
+"Mobilfunknetz oder WLAN zu reduzieren. Wenn der Datensparmodus aktiviert "
+"ist, werden automatisch Updates und Hintergrundaufgaben, wie z.B. die "
+"Synchronisierung von Fotos, pausiert."
+
+#: mobile/wifi/package/contents/ui/ConnectedItem.qml:287
+#, kde-format
+msgid "IPV4 Address"
+msgstr "IPv4-Adresse"
+
+#: mobile/wifi/package/contents/ui/ConnectedItem.qml:305
+#, kde-format
+msgid "Configure IP"
+msgstr "IP konfigurieren"
+
+#: mobile/wifi/package/contents/ui/ConnectedItem.qml:317
+#, kde-format
+msgid "IP Address"
+msgstr "IP-Adresse"
+
+#: mobile/wifi/package/contents/ui/ConnectedItem.qml:329
+#, kde-format
+msgid "Subnet Mask"
+msgstr "Subnetzmaske"
+
+#: mobile/wifi/package/contents/ui/ConnectedItem.qml:341
+#, kde-format
+msgid "Router"
+msgstr "Router"
+
+#: mobile/wifi/package/contents/ui/ConnectedItem.qml:370
+#, kde-format
+msgid "Renew Lease"
+msgstr "Lease erneuern"
+
+#: mobile/wifi/package/contents/ui/ConnectedItem.qml:399
+#, kde-format
+msgid "DNS"
+msgstr "DNS"
+
+#: mobile/wifi/package/contents/ui/ConnectedItem.qml:411
+#, kde-format
+msgid "Configure DNS"
+msgstr "DNS konfigurieren"
+
+#: mobile/wifi/package/contents/ui/ConnectedItem.qml:439
+#, kde-format
+msgid "Http Proxy"
+msgstr "Http Proxy"
+
+#: mobile/wifi/package/contents/ui/ConnectedItem.qml:451
+#, kde-format
+msgid "Configure Proxy"
+msgstr "Proxy konfigurieren"
+
+#: mobile/wifi/package/contents/ui/ConnectedItem.qml:466
+#: mobile/wifi/package/contents/ui/Home.qml:472
+#, kde-format
+msgid "Enter Password"
+msgstr "Passwort eingeben"
+
+#: mobile/wifi/package/contents/ui/DNS.qml:89
+#, kde-format
+msgid " DNS"
+msgstr " DNS"
+
+#: mobile/wifi/package/contents/ui/DNS.qml:180
+#, kde-format
+msgid "DNS Servers"
+msgstr "DNS-Server"
+
+#: mobile/wifi/package/contents/ui/DNS.qml:217
+#, kde-format
+msgid "Search Domains"
+msgstr "Domains suchen"
+
+#: mobile/wifi/package/contents/ui/Home.qml:67
+#: mobile/wifi/package/contents/ui/Home.qml:103
+#, kde-format
+msgid "WLAN"
+msgstr "WLAN"
+
+#: mobile/wifi/package/contents/ui/Home.qml:230
+#, kde-format
+msgid "Nearby network"
+msgstr "Netzwerk in der Nähe"
+
+#: mobile/wifi/package/contents/ui/Home.qml:435
+#, kde-format
+msgid "Add other"
+msgstr "Andere hinzufügen"
+
+#: mobile/wifi/package/contents/ui/IPV4.qml:89
+#, kde-format
+msgid " Confiaure IPv4"
+msgstr "IPv4 konfigurieren"
+
+#: mobile/wifi/package/contents/ui/IPV4.qml:216
+#, kde-format
+msgid "Manual IP"
+msgstr "Manuelle IP"
+
+#: mobile/wifi/package/contents/ui/IPV4.qml:232
+#, kde-format
+msgid "IpAddress"
+msgstr "Ip Adresse"
+
+#: mobile/wifi/package/contents/ui/IPV4.qml:240
+#, kde-format
+msgid "NetMask"
+msgstr "Netzmaske"
+
+#: mobile/wifi/package/contents/ui/IPV4.qml:248
+#, kde-format
+msgid "GateWay"
+msgstr "GateWay"
+
+#: mobile/wifi/package/contents/ui/main.qml:158
+#, kde-format
+msgid "OK"
+msgstr "OK"
+
+#: mobile/wifi/package/contents/ui/OtherNetwork.qml:89
+#, kde-format
+msgid "Other Network"
+msgstr "Anderes Netzwerk"
+
+#: mobile/wifi/package/contents/ui/OtherNetwork.qml:147
+#, kde-format
+msgid "Network Name"
+msgstr "Netzwerkname"
+
+#: mobile/wifi/package/contents/ui/OtherNetwork.qml:184
+#, kde-format
+msgid "Security"
+msgstr "Sicherheit"
+
+#: mobile/wifi/package/contents/ui/OtherNetwork.qml:209
+#, kde-format
+msgid "UserName"
+msgstr "Benutzernamen"
+
+#: mobile/wifi/package/contents/ui/OtherNetwork.qml:220
+#, kde-format
+msgid "Password"
+msgstr "Passwort"
+
+msgid "On"
+msgstr "Ein"
+
+msgid "Off"
+msgstr "Aus"
+
+msgid "input username"
+msgstr "Benutzernamen eingeben"
+
+msgid "input password"
+msgstr "Passwort eingeben"
+
+#: mobile/wifi/wifisettings.cpp:51
+#, kde-format
+msgid "Wi-Fi networks"
+msgstr "WLAN-Netzwerke"
+
+#: vpn/l2tp/l2tpauth.cpp:77
+#, kde-format
+msgid "User Password:"
+msgstr "Benutzerpasswort:"
+
+#: vpn/l2tp/l2tpauth.cpp:85
+#, kde-format
+msgid "User Certificate Password:"
+msgstr "Benutzerzertifikatpasswort:"
+
+#: vpn/l2tp/l2tpauth.cpp:96
+#, kde-format
+msgid "Machine Certificate Password:"
+msgstr "Maschinenzertifikatpasswort:"
+
+#: vpn/l2tp/l2tpipsecwidget.cpp:57
+#, kde-format
+msgid "L2TP IPsec Options"
+msgstr "L2TP IPsec Optionen"
+
+#: vpn/l2tp/l2tppppwidget.cpp:36
+#, kde-format
+msgid "L2TP PPP Options"
+msgstr "L2TP PPP Optionen"
+
+#: vpn/openconnect/openconnectauth.cpp:308
+#, kde-format
+msgid "Failed to initialize software token: %1"
+msgstr "Softwaretoken konnte nicht initialisiert werden: %1"
+
+#: vpn/openconnect/openconnectauth.cpp:361
+#, kde-format
+msgid "Contacting host, please wait..."
+msgstr "Host wird kontaktiert, bitte warten..."
+
+#: vpn/openconnect/openconnectauth.cpp:586
+#, kde-format
+msgctxt "Verb, to proceed with login"
+msgid "Login"
+msgstr "Anmeldung"
+
+#: vpn/openconnect/openconnectauth.cpp:643
+#, kde-format
+msgid ""
+"Check failed for certificate from VPN server \"%1\".\n"
+"Reason: %2\n"
+"Accept it anyway?"
+msgstr ""
+"Prüfung für Zertifikat von VPN-Server fehlgeschlagen \"%1\".\n"
+"Grund: %2\n"
+"Trotzdem akzeptieren?"
+
+#: vpn/openconnect/openconnectauth.cpp:742
+#, kde-format
+msgid "Connection attempt was unsuccessful."
+msgstr "Verbindungsversuch war erfolglos."
+
+#: vpn/openvpn/openvpnadvancedwidget.cpp:68
+#, kde-format
+msgctxt "@title: window advanced openvpn properties"
+msgid "Advanced OpenVPN properties"
+msgstr "Erweiterte OpenVPN-Eigenschaften"
+
+#: vpn/openvpn/openvpnadvancedwidget.cpp:140
+#: vpn/openvpn/openvpnadvancedwidget.cpp:164
+#, kde-format
+msgctxt "@item:inlistbox Item added when OpenVPN cipher lookup failed"
+msgid "OpenVPN cipher lookup failed"
+msgstr "OpenVPN-Chiffre Nachschlagen fehlgeschlagen"
+
+#: vpn/openvpn/openvpnadvancedwidget.cpp:147
+#, kde-format
+msgctxt "@item::inlist Default openvpn cipher item"
+msgid "Default"
+msgstr "Standard"
+
+#: vpn/openvpn/openvpnadvancedwidget.cpp:161
+#, kde-format
+msgctxt "@item:inlistbox Item added when OpenVPN cipher lookup failed"
+msgid "No OpenVPN ciphers found"
+msgstr "Keine OpenVPN-Chiffren gefunden"
+
+#: vpn/openvpn/openvpnauth.cpp:76 vpn/openvpn/openvpnauth.cpp:102
+#, kde-format
+msgid "Key Password:"
+msgstr "Schlüsselpasswort:"
+
+#: vpn/openvpn/openvpnauth.cpp:113
+#, kde-format
+msgid "Proxy Password:"
+msgstr "Proxypasswort:"
+
+#: vpn/openvpn/openvpn.cpp:190
+#, kde-format
+msgid "Could not open file"
+msgstr "Datei konnte nicht geöffnet werden"
+
+#: vpn/openvpn/openvpn.cpp:197
+#, kde-format
+msgid "Do you want to copy your certificates to %1?"
+msgstr "Möchten Sie Ihre Zertifikate nach %1 kopieren?"
+
+#: vpn/openvpn/openvpn.cpp:198
+#, kde-format
+msgid "Copy certificates"
+msgstr "Zertifikate kopieren"
+
+#: vpn/openvpn/openvpn.cpp:246 vpn/openvpn/openvpn.cpp:264
+#: vpn/openvpn/openvpn.cpp:503
+#, kde-format
+msgid "Unknown option: %1"
+msgstr "Unbekannte Option: %1"
+
+#: vpn/openvpn/openvpn.cpp:249 vpn/openvpn/openvpn.cpp:267
+#: vpn/openvpn/openvpn.cpp:283 vpn/openvpn/openvpn.cpp:295
+#: vpn/openvpn/openvpn.cpp:307 vpn/openvpn/openvpn.cpp:399
+#: vpn/openvpn/openvpn.cpp:495 vpn/openvpn/openvpn.cpp:523
+#, kde-format
+msgid "Invalid number of arguments (expected 1) in option: %1"
+msgstr "Ungültige Anzahl von Argumenten (erwartet 1) in Option: %1"
+
+#: vpn/openvpn/openvpn.cpp:280 vpn/openvpn/openvpn.cpp:292
+#, kde-format
+msgid "Invalid size (should be between 0 and 0xFFFF) in option: %1"
+msgstr "Ungültige Größe (sollte zwischen 0 und 0xFFFF liegen) in Option: %1"
+
+#: vpn/openvpn/openvpn.cpp:361
+#, kde-format
+msgid "Invalid proxy option: %1"
+msgstr "Ungültige Proxyoption: %1"
+
+#: vpn/openvpn/openvpn.cpp:396
+#, kde-format
+msgid "Invalid port (should be between 1 and 65535) in option: %1"
+msgstr "Ungültiger Port (sollte zwischen 1 und 65535 liegen) in Option: %1"
+
+#: vpn/openvpn/openvpn.cpp:512
+#, kde-format
+msgid "Invalid number of arguments (expected 2) in option: %1"
+msgstr "Ungültige Anzahl von Argumenten (erwartet 2) in Option: %1"
+
+#: vpn/openvpn/openvpn.cpp:534
+#, kde-format
+msgid "Invalid argument in option: %1"
+msgstr "Ungültiges Argument in Option: %1"
+
+#: vpn/openvpn/openvpn.cpp:618
+#, kde-format
+msgid "File %1 is not a valid OpenVPN's client configuration file"
+msgstr "Datei %1 ist keine gültige OpenVPN-Client-Konfigurationsdatei"
+
+#: vpn/openvpn/openvpn.cpp:622
+#, kde-format
+msgid "File %1 is not a valid OpenVPN configuration (no remote)."
+msgstr "Datei %1 ist keine gültige OpenVPN-Konfiguration (kein Remote)."
+
+#: vpn/openvpn/openvpn.cpp:691
+#, kde-format
+msgid "Error saving file %1: %2"
+msgstr "Fehler beim Speichern der Datei %1: %2"
+
+#: vpn/openvpn/openvpn.cpp:719
+#, kde-format
+msgid "Error copying certificate to %1: %2"
+msgstr "Fehler beim Kopieren des Zertifikats nach %1: %2"
+
+#: vpn/openvpn/openvpn.cpp:731
+#, kde-format
+msgid "Could not open file for writing"
+msgstr "Datei konnte nicht zum Schreiben geöffnet werden"
+
+#: vpn/strongswan/strongswanauth.cpp:73
+#, kde-format
+msgctxt "@label:textbox password label for private key password"
+msgid "Private Key Password:"
+msgstr "Passwort für privaten Schlüssel:"
+
+#: vpn/strongswan/strongswanauth.cpp:75
+#, kde-format
+msgctxt "@label:textbox password label for smartcard pin"
+msgid "PIN:"
+msgstr "PIN:"
+
+#: vpn/strongswan/strongswanauth.cpp:77
+#, kde-format
+msgctxt "@label:textbox password label for EAP password"
+msgid "Password:"
+msgstr "Passwort:"
+
+#: vpn/strongswan/strongswanauth.cpp:118
+#, kde-format
+msgctxt "@label:textbox error message while saving configuration"
+msgid ""
+"Configuration uses ssh-agent for authentication, but no ssh-agent found "
+"running."
+msgstr ""
+"Konfiguration verwendet ssh-agent zur Authentifizierung, aber es wurde kein "
+"ssh-agent gefunden der läuft."
+
+#: vpn/vpnc/vpncadvancedwidget.cpp:34
+#, kde-format
+msgid "Advanced VPNC properties"
+msgstr "Erweiterte VPNC-Eigenschaften"
+
+#: vpn/vpnc/vpncadvancedwidget.cpp:37
+#, kde-format
+msgctxt "VPNC vendor name"
+msgid "Cisco"
+msgstr "Cisco"
+
+#: vpn/vpnc/vpncadvancedwidget.cpp:38
+#, kde-format
+msgctxt "VPNC vendor name"
+msgid "Netscreen"
+msgstr "Netscreen"
+
+#: vpn/vpnc/vpncadvancedwidget.cpp:41
+#, kde-format
+msgctxt "VPNC encryption method"
+msgid "Secure (default)"
+msgstr "Sicher (Standard)"
+
+#: vpn/vpnc/vpncadvancedwidget.cpp:42
+#, kde-format
+msgctxt "VPNC encryption method"
+msgid "Weak (DES encryption, use with caution)"
+msgstr "Schwach (DES-Verschlüsselung, mit Vorsicht zu verwenden)"
+
+#: vpn/vpnc/vpncadvancedwidget.cpp:43
+#, kde-format
+msgctxt "VPNC encryption method"
+msgid "None (completely insecure)"
+msgstr "Keine (völlig unsicher)"
+
+#: vpn/vpnc/vpncadvancedwidget.cpp:46
+#, kde-format
+msgctxt "NAT traversal method"
+msgid "NAT-T when available (default)"
+msgstr "NAT-T wenn verfügbar (Standard)"
+
+#: vpn/vpnc/vpncadvancedwidget.cpp:47
+#, kde-format
+msgctxt "NAT traversal method"
+msgid "NAT-T always"
+msgstr "NAT-T immer"
+
+#: vpn/vpnc/vpncadvancedwidget.cpp:48
+#, kde-format
+msgctxt "NAT traversal method"
+msgid "Cisco UDP"
+msgstr "Cisco UDP"
+
+#: vpn/vpnc/vpncadvancedwidget.cpp:49
+#, kde-format
+msgctxt "NAT traversal method"
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: vpn/vpnc/vpncadvancedwidget.cpp:52
+#, kde-format
+msgctxt "IKE DH group"
+msgid "DH Group 1"
+msgstr "DH Gruppe 1"
+
+#: vpn/vpnc/vpncadvancedwidget.cpp:53
+#, kde-format
+msgctxt "IKE DH group"
+msgid "DH Group 2 (default)"
+msgstr "DH-Gruppe 2 (Standard)"
+
+#: vpn/vpnc/vpncadvancedwidget.cpp:54
+#, kde-format
+msgctxt "IKE DH group"
+msgid "DH Group 5"
+msgstr "DH Gruppe 5"
+
+#: vpn/vpnc/vpncadvancedwidget.cpp:57
+#, kde-format
+msgctxt "Perfect Forward Secrecy"
+msgid "Server (default)"
+msgstr "Server (Standard)"
+
+#: vpn/vpnc/vpncadvancedwidget.cpp:58
+#, kde-format
+msgctxt "Perfect Forward Secrecy"
+msgid "None"
+msgstr "Keine"
+
+#: vpn/vpnc/vpncadvancedwidget.cpp:59
+#, kde-format
+msgctxt "Perfect Forward Secrecy"
+msgid "DH Group 1"
+msgstr "DH Gruppe 1"
+
+#: vpn/vpnc/vpncadvancedwidget.cpp:60
+#, kde-format
+msgctxt "Perfect Forward Secrecy"
+msgid "DH Group 2"
+msgstr "DH Gruppe 2"
+
+#: vpn/vpnc/vpncadvancedwidget.cpp:61
+#, kde-format
+msgctxt "Perfect Forward Secrecy"
+msgid "DH Group 5"
+msgstr "DH Gruppe 5"
+
+#: vpn/vpnc/vpnc.cpp:89
+#, kde-format
+msgid "Error decrypting the obfuscated password"
+msgstr "Fehler beim Entschlüsseln des verdeckt Kennworts"
+
+#: vpn/vpnc/vpnc.cpp:89
+#, kde-format
+msgid "Error"
+msgstr "Fehler"
+
+#: vpn/vpnc/vpnc.cpp:147
+#, kde-format
+msgid "File %1 could not be opened."
+msgstr "Datei %1 konnte nicht geöffnet werden."
+
+#: vpn/vpnc/vpnc.cpp:156
+#, kde-format
+msgid "Needed executable cisco-decrypt could not be found."
+msgstr ""
+"Die benötigte ausDie benötigte ausführbare Datei cisco-decrypt konnte nicht "
+"gefunden werden.führbare Datei cisco-decrypt konnte nicht gefunden werden."
+
+#: vpn/vpnc/vpnc.cpp:268
+#, kde-format
+msgid ""
+"The VPN settings file '%1' specifies that VPN traffic should be tunneled "
+"through TCP which is currently not supported in the vpnc software.\n"
+"\n"
+"The connection can still be created, with TCP tunneling disabled, however it "
+"may not work as expected."
+msgstr ""
+"Die VPN-Einstellungsdatei '%1' legt fest, dass der VPN-Verkehr über TCP "
+"getunnelt werden soll, was derzeit von der vpnc-Software nicht unterstützt "
+"wird.\n"
+"\n"
+"Die Verbindung kann jedoch hergestellt werden, wenn das TCP-Tunneling "
+"deaktiviert wird, funktioniert dann aber möglicherweise nicht wie erwartet."
+
+#: vpn/vpnc/vpnc.cpp:268
+#, kde-format
+msgid "Not supported"
+msgstr "Nicht unterstützt"
+
+#: vpn/vpnc/vpnc.cpp:318
+#, kde-format
+msgid "%1: file format error."
+msgstr "%1: Dateiformatfehler."
+
+#: vpn/vpnc/vpnc.cpp:337
+#, kde-format
+msgid "%1: file could not be created"
+msgstr "%1: Datei konnte nicht erstellt werden"
+
+msgid "Manual"
+msgstr "Manuell"
+
+msgid "Automatic"
+msgstr "Automatisch"
+
+msgid "Incorrect password for \"%1\""
+msgstr "Falsches Passwort für \"%1\""
+
+msgid "On connection"
+msgstr "Verbindung besteht"
+
+msgid "Not connected"
+msgstr "Nicht verbunden"
+
+msgid "VPN Status"
+msgstr "VPN Status"
+
+msgid "To connect using ”%1”, use the “%1” application."
+msgstr ""
+"Um eine Verbindung über \"%1\" herzustellen, verwenden Sie die Anwendung "
+"\"%1\"."
+
+msgid "Add VPN Configuration…"
+msgstr "VPN-Konfiguration hinzufügen…"
+
+msgid "To configure the settings for ”%1”,use the ”%1” application."
+msgstr ""
+"Um die Einstellungen für \"%1\" zu konfigurieren, verwenden Sie die "
+"Anwendung \"%1\"."
+
+msgid "Delete VPN"
+msgstr "VPN löschen"
+
+msgid "NT Domain"
+msgstr "NT-Domäne"
+
+msgid "Authentication"
+msgstr "Authentifizierung"
+
+msgid "User Authentication"
+msgstr "Benutzerauthentifizierung"
+
+msgid "Your device will no longer join this WLAN network."
+msgstr "Ihr Gerät wird diesem WLAN-Netzwerk nicht mehr beitreten."
+
+msgid "Forget"
+msgstr "Vergessen"
+
+msgid "Forget WLAN Network"
+msgstr "WLAN-Netzwerk vergessen"
+
+msgid "Enter the password for”%1”"
+msgstr "Geben Sie das Passwort für \"%1\" ein"
+
+msgid "Join"
+msgstr "Beitreten"
