@@ -1,0 +1,145 @@
+# Copyright(C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Franklin Weng <franklin@goodhorse.idv.tw>, 2011.
+# Jeff Huang <s8321414@gmail.com>, 2016.
+# pan93412 <pan93412@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-07-06 02:13+0200\n"
+"PO-Revision-Date: 2021-09-02 17:35+0800\n"
+"Last-Translator: pan93412 <pan93412@gmail.com>\n"
+"Language-Team: Chinese <zh-l10n@lists.linux.org.tw>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Frank Weng(a.k.a. Franklin), Jeff Huang"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "franklin@goodhorse.idv.tw, s8321414@gmail.com"
+
+#: activitypage.cpp:74
+#, kde-format
+msgid ""
+"The activity service is running with bare functionalities.\n"
+"Names and icons of the activities might not be available."
+msgstr ""
+"此活動服務正執行中，但是缺少一些功能。\n"
+"活動的名稱和圖示可能不可用。"
+
+#: activitypage.cpp:148
+#, kde-format
+msgid ""
+"The activity service is not running.\n"
+"It is necessary to have the activity manager running to configure activity-"
+"specific power management behavior."
+msgstr ""
+"活動服務未運行。\n"
+"必須運行活動管理器以配置特定於活動的電源管理行為。"
+
+#: activitypage.cpp:244
+#, kde-format
+msgid "The Power Management Service appears not to be running."
+msgstr "電源管理服務似乎沒有運行。"
+
+#: activitywidget.cpp:97
+#, kde-format
+msgctxt "Suspend to RAM"
+msgid "Sleep"
+msgstr "睡眠"
+
+#: activitywidget.cpp:101
+#, kde-format
+msgid "Hibernate"
+msgstr "休眠"
+
+#: activitywidget.cpp:103
+#, kde-format
+msgid "Shut down"
+msgstr "關機"
+
+#: activitywidget.cpp:107
+#, kde-format
+msgid "PC running on AC power"
+msgstr "PC 接市電電源"
+
+#: activitywidget.cpp:108
+#, kde-format
+msgid "PC running on battery power"
+msgstr "PC 使用電池"
+
+#: activitywidget.cpp:109
+#, kde-format
+msgid "PC running on low battery"
+msgstr "PC 電池電力不足"
+
+#: activitywidget.cpp:138
+#, kde-format
+msgctxt "This is meant to be: Act like activity %1"
+msgid "Activity \"%1\""
+msgstr "活動 \"%1\""
+
+#. i18n: ectx: property(text), widget(QRadioButton, noSettingsRadio)
+#: activityWidget.ui:19
+#, kde-format
+msgid "Do not use special settings"
+msgstr "不使用特殊設定"
+
+#. i18n: ectx: property(text), widget(QRadioButton, actLikeRadio)
+#: activityWidget.ui:31
+#, kde-format
+msgid "Act like"
+msgstr "行為類似"
+
+#. i18n: ectx: property(text), widget(QRadioButton, specialBehaviorRadio)
+#: activityWidget.ui:60
+#, kde-format
+msgid "Define a special behavior"
+msgstr "定義特殊行為"
+
+#. i18n: ectx: property(text), widget(QCheckBox, noShutdownScreenBox)
+#: activityWidget.ui:72
+#, kde-format
+msgid "Never turn off the screen"
+msgstr "永不關閉螢幕"
+
+#. i18n: ectx: property(text), widget(QCheckBox, noShutdownPCBox)
+#: activityWidget.ui:79
+#, kde-format
+msgid "Never shut down the computer or let it go to sleep"
+msgstr "永不關閉電腦或讓電腦進入睡眠模式"
+
+#. i18n: ectx: property(text), widget(QCheckBox, alwaysBox)
+#: activityWidget.ui:91
+#, kde-format
+msgid "Always"
+msgstr "總是"
+
+#. i18n: ectx: property(text), widget(QLabel, alwaysAfterLabel)
+#: activityWidget.ui:101
+#, kde-format
+msgid "after"
+msgstr "多久之後:"
+
+#. i18n: ectx: property(suffix), widget(QSpinBox, alwaysAfterSpin)
+#: activityWidget.ui:108
+#, kde-format
+msgid " min"
+msgstr " 分鐘"
+
+#. i18n: ectx: property(text), widget(QRadioButton, separateSettingsRadio)
+#: activityWidget.ui:138
+#, kde-format
+msgid "Use separate settings(advanced users only)"
+msgstr "使用分別的設定(適合進階使用者)"

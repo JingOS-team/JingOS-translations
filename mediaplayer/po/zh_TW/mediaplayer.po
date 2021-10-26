@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"X-Generator: Poedit 3.0\n"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright(C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: main.qml:127 main.qml:150
+#, kde-format
+msgid "Cancel"
+msgstr "取消"
+
+#: main.qml:129
+#, kde-format
+msgid "Play Video?"
+msgstr "播放影片？"
+
+#: main.qml:130
+#, kde-format
+msgid "Are u sure?"
+msgstr "您確定嗎？"
+
+#: main.qml:131
+#, kde-format
+msgid "ok"
+msgstr "確定"
+
+#: main.qml:161
+#, kde-format
+msgid "Save to files"
+msgstr "儲存"
+
+#: main.qml:169 main.qml:235 main.qml:1798 main.qml:2339
+#: view_models/BabeTable/BabeTable.qml:108
+#, kde-format
+msgid "Delete"
+msgstr "刪除"
+
+#: main.qml:182 main.qml:199
+#, kde-format
+msgid "Are you sure you want to save the file to file manager?"
+msgstr "您確定要將這些檔案儲存到檔案總管嗎？"
+
+#: main.qml:188 main.qml:211
+#, kde-format
+msgid "Are you sure you want to delete the file?"
+msgstr "您確定要刪除此檔案嗎？"
+
+#: main.qml:196
+#, kde-format
+msgid "Are you sure you want to save these files to file manager?"
+msgstr "您確定要將這些檔案儲存到檔案總管嗎？"
+
+#: main.qml:208
+#, kde-format
+msgid "Are you sure you want to delete these files?"
+msgstr "您確定要刪除這些檔案嗎？"
+
+#: main.qml:227
+#, kde-format
+msgid "Save"
+msgstr "儲存"
+
+#: main.qml:507
+#, kde-format
+msgid "Media"
+msgstr "多媒體"
+
+#: main.qml:542 view_models/BabeTable/BabeTable.qml:92
+#, kde-format
+msgid "Search"
+msgstr "搜尋"
+
+#: main.qml:594
+#, kde-format
+msgid "Video"
+msgstr "影片"
+
+#: main.qml:670 main.qml:850 main.qml:1103
+#, kde-format
+msgid "All"
+msgstr "全部"
+
+#: main.qml:752 main.qml:1016 main.qml:1109
+#, kde-format
+msgid "Lately"
+msgstr "最近"
+
+#: main.qml:774
+#, kde-format
+msgid "Music"
+msgstr "音樂"
+
+#: main.qml:935 main.qml:1106
+#, kde-format
+msgid "Like"
+msgstr "收藏"
+
+#: main.qml:1100
+#, kde-format
+msgid "Search Results"
+msgstr "搜尋結果"
+
+#: main.qml:1325
+#, kde-format
+msgid "No Results"
+msgstr "沒有符合條件的結果"
+
+#: main.qml:1689 main.qml:2230
+#, kde-format
+msgid "Batch editing"
+msgstr "批量編輯"
+
+msgid "There is no video at present"
+msgstr "目前沒有影片"
+
+msgid "There is no music at present"
+msgstr "目前沒有音樂"
+
+msgid "UNKNOWN"
+msgstr "未知"
+
+msgid "Sorry,there are no search results."
+msgstr "沒有符合條件的結果"

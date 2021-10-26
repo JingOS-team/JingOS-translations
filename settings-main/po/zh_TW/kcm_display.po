@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright(C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-19 16:59+0800\n"
+"PO-Revision-Date: 2021-09-02 19:00+0800\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+
+#: %E8%8B%B1%E6%96%87
+msgid "英文"
+msgstr "繁體中文"
+
+#: source
+msgid "target"
+msgstr ""
+
+msgid "Applying this setting will restart your PAD"
+msgstr "套用此設定將重新啟動您的裝置"
+
+msgid "Restart"
+msgstr "重新啟動"
+
+#: Fonts:
+msgid "Fonts"
+msgstr "字體"
+
+msgid "Operation prompt content copy Secondary style preview"
+msgstr "操作提示內容覆制二次樣式預覽"
+
+msgid "Font Size"
+msgstr "字體大小"
+
+msgid "Brightness"
+msgstr "亮度"
+
+msgid "Preview"
+msgstr "預覽"
+
+msgid "Icons"
+msgstr "圖示"
+
+msgid "List"
+msgstr "列表"
+
+msgid "Extra Small"
+msgstr "極小"
+
+msgid "Small"
+msgstr "小"
+
+msgid "Normal"
+msgstr "正常"
+
+msgid "Large"
+msgstr "大"
+
+msgid "Extra Large"
+msgstr "極大"
+
+msgid "Name"
+msgstr "名稱"
+
+msgid "Display & Brightness"
+msgstr "顯示和亮度"
+
+msgid "Sleep"
+msgstr "休眠"
+
+msgid "Applications scale"
+msgstr "應用比例"
+
+msgid "Font"
+msgstr "字體"
+
+msgid "Apply"
+msgstr "套用"
+
+msgid "Set"
+msgstr "設定"
+
+msgid "Cancel"
+msgstr "取消"
+
+#: Set+scale+
+msgid "Set scale "
+msgstr "設定比例"
+
+#: Attention,+the+running+apps+will+be+closed+to+fit+new+configuration.
+msgid "Attention, the running apps will be closed to fit new configuration."
+msgstr "請注意，正在運行的應用將被關閉以適應新的設定"
+
+#: 2+Minutes
+msgid "2 Minutes"
+msgstr "2 分鐘"
+
+#: 5+Minutes
+msgid "5 Minutes"
+msgstr "5 分鐘"
+
+#: 10+Minutes
+msgid "10 Minutes"
+msgstr "10 分鐘"
+
+#: 15+Minutes
+msgid "15 Minutes"
+msgstr "15 分鐘"
+
+#: Never
+msgid "Never"
+msgstr "永不"

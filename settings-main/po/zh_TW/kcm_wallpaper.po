@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright(C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-11 20:20+0800\n"
+"PO-Revision-Date: 2021-09-02 18:58+0800\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+
+#: package/contents/ui/Contexts.qml:28
+#, kde-format
+msgid "Access Points"
+msgstr ""
+
+#: package/contents/ui/Contexts.qml:68
+#, kde-format
+msgid "Active:"
+msgstr "已開啟:"
+
+#: package/contents/ui/Contexts.qml:82
+#, kde-format
+msgid "Protocol:"
+msgstr "通訊協定:"
+
+#: package/contents/ui/Contexts.qml:91
+#, kde-format
+msgid "Type:"
+msgstr "類型:"
+
+#: package/contents/ui/Contexts.qml:100
+#, kde-format
+msgid "APN:"
+msgstr ""
+
+#: package/contents/ui/JSetMenu.qml:24
+#, kde-format
+msgid "Set Lock Screen"
+msgstr "鎖定螢幕"
+
+#: package/contents/ui/JSetMenu.qml:33
+#, kde-format
+msgid "Set Home Screen"
+msgstr "設置主螢幕"
+
+#: package/contents/ui/JSetMenu.qml:43 package/contents/ui/JSetMenu.qml:120
+#, kde-format
+msgid "Set Both"
+msgstr "兩者都設置"
+
+#: package/contents/ui/LockScrrenView.qml:45
+#, kde-format
+msgid "2020-09-12.Monday"
+msgstr "2020-09-12.星期一"
+
+#: package/contents/ui/SystemWallpaperView.qml:80
+#: package/contents/ui/main.qml:233
+#, kde-format
+msgid "System wallpaper"
+msgstr "系統壁紙"
+
+#: package/contents/ui/WallpaperEditView.qml:129
+#, kde-format
+msgid "Move & Scale"
+msgstr "移動和縮放"
+
+#: package/contents/ui/WallpaperEditView.qml:151
+#, kde-format
+msgid "Cancel"
+msgstr "取消"
+
+#: package/contents/ui/WallpaperEditView.qml:176
+#, kde-format
+msgid "Set"
+msgstr "設定"
+
+#: package/contents/ui/WallpaperEditView.qml:277
+#, kde-format
+msgid "Setting wallpaper..."
+msgstr "設置桌布..."
+
+#: package/contents/ui/main.qml:168 wallpaper.cpp:41
+#, kde-format
+msgid "Wallpaper"
+msgstr "桌布"
+
+#: wallpaper.cpp:42
+#, kde-format
+msgid "Zhang he gang"
+msgstr ""
