@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Maik Brenke <maik.brenke@mail.com>, 2021.
 #
-
 #: main.qml:127 main.qml:150
 #, kde-format
 msgid "Cancel"
@@ -73,7 +72,7 @@ msgstr "Suche"
 #: main.qml:594
 #, kde-format
 msgid "Video"
-msgstr "Suche"
+msgstr "Video"
 
 #: main.qml:670 main.qml:850 main.qml:1103
 #, kde-format
@@ -112,7 +111,6 @@ msgstr "Stapelverarbeitung"
 
 msgid "There is no video at present"
 msgstr "Zur Zeit ist kein Video vorhanden"
-
 
 msgid "There is no music at present"
 msgstr "Zur Zeit ist keine Musik vorhanden"
