@@ -21,12 +21,12 @@ msgstr ""
 #: calindac/alarmnotification.cpp:15
 #, kde-format
 msgid "Suspend"
-msgstr "Sospendi"
+msgstr "중지"
 
 #: calindac/alarmnotification.cpp:15
 #, kde-format
 msgid "Dismiss"
-msgstr "Annulla"
+msgstr "닫기"
 
 #: calindac/calindacmain.cpp:20 calindac/calindacmain.cpp:21
 #, kde-format
@@ -51,17 +51,17 @@ msgstr ""
 #: src/calindoriconfig.cpp:74
 #, kde-format
 msgid "Calendar name contains invalid characters"
-msgstr "Il nome del calendario contiene caratteri non validi"
+msgstr "캘린더명에 허용되지 않은 글자가 포함되어 있습니다."
 
 #: src/calindoriconfig.cpp:96
 #, kde-format
 msgid "Calendar already exists"
-msgstr "Il calendario esiste già"
+msgstr "캘린더가 이미 존재합니다."
 
 #: src/contents/ui/CalendarAction.qml:20
 #, kde-format
 msgid "Activate"
-msgstr "Attiva"
+msgstr "켜기"
 
 #: src/contents/ui/CalendarAction.qml:27
 #: src/contents/ui/CalendarScheduleView.qml:401 src/contents/ui/DayView.qml:132
@@ -70,12 +70,12 @@ msgstr "Attiva"
 #: src/contents/ui/TodosCardView.qml:58 src/contents/ui/WeekView.qml:155
 #, kde-format
 msgid "Delete"
-msgstr "Elimina"
+msgstr "삭제"
 
 #: src/contents/ui/CalendarAction.qml:38
 #, kde-format
 msgid "Remove"
-msgstr "Rimuovi"
+msgstr "제거"
 
 #: src/contents/ui/CalendarAction.qml:49
 #, kde-format
