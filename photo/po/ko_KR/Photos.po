@@ -14,11 +14,11 @@ msgstr ""
 
 #: src/main.cpp:48
 msgid "<application>Photos</application>"
-msgstr "사진"
+msgstr "사진첩"
 
 #: src/main.cpp:50
 msgid "Photos is an image viewer for your image collection."
-msgstr "사진은 이미지 뷰어입니다."
+msgstr "사진첩은 이미지를 볼 수 있는 이미지 뷰어입니다."
 
 #: src/main.cpp:52
 msgid "(c) 2013-2020 KDE Contributors"
