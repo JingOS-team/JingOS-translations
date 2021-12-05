@@ -1,0 +1,124 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# David Martínez Echavarría <damarte86@gmail.com>, 2021.
+#
+
+#: main.qml:127 main.qml:150
+#, kde-format
+msgid "Cancel"
+msgstr "취소"
+
+#: main.qml:129
+#, kde-format
+msgid "Play Video?"
+msgstr "동영상을 재생하시겠습니까?"
+
+#: main.qml:130
+#, kde-format
+msgid "Are u sure?"
+msgstr "정말인가요?"
+
+#: main.qml:131
+#, kde-format
+msgid "ok"
+msgstr "확인"
+
+#: main.qml:161
+#, kde-format
+msgid "Save to files"
+msgstr "파일에 저장"
+
+#: main.qml:169 main.qml:235 main.qml:1798 main.qml:2339
+#: view_models/BabeTable/BabeTable.qml:108
+#, kde-format
+msgid "Delete"
+msgstr "삭제"
+
+#: main.qml:182 main.qml:199
+#, kde-format
+msgid "Are you sure you want to save the file to file manager?"
+msgstr "해당 파일을 파일 관리자에 저장하시겠습니까?"
+
+#: main.qml:188 main.qml:211
+#, kde-format
+msgid "Are you sure you want to delete the file?"
+msgstr "해당 파일을 삭제하시겠습니까?"
+
+#: main.qml:196
+#, kde-format
+msgid "Are you sure you want to save these files to file manager?"
+msgstr "해당 파일들을 파일 관리자에 저장하시겠습니까?"
+
+#: main.qml:208
+#, kde-format
+msgid "Are you sure you want to delete these files?"
+msgstr "해당 파일들을 삭제하시겠습니까?"
+
+#: main.qml:227
+#, kde-format
+msgid "Save"
+msgstr "저장"
+
+#: main.qml:507
+#, kde-format
+msgid "Media"
+msgstr "미디어"
+
+#: main.qml:542 view_models/BabeTable/BabeTable.qml:92
+#, kde-format
+msgid "Search"
+msgstr "검색"
+
+#: main.qml:594
+#, kde-format
+msgid "Video"
+msgstr "동영상"
+
+#: main.qml:670 main.qml:850 main.qml:1103
+#, kde-format
+msgid "All"
+msgstr "전부"
+
+#: main.qml:752 main.qml:1016 main.qml:1109
+#, kde-format
+msgid "Lately"
+msgstr "최근"
+
+#: main.qml:774
+#, kde-format
+msgid "Music"
+msgstr "음악"
+
+#: main.qml:935 main.qml:1106
+#, kde-format
+msgid "Like"
+msgstr "즐겨찾기"
+
+#: main.qml:1100
+#, kde-format
+msgid "Search Results"
+msgstr "검색 결과"
+
+#: main.qml:1325
+#, kde-format
+msgid "No Results"
+msgstr "결과 없음"
+
+#: main.qml:1689 main.qml:2230
+#, kde-format
+msgid "Batch editing"
+msgstr "일괄 편집"
+
+msgid "There is no video at present"
+msgstr "동영상이 없습니다"
+
+
+msgid "There is no music at present"
+msgstr "음악이 없습니다"
+
+msgid "UNKNOWN"
+msgstr "알 수 없음"
+
+msgid "Sorry,there are no search results."
+msgstr "죄송합니다, 검색 결과가 없습니다."
