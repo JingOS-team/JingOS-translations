@@ -3,20 +3,20 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Julien Creach <julien.creach@protonmail.com>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-08 14:54+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-12-10 15:29+0100\n"
 "Last-Translator: Julien Creach <julien.creach@protonmail.com>\n"
 "Language-Team: \n"
-"Language: \n"
+"Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0\n"
 
 #: src/alarmmodel.cpp:217
 #, kde-kuit-format
@@ -306,7 +306,7 @@ msgstr "Minuterie terminée"
 #: src/timer.cpp:127
 #, kde-format
 msgid "Your timer %1 has finished!"
-msgstr "Votre minuterie "%1" est terminée !"
+msgstr "Votre minuterie \"%1\" est terminée !"
 
 msgid "Timer"
 msgstr "Minuterie"
@@ -327,7 +327,7 @@ msgid "Done"
 msgstr "Terminé"
 
 msgid "AM"
-msgstr "AM"
+msgstr "Matin"
 
 msgid "PM"
-msgstr "PM"
+msgstr "Soir"

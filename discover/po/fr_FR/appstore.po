@@ -1,15 +1,16 @@
-#. extracted from appstore.csv
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-06-01 16:54+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-12-10 19:27+0100\n"
 "Last-Translator: Julien Creach <julien.creach@protonmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 3.0\n"
 
 #: discover/DiscoverObject.cpp:279+discover/DiscoverObject.cpp:309
 msgid "Could not open %1"
@@ -97,7 +98,7 @@ msgstr "Installé"
 
 #: discover/qml/InstallApplicationButton.qml:16+discover/qml/InstallApplicationButton.qml:19+discover/qml/InstallApplicationButton.qml:21+discover/qml/InstallApplicationButton.qml:73
 msgid "GET"
-msgstr "OBTENIR"
+msgstr "Obtenir"
 
 #: discover/qml/InstallApplicationButton.qml:17+discover/qml/InstallApplicationButton.qml:22+discover/qml/InstallApplicationButton.qml:71+discover/qml/cus/JAlertDialog.qml:16+discover/qml/cus/JAlertDialog.qml:18
 msgid "Uninstall"
@@ -105,7 +106,7 @@ msgstr "Désinstaller"
 
 #: discover/qml/InstallApplicationButton.qml:20+discover/qml/InstallApplicationButton.qml:24+discover/qml/InstallApplicationButton.qml:75
 msgid "OPEN"
-msgstr "OUVRIR"
+msgstr "Ouvrir"
 
 #: discover/qml/InstallApplicationButton.qml:23+discover/qml/InstallApplicationButton.qml:77+discover/qml/UpdateApplicaitonButton.qml:19+discover/qml/UpdateApplicationDelegate.qml:122
 msgid "Update"
@@ -195,14 +196,16 @@ msgstr "Confirmez la suppression du paquet"
 msgid ""
 "This action will also remove the following package:\n"
 "%2"
-msgstr "Cette action supprimera également le paquet suivant :\n"
+msgstr ""
+"Cette action supprimera également le paquet suivant :\n"
 "%2"
 
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:223
 msgid ""
 "This action will also remove the following packages:\n"
 "%2"
-msgstr "Cette action supprimera également les paquets suivants :\n"
+msgstr ""
+"Cette action supprimera également les paquets suivants :\n"
 "%2"
 
 #: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:755
