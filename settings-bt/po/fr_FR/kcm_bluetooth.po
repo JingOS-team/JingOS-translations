@@ -1,0 +1,921 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright(C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-25 14:07+0800\n"
+"PO-Revision-Date: 2021-12-10 16:13+0100\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+
+#: src/applet/package/contents/ui/BluetoothApplet.qml:23 src/kcm/bluetooth.cpp:36
+#: src/kcm/package/contents/ui/Home.qml:89 src/kcm/package/contents/ui/Home.qml:123
+#, kde-format
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: src/applet/package/contents/ui/BluetoothApplet.qml:38
+#, kde-format
+msgid "Configure &Bluetooth..."
+msgstr "Configuration et Bluetooth"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:34
+#: src/kcm/package/contents/ui/BluetoothDetail.qml:153 src/kcm/package/contents/ui/Device.qml:68
+#, kde-format
+msgid "Disconnect"
+msgstr "Déconnecter"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:34 src/kcm/package/contents/ui/Device.qml:68
+#, kde-format
+msgid "Connect"
+msgstr "Connecter"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:66 src/kio/bluetooth/kiobluetooth.cpp:51
+#, kde-format
+msgid "Browse Files"
+msgstr "Parcourir les fichiers"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:78 src/kcm/package/contents/ui/Device.qml:132
+#: src/kio/bluetooth/kiobluetooth.cpp:45
+#, kde-format
+msgid "Send File"
+msgstr "Envoyer le fichier"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:143
+#, kde-format
+msgid "Copy"
+msgstr "Copier"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:202
+#, kde-format
+msgid "Yes"
+msgstr "Oui"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:204
+#, kde-format
+msgid "No"
+msgstr "Non"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:220
+#, kde-format
+msgid "Remote Name"
+msgstr "Nom distant"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:224
+#, kde-format
+msgid "Address"
+msgstr "Adresse"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:227 src/kcm/package/contents/ui/JScanner.qml:316
+#, kde-format
+msgid "Pair"
+msgstr "Couplé"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:230 src/kcm/package/contents/ui/Device.qml:120
+#, kde-format
+msgid "Trusted"
+msgstr "Confiance"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:233
+#, kde-format
+msgid "Adapter"
+msgstr "Adaptateur"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:242
+#, kde-format
+msgid "Disconnecting"
+msgstr "Déconnexion"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:242
+#, kde-format
+msgid "Connecting"
+msgstr "Connexion"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:251
+#, kde-format
+msgid "Audio device"
+msgstr "Périphérique audio"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:258
+#, kde-format
+msgid "Input device"
+msgstr "Périphérique d'entrée"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:265
+#, kde-format
+msgid "File transfer"
+msgstr "Transfert de fichiers"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:268
+#, kde-format
+msgid "Send file"
+msgstr "Envoyer le fichier"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:271
+#, kde-format
+msgid "Input"
+msgstr "Entrée"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:274
+#, kde-format
+msgid "Audio"
+msgstr "Audio"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:277
+#, kde-format
+msgid "Network"
+msgstr "Réseau"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:281
+#, kde-format
+msgid "Other device"
+msgstr "Autres appareils"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:288
+#, kde-format
+msgid "%1% Battery"
+msgstr "%1% Batterie"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:329
+#, kde-format
+msgctxt "Notification when the connection failed due to Failed:HostIsDown"
+msgid "The device is unreachable"
+msgstr "L'appareil n'est pas joignable"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:332
+#, kde-format
+msgctxt "Notification when the connection failed due to Failed"
+msgid "Connection to the device failed"
+msgstr "La connexion à l'appareil a échoué"
+
+#: src/applet/package/contents/ui/DeviceItem.qml:338
+#, kde-format
+msgctxt "Notification when the connection failed due to NotReady"
+msgid "The device is not ready"
+msgstr "L'appareil n'est pas prêt"
+
+#: src/applet/package/contents/ui/FullRepresentation.qml:23
+#, kde-format
+msgid "Add New Device"
+msgstr "Ajouter un nouvel appareil"
+
+#: src/applet/package/contents/ui/FullRepresentation.qml:35
+#: src/applet/package/contents/ui/Toolbar.qml:31
+#, kde-format
+msgid "Enable Bluetooth"
+msgstr "Activer le Bluetooth"
+
+#: src/applet/package/contents/ui/FullRepresentation.qml:74
+#, kde-format
+msgid "Connected devices"
+msgstr "Appareils connectés"
+
+#: src/applet/package/contents/ui/FullRepresentation.qml:74
+#, kde-format
+msgid "Available devices"
+msgstr "Appareils disponibles"
+
+#: src/applet/package/contents/ui/FullRepresentation.qml:98
+#, kde-format
+msgid "No Bluetooth Adapters Available"
+msgstr "Aucun adaptateur Bluetooth disponible"
+
+#: src/applet/package/contents/ui/FullRepresentation.qml:100
+#, kde-format
+msgid "Bluetooth is Disabled"
+msgstr "Le Bluetooth est désactivé"
+
+#: src/applet/package/contents/ui/FullRepresentation.qml:102
+#, kde-format
+msgid "No Devices Found"
+msgstr "Aucun appareil n'a été trouvé"
+
+#: src/applet/package/contents/ui/Toolbar.qml:49
+#, kde-format
+msgid "Add New Device..."
+msgstr "Ajouter un nouvel appareil..."
+
+#: src/applet/plugin/devicesproxymodel.cpp:37
+#, kde-format
+msgid "My devices"
+msgstr "Mes équipements"
+
+#: src/applet/plugin/devicesproxymodel.cpp:39
+#, kde-format
+msgid "Other devices"
+msgstr "Autres appareils"
+
+#: src/kcm/bluetooth.cpp:38
+#, kde-format
+msgid "Nicolas Fella"
+msgstr "Nicolas Fella"
+
+#: src/kcm/bluetooth.cpp:127
+#, kde-format
+msgctxt "DeviceName Network(Service)"
+msgid "%1 Network(%2)"
+msgstr "%1 Réseau (%2)"
+
+#: src/kcm/bluetooth.cpp:226 src/wizard/pages/success.cpp:40
+#, kde-format
+msgid "Setup Finished"
+msgstr "Configuration terminée"
+
+#: src/kcm/bluetooth.cpp:228 src/wizard/pages/success.cpp:42
+#, kde-format
+msgid "The device has been set up and can now be used."
+msgstr "L'appareil a été configuré et peut maintenant être utilisé."
+
+#: src/kcm/bluetooth.cpp:231 src/wizard/pages/success.cpp:44
+#, kde-format
+msgctxt "Placeholder is device name"
+msgid "The device '%1' has been set up and can now be used."
+msgstr "L'appareil '%1' a été configuré et peut maintenant être utilisé."
+
+#: src/kcm/package/contents/ui/BluetoothDetail.qml:89
+#, kde-format
+msgid "Name"
+msgstr "Nom"
+
+#: src/kcm/package/contents/ui/BluetoothDetail.qml:188
+#, kde-format
+msgid "Forget This Device"
+msgstr "Oublier cet appareil"
+
+#: src/kcm/package/contents/ui/BluetoothDetail.qml:231
+#, kde-format
+msgid "Rename"
+msgstr "Renommer"
+
+#: src/kcm/package/contents/ui/BluetoothDetail.qml:233 src/kcm/package/contents/ui/Home.qml:278
+#: src/kcm/package/contents/ui/JScanner.qml:315 src/sendfile/sendfilewizard.cpp:42
+#, kde-format
+msgid "Cancel"
+msgstr "Annuler"
+
+#: src/kcm/package/contents/ui/BluetoothDetail.qml:234 src/kcm/package/contents/ui/Home.qml:279
+#: src/kcm/package/contents/ui/JScanner.qml:333
+#, kde-format
+msgid "Ok"
+msgstr "Ok"
+
+#: src/kcm/package/contents/ui/Device.qml:100
+#, kde-format
+msgid "Type:"
+msgstr "Type:"
+
+#: src/kcm/package/contents/ui/Device.qml:105 src/kcm/package/contents/ui/General.qml:41
+#, kde-format
+msgid "Address:"
+msgstr "Adresse:"
+
+#: src/kcm/package/contents/ui/Device.qml:110
+#, kde-format
+msgid "Adapter:"
+msgstr "Adaptateur:"
+
+#: src/kcm/package/contents/ui/Device.qml:116 src/kcm/package/contents/ui/General.qml:35
+#, kde-format
+msgid "Name:"
+msgstr "Nom:"
+
+#: src/kcm/package/contents/ui/Device.qml:126
+#, kde-format
+msgid "Blocked"
+msgstr "Bloqué"
+
+#: src/kcm/package/contents/ui/Device.qml:139
+#, kde-format
+msgid "Setup NAP Network..."
+msgstr "Configuration du réseau NAP..."
+
+#: src/kcm/package/contents/ui/Device.qml:146
+#, kde-format
+msgid "Setup DUN Network..."
+msgstr "Configuration du réseau DUN..."
+
+#: src/kcm/package/contents/ui/Device.qml:156
+#, kde-format
+msgctxt "This device is a Phone"
+msgid "Phone"
+msgstr "Téléphone"
+
+#: src/kcm/package/contents/ui/Device.qml:158
+#, kde-format
+msgctxt "This device is a Modem"
+msgid "Modem"
+msgstr "Modem"
+
+#: src/kcm/package/contents/ui/Device.qml:160
+#, kde-format
+msgctxt "This device is a Computer"
+msgid "Computer"
+msgstr "Ordinateur"
+
+#: src/kcm/package/contents/ui/Device.qml:162
+#, kde-format
+msgctxt "This device is of type Network"
+msgid "Network"
+msgstr "Réseau"
+
+#: src/kcm/package/contents/ui/Device.qml:164
+#, kde-format
+msgctxt "This device is a Headset"
+msgid "Headset"
+msgstr "Casque"
+
+#: src/kcm/package/contents/ui/Device.qml:166
+#, kde-format
+msgctxt "This device is a Headphones"
+msgid "Headphones"
+msgstr "Écouteurs"
+
+#: src/kcm/package/contents/ui/Device.qml:168
+#, kde-format
+msgctxt "This device is an Audio device"
+msgid "Audio"
+msgstr "Audio"
+
+#: src/kcm/package/contents/ui/Device.qml:170
+#, kde-format
+msgctxt "This device is a Keyboard"
+msgid "Keyboard"
+msgstr "Clavier"
+
+#: src/kcm/package/contents/ui/Device.qml:172
+#, kde-format
+msgctxt "This device is a Mouse"
+msgid "Mouse"
+msgstr "Souris"
+
+#: src/kcm/package/contents/ui/Device.qml:174
+#, kde-format
+msgctxt "This device is a Joypad"
+msgid "Joypad"
+msgstr "Manette"
+
+#: src/kcm/package/contents/ui/Device.qml:176
+#, kde-format
+msgctxt "This device is a Graphics Tablet(input device)"
+msgid "Tablet"
+msgstr "Tablette"
+
+#: src/kcm/package/contents/ui/Device.qml:178
+#, kde-format
+msgctxt "This device is a Peripheral device"
+msgid "Peripheral"
+msgstr "Périphérique"
+
+#: src/kcm/package/contents/ui/Device.qml:180
+#, kde-format
+msgctxt "This device is a Camera"
+msgid "Camera"
+msgstr "Camera"
+
+#: src/kcm/package/contents/ui/Device.qml:182
+#, kde-format
+msgctxt "This device is a Printer"
+msgid "Printer"
+msgstr "Imprimante"
+
+#: src/kcm/package/contents/ui/Device.qml:184
+#, kde-format
+msgctxt "This device is an Imaging device(printer, scanner, camera, display, ...)"
+msgid "Imaging"
+msgstr "Imagerie"
+
+#: src/kcm/package/contents/ui/Device.qml:186
+#, kde-format
+msgctxt "This device is a Wearable"
+msgid "Wearable"
+msgstr "Montre connectée "
+
+#: src/kcm/package/contents/ui/Device.qml:188
+#, kde-format
+msgctxt "This device is a Toy"
+msgid "Toy"
+msgstr "Jouet"
+
+#: src/kcm/package/contents/ui/Device.qml:190
+#, kde-format
+msgctxt "This device is a Health device"
+msgid "Health"
+msgstr "Cardiogramme "
+
+#: src/kcm/package/contents/ui/Device.qml:192
+#, kde-format
+msgctxt "Type of device: could not be determined"
+msgid "Unknown"
+msgstr "Inconnu"
+
+#: src/kcm/package/contents/ui/General.qml:18
+#, kde-format
+msgid "Settings"
+msgstr "Réglages"
+
+#: src/kcm/package/contents/ui/General.qml:27
+#, kde-format
+msgid "Device:"
+msgstr "Appareil:"
+
+#: src/kcm/package/contents/ui/General.qml:45
+#, kde-format
+msgid "Enabled:"
+msgstr "Actif:"
+
+#: src/kcm/package/contents/ui/General.qml:51
+#, kde-format
+msgid "Visible:"
+msgstr "Visible:"
+
+#: src/kcm/package/contents/ui/General.qml:65
+#, kde-format
+msgid "When receiving files:"
+msgstr "Lors de la réception de fichiers :"
+
+#: src/kcm/package/contents/ui/General.qml:67
+#, kde-format
+msgid "Ask for confirmation"
+msgstr "Demander une confirmation"
+
+#: src/kcm/package/contents/ui/General.qml:76
+#, kde-format
+msgid "Accept for trusted devices"
+msgstr "Accepter les dispositifs de confiance"
+
+#: src/kcm/package/contents/ui/General.qml:86
+#, kde-format
+msgid "Always accept"
+msgstr "Toujours accepter"
+
+#: src/kcm/package/contents/ui/General.qml:96
+#, kde-format
+msgid "Save files in:"
+msgstr "Sauvegarder les fichiers dans :"
+
+#: src/kcm/package/contents/ui/General.qml:120 src/kcm/package/contents/ui/General.qml:131
+#, kde-format
+msgid "Select folder"
+msgstr "Sélectionner le dossier"
+
+#: src/kcm/package/contents/ui/Home.qml:275
+#, kde-format
+msgid "Device Name"
+msgstr "Nom de l'appareil"
+
+#: src/kcm/package/contents/ui/JScanner.qml:78
+#, kde-format
+msgid ""
+"\"%1\" would like to pair with your pad,Confirm that this code is shown on\"%1\".Do not enter this "
+"code on any accessory."
+msgstr ""
+"\"%1\" souhaite s'associer à votre appareil, confirmez que ce code est affiché sur \"%1\". Ne "
+"saisissez pas ce code sur un accessoire."
+
+#: src/kcm/package/contents/ui/JScanner.qml:93
+#, kde-format
+msgid "Make sure\"%1\" is turned on,in range,and is ready to pair."
+msgstr "Assurez-vous que \"%1\" est allumé, avec vous, et prêt à être appairé."
+
+msgid "Pairing took too long.Make sure\"%1\" is turned on,in range,and is ready to pair."
+msgstr ""
+"Le jumelage a pris trop de temps. Assurez-vous que \"%1\" est allumé, dans la gamme, et est prêt à "
+"être jumelé."
+
+#: src/kcm/package/contents/ui/JScanner.qml:238
+#, kde-format
+msgid "On connection"
+msgstr "Lors de la connexion"
+
+#: src/kcm/package/contents/ui/JScanner.qml:238
+#, kde-format
+msgid "Connected"
+msgstr "Connecté"
+
+#: src/kcm/package/contents/ui/JScanner.qml:238
+#, kde-format
+msgid "Not connected"
+msgstr "Non connecté"
+
+#: src/kcm/package/contents/ui/JScanner.qml:313
+#, kde-format
+msgid "Bluetooth Pairing Request"
+msgstr "Demande d'appairage Bluetooth"
+
+#: src/kcm/package/contents/ui/JScanner.qml:331
+#, kde-format
+msgid "Pairing Unsuccessful"
+msgstr "Appariement infructueux"
+
+#: src/kded/bluedevildaemon.cpp:68 src/kded/bluedevildaemon.cpp:70
+#, kde-format
+msgid "Bluetooth Daemon"
+msgstr "Bluetooth Daemon"
+
+#: src/kded/bluedevildaemon.cpp:72 src/sendfile/main.cpp:28 src/wizard/main.cpp:29
+#, fuzzy, kde-format
+msgid "(c) 2010, UFO Coders"
+msgstr "(c) 2010，UFO 編碼器"
+
+#: src/kded/bluedevildaemon.cpp:75 src/sendfile/main.cpp:31 src/wizard/main.cpp:32
+#, kde-format
+msgid "Maintainer"
+msgstr "維護者"
+
+#: src/kded/bluedevildaemon.cpp:80 src/kded/bluedevildaemon.cpp:85 src/sendfile/main.cpp:36
+#: src/wizard/main.cpp:37
+#, fuzzy, kde-format
+msgid "Previous Maintainer"
+msgstr "前任維護者"
+
+#: src/kded/helpers/requestauthorization.cpp:29
+#, kde-format
+msgctxt ""
+"Show a notification asking to authorize or deny access to this computer from Bluetooth.The %1 is "
+"the name of the bluetooth device"
+msgid "%1 is requesting access to this computer"
+msgstr "%1 demande l'accès à cet appareil"
+
+#: src/kded/helpers/requestauthorization.cpp:33
+#, kde-format
+msgctxt "Button to trust a bluetooth remote device and authorize it to connect"
+msgid "Trust and Authorize"
+msgstr "Faire confiance et autoriser"
+
+#: src/kded/helpers/requestauthorization.cpp:34
+#, kde-format
+msgctxt "Button to authorize a bluetooth remote device to connect"
+msgid "Authorize Only"
+msgstr "Autoriser uniquement"
+
+#: src/kded/helpers/requestauthorization.cpp:35
+#, kde-format
+msgctxt "Deny access to a remote bluetooth device"
+msgid "Deny"
+msgstr "Refuser"
+
+#: src/kded/helpers/requestconfirmation.cpp:29
+#, kde-format
+msgctxt ""
+"The text is shown in a notification to know if the PIN is correct,%1 is the remote bluetooth "
+"device and %2 is the pin"
+msgid "%1 is asking if the PIN is correct: %2"
+msgstr "%1 demande si le code PIN est correct : %2"
+
+#: src/kded/helpers/requestconfirmation.cpp:34
+#, kde-format
+msgctxt "Notification button to know if the pin is correct or not"
+msgid "PIN is correct"
+msgstr "Le code PIN est correct"
+
+#: src/kded/helpers/requestconfirmation.cpp:35
+#, kde-format
+msgctxt "Notification button to say that the PIN is wrong"
+msgid "PIN is incorrect"
+msgstr "Le code PIN est incorrect"
+
+#: src/kded/helpers/requestpin.cpp:36
+#, kde-format
+msgctxt ""
+"Shown in a notification to announce that a PIN is needed to accomplish a pair action,%1 is the "
+"name of the bluetooth device"
+msgid "PIN needed to pair with %1"
+msgstr "PIN nécessaire pour l'appairage avec %1"
+
+#: src/kded/helpers/requestpin.cpp:40
+#, kde-format
+msgctxt "Notification button which once clicked, a dialog to introduce the PIN will be shown"
+msgid "Introduce PIN"
+msgstr "Introduire le PIN"
+
+#: src/kded/helpers/requestpin.cpp:63
+#, kde-format
+msgctxt "Shown in the caption of a dialog where the user introduce the PIN"
+msgid "Introduce PIN"
+msgstr "Introduire le PIN"
+
+#: src/kded/helpers/requestpin.cpp:70
+#, kde-format
+msgctxt ""
+"Shown in a dialog which asks to introduce a PIN that will be used to pair a Bluetooth device,%1 is "
+"the name of the Bluetooth device"
+msgid "In order to pair this computer with %1, you have to enter a PIN. Please do it below."
+msgstr "Afin d'appairer cet appareil avec %1, vous devez entrer un code PIN."
+
+#: src/kded/receivefilejob.cpp:130
+#, kde-format
+msgctxt ""
+"Show a notification asking to authorize or deny an incoming file transfer to this computer from a "
+"Bluetooth device."
+msgid "%1 is sending you the file %2"
+msgstr "%1 vous envoie le fichier %2"
+
+#: src/kded/receivefilejob.cpp:135
+#, kde-format
+msgctxt ""
+"Button to accept the incoming file transfer and download it in the default download directory"
+msgid "Accept"
+msgstr "Accepter"
+
+#: src/kded/receivefilejob.cpp:136
+#, kde-format
+msgctxt "Deny the incoming file transfer"
+msgid "Cancel"
+msgstr "Annuler"
+
+#: src/kded/receivefilejob.cpp:162
+#, kde-format
+msgid "Receiving file over Bluetooth"
+msgstr "Réception d'un fichier par Bluetooth"
+
+#: src/kded/receivefilejob.cpp:163 src/sendfile/sendfilesjob.cpp:70 src/sendfile/sendfilesjob.cpp:86
+#, kde-format
+msgctxt "File transfer origin"
+msgid "From"
+msgstr "De"
+
+#: src/kded/receivefilejob.cpp:164 src/sendfile/sendfilesjob.cpp:71 src/sendfile/sendfilesjob.cpp:87
+#, kde-format
+msgctxt "File transfer destination"
+msgid "To"
+msgstr "Pour"
+
+#: src/kded/receivefilejob.cpp:189
+#, kde-format
+msgid "Saving file failed"
+msgstr "L'enregistrement du fichier a échoué"
+
+#: src/kded/receivefilejob.cpp:224 src/kio/obexftp/transferfilejob.cpp:50
+#: src/sendfile/sendfilesjob.cpp:157
+#, kde-format
+msgid "Bluetooth transfer failed"
+msgstr "Échec du transfert Bluetooth"
+
+#: src/kio/bluetooth/kiobluetooth.cpp:65 src/kio/bluetooth/kiobluetooth.cpp:195
+#, kde-format
+msgid "No Bluetooth adapters have been found."
+msgstr "Aucun adaptateur Bluetooth n'a été trouvé."
+
+#: src/kio/bluetooth/kiobluetooth.cpp:85
+#, kde-format
+msgid "Retrieving services..."
+msgstr "Récupération des services..."
+
+#: src/kio/bluetooth/kiobluetooth.cpp:92
+#, kde-format
+msgid "This address is unavailable."
+msgstr "Cette adresse n'est pas disponible."
+
+#: src/kio/bluetooth/kiobluetooth.cpp:141
+#, kde-format
+msgid "Received Files"
+msgstr "Fichiers reçus"
+
+#: src/kio/bluetooth/kiobluetooth.cpp:161
+#, kde-format
+msgid "Scanning for new devices..."
+msgstr "Recherche de nouveaux appareils..."
+
+#: src/kio/obexftp/kioobexftp.cpp:88
+#, kde-format
+msgid "Obexd service is not running."
+msgstr "Le service Obexd ne fonctionne pas."
+
+#: src/kio/obexftp/kioobexftp.cpp:134
+#, kde-format
+msgid "Retrieving information from remote device..."
+msgstr "Récupération d'informations à partir d'un appareil distant..."
+
+#: src/kio/obexftp/kioobexftp.cpp:217
+#, kde-format
+msgid "Connecting to the device"
+msgstr "Connexion à l'appareil"
+
+#: src/kio/obexftp/kioobexftp.cpp:520
+#, kde-format
+msgid "Phone memory"
+msgstr "Mémoire du téléphone"
+
+#: src/kio/obexftp/kioobexftp.cpp:523
+#, kde-format
+msgid "External memory"
+msgstr "Mémoire externe"
+
+#: src/sendfile/discoverwidget.cpp:135 src/wizard/pages/discover.cpp:267
+#, kde-format
+msgid "Bluetooth is disabled."
+msgstr "Le Bluetooth est désactivé."
+
+#: src/sendfile/discoverwidget.cpp:136 src/wizard/pages/discover.cpp:268
+#, kde-format
+msgctxt "Action to enable Bluetooth adapter"
+msgid "Enable"
+msgstr "Activer"
+
+#: src/sendfile/discoverwidget.cpp:138
+#, kde-format
+msgid "Your Bluetooth adapter is powered off."
+msgstr "Votre adaptateur Bluetooth est hors tension."
+
+#: src/sendfile/discoverwidget.cpp:139
+#, kde-format
+msgctxt "Action to turn on Bluetooth adapter"
+msgid "Turn On"
+msgstr "Allumer"
+
+#: src/sendfile/main.cpp:24 src/sendfile/main.cpp:26
+#, kde-format
+msgid "Bluetooth Send File Wizard"
+msgstr "Assistant d'envoi de fichiers Bluetooth"
+
+#: src/sendfile/main.cpp:48
+#, kde-format
+msgid "Specify receiving device by MAC address."
+msgstr "Spécifier le dispositif de réception par l'adresse MAC."
+
+#: src/sendfile/main.cpp:52
+#, kde-format
+msgid "Specify receiving device by UBI path."
+msgstr "Spécifier le dispositif de réception par le chemin UBI."
+
+#: src/sendfile/main.cpp:56
+#, kde-format
+msgid "Files to be sent."
+msgstr "Fichiers à envoyer."
+
+#: src/sendfile/pages/connectingpage.cpp:32 src/wizard/pages/connect.cpp:40
+#, kde-format
+msgctxt "Connecting to a Bluetooth device"
+msgid "Connecting to %1..."
+msgstr "Connexion à %1..."
+
+#: src/sendfile/pages/failpage.cpp:43
+#, kde-format
+msgctxt "This string is shown when the wizard fail"
+msgid "The connection to the device has failed"
+msgstr "La connexion à l'appareil a échoué"
+
+#: src/sendfile/pages/failpage.cpp:45
+#, kde-format
+msgid "The connection to %1 has failed"
+msgstr "La connexion à %1 a échoué"
+
+#: src/sendfile/pages/selectdeviceandfilespage.cpp:53
+#, kde-format
+msgid "Open file..."
+msgstr "Ouvrir le fichier..."
+
+#: src/sendfile/pages/selectdeviceandfilespage.cpp:58
+#, kde-format
+msgid "Select one or more files:"
+msgstr "Sélectionnez un ou plusieurs fichiers :"
+
+#: src/sendfile/pages/selectdeviceandfilespage.cpp:65
+#, kde-format
+msgid "Selected files: <b>%1</b>"
+msgstr "Fichiers sélectionnés : <b>%1</b>"
+
+#: src/sendfile/pages/selectfilespage.cpp:46
+#, kde-format
+msgctxt "Send files to a Bluetooth device"
+msgid "Send to %1"
+msgstr "Envoi à %1"
+
+#: src/sendfile/sendfilesjob.cpp:69 src/sendfile/sendfilesjob.cpp:85
+#, kde-format
+msgid "Sending file over Bluetooth"
+msgstr "Envoi d'un fichier par Bluetooth"
+
+#: src/sendfile/sendfilewizard.cpp:41
+#, kde-format
+msgid "Send Files"
+msgstr "Envoyer des fichiers"
+
+#: src/wizard/bluewizard.cpp:57
+#, kde-format
+msgctxt "Action to go to the next page on the wizard"
+msgid "Next"
+msgstr "Suivant"
+
+#: src/wizard/bluewizard.cpp:58
+#, kde-format
+msgctxt "Action to finish the wizard"
+msgid "Finish"
+msgstr "Terminer"
+
+#: src/wizard/main.cpp:25 src/wizard/main.cpp:27
+#, kde-format
+msgid "Bluetooth Device Wizard"
+msgstr "Assistant de périphérique Bluetooth"
+
+#: src/wizard/pages/discover.cpp:104
+#, kde-format
+msgid "Select a device"
+msgstr "Sélectionner un appareil"
+
+#: src/wizard/pages/discover.cpp:260
+#, kde-format
+msgctxt "Action to fix a problem"
+msgid "Fix it"
+msgstr "Corriger."
+
+#: src/wizard/pages/discover.cpp:270
+#, kde-format
+msgid "Your Bluetooth adapter is not pairable."
+msgstr "Votre adaptateur Bluetooth n'est pas compatible."
+
+#: src/wizard/pages/discover.cpp:271
+#, kde-format
+msgctxt "Action to make Bluetooth adapter pairable"
+msgid "Make Pairable"
+msgstr "Rendre l'appairage possible"
+
+#: src/wizard/pages/fail.cpp:37
+#, kde-format
+msgctxt "Button offered when the wizard fail. This button will restart the wizard"
+msgid "Restart the wizard"
+msgstr "Redémarrer l'assistant"
+
+#: src/wizard/pages/fail.cpp:41
+#, kde-format
+msgctxt "Button that closes the wizard"
+msgid "Close"
+msgstr "Fermer"
+
+#: src/wizard/pages/fail.cpp:53
+#, kde-format
+msgctxt "This string is shown when the wizard fail"
+msgid "The setup of the device has failed"
+msgstr "L'installation de l'appareil a échoué"
+
+#: src/wizard/pages/fail.cpp:55
+#, kde-format
+msgid "The setup of %1 has failed"
+msgstr "L'installation de %1 a échoué"
+
+#: src/wizard/pages/pairing.cpp:60
+#, kde-format
+msgid "Connecting to %1..."
+msgstr "Connexion à %1..."
+
+#: src/wizard/pages/pairing.cpp:91
+#, kde-format
+msgid "Please introduce the PIN in your keyboard when it appears and press Enter"
+msgstr ""
+"Veuillez introduire le code PIN sur votre clavier lorsqu'il apparaît et appuyez sur la touche "
+"Enter."
+
+#: src/wizard/pages/pairing.cpp:93
+#, kde-format
+msgid "Please introduce the PIN in your device when it appears"
+msgstr "Veuillez introduire le code PIN dans votre appareil lorsqu'il apparaît."
+
+#: src/wizard/pages/pairing.cpp:111
+#, kde-format
+msgid "Matches"
+msgstr "Correspondances"
+
+#: src/wizard/pages/pairing.cpp:115
+#, kde-format
+msgid "Does not match"
+msgstr "Ne correspond pas"
+
+#: src/wizard/pages/pairing.cpp:130
+#, kde-format
+msgid "Please, confirm that the PIN displayed on %1 matches the wizard one."
+msgstr "Veuillez confirmer que le code PIN affiché sur %1 correspond à celui de l'assistant."
+
+msgid "Other devices will see this name when you use Bluetooth,WLAN Direct,Personal hotspot and USB."
+msgstr ""
+"D'autres appareils verront ce nom lorsque vous utilisez Bluetooth, WLAN Direct, Personal Hotspot "
+"et USB."
+
+msgid "On"
+msgstr "Allumer"
+
+msgid "Off"
+msgstr "Eteindre"
+
+msgid "Connecting Unsuccessful"
+msgstr "Connexion non réussie"
+
+msgid "Forget Device"
+msgstr "Oublier l'appareil"
+
+msgid "Are you sure you want to Forget this Device?"
+msgstr "Êtes-vous sûr de vouloir oublier cette appareil ?"
+
+msgid "Forget"
+msgstr "Oublier"
+
+msgid "\"%2\" would like to pair with your iPad. Enter the code \"%1\" on \"%2\""
+msgstr "\"%2\" souhaite être appairé avec votre appareil. Entrez le code \"%1\" sur \"%2\"."

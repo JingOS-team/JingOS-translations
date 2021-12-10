@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright(C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-19 16:59+0800\n"
+"PO-Revision-Date: 2021-12-10 19:15+0100\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+
+#: %E8%8B%B1%E6%96%87
+msgid "英文"
+msgstr "繁體中文"
+
+#: source
+msgid "target"
+msgstr ""
+
+msgid "Applying this setting will restart your PAD"
+msgstr "L'application de ce paramètre redémarre votre appareil"
+
+msgid "Restart"
+msgstr "Redémarrer"
+
+#: Fonts:
+msgid "Fonts"
+msgstr "Polices"
+
+msgid "Operation prompt content copy Secondary style preview"
+msgstr "Copie du contenu de la demande d'opération. Aperçu du style secondaire"
+
+msgid "Font Size"
+msgstr "Taille de la police"
+
+msgid "Brightness"
+msgstr "Luminosité"
+
+msgid "Preview"
+msgstr "Aperçu"
+
+msgid "Icons"
+msgstr "Icônes"
+
+msgid "List"
+msgstr "Liste"
+
+msgid "Extra Small"
+msgstr "Très petit"
+
+msgid "Small"
+msgstr "Petit"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Large"
+msgstr "Large"
+
+msgid "Extra Large"
+msgstr "Extra Large"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Display & Brightness"
+msgstr "Affichage & Luminosité"
+
+msgid "Sleep"
+msgstr "Veille"
+
+msgid "Applications scale"
+msgstr "Échelle d'application"
+
+msgid "Font"
+msgstr "Police"
+
+msgid "Apply"
+msgstr "Appliquer"
+
+msgid "Set"
+msgstr "Définir"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+#: Set+scale+
+msgid "Set scale "
+msgstr "Définir l'échelle "
+
+#: Attention,+the+running+apps+will+be+closed+to+fit+new+configuration.
+msgid "Attention, the running apps will be closed to fit new configuration."
+msgstr "Attention, les applications en cours seront fermées pour s'adapter à la nouvelle configuration."
+
+#: 2+Minutes
+msgid "2 Minutes"
+msgstr "2 Minutes"
+
+#: 5+Minutes
+msgid "5 Minutes"
+msgstr "5 Minutes"
+
+#: 10+Minutes
+msgid "10 Minutes"
+msgstr "10 Minutes"
+
+#: 15+Minutes
+msgid "15 Minutes"
+msgstr "15 Minutes"
+
+#: Never
+msgid "Never"
+msgstr "Jamais"

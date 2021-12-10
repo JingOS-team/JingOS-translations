@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright(C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-19 16:59+0800\n"
+"PO-Revision-Date: 2021-12-10 19:19+0100\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+
+#: %E8%8B%B1%E6%96%87
+msgid "英文"
+msgstr "法語"
+
+#: source
+msgid "target"
+msgstr ""
+
+msgid "Preferred language order"
+msgstr "Langue préférée"
+
+msgid "The language at the top of the list will be used by default. If an app doesn't support your default language, the next language in the list will be used instead."
+msgstr "La langue située en haut de la liste sera utilisée par défaut. Si une application ne prend pas en charge votre langue par défaut, la langue suivante dans la liste sera utilisée à la place."
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "Default"
+msgstr "Par défaut"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Restart"
+msgstr "Redémarrer"
+
+msgid "Applying this setting will restart your PAD"
+msgstr "L'application de ce paramètre redémarre votre appareil"
