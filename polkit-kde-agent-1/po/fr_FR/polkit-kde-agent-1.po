@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-28 15:12+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: authdialog.qml:59
+#, kde-format
+msgid "Certification required"
+msgstr "Certification requise"
+
+#: authdialog.qml:234
+#, kde-format
+msgid "Cancel"
+msgstr "Annuler"
+
+#: authdialog.qml:291
+#, kde-format
+msgid "Certify"
+msgstr "Certifier"
+
+#: authdialog.qml:300 authdialog.qml:327
+#, kde-format
+msgid "In the validation"
+msgstr "Dans la validation"
+
+#: main.cpp:64
+#, kde-format
+msgid "PolicyKit1 KDE Agent"
+msgstr "Agent PolicyKit1 KDE"
+
+#: main.cpp:66
+#, kde-format
+msgid "(c) 2009 Red Hat, Inc."
+msgstr "(c) 2009 Red Hat, Inc."
+
+#: main.cpp:67
+#, kde-format
+msgid "Lukáš Tinkl"
+msgstr "Lukáš Tinkl"
+
+#: main.cpp:67
+#, kde-format
+msgid "Maintainer"
+msgstr "Mainteneur"
+
+#: main.cpp:68
+#, kde-format
+msgid "Jaroslav Reznik"
+msgstr "Jaroslav Reznik"
+
+#: main.cpp:68
+#, kde-format
+msgid "Former maintainer"
+msgstr "Ancien mainteneur"
+
+#: policykitlistener.cpp:117
+#, kde-format
+msgid "Another client is already authenticating, please try again later."
+msgstr "Un autre client est déjà en train de s'authentifier, merci d'essayer plus tard."
+
+#: policykitlistener.cpp:178
+#, kde-format
+msgid "Password input error, please try again"
+msgstr "Erreur de saisie de mot de passe, veuillez réessayer"
+
